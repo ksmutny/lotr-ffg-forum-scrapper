@@ -10,6 +10,9 @@ export const fetchData = (url: string): Promise<Response> => {
 export const fetchHtml = (url: string): Promise<string> =>
     fetchData(url).then(response => response.text())
 
+export const mkDirIfNotExists = (dirName: string) => {
+    try { fs.mkdirSync(dirName) } catch {}
+}
 
 export const writeToFile = (fileName: string) =>
     (content: string | Buffer) =>

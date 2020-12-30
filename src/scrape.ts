@@ -1,37 +1,51 @@
-import { fetchHtml, writeToFile } from './io'
+import { fetchHtml, mkDirIfNotExists, writeToFile } from './io'
 
 
-try { fs.mkdirSync('html') } catch {}
+const outputDir = 'html'
+mkDirIfNotExists(outputDir)
 
-crawl('https://community.fantasyflightgames.com/forum/249-rules-questions-answers')
+scrapeThreads('https://community.fantasyflightgames.com/forum/178-the-lord-of-the-rings-the-card-game')
 
-export function crawl(url: string): Promise<void> {
-    return fetchHtml(url).then(
-        async html => {
-            for (const postUrl of parsePostUrls(html))
-                await downloadPost(postUrl)
 
-            const nextPage = html.match(nextPageLinkRexex)
-            if (nextPage !== null) crawl(nextPage[1])
-        }
-    )
+function scrapeThreads(forumUrl: string) {
+    const nextPageLinkRegex = new RegExp(`<a href='(${forumUrl}/page/\\d+/)'.*?>Next</a>`)
+
+    crawl(forumUrl, nextPageLinkRegex, async html => {
+        for (const threadUrl of parseThreadUrls(html))
+            await scrapeThread(threadUrl)
+    })
 }
 
-const nextPageLinkRexex = new RegExp('<a href=\'(https://community\\.fantasyflightgames\\.com/forum/249-rules-questions-answers/page/\\d+/)\'.*?>Next</a>')
 
+const postUrlLinkRegex = new RegExp('\'(https://community\\.fantasyflightgames\\.com/topic/[^/]+/)\'', 'g')
 
-export function parsePostUrls(html: string): string[] {
+export function parseThreadUrls(html: string): string[] {
     return [...html.matchAll(postUrlLinkRegex)].map(match => match[1])
 }
 
-const postUrlPattern = '\'(https://community\\.fantasyflightgames\\.com/topic/[^/]+/)\''
-const postUrlLinkRegex = new RegExp(postUrlPattern, 'g')
 
+async function scrapeThread(threadUrl: string) {
+    const urlRegex = new RegExp('topic/([^/]+)/(page/(\\d+)/#comments)?')
+    const nextPageLinkRegex = new RegExp(`<a href='(${threadUrl}page/\\d+/#comments)'.*?>Next</a>`)
 
-export async function downloadPost(postUrl: string) {
-    await fetchHtml(postUrl).then(html => {
-        const [, topic] = topicRegex.exec(postUrl)
-        writeToFile(`html/${topic}.html`)(html)
+    crawl(threadUrl, nextPageLinkRegex, async (html, url) => {
+        const [, topic, , page] = urlRegex.exec(url)
+        writeToFile(`html/${topic}${page ? '#' + page : ''}.html`)(html)
     })
 }
-const topicRegex = new RegExp('topic/([^/]+)/')
+
+
+function crawl(url: string, nextPageLinkRegex: RegExp, process: (html: string, url: string) => Promise<void>) {
+    async function crawlNext(url: string): Promise<void> {
+        await fetchHtml(url).then(
+            async html => {
+                await process(html, url)
+
+                const nextPage = html.match(nextPageLinkRegex)
+                if (nextPage !== null && url !== nextPage[1]) crawlNext(nextPage[1])
+            }
+        )
+    }
+
+    crawlNext(url)
+}
