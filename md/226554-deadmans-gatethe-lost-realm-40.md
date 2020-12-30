@@ -1,0 +1,36 @@
+# [Deadman&#039;s Gate(The Lost Realm #40)](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/)
+
+## 1 [987654321 on August 3, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2340588)
+
+Lets say it's active and I have Legolas with two Blades of Gondolin. I kill that enemy and activate all its responses. Do I have to discard 3 or 4 cards?
+
+## 2 [GrandSpleen on August 3, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2340674)
+
+You activated 3 Responses (Legolas + 2 Blades) so you discard 3 cards.  Why would it be 4?
+
+## 3 [cmabr002 on August 3, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2340739)
+
+Perhaps he meant would you discard 2 or 3 cards.
+
+ 
+
+As in, you trigger Legolas to place 2 progress (discard 1 card), then you trigger one Blade of Gondolin to place 1 progress (discard 1 card), then you trigger your last Blade of Gondolin to place 1 progress then, either the location immediately leaves play and there is no Forced effect to trigger (so you don't discard 1 card), or you do discard one card as soon as you attempt to perform its action/response.
+
+## 4 [987654321 on August 3, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2341127)
+
+*stampes his head against the wall*cambr002 is right.
+
+## 5 [cmabr002 on August 3, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2341217)
+
+Given that you intended to mean 2 or 3 cards, I think it is quite ambiguous.  It really depends on when "triggering" happens.  I would guess that triggering the response happens as soon as you elect to perform it.  If this is true, then I think the location is still in play before the progress is placed meaning its Forced effect will trigger, causing you to have to discard a total of 3 cards.
+
+ 
+
+I could see this being ruled the other way if it is clarified that "After you trigger" means "After you resolve the effect".  Personally, I think triggering happens as soon as you elect to perform the response, but I just checked the Core Set rules and it's not definitive.
+
+Edited August 3, 2016 by cmabr002
+
+## 6 [GrandSpleen on August 4, 2016](https://community.fantasyflightgames.com/topic/226554-deadmans-gatethe-lost-realm-40/?do=findComment&comment=2341719)
+
+Agreed with cmabr002, if they intended for you to discard after the effect was resolved, they could have written "after you resolve..."  Instead, they wrote "after you activate," which to me says "before you resolve."  So discard 3 cards.
+

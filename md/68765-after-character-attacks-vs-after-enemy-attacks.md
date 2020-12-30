@@ -1,0 +1,42 @@
+# [After character attacks vs. After enemy attacks](https://community.fantasyflightgames.com/topic/68765-after-character-attacks-vs-after-enemy-attacks/)
+
+## 1 [richsabre on August 8, 2012](https://community.fantasyflightgames.com/topic/68765-after-character-attacks-vs-after-enemy-attacks/?do=findComment&comment=670370)
+
+i bring this up as i think there is an inconsistency in the rules, either that or i have got one of these wrong…
+
+ok so i asked about dwarrowdef axe for eg. about whether you deal damage after exhuasting or after attack resolution, and booored claimed that it happened at 'response speed' as soon as the character attacks (which i take to mean 'exhuasts to attack)
+
+ 
+
+but then looking at the FAQ clarification i see that when an ENEMY attacks, which is basically the same ruling just for an enemy, then here it happens after step 4
+
+ive been trying to clear this one up for a while now, anyone want to finish it for me?
+
+thanks
+
+rich
+
+## 2 [starhawk77 on August 8, 2012](https://community.fantasyflightgames.com/topic/68765-after-character-attacks-vs-after-enemy-attacks/?do=findComment&comment=670380)
+
+"After enemy attacks" effects definitely take place following step 4 of enemy attack resolution. Responses like O Elbereth! Gilthonial! that trigger after an enemy attack may also be played after step 4 (though forced effects will take precedence). 
+
+It stands to reason that "after character attacks" effects would work in a similar manner (i.e., they take place after completing every step in a character's attack, including calculating/assigning damage). I would also draw a comparison between cards like Elladan and Trollshaw Scout; the Scout's effect kicks in after he attacks, while Elladan's response may be triggered after he is declared as an attacker. It seems clear that there is some timing difference between the two effects, otherwise they would have similar wording (I know, I say this in spite of Legolas/Brand and other effects that have identical functions despite different wording). The specific examples of cards that trigger when they are declared as attackers suggest that "after ___ attacks"  effects do NOT trigger when those characters are declared; otherwise, why not just write "after ___ is declared as an attacker?"
+
+Together, the rules regarding enemy attacks and the existing distinctions in player card terminology indicate that "after character attacks" effects DON'T trigger when those characters are declared and LIKELY take place after completing each step of the attack. booored might have received an official response that says otherwise, but I'm not aware of anything like that at this moment.  
+
+In short, I'd argue that "after character attacks" effects necessarily take place after completing each step in the character's attack, and not a moment earlier. 
+
+## 3 [Angus Lee on August 8, 2012](https://community.fantasyflightgames.com/topic/68765-after-character-attacks-vs-after-enemy-attacks/?do=findComment&comment=670381)
+
+In the FAQ, in the Errata section, Dol Guldur Beastmaster says that "When … attacks" effect resolve in step 1; while in the Frequently Asked Question section:
+Q: When do “after this enemy attacks” Forced effects like those on Chieftan Ufthak (CORE 90) and Wargs (CORE 85) resolve?
+A: These effects resolve immediately after step 4 of enemy attack resolution.
+
+So I think "When character attacks" and "After character attacks" effects should have the same timing as above.  Since Dwarrowdelf Axe has a "After attached character attacks" effect, I would say that it applies after step 3 instead of step 1.
+
+## 4 [richsabre on August 8, 2012](https://community.fantasyflightgames.com/topic/68765-after-character-attacks-vs-after-enemy-attacks/?do=findComment&comment=670398)
+
+thank you both- that ruling makes the most sense
+
+rich
+

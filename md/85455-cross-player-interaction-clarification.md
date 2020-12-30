@@ -1,0 +1,32 @@
+# [Cross Player Interaction Clarification](https://community.fantasyflightgames.com/topic/85455-cross-player-interaction-clarification/)
+
+## 1 [Cmaxster on June 23, 2013](https://community.fantasyflightgames.com/topic/85455-cross-player-interaction-clarification/?do=findComment&comment=805763)
+
+ 
+
+So, I'm surprised this isn't explicitly covered in the Rulebook or the FAQ, but I'm quite confused about how cross player interaction works.
+
+For an example:
+
+Lets say player one wants to play an attachment. To my knowledge, there is nothing in the rulebook that says player one cannot play an attachment on characters/heros of another player. Does this mean player one can play an attachment on a hero of player two? 
+
+Another example:
+
+Lets say player 1 has Théodred as one of his active heros. I noticed théodred has card copy that states that once he is committed to a quest he may choose another hero committed to the quest and place a resource token on that hero. Again, there is nothing I can find that explicitly states that this ability is exclusive to only player 1's heros. Does that mean he may immediatly place a resource token on one of player 2's heros?
+
+For a game that's marketed and designed to be a cooperative multiplayer game, I'm surprised that I can't find any clarification on how, such cross player interaction works using card abilities and attachments, etc.
+
+Are players and their heros expected to work as one cooperative body? Using healing and augmentive abilities on each other as if they were one fellowship advancing together as a team? Or is this game more restrictive whereby each player constitutes a separate grouping of heros that are not able to explicitly aid each other with their abilities?
+
+Can somebody find me something official that clarifys this? Or perhaps any tournament veterans can shed some light for me?
+
+Thank you! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 2 [GrandSpleen on June 24, 2013](https://community.fantasyflightgames.com/topic/85455-cross-player-interaction-clarification/?do=findComment&comment=805814)
+
+Some of this IS covered in the rulebook, and I see you dug up an old thread that quotes relevant parts of the rulebook for attachments.  I'll add this :any restrictions on attachment play will be written on the card (see Resourceful [http://www.lotrlcg.com/Card/Focus/1423]).  There is even at least one card that seeks to reward you for playing attachments on others (Renewed Friendship [http://www.lotrlcg.com/Card/Focus/1368]).
+
+The short of it is that you can do whatever the card text says you can do.  Theodred can give resources to another player's hero, as long as that hero is currently committed to the quest.  Daughter of Nimrodel can heal any hero on the table.  Dain Ironfoot boosts the willpower and attack of, amazingly, every dwarf in play.  But cards like Erebor Battle Master and Brok Ironfist have text that relates to control -- Brok can enter play after a dwarf hero you control leaves play, and the Battle Master gets stronger for every dwarf you control.  
+
+ 
+

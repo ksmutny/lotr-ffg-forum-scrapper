@@ -1,0 +1,107 @@
+# [Detailed list of new player questions](https://community.fantasyflightgames.com/topic/78019-detailed-list-of-new-player-questions/)
+
+## 1 [Cigar on January 23, 2013](https://community.fantasyflightgames.com/topic/78019-detailed-list-of-new-player-questions/?do=findComment&comment=752287)
+
+Hello all,
+
+ 
+
+I recently bought the core set, and so far I've been thoroughly enjoying it.  I do, however, want to make sure I understand the rules correctly so that I'm playing out all the phases correctly.
+
+I'd like to first ask some general rules questions followed by card specific questions.
+
+1.  Regarding the quest phase, if I chose not to commit any characters, does "staging" still occur, or does that only happen if I commit characters?
+
+2.  When I choose to defend with a hero or ally, and assuming he survives the attack, does he then counterattack, dealing his damage in return?  The rulebook seems pretty clear in that Defending with a hero/ally is only to act as a meat shield, so to speak, and that actually damage dealing is done on the seperate player attack phase.  Mechanically I see why this is done, but logically I find it annoying.  Am I correct?
+
+ 
+
+----------
+
+3. With snowbourn scout's ability, I'm assuming it can only place a progress token on an ACTIVE location.  Since the card doesn't actually state that it needs to be active, but could be in the staging area, I've been wondering if it that can be the case.  While I agree that logically it doesn't make sense to place progress tokens on a staged quest since it wouldn't normally receive them for overcoming the commitment via willpower.  A little specificity in the card wouldn't have hurt I think :/
+
+4. Brok Ironfists reponse ability:  This response puts him into play when a dwarf dies, but does it do so ignoring his resource cost?  Most card games I've played (outside of FFG's--L5r and Magic) will specifically state that.  What makes me skeptical that it MIGHT place him into play for free is that it seems an otherwise useless ability.  If you are required to pay for him in full that means you would have most likely been in possession of those resources at the start of the round.  Putting him into play after the fact doesn't seem to have any real benefit that I can foresee.  If he does, indeed, come into play for free given that rather uncommon condition (which further makes sense he would be free… being how serious it is to lose a hero), then I see it as being infinitely more useful.  What am I missing here?  Is this another case of a card that could have used a more detailed description?
+
+ 
+
+## 2 [CJMatos on January 23, 2013](https://community.fantasyflightgames.com/topic/78019-detailed-list-of-new-player-questions/?do=findComment&comment=752323)
+
+Cigar said:
+
+ 
+
+Hello all,
+
+ 
+
+I recently bought the core set, and so far I've been thoroughly enjoying it.  I do, however, want to make sure I understand the rules correctly so that I'm playing out all the phases correctly.
+
+I'd like to first ask some general rules questions followed by card specific questions.
+
+1.  Regarding the quest phase, if I chose not to commit any characters, does "staging" still occur, or does that only happen if I commit characters?
+
+2.  When I choose to defend with a hero or ally, and assuming he survives the attack, does he then counterattack, dealing his damage in return?  The rulebook seems pretty clear in that Defending with a hero/ally is only to act as a meat shield, so to speak, and that actually damage dealing is done on the seperate player attack phase.  Mechanically I see why this is done, but logically I find it annoying.  Am I correct?
+
+ 
+
+----------
+
+3. With snowbourn scout's ability, I'm assuming it can only place a progress token on an ACTIVE location.  Since the card doesn't actually state that it needs to be active, but could be in the staging area, I've been wondering if it that can be the case.  While I agree that logically it doesn't make sense to place progress tokens on a staged quest since it wouldn't normally receive them for overcoming the commitment via willpower.  A little specificity in the card wouldn't have hurt I think :/
+
+4. Brok Ironfists reponse ability:  This response puts him into play when a dwarf dies, but does it do so ignoring his resource cost?  Most card games I've played (outside of FFG's--L5r and Magic) will specifically state that.  What makes me skeptical that it MIGHT place him into play for free is that it seems an otherwise useless ability.  If you are required to pay for him in full that means you would have most likely been in possession of those resources at the start of the round.  Putting him into play after the fact doesn't seem to have any real benefit that I can foresee.  If he does, indeed, come into play for free given that rather uncommon condition (which further makes sense he would be free… being how serious it is to lose a hero), then I see it as being infinitely more useful.  What am I missing here?  Is this another case of a card that could have used a more detailed description?
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 - It still occur. Your willpower will be 0 and you will raise your threat by the amount in the staging area.
+
+FAQ 1.3 page 6:
+
+ 
+
+Q: If the players do not commit any characters to a quest, does the staging area still count its threat against them?
+A: Yes, the threat in the staging area still counts against the players, who have a combined committed willpower of 0.
+
+ 
+
+2- The defense part of the combat phase is only to receive attacks. So you will compare the chosen enemy attack to the chosen defender (hero or ally) deefense and hit points to see if the defender survives.
+
+You only get to attack on the next part of the phase, where you declare your attackers and against whom they are going to attack.
+
+NOTE: You can only attack an enemy once per round but you can attack him with multiple characters. And you can attack multiple enemies with the same character, provided he is able to do all the attacks (ex: Boromir or with unexpected courage).
+
+ 
+
+3- Snowbourn Scout's ability let's you choose a location, either it be the active or be in the staging area. Usually iif it is limited to one of them the card text says, ex: Northern Tracker (only staging) or Lorien Guide (only active)
+
+ 
+
+4- It puts him for free but you loose an hero on the process… And that could be decisive since only heroes collect resources…
+
+## 3 [GrandSpleen on January 23, 2013](https://community.fantasyflightgames.com/topic/78019-detailed-list-of-new-player-questions/?do=findComment&comment=752336)
+
+Hi Cigar and welcome to the game,
+
+ 
+
+
+Here are some more things you might find helpful:
+ 
+You can download the official FAQ, which contains card errata and further rule explanation, here: http://www.fantasyflightgames.com/ffg_content/lotr-lcg/support/LOTR_FAQ_1.3.pdf [http://www.fantasyflightgames.com/ffg_content/lotr-lcg/support/LOTR_FAQ_1.3.pdf]
+ 
+There is also an unofficial FAQ that compiles some additional rules explanations on a card-by-card basis, and can be helpful when you're starting out. Here's the latest version that I am aware of: http://boardgamegeek.com/file/download/9qp36kll6p/LOTR_LCG_Cards_and_FAQs_7.1.pdf  [http://boardgamegeek.com/file/download/9qp36kll6p/LOTR_LCG_Cards_and_FAQs_7.1.pdf%C2%A0]
+ 
+
+ 
+
+ 
+
+## 4 [Cigar on January 23, 2013](https://community.fantasyflightgames.com/topic/78019-detailed-list-of-new-player-questions/?do=findComment&comment=752457)
+
+Thank you CJMatos for your individual answers and thanks GrandSpleen for the online resources which will be quite handy!
+

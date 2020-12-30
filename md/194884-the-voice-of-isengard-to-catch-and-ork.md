@@ -1,0 +1,57 @@
+# [The Voice of Isengard : To Catch and Ork](https://community.fantasyflightgames.com/topic/194884-the-voice-of-isengard-to-catch-and-ork/)
+
+## 1 [iGaveHimLife on December 3, 2015](https://community.fantasyflightgames.com/topic/194884-the-voice-of-isengard-to-catch-and-ork/?do=findComment&comment=1916705)
+
+I do not understand the setup instructions for the 2nd quest in VoI.
+
+ * Take top 20 cards from your deck and set out of play
+ * Solo player shuffles Mugash into his 20 set aside cards
+ * Muiltiplayher take Mugash + 1 Bodygaurd for each other player (2-4) and randomly shuffle 1 monster into their 20 set aside cards
+ * Remove form game any remaining Mugash Bodygaurds
+
+Now what?
+ 
+
+1a
+
+Setup: Each player removes the top 20 cards of his deck and places them aside, as an out-of-play deck. The first player takes Mugash plus 1 Mugash's Guard for each other player in the game and randomly shuffles one facedown into each player's out-of-play deck. Place any remaining copies of Mugash's Guard aside, out of play.
+
+1b
+
+When Revealed: Each player searches the encounter deck for a Mountain location and adds it to the staging area.  Shuffle the encounter deck. Then, advance to stage 2.
+
+ 
+
+2b
+
+Time 2
+Forced: After the last time counter is removed for this stage, shuffle the discard pile into the encounter deck and reveal 2 encounter cards per player. Place 2 time counters on this stage. Response: After questing successfully, cancel all progress that would be placed on this stage. Then, place 1 time counter on this stage. Or, if Mugash is in play, advance to stage 3.
+
+ 
+
+Ok... so now what... by the time we are at 2 we all have a 20 card out of play deck with 1 monster in it, one of which is the dude and at least 1 mountain location.
+
+ 
+
+So how can we get past 2b? I can not see any instruction talking about the out of play 20 card deck that the ork is in.... so how can you get to 3.. as you have to have Mugash in play?
+
+Edited December 3, 2015 by iGaveHimLife
+
+## 2 [GrandSpleen on December 3, 2015](https://community.fantasyflightgames.com/topic/194884-the-voice-of-isengard-to-catch-and-ork/?do=findComment&comment=1916877)
+
+It's the "Search" keyword that appears in this scenario.  Check out the rules insert here [https://images-cdn.fantasyflightgames.com/filer_public/cd/e6/cde67433-f555-4fbe-b45d-28dca420e7b3/the-voice-of-isengard-rulesheet.pdf].  It contains this bit about the keyword:
+
+> Searches X
+> 
+> The Searches X keyword represents the heroes search for the Orc captain, Mugash. When a location with the Searches X keyword leaves play, the player (or players) identified by that location reveals the top X cards of his out-of-play deck. Players who reveal cards this way add each revealed enemy to the staging area, choose 1 player card to take into their hand, and discard the rest
+> 
+>  
+
+## 3 [iGaveHimLife on December 3, 2015](https://community.fantasyflightgames.com/topic/194884-the-voice-of-isengard-to-catch-and-ork/?do=findComment&comment=1916895)
+
+do the discarded cards go into your normal discard pile?
+
+## 4 [GrandSpleen on December 3, 2015](https://community.fantasyflightgames.com/topic/194884-the-voice-of-isengard-to-catch-and-ork/?do=findComment&comment=1916909)
+
+Yeah they do.
+

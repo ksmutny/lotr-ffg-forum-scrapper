@@ -1,0 +1,32 @@
+# [A couple of questions](https://community.fantasyflightgames.com/topic/70413-a-couple-of-questions/)
+
+## 1 [GrandSpleen on September 4, 2012](https://community.fantasyflightgames.com/topic/70413-a-couple-of-questions/?do=findComment&comment=687428)
+
+Hey folks,
+
+I was playing the Redhorn Gate last night and we came across a couple of hypotheticals for which I didn't have a definite answer.  Wondering if you good folks here could tell me how you would have played these sitatuons.  None of these *actually* occurred, but they almost did, and would have been game changers!
+
+Landroval -- can he rescue a player's last hero from defeat?  His card text states that you are putting the hero back into play after it has been destroyed.  This suggests that all of that player's heroes were out of play.  He doesn't actually prevent the destruction.  If all of a player's heroes are out of play, he/she is eliminated -- so is it possible to trigger this response?  The unofficial FAQ states that Fortune or Fate can't return a hero from an eliminated player (but I don't know its source), so if that's true, and in Landroval's situtation the player's hero must be destroyed and out of play before triggering his response, I'm thinking that you cannot use his ability.
+
+Second question.  Discarding shadow cards.  We had the Dimrill Stair pass as a shadow card.  In our case, there was only one enemy in play, and we didn't kill it in this round.  So the Dimrill Stair ended unambiguously on top of the encounter deck discard pile.  I then used Shadows of the Past to move it to the top of the encounter deck, which turned out to be a game-saving move.  What if things had not been so neat? For example, with multiple enemies in play, there are multiple shadow cards.  At the end of combat, shadow cards go to the discard pile.  But in what order?  Same order they were dealt?  Or in the order that attacks were resolved?  Or player choice?   Also, what happens when you kill an enemy?  There is some text in the manual that suggests to me that the enemy card goes to the discard pile before their shadow card does.  From pg. 20 under "Shadow Cards Leaving Play" --
+
+"Shadow cards remain on the enemy to which they were dealt throughout the combat phase. If that enemy leaves play, discard its shadow card from play. At the end of the combat phase, discard all shadow cards that were dealt this round."
+
+My emphasis.  So maybe the shadow card isn't discarded until the enemy leaves play, which means the enemy would go to the discard pile before the shadow card.
+
+That's all I've got for now.  I think I had one more good one, but it's slipped away.
+
+Thanks for replies!
+
+ 
+
+ 
+
+## 2 [starhawk77 on September 4, 2012](https://community.fantasyflightgames.com/topic/70413-a-couple-of-questions/?do=findComment&comment=687786)
+
+1. That's correct based on the printed card text. Player elimination occurs whenever all of a player's heroes are killed. Logically, since Landroval's effect may only be triggered AFTER a hero is destroyed, the loss condition would be fulfilled before Landroval could recur a player's last hero. 
+
+2. While I don't know of any official rulings on the matter, I feel reasonably confident saying that the players (specifically, the first player) would choose the order in which shadow cards enter the discard pile. Per the FAQ, the first player always adjudicates simultaneous effects (e.g., Sneak Attack and Beorn) and conflicting effects. Discarding a bunch of shadow cards doesn't fit neatly into either one of those categories, but the general principle seems to be that players resolve "ties" in timing/targeting. In the absence of any specific mechanism for ordering discarded shadow cards, it seems that the first player would choose the order.
+
+With destroyed enemies, it's hard to say whether the rules entry implies any sort of sequential discard. A strict reading of the rules text would probably discard the shadow card after discarding the enemy, but you could just as easily read it as a simultaneous discard (in which case the players would select the order). I discard the shadow cards after discarding the enemies, but I can't say you'd be playing incorrectly were you to choose the order.
+

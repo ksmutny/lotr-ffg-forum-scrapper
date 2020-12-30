@@ -1,0 +1,190 @@
+# [King Under the Mountain and Ered Luin Miner](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/)
+
+## 1 [Slothgodfather on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301058)
+
+King Under the Mountain:
+
+Action: Exhaust King Under the Mountain to look at the top 2 cards of your deck. Add 1 to your hand and discard the other.
+
+ 
+
+Ered Luin Miner:
+
+Response: After Ered Luin Miner is discarded from the top of your deck, put it into play under your control. 
+
+ 
+
+ 
+
+Does this work if you discard the Miner and draw the other card?  I'm pretty sure the answer is yes but someone else is questioning that.
+
+## 2 [Kakita Shiro on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301062)
+
+Yes. King Under The Mountain doesn't move the cards off the top of your deck until you make your choice, so they are still on the top of your deck.
+
+## 3 [Slothgodfather on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301094)
+
+That's what I was thinking.   Still doesn't make me too exited about this guy, but at least it is something.  But the fear of actually drawing him makes me really reconsider actually including him in the deck.   I'd almost just want to include Gandalf so he could get hit by Expert Treasure Hunter as well, or even Piped back onto the top of the deck.
+
+## 4 [donkler on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301098)
+
+I think this is a good question since it specifically says "top of your deck" on Ered Luin Miner when Hidden Cache does not specify. With King Under the Mountain, I guess you could argue that after you take the one card in your hand, there is a brief period where the other card will be on top of your deck, even if originally it was the second card down. I think there is a similar ambiguity with using it with Zigil Miner. With his ability, do you discard the 2 cards one at a time, thus making the 2nd card also count as on the top of your deck before it is discarded? Or are they both discarded simultaneously?
+
+ 
+
+It seems to me the intent was to make Ered Luin Miner synergize well with the other Dwarf related discard abilities, but to me it is not clear why they changed the wording on it compared to the Cache.
+
+## 5 [Slothgodfather on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301111)
+
+Honestly, when anything tells me do whatever with X cards from the top of my deck, I would consider all those cards to be the "top of my deck".   I don't think it's so much a symantic issue with what single card is on top of my deck.   Zigil Miner is messing with the 2 cards on top of my deck.  Same with King Under the Mountain.   A Very Good Tale is using 5 and I bet no one questions that Erin works in that regard.
+
+Edited July 8, 2016 by Slothgodfather
+
+## 6 [Slothgodfather on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301121)
+
+I hadn't reread Hidden Cache.   I would say that is an interesting choice for them to change the wording, except they are kind of known for using different wording for the same ability/intention throughout several of their games - here's looking at you GoT 1.0.   
+
+ 
+
+If that Arkham Horror game is real, I sincerely hope they establish legitimate templates for the effects they create.  
+
+## 7 [donkler on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301142)
+
+So would you say if you only had a single copy of Ered Luin Miner as your deck, and it was discarded from Throngs of Unfaithful, You could not put him into play since the effect refers to as the bottom of the deck and not the top of the deck?
+
+ 
+
+http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH [http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH]
+
+## 8 [Kakita Shiro on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301235)
+
+> So would you say if you only had a single copy of Ered Luin Miner as your deck, and it was discarded from Throngs of Unfaithful, You could not put him into play since the effect refers to as the bottom of the deck and not the top of the deck?
+> 
+>  
+> 
+> http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH [http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH]
+
+By my off-the-cuff understanding, that is correct.
+
+## 9 [Slothgodfather on July 8, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301423)
+
+That is an odd scenario for sure.  I'd say that it is indeed both the top of the deck and the bottom of the deck.  And I'm sure we can rationalize it either way.  The discarding effect says to discard the bottom card, so you shouldn't be able to trigger the ability.  However, it IS the top card of the deck, and Erin doesn't care how he was discarded - just that he functionally came from the top of the deck.  This is why I'd think you can.
+
+ 
+
+Now sure, I am specifying that the top of the deck does consist of a single card with that statement.  And that seems to be your stance as well - except that you seem to be saying that only the top card is consider the top of the deck.   Then how on earth do you draw the top 2 cards from the deck when there is only 1 possible card on the top of the deck?  The effect in question is what is determining what constitutes the "top" of the deck.  That is how I see it, functionally.
+
+ 
+
+Side note - in all sincerity, thank you for linking the card.  Because I had no idea which one that was!
+
+Edited July 8, 2016 by Slothgodfather
+
+## 10 [donkler on July 9, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2301550)
+
+I think I might just send in a rules question for it, especially for the odd Throngs of the Dead case. Like I said earlier, I think it was intended for this card to work when discarding multiple cards off the top of the deck with Zigil Miner, King Under the Mountain, A Very Good Tale, etc., I'm just really curious what the distinction in the specific wording is.
+
+## 11 [Slothgodfather on July 11, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2304166)
+
+let me know what you find out please!
+
+## 12 [Valdemart on July 11, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2304461)
+
+> So would you say if you only had a single copy of Ered Luin Miner as your deck, and it was discarded from Throngs of Unfaithful, You could not put him into play since the effect refers to as the bottom of the deck and not the top of the deck?
+> 
+>  
+> 
+> http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH [http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH]
+
+ 
+
+Just to say really quick that if we look at a conceptual algorithm for how this process would be implemented in a program code, when Throngs of Unfaithful targets the bottom card of the deck (an indexed database) will return that the needed card is indexed as 1. Then, when Ered Luin Miner tries to check for Response trigger, it will ask for the card on index 1, where it will find the Miner and the trigger condition will be fulfilled.
+
+ 
+
+TL,DR: The Response will trigger. "Top" and "Bottom" are just pointers.
+
+## 13 [donkler on July 11, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2304538)
+
+>  
+> 
+> > So would you say if you only had a single copy of Ered Luin Miner as your deck, and it was discarded from Throngs of Unfaithful, You could not put him into play since the effect refers to as the bottom of the deck and not the top of the deck?
+> > 
+> >  
+> > 
+> > http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH [http://hallofbeorn.com/Cards/Details/Throngs-of-Unfaithful-TGH]
+> 
+>  
+> 
+> Just to say really quick that if we look at a conceptual algorithm for how this process would be implemented in a program code, when Throngs of Unfaithful targets the bottom card of the deck (an indexed database) will return that the needed card is indexed as 1. Then, when Ered Luin Miner tries to check for Response trigger, it will ask for the card on index 1, where it will find the Miner and the trigger condition will be fulfilled.
+> 
+>  
+> 
+> TL,DR: The Response will trigger. "Top" and "Bottom" are just pointers.
+> 
+>  
+
+ 
+
+That's sort of my main question though: is it based on an index of the specific card or the method itself that discarded the card? It could be both! I really like the Dwarf deck milling mechanic, and hope they explore it with more cards in the future.
+
+ 
+
+I just submitted a Rules clarification, so hopefully we'll have an official answer soon!
+
+## 14 [rsdockery on July 12, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2306535)
+
+My guess is that the intended trigger is anything that says "Discard [X] card from the top of your deck." Thus, you wouldn't get a free Miner from the bottom-deck shenanigans of the Numenor quest (nor from some hypothetical future effect that makes you "Search your deck for the highest-cost Ally and discard it").
+
+## 15 [donkler on July 13, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2307889)
+
+Just heard back! So the method matters more than the actual location of the card. Good to know!
+
+ 
+
+ 
+
+From Me:
+
+My question is related to Ered Luin Miner and when his Response triggers. Basically is the "top of your deck" referring to the method that discards him, or his specific location as the very top card of your deck? For example, when A Very Good Tale discards him, and he is the 5th card from the top of the deck, does that allow you to put him into play even though he was not the very top card of your deck? Or let's say that he is the only card in your deck and is discarded when the Throngs of Unfaithful enemy is defeated. Does his Response trigger? He is the top card of your deck but you technically discarded him from the bottom of your deck.
+
+ 
+
+ 
+
+Caleb:
+
+Ered Luin Miner’s ability will trigger anytime he discarded by an effect that discards cards from the top of your deck. That does allow you to put him into play in the manner you describe in your example with A Very Good Tale. The Miner’s ability does not trigger when it is discarded from the bottom of your deck, even if it is the only card in your deck.
+
+## 16 [Slothgodfather on July 13, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2307906)
+
+Thanks!  Except it still sort of leaves a question about the King Under the Mountain.  Does looking at the cards mean they are no longer considered part of the top of the deck?
+
+Edited July 13, 2016 by Slothgodfather
+
+## 17 [donkler on July 13, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2308158)
+
+I see no reason to think that it wouldn't work. You are still discarding it from the top of your deck, you just get to look at it first.
+
+## 18 [Slothgodfather on July 13, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2308713)
+
+I agree, but someone else was questioning it on the Cardgamedb site, so that's why I brought the discussion here in the first place.   I did get an answer from Caleb, and it does work as expected:
+
+ 
+
+"If you discard Ered Luin Miner with King Under the Mountain you can trigger the Miner's effect to put it into play because you are discarding it from the top of your deck. “Looking” at the top 2 cards of your deck does not move them from the top of your deck."
+
+## 19 [NathanH on July 14, 2016](https://community.fantasyflightgames.com/topic/224550-king-under-the-mountain-and-ered-luin-miner/?do=findComment&comment=2309290)
+
+My initial response to the ruling that discard-location matters was that it was really weird and silly, but then I remembered the treachery
+
+ 
+
+> When Revealed: Each player must discard a random card from his hand. Each player then searches his deck for each other copy of the card he discarded, and discards those as well. Shuffle each searched deck. 
+
+ 
+
+It would be odd to get a free Miner simply because he happened to be on top of your deck when this happens, so I think the rule is sensible after all.
+
+Edited July 14, 2016 by NathanH
+

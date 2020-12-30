@@ -1,0 +1,24 @@
+# [Galadriel (hero) and questing question](https://community.fantasyflightgames.com/topic/190015-galadriel-hero-and-questing-question/)
+
+## 1 [Lecitadin on September 30, 2015](https://community.fantasyflightgames.com/topic/190015-galadriel-hero-and-questing-question/?do=findComment&comment=1827653)
+
+Hi! I've search in the forum before asking this but could not find an answer (neither in the FAQ).
+
+ 
+
+So I'd like to know : with Nenya, when doing the ''Quest Action: Exhaust Nenya and Galadriel to add her [Willpower] to another character’s [Willpower] until the end of the phase', is Galadriel considered committed to the quest or not? Because she adds her willpower to another character, she doesn't give it, and she is exhausted.
+
+ 
+
+I think that se his, but it could be the opposite.  ^_^ [//content.invisioncic.com/Mfantflight/emoticons/default_happy.png] 
+
+Edited September 30, 2015 by Lecitadin
+
+## 2 [flightmaster101 on September 30, 2015](https://community.fantasyflightgames.com/topic/190015-galadriel-hero-and-questing-question/?do=findComment&comment=1827662)
+
+Galadriel cannot commit to a quest. Any effect that targets characters committed to the quest would not target her, however any effects that target exhausted characters would(provided you don't have a readying effect like unexpected courage).
+
+## 3 [Lecitadin on September 30, 2015](https://community.fantasyflightgames.com/topic/190015-galadriel-hero-and-questing-question/?do=findComment&comment=1827687)
+
+Ah! Her card says that she cannot quest... thanks for your answer, and please pretend that I did not ask this (*%?&(&& question!!!!!  :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+

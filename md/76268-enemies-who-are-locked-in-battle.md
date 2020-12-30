@@ -1,0 +1,12 @@
+# [Enemies who are locked in battle](https://community.fantasyflightgames.com/topic/76268-enemies-who-are-locked-in-battle/)
+
+## 1 [viperlx316 on December 27, 2012](https://community.fantasyflightgames.com/topic/76268-enemies-who-are-locked-in-battle/?do=findComment&comment=739460)
+
+If you have enemies who ar locked in combat in one round but are not killed, does the threat that the card carries count as being in the staging area in the next round?
+
+## 2 [cnquist on December 27, 2012](https://community.fantasyflightgames.com/topic/76268-enemies-who-are-locked-in-battle/?do=findComment&comment=739482)
+
+They do not count their threat in the staging area because they are no longer in the staging area they are engaged with the player. If for whatever reason something sent them back to the staging area or they were allowed to attack from the staging area they would still contribute threat.
+
+Engaging an enemy is like travelling to a location, it gets them to leave the statging area and no longer contibute to threat.
+

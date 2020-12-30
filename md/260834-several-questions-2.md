@@ -1,0 +1,46 @@
+# [Several questions #2](https://community.fantasyflightgames.com/topic/260834-several-questions-2/)
+
+## 1 [Rajam on October 14, 2017](https://community.fantasyflightgames.com/topic/260834-several-questions-2/?do=findComment&comment=3025965)
+
+1) When do you resolve the "after an enemy attacks"? After the first step of enemies' combat when enemies declare their attacks (before resolving shadow effects, damage resolution), or is it after the full attack ends (after shadows and dealing damage)? See cards like Chieftan Ufthak [http://hallofbeorn.com/LotR/Details/Chieftan-Ufthak-Core] or O Elbereth! Gilthonial! [http://ringsdb.com/find?q=elbereth]
+
+ 
+
+2) If you trigger several Rhovanion Outrider [http://ringsdb.com/card/12062] responses at the same time to clear a location in the staging area, do all of them get only 1 willpower (no boost), or only the "last one" that cleared the location (and the previous ones would get the willpower boost)?
+
+ 
+
+3) Kinda similar to the previous question: You have 3 Northern Tracker [http://ringsdb.com/find?q=northern] and 3 Rhovanion Outrider [http://ringsdb.com/card/12062], and you trigger their responses to clear the Northern Chetwood [http://hallofbeorn.com/LotR/Details/Northern-Chetwood-IiCN] location ("Forced: After progress is placed on Northern Chetwood (and it is still in play), search the encounter deck, discard pile and victory display for Lost in the Wilderness, and reveal it.").  Do you place the progress one by one (thus triggering the Forced effect in Northern Chetwood) or all progress at once (thus not triggering Northern Chetwood)?
+
+ 
+
+4) When a side quest becomes the current quest, do you ignore the effects of the main quest (example: Across the Wastes [http://hallofbeorn.com/LotR/Details/Across-the-Wastes-TWoE] 1B)? Does the main quest "counts" as a quest card in play if a side quest becomes the current quest (I'm thinking in Iârion [http://hallofbeorn.com/LotR/Details/Iarion-TLR] for this question)? What about the rest of the quest deck, do those cards count as "being in play"?
+
+ 
+
+5) When you make enough progress to clear both a quest stage and the active location, and they both have effects when cleared (forced effects, responses), which effect do you trigger first? the one on the quest card, or the one on the active location? Forced effects or responses?
+
+ 
+
+Thanks in advance!
+
+## 2 [NathanH on October 14, 2017](https://community.fantasyflightgames.com/topic/260834-several-questions-2/?do=findComment&comment=3026095)
+
+1) After the final step of the enemy's attack.
+
+2) You resolve the effects in full one after the other, so every Outrider apart from the last one gets +1 willpower.
+
+3) You trigger the Forced response (5 times in fact, although in this case only the first time actually does anything).
+
+4) Text on quest cards is active even when the quest is not active.
+
+5) Effects on old quest card, effects on new quest card, effects from active location. I think.
+
+## 3 [sappidus on October 14, 2017](https://community.fantasyflightgames.com/topic/260834-several-questions-2/?do=findComment&comment=3026205)
+
+> 1 hour ago, NathanH said:
+> 
+> 5) Effects on old quest card, effects on new quest card, effects from active location. I think.
+
+lol
+

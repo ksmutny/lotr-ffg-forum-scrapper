@@ -1,0 +1,63 @@
+# [Contract restrictions](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/)
+
+## 1 [player3351457 on January 3, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3861060)
+
+This is more of a mental exercise than an actual practical question.
+
+The language of "cannot" on the contracts appear only on the front sides of 3 out of the 4 known contracts. The Grey Wanderer has to do with choosing heroes, so I am going to disregard that one. With The Burglar's Turn and Forth, the Three Hunters, the restriction of the deck are on attachments and allies, respectively.
+
+Once the card is flipped, this no longer applies, correct? So if you can somehow manage to get attachments/allies into your deck, it is perfectly legal at that point, correct? Some "message from elrond & drinking song" combo, or something?
+
+## 2 [rees263 on January 3, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3861406)
+
+Theoretically I agree, there is no reason why you couldn't end up with said cards shuffled into your deck. 
+
+The contracts still have much ambiguity about them. I would argue that the term "Your deck cannot include..." is intended to refer only to the deck you build to start the game, not it's state during the game, but whether that would ever be a practical concern is another matter.
+
+## 3 [bdavis969 on January 10, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3867755)
+
+Since contracts aren't unique, can the same contract be played by each player? So can 2-4 copies of Fellowship, The Burglar's Turn, Forth The Three Hunters, The Grey Wanderer, or Council of the Wise be in play at the same time?
+
+## 4 [GrandSpleen on January 10, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3867867)
+
+Yes you can do that
+
+## 5 [Wandalf the Gizzard on January 11, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3868654)
+
+Imagine a four player game where everyone runs grey wanderer!
+
+## 6 [player3351457 on January 12, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3868895)
+
+> 7 hours ago, Wandalf the Gizzard said:
+> 
+> Imagine a four player game where everyone runs grey wanderer!
+
+No forced engagements all game long!
+
+## 7 [player3351457 on January 29, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3881793)
+
+> On 1/11/2020 at 3:17 PM, Wandalf the Gizzard said:
+> 
+> Imagine a four player game where everyone runs grey wanderer!
+
+I went ahead and abused the idea of multiple contracts in play and built a double burglar deck. The result is pure madness.
+
+https://ringsdb.com/fellowship/view/8097/doubleburglardecks [https://ringsdb.com/fellowship/view/8097/doubleburglardecks]
+
+## 8 [player3351457 on February 11, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3891026)
+
+Are contracts still considered player cards, and thus cannot affect Beorn?
+
+## 9 [sappidus on February 11, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3891040)
+
+From the contract rules:
+
+
+> Contracts count as player cards, but they are never included in a player's deck and don't count towards a player's minimum deck size.
+
+
+
+## 10 [dalestephenson on February 11, 2020](https://community.fantasyflightgames.com/topic/304009-contract-restrictions/?do=findComment&comment=3891166)
+
+Remember that while Beorn is immune, his resource pool is not, so the Council of the Wise works fine with him.  Burglar's Turn is also unaffected, other that you couldn't put any of the "free" attachments on him.  The others all directly affect heroes, Grey Wanderer is hardest hit because all it could do is generate resources.
+

@@ -1,0 +1,38 @@
+# [Number of Players](https://community.fantasyflightgames.com/topic/71561-number-of-players/)
+
+## 1 [Nyarlathotep5150 on September 23, 2012](https://community.fantasyflightgames.com/topic/71561-number-of-players/?do=findComment&comment=698639)
+
+     Sorry if this questions been done to death, but I didn't see it on here.
+
+     I just got the Coreset and it says that it supports 1-2 players, but that you can play with 3-4 players with a second coreset. As far as I can see, it seems that the only reason you would need a second coreset is because they only give you two threat trackers. Can anyone tell me if this is the case or if there are other factors involved (I haven't played yet, so I don't know if there are any game balance issues from limited cardstock).
+
+    Also, if I am right, is there an effective player limit, or can you run with as many people as you want? For example, is it possible to have two Tactics decks in the same game, or are there not enough cards/heroes to make that feasible?
+
+## 2 [CJMatos on September 23, 2012](https://community.fantasyflightgames.com/topic/71561-number-of-players/?do=findComment&comment=698973)
+
+Nyarlathotep5150 said:
+
+     Sorry if this questions been done to death, but I didn't see it on here.
+
+     I just got the Coreset and it says that it supports 1-2 players, but that you can play with 3-4 players with a second coreset. As far as I can see, it seems that the only reason you would need a second coreset is because they only give you two threat trackers. Can anyone tell me if this is the case or if there are other factors involved (I haven't played yet, so I don't know if there are any game balance issues from limited cardstock).
+
+    Also, if I am right, is there an effective player limit, or can you run with as many people as you want? For example, is it possible to have two Tactics decks in the same game, or are there not enough cards/heroes to make that feasible?
+
+
+
+ 
+
+You can play with more than 2 players even with a single core set. Just use a sheet and a pencil to keep count of threat of the 2 players.
+
+ 
+
+There are severall reasons to buy a second core set and even a tird. One is the fact that some of the most powerful cards in the Core set have only 1 or 2 copies (ex: Steward of Gondor (2), Unexpected Courage (1), Sneak Attack (2), etc)
+
+ 
+
+With one core set you do not have enough card pool to build 2 tactics deck. Even with all the expansions and adventure packs it can be difficult to build them strong.
+
+## 3 [Nyarlathotep5150 on September 23, 2012](https://community.fantasyflightgames.com/topic/71561-number-of-players/?do=findComment&comment=699012)
+
+     Thanks, I was wondering because I usually have about 3 players and an extra $40 is a lot to pay if all I needed was more threat trackers (since I can just use dice).
+

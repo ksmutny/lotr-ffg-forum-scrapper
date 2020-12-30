@@ -1,0 +1,48 @@
+# [Hand card discarding related question](https://community.fantasyflightgames.com/topic/197336-hand-card-discarding-related-question/)
+
+## 1 [silverthorn on December 31, 2015](https://community.fantasyflightgames.com/topic/197336-hand-card-discarding-related-question/?do=findComment&comment=1963852)
+
+If I use Arwen Undomiel's ability to discard a card and add a resource can I also trigger Elven Spear off the same discarded card.
+
+## 2 [Seastan on December 31, 2015](https://community.fantasyflightgames.com/topic/197336-hand-card-discarding-related-question/?do=findComment&comment=1963942)
+
+No. The cost of an action are the words that come before the word "to". Both actions have the cost of discarding a card, and you cannot apply a single cost to multiple actions.
+
+ 
+
+If Elven Spear were worded "Response: After a card is discarded from your hand, attached character gets +1 attack" then you could trigger both since the Spear no longer requires a cost of discarding a card. But it would completely change the Elven Spear card because you could no longer trigger it at will.
+
+## 3 [NathanH on December 31, 2015](https://community.fantasyflightgames.com/topic/197336-hand-card-discarding-related-question/?do=findComment&comment=1963944)
+
+No. The discarding for Arwen Undomiel and Elven Spear are both costs, so must be paid every time you want to use the action. For all actions of the form "Do X to do Y", the X is the cost and must be paid specifically for doing that action. It's a bit like paying the resource costs for cards: you can't pay the cost for Squire of the Citadel and then use the same resource to also pay for Snowbourn Scout.
+
+ 
+
+If Elven Spear would allow you to use another effect's discard to trigger the ability, it would say "Response: When you discard a card, blah blah blah".
+
+ 
+
+Edit: lol.
+
+ 
+
+Edit 2: For completeness, a card that allowed you to discard a card to boost attack like Elven Spear and also triggered off other discarded cards would probably be written:
+
+ 
+
+Action: Discard a card from your hand.
+
+ 
+
+Response: After a card is discarded from your hand, attached character gets +1 attack until the end of the phase. Limit 3 times per phase.
+
+ 
+
+This would be a rather powerful card.
+
+Edited December 31, 2015 by NathanH
+
+## 4 [silverthorn on December 31, 2015](https://community.fantasyflightgames.com/topic/197336-hand-card-discarding-related-question/?do=findComment&comment=1964082)
+
+I guessed that was the way it was supposed to be but I though I had better ask (for whenever the heck the UK gets hero Arwen).
+

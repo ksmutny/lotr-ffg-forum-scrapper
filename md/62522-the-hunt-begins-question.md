@@ -1,0 +1,20 @@
+# [The Hunt Begins question](https://community.fantasyflightgames.com/topic/62522-the-hunt-begins-question/)
+
+## 1 [Cotillion37 on March 31, 2012](https://community.fantasyflightgames.com/topic/62522-the-hunt-begins-question/?do=findComment&comment=612016)
+
+Just playing through The Hunt for Gollum for the first time. On 1b, the Forced effect states: "After the players quest succesfully, the first player looks at the top 3 cards of the encounter deck. Reveal and add 1 of those cards to the staging area, and discard the other 2 cards."
+
+My question is if I can add a treachery card to the staging area instead of a location/enemy card? The cards I drew were Hunters from Mordor, Evil Storm, and The East Bank. Since my threat is low, I would rather deal with the Evil Storm than either of the other 2 cards. Just wanting to clarify to make sure I'm playing that correctly.
+
+## 2 [Doom1502 on March 31, 2012](https://community.fantasyflightgames.com/topic/62522-the-hunt-begins-question/?do=findComment&comment=612023)
+
+Of course you can. Effectless treachery cards are your best friends in this scenario, since you want to avoid the hunters as often as possible.
+
+## 3 [Cotillion37 on March 31, 2012](https://community.fantasyflightgames.com/topic/62522-the-hunt-begins-question/?do=findComment&comment=612027)
+
+Awesome, thanks! I figured that was the case but I figured I should double check.
+
+## 4 [Rashley on April 1, 2012](https://community.fantasyflightgames.com/topic/62522-the-hunt-begins-question/?do=findComment&comment=612275)
+
+Take every bit of help you can get!  You will need this advantage to find 'Clues' and avoid those vicious Hunters.  The 2nd part also helps but you choose 1 from only 2 and at the start of the Quest Phase.  This whole scenario boils down to finding 'Clues' but avoiding 'Hunters'.  Enjoy!  Cheers!
+

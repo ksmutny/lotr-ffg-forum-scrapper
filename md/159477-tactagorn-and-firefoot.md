@@ -1,0 +1,82 @@
+# [Tactagorn and Firefoot](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/)
+
+## 1 [Courchevel on April 9, 2015](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/?do=findComment&comment=1548636)
+
+Let's say that mister strider has stolen Eomer poney and imagine that you put Firefoot on Tactagorn.
+
+Would you say that you can trigger Tactagorn response before Firefoot in order for the newly engage enemy to take one damage ?
+
+aragorn.png [http://www.gamewire.belloflostsouls.net/wp-content/uploads/2015/02/aragorn.png]ffg_firefoot_the-dunland-trap_4.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_firefoot_the-dunland-trap_4.jpg]
+
+It is not clear for me when both effect can be triggered, however, I have the feeling that it could work.
+
+Edited April 9, 2015 by Courchevel
+
+## 2 [Nerdmeister on April 9, 2015](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/?do=findComment&comment=1548955)
+
+When two or more responses share a trigger, the players get to decide the order in which the effects trigger.
+
+However I am not convinced that these do share a trigger, even if it has previously been ruled that (at least in some cases) "after X attacks..." means all the steps of combat.
+
+Firefoot is worded in such a way as to suggest that it´s response is triggered after declare attackers step but before the dealing of combat, whereas Aragorn is clearly worded in a way that implies, that all steps of combat must be done with before being able to trigger.
+
+## 3 [alogos on April 9, 2015](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/?do=findComment&comment=1549651)
+
+If they were sharing the same trigger event, that means we could use Foe Hammer with the extra damage from Dwarrowdelf Axe, wich is not the case as far as I know.
+
+ 
+
+Both those cards tends to show that Firefoot is triggered after Aragorn.
+
+Edited April 9, 2015 by alogos
+
+## 4 [GrandSpleen on April 9, 2015](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/?do=findComment&comment=1550900)
+
+sorry for waaaay too much text, but:
+
+ 
+
+Foe-hammer and Dwarrowdelf Axe are not a comparable example here, because the reason they don't work together is not a timing issue.  The direct damage from the Axe is not part of an attack, so Foe-hammer can't trigger off it (this much is written in the FAQ).
+
+ 
+
+The best direct example we have in the FAQ, that I could find, is this:
+
+ 
+
+"Q: When do “after this enemy attacks” Forced effects like those on Chieftan Ufthak (CORE 90) and  Wargs (CORE 85) resolve? A: These effects resolve immediately after step 4 of enemy attack resolution."
+
+ 
+
+That is about enemies, so it's not an exact parallel, but the wording is the same as on Firefoot: "After X attacks, do Y."  So for enemies, "After X attacks" means after the attack is fully resolved.  Dwarrowdelf Axe's response takes place after the attack is fully resolve as I understand it, and Firefoot is worded in the same way. Tactics Aragorn also triggers when an attack is fully resolved.  I think these two share a trigger, which means you can choose the order in which you trigger them and yes, you could use Firefoot on the newly engaged enemy.
+
+ 
+
+By contrast, there are some enemies who have abilities that trigger "When this enemy attacks."  In that case, it happens at the beginning of the attack.  This is why the Beastmaster card in the Core Set got this errata:
+
+ 
+
+"Dol Guldur Beastmster   CORE 91 Should read: 'Forced: When Dol Guldur Beastmaster attacks...'"
+
+ 
+
+If it said "After" (which it did on the original printing), he would get a shadow card after his attack is finished, and it would not be resolved, instead being discarded at the end of the combat phase.
+
+ 
+
+I think Firefoot and Aragorn have slightly different wording for this reason alone: for Firefoot to have any effect, you have to overkill the enemy, so it is not necessary to state in the card text that Firefoot can work when you "destroy" an enemy.  For Aragorn, they had to state explicitly that the enemy must be destroyed in order to limit the ability in the way that they intended.  Take off the 'destroy' part of Aragorn's text, and Firefoot and Aragorn have pretty much the same wording.
+
+Edited April 9, 2015 by GrandSpleen
+
+## 5 [alogos on April 9, 2015](https://community.fantasyflightgames.com/topic/159477-tactagorn-and-firefoot/?do=findComment&comment=1550998)
+
+I can see how Foe Hammer was a bad exemple.
+
+ 
+
+Well, another problem is: does the enemy get destroyed after the attack? because Aragorn is not the same as "after he attacks" but "after he participate" if we remove the "destroy" part. I'm pretty sure the enemy get destroyed before «after the attack»
+
+ 
+
+Should "after he participate" be considered as after he resolve the attack or after he was declared as an attacking character? All instance of participate are coupled with "destroy".
+

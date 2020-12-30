@@ -1,0 +1,10 @@
+# [Elrond + Silvan Tracker](https://community.fantasyflightgames.com/topic/96575-elrond-silvan-tracker/)
+
+## 1 [Olorin93 on January 9, 2014](https://community.fantasyflightgames.com/topic/96575-elrond-silvan-tracker/?do=findComment&comment=949939)
+
+I do not have the Dead Marshes, but I might get it because of just one card: Silvan Tracker. The text says: "Response: After a Silvan character readies during the refresh phase, heal 1 damage from that character." Does this apply to all and any Silvan characters in play? For instance, if both Silvan Tracker and Haldir are in play and they both ready during the refresh phase, they are both healed? If so, including the Tracker in an Silvan-heavy Elrond deck could prove a powerful healing mechanic.
+
+## 2 [Myliana1203 on January 9, 2014](https://community.fantasyflightgames.com/topic/96575-elrond-silvan-tracker/?do=findComment&comment=949943)
+
+Yes Yes Yes !!!
+

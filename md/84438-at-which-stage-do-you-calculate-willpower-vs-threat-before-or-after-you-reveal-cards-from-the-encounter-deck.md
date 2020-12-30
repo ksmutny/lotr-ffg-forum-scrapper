@@ -1,0 +1,12 @@
+# [At which stage do you calculate willpower vs threat? Before, or after you reveal cards from the encounter deck?](https://community.fantasyflightgames.com/topic/84438-at-which-stage-do-you-calculate-willpower-vs-threat-before-or-after-you-reveal-cards-from-the-encounter-deck/)
+
+## 1 [MCMC246 on May 29, 2013](https://community.fantasyflightgames.com/topic/84438-at-which-stage-do-you-calculate-willpower-vs-threat-before-or-after-you-reveal-cards-from-the-encounter-deck/?do=findComment&comment=799828)
+
+At which stage do you calculate willpower vs threat? Before, or after you reveal cards from the encounter deck? 
+
+For example, if you commit 5 allies with 1 HP each, and a Necromancer's reach comes out of the encounter deck, dealing 1 damage to each committed character, thus wiping them all out, does their willpower still count in the quest for this round after cards stop being revealed?
+
+## 2 [GrandSpleen on May 29, 2013](https://community.fantasyflightgames.com/topic/84438-at-which-stage-do-you-calculate-willpower-vs-threat-before-or-after-you-reveal-cards-from-the-encounter-deck/?do=findComment&comment=799837)
+
+You calculate immediately before placing progress tokens on the quest.  So any changes that occur as a result of Staging -- or as a result of any Actions you choose to take after staging -- will effect the outcome.  In your example with the Necromancer's Reach, you'll lose the willpower of the allies who are defeated.
+

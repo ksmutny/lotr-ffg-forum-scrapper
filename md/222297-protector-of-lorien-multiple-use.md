@@ -1,0 +1,22 @@
+# [Protector of Lorien multiple use](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/)
+
+## 1 [Randyman on June 10, 2016](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/?do=findComment&comment=2261005)
+
+This card states "...Limit 3 times per phase." -- can I interpret that as (after paying one resource to attach to a hero) I can discard three cards and increase the hero's willpower by 3 during the questing phase?
+
+## 2 [GrandSpleen on June 10, 2016](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/?do=findComment&comment=2261228)
+
+Yup, and 3 times during the combat phase to increase defense by 3 if you so wish.  
+
+## 3 [Kakita Shiro on June 10, 2016](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/?do=findComment&comment=2261441)
+
+If for some reason you want to discard cards (Elven Light comes to mind), you can also discard three times in the Planning phase in which you played Protector, three times during the Refresh phase, and three times in the following Resource phase.
+
+## 4 [Randyman on June 10, 2016](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/?do=findComment&comment=2261967)
+
+Thanks - That helps a lot - what a card !
+
+## 5 [donkler on June 11, 2016](https://community.fantasyflightgames.com/topic/222297-protector-of-lorien-multiple-use/?do=findComment&comment=2262877)
+
+It really is a fantastic card. You can activate it both after encounter cards are revealed if the hero is questing or after the shadow card is revealed if the hero is defending. It also lets you get some use out of unique cards in your hand that are already have a copy in play.
+

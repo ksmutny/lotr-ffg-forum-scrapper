@@ -1,0 +1,132 @@
+# [Some newbie questions](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/)
+
+## 1 [DukeWard on January 8, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=948606)
+
+1) Can Snowbourn Scout place a progress token on ANY location, including in the staging area?
+
+ - By way of example, if I play 2 Snowbourn Scouts during the planning phase, may I place 2 progress tokens on a location to which we have not yet traveled for a "headstart" on this location?
+
+ 
+
+2) Brok Ironfist can enter play from a player's hand after a dwarf hero leaves play.  Does this response still require 6 resource tokens to activate?
+
+ 
+
+3) If Dol Guldur Beastmaster gets 2 shadow cards with the same effect, is the effect doubled?
+
+ 
+
+4) Can Aragorn's special power only be used during the quest phase?
+
+ 
+
+5) Does Ever Vigilant allow the player to use an ally to defend vs. an attack, and then spend 1 resource to ready that same ally to defend vs. a second attack?  According to the rulebook, player actions can be taken throughout the combat phase but I'm still not clear as to what this means about event cards.
+
+ 
+
+6) Can Common Cause be used to ready an exhausted hero who has the Caught in a Web attachment?  Also, must Caught in a Web be attached to an exhausted hero?  If not, what happens when it is attached to a ready hero?
+
+ 
+
+Thanks all for your help.
+
+ 
+
+RJ
+
+## 2 [GrandSpleen on January 8, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=948614)
+
+1. Yes, you can even fully explore a location (and discard it) while it is in the staging area like this.
+
+ 
+
+2. No, the response is free to activate.  Although "free" is a relative term, since losing a hero is a pretty heavy cost :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+3. The effects are cumulative.  So if he gets two shadow effects that say "attacking enemy gets +1 attack," he will get a total of +2 attack power.
+
+ 
+
+4. Aragorn's ability can only be used at the moment that you exhaust to commit him to a quest.  That can only happen once during the questing phase per round, so you can only use Aragorn's ability once per round.  Although for an advanced answer, you could theoretically use it more than once-- commit Aragorn to the quest, use his ability to ready him.  Then some encounter card removes him from the quest, like Black Forest Bats [http://hallofbeorn.com/Cards/Details/51223bd0-ffd1-11df-a976-0801200c9098].  Afterward you could play Late Adventurer [http://hallofbeorn.com/Cards/Details/51223bd0-ffd1-11df-a976-1801204c9057] to exhaust and commit him to the quest again, and you would then have another opportunity to trigger his Response and ready him again.
+
+ 
+
+5. Yes, that would be fine.  You could even use the ally to defend two separate attacks.  Or use him to quest, then defend (or attack).  Or defend, then exhaust to use an ability (like Gleowine's card draw ability -- although he isn't going to be surviving any attacks).
+
+ 
+
+6. Yes, Common Cause can ready an exhausted hero who has Caught in a Web attached.  And Caught in a Web may attach to any hero, exhausted or not.  If attached to a ready hero, that hero will remain ready until you exhaust them for some reason, like to defend or to commit to the quest.  After that, they will remain exhausted unless you pay 2 resources during the refresh phase, or use some other readying effect like that on Unexpected Courage.
+
+ 
+
+Welcome to the game!
+
+## 3 [DukeWard on January 8, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=948618)
+
+Wow, great answers and very quick.  Thank you!
+
+## 4 [DukeWard on January 8, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=948625)
+
+A couple of follow up questions:
+
+ 
+
+4. Aragorn - I hope I can articulate this question accurately.  So it sounds like the player would announce that Aragorn is committed to the quest, and then a resource could be spent IMMEDIATELY to ready him.  Playing a solo game tonight, I waited until the quest was resolved to use his power to make accounting for my total will easier.  But according to your advanced answer description, it sounds like I shouldn't wait until the end of the phase, but rather if I choose to use his power, I should make a mental note of his will contribution toward the quest and then immediately spend a resource to ready him.  Is this correct?  Maybe just a mechanics nuance but I assume the proper order is important for more complex situations.
+
+ 
+
+6. Caught in a Web/Common Cause - So if I were to use Common Cause to ready a character with Caught in a Web, that wouldn't cancel the effect, correct?  The hero would just be stuck again after being exhausted for any purpose?
+
+## 5 [GrandSpleen on January 8, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=948700)
+
+You are correct, you have to use Aragorn's response immediately. Responses can only be triggered immediately after their specified event... the only intervening event that can occur between a trigger and response is another response that was eligible to be triggered at the same time (like Theodred and Aragorn, since all characters for one player are committed to a quest simultaneously).
+
+You're right about Caught in a Web too. The only way to remove the effect for good, at present, is via the response effect on Miner
+
+of the Iron Hills.
+
+## 6 [Olorin93 on January 9, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=950013)
+
+Condition attachments like Caught in a Web are annoying, as there are still very few ways of getting rid of them. One of the best cards for this is the one in the core set that GrandSpleen already mentioned: Miner of the Iron Hills. Let us hope for some nice elf-medicine cards that remove condition attachments in the upcoming cycle!
+
+## 7 [Davachido on January 10, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=950634)
+
+I started playing two weeks ago and steadily getting my card base up, though I have a couple of newbie questions as well.
+
+ 
+
+1) Even if a character is readied during the questing phase such as Aragorn you can't commit them twice can you?
+
+ 
+
+2) I can't find this anywhere but do actions from the same character stack? Say I commit everyone I have to a quest, reveal the encounter card then I move onto the action phase. I exhaust Leadership Faramir's ability to get +1 willpower per character. I then ready him with Ever Vigilant and exhaust him again. Do I then get +2 willpower per character for quest resolution?
+
+ 
+
+Edit.
+
+ 
+
+3) I'm guessing if a quest objective is a named character from your deck, such as Arwen or Gildor, you can't play those cards from your deck?
+
+Edited January 10, 2014 by Davachido
+
+## 8 [alogos on January 10, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=950770)
+
+1. Commited is a state that has nothing to do with the Exhausted state (apart the need to exhaust to commit). You cannot be twice commited (nor twice exhausted).
+
+2. Action are only limited by their text. That's why Faramir + Ever Vigilant is very good, but I don't see it very often.
+
+3. Unique cards cannot enter play if another with the same name is already in play. They will NOT enter play then be discarded, they just never come in play. I add these because some would want Gandalf's effect to trigger when one is already in play.
+
+## 9 [Bottom on January 11, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=952004)
+
+I'd like to throw a silly question in. I've played both ways and I'm unclear.
+
+When dealing shadow cards in a 2 player game do I deal 2 shadow cards to each engaged enemy? Or do you just deal 1 per engaged?
+
+## 10 [GrandSpleen on January 12, 2014](https://community.fantasyflightgames.com/topic/96486-some-newbie-questions/?do=findComment&comment=952198)
+
+Just 1 per engaged.  4 shadow cards in a 4 player game would be absolutely devastating!
+

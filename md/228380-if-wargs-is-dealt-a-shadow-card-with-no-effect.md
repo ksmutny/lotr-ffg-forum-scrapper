@@ -1,0 +1,28 @@
+# [&quot;If Wargs is dealt a shadow card with no effect...&quot;](https://community.fantasyflightgames.com/topic/228380-if-wargs-is-dealt-a-shadow-card-with-no-effect/)
+
+## 1 [sappidus on August 23, 2016](https://community.fantasyflightgames.com/topic/228380-if-wargs-is-dealt-a-shadow-card-with-no-effect/?do=findComment&comment=2380583)
+
+I've seen variants on this question quite a few times on various fora, but never the explicit ruling, so I thought I'd submit an official inquiry once and for all so that people could have a citation when it comes up in the future. I was pretty sure about the answers for #1 and #2 ahead of time, but there was some question in my mind about #3...
+
+> Blast from the past this time... I'm sure you've gotten this question quite a bit. Wargs (OG Wargs, that is) have the text "Forced: "If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks."
+> 
+> 1. Does "a shadow card with no effect" merely refer to the existence of text that says "Shadow: ___" on the card, or does it refer to the possibility of the effect changing the game state? e.g., in Conflict at the Carrock, Wargs could get Roasted Slowly as a shadow card, whose shadow effect is "Shadow: If attacking enemy is a Troll, remove 2 damage tokens from it." Does this count as a shadow card WITH an effect, thus keeping the Wargs engaged?
+> 
+> 2. Barring considerations such as #1, if you cancel the shadow card's effect with Hasty Stroke or whatnot, do the Wargs return to the staging area?
+> 
+> 3. If you discard the shadow card before it ever resolves, and it turns out that shadow card had no shadow effect, do the Wargs return to the staging area?
+
+The response:
+
+> I love the old questions! Because I know how to answer them ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+> 
+> 1. A shadow effect is (and must be) denoted by the “Shadow:” text and bar graphic.
+> 
+> 2. If you cancel a shadow effect, the Wargs was still dealt a shadow effect.
+> 
+> 3. If you discard the shadow card from the Wargs before it attacks, then it never has the opportunity to trigger its effect.
+> 
+> Cheers,
+> 
+> Caleb
+

@@ -1,0 +1,36 @@
+# [Multiple copies of Song of Earendil](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/)
+
+## 1 [Teamjimby on March 26, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1507863)
+
+The Wastes of Eriador spoiler got me thinking about threat reduction and manipulation.  One card that comes to mind is Song of Earendil. 
+
+Song-of-E%C3%A4rendil.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Song-of-E%C3%A4rendil.png]
+
+ 
+
+My first question was whether or not you can use Song of Earendil with Wandering Took to raise your threat by X and lower someone else's threat by X.  That question has come up before and the answer is yes.
+
+ 
+
+My second question is if you can use two copies of Song of Earendil on the same trigger.  Say it's a two player game and at the end of the turn each player raises his threat by 1.  If you have two copies, could you use Song of Earendil twice such that the other player has a net reduction of 1 threat and you have a net gain of 3 threat?  If so, that could be an interesting meta with a Merry deck that passively reduces other players' threat.  With 3x Hobbit Pipe, Good Meal, Galadhrim's Greeting, Elrond's Council, Smoke Rings, Dwarven Tomb/Map of Earnil I could see that deck dropping  5 threat every turn.
+
+## 2 [GrandSpleen on March 26, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1508147)
+
+Sure, why not?  If you have two copies of Isengard Messenger in play, you can sure do +1 willpower to each one with the same Doomed trigger.  Or triggering two Foe-hammers (if you have two Weapons available) off of a single defeat, etc.  Plenty of precedent for that.
+
+## 3 [Teamjimby on March 26, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1508154)
+
+Yeah, I'm pretty sure it's legal.  I wonder if anyone has tried it before.  But given that I've never seen anyone else use one copy of the card, I doubt anyone has tried using two copies.
+
+## 4 [GrandSpleen on March 27, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1508487)
+
+I think I've seen someone ask the same or similar question before, but it was long long ago and I don't have time to search for it at the moment..
+
+## 5 [Authraw on March 27, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1508804)
+
+Sure, I've done it before. I made a 4-player Fatty-Frodo-Loragorn deck once with the theme of taking all kinds of threat damage for the other players and then negating it. Multiple Songs of Earendil was a core part of the strategy.
+
+## 6 [alogos on March 27, 2015](https://community.fantasyflightgames.com/topic/138965-multiple-copies-of-song-of-earendil/?do=findComment&comment=1509266)
+
+That's basically why we put multiple of them, so that when a doom 2 cards appear, you can take both threat for the other(s).
+

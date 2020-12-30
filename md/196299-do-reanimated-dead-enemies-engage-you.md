@@ -1,0 +1,64 @@
+# [Do Reanimated Dead enemies &quot;engage&quot; you?](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/)
+
+## 1 [GrandSpleen on December 19, 2015](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=1945525)
+
+The wording in the description of the Reanimated Dead in The Dread Realm seems to me to suggest that we should not trigger engagement effects (Mablung, Faramir) after reanimating a card.  What do think?  Here is the description from the rule sheet, my emphasis:
+
+ 
+
+----
+
+Reanimated Dead
+
+Many encounter cards in The Dread Realm scenario instruct players to "reanimate" a card.  When a player is instructed to reanimate a card, place that card facedown in front of that player, as if it had just engaged that player from the staging area.  Facedown cards that have been reanimated are called "Reanimated Dead" and act as if they are Undead enemy cards with 0 engagement cost, 2 threat, 2 attack, 2 defense, and 2 hit points.  As a reminder, each quest card has the text: "Reanimated Dead are Undead enemies with 2 threat, 2 attack, 2 defense, and 2 hit points."  If a Reanimated Dead is destroyed or leaves play for any other reason, it is placed in its owner's discard pile.
+
+-----
+
+ 
+
+It is the part that says "as if it had just engaged" which makes me think we are not meant to reap the benefit from player card effects that trigger off of engagement.
+
+## 2 [PocketWraith on December 19, 2015](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=1945563)
+
+Really? I would interpret that as meaning they do trigger them. When an enemy has just engaged you is when you trigger engagement effects, so if you place something as if it just engaged you, you are at the same point in the sequence of play. Pretty sure all player card engagement effects trigger after an enemy engages you rather than when in any case.
+
+Also, though the wording is different (to account for the fact they're facedown player cards rather than regular enemies), it's effectively the same as an enemy which enters play engaged with you.
+
+## 3 [GrandSpleen on December 20, 2015](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=1945730)
+
+Yeah... you're probably right. 
+
+## 4 [cmabr002 on December 20, 2015](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=1945738)
+
+> Really? I would interpret that as meaning they do trigger them. When an enemy has just engaged you is when you trigger engagement effects, so if you place something as if it just engaged you, you are at the same point in the sequence of play. Pretty sure all player card engagement effects trigger after an enemy engages you rather than when in any case.
+> 
+> Also, though the wording is different (to account for the fact they're facedown player cards rather than regular enemies), it's effectively the same as an enemy which enters play engaged with you.
+
+ 
+
+I agree that you should trigger engagement effects.  It does not say "they are considered to be engaged" which is different than "as if it had just engaged you".
+
+ 
+
+Section (1.50) says the following:
+
+ 
+
+> In order for a player to engage an enemy, the enemy card must physically enter his play area.
+
+ 
+
+And based on your description of reanimate, it seems it at least meets that criteria.  Whether or not "as if it had just engaged you" meets true engagement criteria, I guess I can't be certain, but there are cards like Scroll of Isildur and the Raven deck that use the same text and I am not sure how those rules apply here. 
+
+ 
+
+Under the argument that it hasn't actually engage a player (and therefore you couldn't trigger engagement effects), you could also argue that the Spirit version of Scroll of Isildur could play Tale of Tinuviel or Lords of Eldar from your discard pile because even though the "Scroll of Isildur" says "as if it were in your hand" it wasn't actually from your hand and was still played from your discard pile.  I don't think that is intended.
+
+## 5 [DukeWellington on December 20, 2015](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=1945909)
+
+I think the confusion is in the phrase "as if it just engaged that player" but I think the confusion is cleared up if you believe,as I do, that the intended meaning of the word order was to communicate that you are to treat them "as if they just engaged you FROM THE STAGING AREA". When you see the phase "from the staging area" included in the text I can see no way to interpret that without concluding that you trigger engagement effects.
+
+## 6 [Denison on March 28, 2016](https://community.fantasyflightgames.com/topic/196299-do-reanimated-dead-enemies-engage-you/?do=findComment&comment=2128919)
+
+I searched for this topic because I was uncertain if Haldir's ability was disallowed in the first round or not. I was playing that Haldir could not snipe in round 1.  Starting round 1 with 4 resources in an all-Tactics deck featuring Mablung is a strategy I am going to try immediately against the Dread Realm.
+

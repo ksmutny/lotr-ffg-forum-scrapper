@@ -1,0 +1,76 @@
+# [Single Player (Solo) Game Mode](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/)
+
+## 1 [mrblue74 on July 25, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415028)
+
+I looked everywhere but can't see where in the rule book or reference rule book or FAQ regulates how to play the game as as single player? How to play it one person only? Please help :)
+
+## 2 [PocketWraith on July 25, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415241)
+
+The only thing which changes in the basic structure of the game based on the number of players is the number of cards you reveal in staging each Quest phase. Everything else works the same.
+
+## 3 [mrblue74 on July 25, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415317)
+
+Thank you for the response but a few points remains unclear to me:)
+
+How many heros can we take in the setup in a single player game?
+
+What happens when a card says “next player”? We ignore the card’s instructions when it says next player since there is no next player?
+
+And what happens when a card says “first player “? First player would be always me so I apply it to me every time a card instructions affect first player or ignore?
+
+## 4 [dalestephenson on July 25, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415327)
+
+A single player may have 1-3 heroes , but in practice virtually all players use 3 heroes.  A single player is the "first player" and "last player" but not the next player -- any game reference to "next player" is ignored.
+
+## 5 [dalestephenson on July 25, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415329)
+
+To be clear, by "single player" I mean piloting one player deck.  It's reasonably common for solo players to simulate two players by playing two decks against the quest, and each turn the decks alternate in being the "first player".  Any reference to the number of players on quest/encounter cards depend on the number of decks, not the number of humans physically present.
+
+## 6 [mrblue74 on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415402)
+
+Pocket Wraith and Dave. All clear! Thank you very much!!
+
+## 7 [mrblue74 on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415594)
+
+Board game geek says this game is roughly 60 minutes but even in my second try in which I was much faster and fluent with the phases, played more than two hours and couldn’t even finish the 1st section (Flies and Spiders) of 1st scenario (Passage through Mirkwood) . I am playing one deck single player with leadership sphere. Is that why?and other thing is even the people find the core set scenarios too hard find the 1st scenario too easy. I am nowhere close to win or finish it. Am I too dumb for this game lol or what am I doing wrong possibly? I am normally very into that kind of games like even more complicated ones like axis and allies miniatures games. So what makes this one too hard for me?
+
+## 8 [GrandSpleen on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415625)
+
+60 minutes ... some quests can be played that quickly, once you're familiar with the encounter deck and your own deck.  If you're playing an unfamiliar quest, prepare for it to take much longer, as you'll be pausing to read and think about text quite a lot.  Even when you're familiar with a scenario, many quests will take you longer than 60 minutes, especially in multiplayer.  90 minutes is not uncommon, and I've had plenty of 2 hour games and longer, as well.  Setup and cleanup take a bunch of time as well.  60 minutes from start to finish (from opening the box to closing the box at the end) is rare.
+
+## 9 [dalestephenson on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415822)
+
+To be fair, the majority of my losses I scoop long before 60 minutes.
+
+## 10 [Wandalf the Gizzard on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3415940)
+
+> 10 hours ago, mrblue74 said:
+> 
+> Board game geek says this game is roughly 60 minutes but even in my second try in which I was much faster and fluent with the phases, played more than two hours and couldn’t even finish the 1st section (Flies and Spiders) of 1st scenario (Passage through Mirkwood) . I am playing one deck single player with leadership sphere. Is that why?and other thing is even the people find the core set scenarios too hard find the 1st scenario too easy. I am nowhere close to win or finish it. Am I too dumb for this game lol or what am I doing wrong possibly? I am normally very into that kind of games like even more complicated ones like axis and allies miniatures games. So what makes this one too hard for me?
+
+No, I think you can handle this game. It took most of us awhile to get our first win on that first quest, which is widely considered the easiest in the game. It'll take even longer to beat the second quest, but its pretty manageable to veterans. You just need practice and you'll get it eventually. Also, don't be discouraged by the difficulty of the last quest in the core set; you probably won't be able to beat it until you have a couple expansions. It is possible to beat it with just one core, though.
+
+Here was my winning strategy on Passage through Mirkwood with the mono-Leadership deck.
+
+On the first round play a cheap ally and quest with Theodred and Aragorn (using their abilities to ready Aragorn). Travel to Old Forest Road to ready Theodred (unless you don't need Gloin to defend a second enemy revealed during the quest phase, then he can attack with Aragorn instead of Theodred). This allows you to use your ally to defend the Forest Spider and kill it with Aragorn and Theodred.
+
+And then you just build up your army until you can handle stage two and three.
+
+## 11 [mrblue74 on July 26, 2018](https://community.fantasyflightgames.com/topic/279724-single-player-solo-game-mode/?do=findComment&comment=3416045)
+
+Thanks guys. Really appreciate your insights and explanations. I noticed that I was missing a lot of rules or misunderstanding some of them, which some changes the game play in every sense dramatically. They should put a warning on the top of the rule book cover; "You will miss many rules, but you will get them in a few attempts, so don't be discouraged." Lol.
+
+If any newbies like me reading this topic, I highly recommend this article titled as "5 Things I Wish I Would’ve Known When I Started Playing LOTR LCG".
+
+https://talesfromthecards.wordpress.com/2013/01/03/5-things-i-wish-i-wouldve-known-when-i-started-playing-lotr-lcg/ [https://talesfromthecards.wordpress.com/2013/01/03/5-things-i-wish-i-wouldve-known-when-i-started-playing-lotr-lcg/]
+
+One thing I didn't realize that I was using Faramir ineffectively, as well. As you said above, it is better to wait to see revealed encounter cards in staging before playing (exhausting) him. I was doing it before the Quest phase, so often was "wasting" him. Which this one wasn't a major misunderstandings compared to other points I got it wrong :))
+
+I got this wrong either, which was probably biggest reason I was unable to make almost any progress in the scenario, but I'd need to clarify a few things about it with you, lol;
+
+I was moving engaged enemies back to staging area and counting their threats in every following quest phases until they were destroyed. Oh, boy. Lol. I now notice they should be kept in player area (didn't even realize player area and staging area was 2 really different things).
+
+I will open a separate topic with an explanatory title about my questions on that point (engaged enemies, attacks) not to mix up this one and make it easier for other newbies who might have same questions.
+
+Lastly I also noticed (thanks to above article), I wasn't really understanding how and when to use event, ally and attachment cards effectively. So I have been close to "terrible" in planning which was causing that I was drawing circles on the same spot. Looking at how difficult I made the game and how terrible i was in planning, actually it is a miracle i wasn't destroyed much earlier in the game lol
+

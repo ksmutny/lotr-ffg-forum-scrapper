@@ -1,0 +1,64 @@
+# [Encounter Deck](https://community.fantasyflightgames.com/topic/206167-encounter-deck/)
+
+## 1 [zkwylde on March 20, 2016](https://community.fantasyflightgames.com/topic/206167-encounter-deck/?do=findComment&comment=2113993)
+
+When advancing to the next stage of the quest, do we reshuffle the encounter deck? There is a rule on one of the stages, players must find and defeat a certain monster, but that monster is already in the discard pile from the previous stages. Would I just shuffle that card back in or shuffle the whole discard pile? Thanks!
+
+## 2 [TwiceBorn on March 20, 2016](https://community.fantasyflightgames.com/topic/206167-encounter-deck/?do=findComment&comment=2114022)
+
+No. The only time you reshuffle the encounter deck and discard pile together is if the encounter is empty at any time during the Quest phase (see the Quest phase section in the rule book), or if a specific card effect specifies that the discard pile should be shuffled back into the encounter deck.
+
+ 
+
+I'm pretty sure the "monster" you're referring to is Ungoliant's Spawn in Passage Through Mirkwood. If Ungoliant's Spawn is already in the discard pile and you searched the encounter deck and discard pile for a different Spider (e.g., King Spider, Forest Spider), then you're going to have to keep playing through round by round until the encounter deck is empty during the Quest phase, you reshuffle the discard pile into a new encounter deck, and you pray that Ungoliant's Spawn eventually gets revealed during the Quest phase and not as a shadow card during combat... if you're unlucky, you might have to cycle through the deck a few times to find her, assuming you survive that long.
+
+ 
+
+There is, however, a way around the above problem. The quest card "A Chosen Path: Don't Leave the Path" reads:
+
+ 
+
+When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.
+
+The Players must find and defeat Ungoliant's Spawn to win this game.
+
+ 
+
+If you look at the Ungoliant's Spawn card, you'll see that she has the "Spider" trait. This means that when you reveal "A Chosen Path: Don't Leave the Path," you can search BOTH the encounter deck and discard pile for Ungoliant's Spawn and add her to the staging area (i.e., she would count as the Spider card of your choice). After doing your search and adding the chosen card to the staging area, you would then reshuffle the encounter deck without adding the discard pile to it (you always reshuffle the encounter deck after looking through it for a card, but the discard pile should remain undisturbed/cards left in the same order). Also note, that when you "add" a card to the staging area, you are not "revealing" it. This means that Ungoliant's Spawn's "when revealed" ability does not trigger.
+
+ 
+
+I hope this helps. The game does have a steep learning curve, so feel free to ask more questions, the players around here are happy to help. I also highly recommend reviewing the official Lord of the Rings LCG FAQ document, which you can download from the game's product page on the FFG website (https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/ [https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/])... go to the bottom of the page.
+
+ 
+
+It' also worthwhile using the "search" function on these boards, as your questions likely have been asked/answered by other many times before.
+
+ 
+
+Welcome to the game/addiction!
+
+Edited March 20, 2016 by TwiceBornh
+
+## 3 [CJMatos on March 20, 2016](https://community.fantasyflightgames.com/topic/206167-encounter-deck/?do=findComment&comment=2114027)
+
+I think you are refering to 1st adventure from Core card 3b [http://hallofbeorn.com/Cards/Details/A-Chosen-Path-Dont-Leave-the-Path-Core].
+
+ 
+
+In this case, you can choose either from discard pile or encounter deck.
+
+ 
+
+ 
+
+I believe you only shuflle the encounter deck if you choose from it.
+
+ 
+
+The discard pile does not gets shuffled at this point into the encounter deck
+
+## 4 [zkwylde on March 21, 2016](https://community.fantasyflightgames.com/topic/206167-encounter-deck/?do=findComment&comment=2114541)
+
+Thanks so much for that info! I didn't even realize that Ungoliants Spawn had the spider trait. I'm so blind lol. Thanks again!
+

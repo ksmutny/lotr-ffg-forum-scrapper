@@ -1,0 +1,102 @@
+# [Help with First Encounter Deck setup for 4 players](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/)
+
+## 1 [pericles3 on July 20, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1162751)
+
+I looked through the rules, but could not find out how to construct a deck for more than 2 players.
+
+ 
+
+In order to play a Scenario quest with 3 or 4 players do you just take two sets of the appropriate encounter cards from two core sets to create the encounter deck?
+
+ 
+
+Thanks in advance.
+
+## 2 [PsychoRocka on July 20, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1162786)
+
+No you just use the same amount of encounter cards as you would for two player but reveal four encounter cards during staging instead of 2.
+
+## 3 [Olorin93 on July 22, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1165128)
+
+As PsychoRocka said, you construct the encounter deck in the same manner regardless of the number of players. The difference is that you reveal 4 cards, as you reveal 1 card per player (plus surges and effects, etc). If the encounter deck runs out of cards, shuffle the discard pile back into the deck and continue.
+
+## 4 [TwiceBorn on July 22, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1165919)
+
+I'm not necessarily disagreeing with PR and Olorin93 (and I've never played with more than 2 players)… but that having been said, why not combine two sets of appropriate encounter cards to create the encounter deck, especially for 4 players? The ratio of particular encounter cards to players would remain the same as if it were 2 players using one set of cards, wouldn't it? And wouldn't a deck constructed from two sets for three players approximate the ratio of a solo player vs. one set of encounter cards?)? If anything, it would reduce the amount of deck reshuffling and make good use of "wasted duplicates" of encounter cards when you buy several core sets.
+
+ 
+
+Am I missing something obvious?
+
+ 
+
+EDIT: I suppose you might need to make some minor tweaks to encounter decks if using two sets of encounter cards for 3/4 players games… for example, remove the duplicate of Nazgul of Dol Guldur if playing Escape from Dol Guldur?
+
+ 
+
+EDIT 2: (after my second post): Then again, if in a 3-4 player you still have only one hero start the game as prisoner in Escape from Dol Guldur, then maybe you SHOULD have 2 Nazguls waiting to swoop down once the prisoner has been rescued.
+
+Edited July 22, 2014 by TwiceBornh
+
+## 5 [PsychoRocka on July 23, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1166022)
+
+Yeah it just wouldn't work dude, there are x copies of every encounter card for a reason. Doubling them would completely change the scenario. Also imagine the potential draws you could get, four hill trolls in a row on Jdta... No thanks
+
+## 6 [TwiceBorn on July 23, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1166067)
+
+I know it would be ugly, but… if you can face 2 hill trolls in a row in a 1- or 2-player game (rare, but does happen), is facing up to 4 hill trolls in a 3- or 4-player game that different (especially when some may turn up as "effectless" shadow cards)? 
+
+ 
+
+Again, the ratio of specific encounter cards to players would not change… so I'm not convinced that it would completely change the scenario. It sounds to me like 3- or 4-player mode without doubling the size of the encounter deck would make scenarios significantly easier by the fact that the ratio of enemies and locations with VPs would be decreased vis-a-vis the number of players (although being pummelled by Evil Storm after Evil Storm and Necromancer's Reach after Necromancer's Reach in a "doubled" deck admittedly would be brutal if Eleanor or A Test of Will were unable to block them!).
+
+ 
+
+But maybe I actually need to try 3- or 4-player mode with JatA and the two different deck styles, and to play a lot more scenarios (I've only played the 3 Core and Hunt for Gollum so far) before I keep going with this train of thought (finally gave in and bought a second Core set this week, but have yet to play 3-4 player mode).  ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+ 
+
+(Also see Edit 2 to my previous post).
+
+Edited July 22, 2014 by TwiceBornh
+
+## 7 [entMoot on July 23, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1166105)
+
+When you have 4 players revealing off the original encounter deck at once, you are going to dig through it quickly and have much higher probabilities to reveal nasty effects (2nd Hill Troll, Necromancer's Reach, Evil Storm, etc.) than when you play with 1-2 players. Seeing that 2nd Hill Troll and the Marsh Adder on turn 2 of JatA is likely going to cost you some threat and/or damage on heroes. In many cases this at least balances out the fact that they have victory points. Even if you collect those victory points, having to do so hasn't made the quest easier to see those enemies more often and/or earlier.
+
+ 
+
+If we are departing from the core rules, I do think there is an interesting variant format to be had with "player-constructed" encounter decks. I haven't tried this yet, but could see giving it a go in the future.
+
+ 
+
+EDIT: Not to mention that doubling the encounter deck for APs requires another copy of the AP. This could get spendy if you are the sole proprietor of LotR LCG in your group.
+
+Edited July 22, 2014 by entMoot
+
+## 8 [PsychoRocka on July 23, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1166289)
+
+> I know it would be ugly, but… if you can face 2 hill trolls in a row in a 1- or 2-player game (rare, but does happen), is facing up to 4 hill trolls in a 3- or 4-player game that different (especially when some may turn up as "effectless" shadow cards)? 
+> 
+>  
+> 
+> Again, the ratio of specific encounter cards to players would not change… so I'm not convinced that it would completely change the scenario. It sounds to me like 3- or 4-player mode without doubling the size of the encounter deck would make scenarios significantly easier by the fact that the ratio of enemies and locations with VPs would be decreased vis-a-vis the number of players (although being pummelled by Evil Storm after Evil Storm and Necromancer's Reach after Necromancer's Reach in a "doubled" deck admittedly would be brutal if Eleanor or A Test of Will were unable to block them!).
+> 
+>  
+> 
+> But maybe I actually need to try 3- or 4-player mode with JatA and the two different deck styles, and to play a lot more scenarios (I've only played the 3 Core and Hunt for Gollum so far) before I keep going with this train of thought (finally gave in and bought a second Core set this week, but have yet to play 3-4 player mode).  ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+> 
+>  
+> 
+> (Also see Edit 2 to my previous post).
+
+Yeah honestly just give everything a go as is and you'll see it works fine, it can be a pain to reshuffle the encounter deck but its not so bad once you get used to it. Also with the whole hill troll situation, certain players may have decks not well suited for combat or holding enemies off and so cannot take on a hill troll (certainly not early game) and may lose purely because another more combat oriented deck/player could not engage that hill troll cause they have already engaged another of the four.
+
+## 9 [TwiceBorn on July 23, 2014](https://community.fantasyflightgames.com/topic/111292-help-with-first-encounter-deck-setup-for-4-players/?do=findComment&comment=1166558)
+
+Very well, I concede before the logic of PR and entMoot's well-reasoned points. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] 
+
+ 
+
+pericles 3, stick to the one encounter deck. 
+

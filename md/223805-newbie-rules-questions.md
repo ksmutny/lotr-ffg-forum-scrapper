@@ -1,0 +1,52 @@
+# [Newbie Rules Questions](https://community.fantasyflightgames.com/topic/223805-newbie-rules-questions/)
+
+## 1 [SuperData on June 30, 2016](https://community.fantasyflightgames.com/topic/223805-newbie-rules-questions/?do=findComment&comment=2288264)
+
+i think i know the answer to these questions, but its always nice to have confirmation.
+
+ 
+
+aragorn's ability from the core set: i would assume he has to have a resource token on him prior to starting the quest phase?  aragorn and theo dont commit at the exact same time so theo can feed aragorn's ability, correct?
+
+ 
+
+the location that requires the first player to discard two random cards, you have to have the two cards before you can travel there, correct?  it is the cost of going there?  i cant travel there with no cards in hand or only one card in hand, right?
+
+ 
+
+caught in a web...if you choose not to or cant ready your hero, that hero is out of commission for anything until you ready them, correct?  they can't commit to quests or defend or anything until ready, correct?
+
+ 
+
+once you exhaust your hero with an attachment that requires exhausting, can you still exhaust the attachment?  must you exhaust the attachment prior to exhausting the hero?
+
+ 
+
+Thanks for the clarification and sorry if these have been asked a million times already.
+
+## 2 [NathanH on June 30, 2016](https://community.fantasyflightgames.com/topic/223805-newbie-rules-questions/?do=findComment&comment=2288806)
+
+1) A player commits his characters all at once. So if one player controls both Aragorn and Theodred, they commit simultaneously. Then, that player activates the two Responses in whichever order they choose. So they could activate Theodred's Response first to provide Aragorn with the resource he needs to ready. On the other hand, it's important to note that if the first player controls Theodred, he commits before the second player gets a chance to commit, and so Theodred can never provide resources to players later in the turn order.
+
+ 
+
+2) Yes, it's listed as a travel cost, so must be paid in full before travelling there. Note that if the card said "Forced: After you travel to Necromancer's Pass, the first player discards two cards at random from his hand" then the first player could travel there even with 1 or 0 cards.
+
+ 
+
+3) Correct, except in unusual cases, characters that are exhausted cannot commit to quests, attack, defend, or do anything else that requires them to exhaust. They can still trigger any other effects that don't require exhausting, such as Glorfindel's healing ability. Caught in a Web also does not prevent readying via effects such as Aragorn or Unexpected Courage.
+
+ 
+
+4) Heroes and their attachments exhaust and ready completely independently. You can exhaust attachments on exhausted heroes.
+
+Edited June 30, 2016 by NathanH
+
+## 3 [SuperData on July 1, 2016](https://community.fantasyflightgames.com/topic/223805-newbie-rules-questions/?do=findComment&comment=2289882)
+
+Nathan, thanks for the reply.  not going to lie, i am somewhat surprised by the answer to #1, but i will play it that way from now on.  my wife and i played it that way when she first played with those characters, but once i played them and read them, i played it differently (aragorn needing the one resource before beginning the questing phase).  
+
+## 4 [Gorkil on July 15, 2016](https://community.fantasyflightgames.com/topic/223805-newbie-rules-questions/?do=findComment&comment=2311012)
+
+Well, we made our house-rule, which states that we are both committing to a quest together, which gives Theodred the option of giving the resource token to whomever he chooses – it’s way less confusing and it speeds the game up a bit, not having to constantly remind ourselves who the first player is and what order the turn is – it just doesn’t matter to us AS MUCH – since questing then is resolved for both players at the same time, what’s the problem in committing all of our heroes and allies to the same quest at the same time. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+

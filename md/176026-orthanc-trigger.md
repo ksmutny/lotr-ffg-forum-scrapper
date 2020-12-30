@@ -1,0 +1,24 @@
+# [Orthanc trigger](https://community.fantasyflightgames.com/topic/176026-orthanc-trigger/)
+
+## 1 [DukeWellington on May 12, 2015](https://community.fantasyflightgames.com/topic/176026-orthanc-trigger/?do=findComment&comment=1616267)
+
+So the trigger on Orthanc says that after players quest successfully they have to look at the top three encounter cards and reveal one, discarding the others. This is basically the same trigger as in the Hunt for Gollum from so long ago. The FAQ (1.24) discusses this trigger and says that questing successfully and physically placing progress are "two separate game occurrences that happen in sequence during the Quest Resolution step." This doesn't really make sense to me, but I will just accept it and go by the letter of the law.
+
+ 
+
+Let's say I quest for 8 and the total threat in the staging area is 7. After determining that I have quested successfully I look at the top three cards and choose to put into play Underground Armoury, which has 4 threat and 3 quest points.
+
+ 
+
+1. Do I raise my threat? Even though I quested successfully, the threat after Underground Armoury is revealed is now 11, which is 3 higher than my willpower, so do I still raise my threat? In the core rules and in the FAQ I see no place that says that raising threat can result from questing successfully, so I would assume the answer is no, but I want to make sure.
+
+ 
+
+2. Is there an action window in which I can use the Quest Action on Breaking Isengard 2B? There it says, "Exhaust Ent of Fangorn to place 2 progress on a non-unique location" If I have 2 Ent of Fangorn allies under my control I can activate this action twice and clear the Underground Armoury. I know that I have an action window after staging but before quest resolution, but do I have an action window after the Orthanc trigger but before physically placing progress? My assumption is no, but I was not sure.
+
+Edited May 12, 2015 by DukeWellington
+
+## 2 [ricedwlit on May 12, 2015](https://community.fantasyflightgames.com/topic/176026-orthanc-trigger/?do=findComment&comment=1616375)
+
+Regarding the first question: no, you don't raise your threat. Once you've determined that you've quested successfully (and therefore how much progress you get to place), you don't go back to recalculate if more card are added to the staging area. All the recalculation takes place before you resolve the questing (for example, you realize that you are going to come short so you decide to use Asfaloth or play Secret a paths to temporarily neutralize a location's threat).
+
