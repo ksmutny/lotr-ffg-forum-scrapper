@@ -17,6 +17,7 @@
     },
     "scripts": {
         "parse": "ts-node src/parse.ts",
-        "scrape": "ts-node src/scrape.ts"
+        "scrape": "ts-node src/scrape.ts",
+        "search": "ts-node src/search.ts"
     }
 }

@@ -28,3 +28,7 @@ The following attributes are stored for each Rule question:
   * Content in Markdown format (converted from HTML)
 
 Now the data is in a format easy to process programatically to look for official rulings to be preserved.
+
+Official rulings are searched by `search.ts` script and currently only look for an occurence of name Caleb, one of the designer. All posts with such an occurence are stored in `rulings` folder, with the original question and only relevant comments.
+
+    npm run search

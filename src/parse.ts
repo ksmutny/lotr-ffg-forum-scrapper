@@ -24,8 +24,8 @@ const articleRegex = new RegExp(`<article.*?>.*?${metadataPattern}.*?${commentUr
 
 fs.readdirSync(inputDir).forEach(fileName => {
     const post = parsePost(inputDir + '/' + fileName)
-    saveAsJson(outputJsonDir + '/' + stripExtension(fileName) + '.json', post)
-    saveAsMd(outputMdDir + '/' + stripExtension(fileName) + '.md', post)
+    saveAsJson(outputJsonDir + '/' + stripExtension(fileName, '.html') + '.json', post)
+    saveAsMd(outputMdDir + '/' + stripExtension(fileName, '.html') + '.md', post)
 })
 
 
@@ -80,6 +80,6 @@ export function saveAsMd(fileName: string, post: Post) {
     writeToFile(fileName)(text)
 }
 
-function stripExtension(fileName: string) {
-    return fileName.replace('.html', '')
+export function stripExtension(fileName: string, ext: string) {
+    return fileName.replace(ext, '')
 }
