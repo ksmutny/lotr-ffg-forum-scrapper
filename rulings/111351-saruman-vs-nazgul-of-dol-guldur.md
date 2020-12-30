@@ -1,0 +1,24 @@
+# [Saruman vs. Nazgul of Dol Guldur?](https://community.fantasyflightgames.com/topic/111351-saruman-vs-nazgul-of-dol-guldur/)
+
+## 1 [soulred on July 21, 2014](https://community.fantasyflightgames.com/topic/111351-saruman-vs-nazgul-of-dol-guldur/?do=findComment&comment=1163670)
+
+Hey all, hopefully this isn't a silly question, and maybe I'm just reading the cards wrong or overlooking something, but here goes.
+
+ 
+
+So I was scratching my head trying to figure out how to win Escape from Dol Guldur solo when I noticed Nazgul of Dol Guldur is not considered unique... This got me wondering, if I used Saruman's ability while on stage 3B to target the Nazgul (assuming it is still in the staging area) could I win without having to fight it if I complete the stage before Saruman leaves play at the end of the round? The quest never states you have to defeat the Nazgul, just that it has to be "not in play". Is there a difference between being "not in play" and "considered out of play", as per Saruman's response ability when he enters play?
+
+ 
+
+Thanks!
+
+## 2 [alogos on July 21, 2014](https://community.fantasyflightgames.com/topic/111351-saruman-vs-nazgul-of-dol-guldur/?do=findComment&comment=1163694)
+
+Yes, we asked that in France. Here's Caleb answer :
+
+> Q: Regarding the new Ally Saruman, when using it on key cards like the Nazgul in Escape From Dol Guldur, does it allow the player to win more easily? The power of Sauron is quite tempting...
+> 
+> A: Saruman's ability is very powerful. You can use his effect to remove the Nazgul of Dol Guldor from play long enough to escape Out of the Dungeons.
+> 
+>  
+
