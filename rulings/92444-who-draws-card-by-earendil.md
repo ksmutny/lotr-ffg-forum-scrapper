@@ -44,3 +44,25 @@ Good question....
 
 I've only quoted the rules, but i stand corrected with the rulling from Caleb.
 
+## 5 [alogos on October 24, 2013](https://community.fantasyflightgames.com/topic/92444-who-draws-card-by-earendil/?do=findComment&comment=895734)
+
+>  
+> 
+>  
+> 
+> 
+> 
+> So when a shadow effect says "discard an attachment you control," are you discarding cards from your hand?
+> 
+> Good question....
+> 
+>  
+> 
+> I've only quoted the rules, but i stand corrected with the rulling from Caleb.
+> 
+>  
+
+ 
+
+I think that the "a player control all cards that he owns" is implicitly limited to cards that are in play.
+

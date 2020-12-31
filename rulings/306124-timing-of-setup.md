@@ -105,3 +105,55 @@ I feel like the powers that be have commanded Caleb to not rest until we have t
 
 🤣... 😂 ... 😭 ... 😥 ... ☹️ ... 💀
 
+## 10 [Alonewolf87 on April 18, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3928658)
+
+> On 4/15/2020 at 6:59 PM, GrandSpleen said:
+> 
+> You can literally fix all of these problems by keeping Setup effects where they originally were and errata-ing Grey Wanderer to specify that the 1-cost attachment can't be Guarded, right?
+> Why don't we just...
+
+I am engaging in a long back and forth with Caleb about this issue, and he might consider reversing his ruling and going back to the previous handling of player Setup effects. I will keep you posted.
+
+## 11 [AllWingsStandyingBy on April 20, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3929197)
+
+> On 4/18/2020 at 3:08 AM, Alonewolf87 said:
+> 
+> I am engaging in a long back and forth with Caleb about this issue, and he might consider reversing his ruling and going back to the previous handling of player Setup effects. I will keep you posted.
+
+
+["You have MY sword" meme]
+
+## 12 [Alonewolf87 on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930567)
+
+Caleb says he will take some time to check all the rules/rulings again when he has all his material available (since right now he is not going to the office to work) and look at the whole matter again.
+
+One thing he said is that if you Grey Wanderer a Guarded attachment which get some stuff out of the encounter deck which is then put aside during the quest card setup he would imagine that the Guarded attachment is put aside with the encounter card.
+
+## 13 [RogueSeventeen on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930701)
+
+> 4 hours ago, Alonewolf87 said:
+> 
+> Caleb says he will take some time to check all the rules/rulings again when he has all his material available (since right now he is not going to the office to work) and look at the whole matter again.
+> 
+> One thing he said is that if you Grey Wanderer a Guarded attachment which get some stuff out of the encounter deck which is then put aside during the quest card setup he would imagine that the Guarded attachment is put aside with the encounter card.
+
+A grey wanderer guarded card at step 2 is still problematic.  You can easily discard some cards that don't fit the guarded requirements that the quest cards will tell you to search the encounter deck for and you've already reached a null state.  You can still "cheat" guarded cards in for free in quests like Watcher in the Water 1B where you add cards into the staging area until there is X [Threat].  I feel like they're a host of many other quest-specific problems but I can't think of them all off the top of my head.
+
+There is a ruling you can make to fix these issues, avoiding the much abhorred errata of a new card (which is way more of a taboo to designers than players) or disastrous Set-Up changes.  In step 2, when Side A instructs you to put it into play, just sit the guarded card in the staging area.  Then, at the end of step 7, when the quest is set-up and ready, deal it a guarded card.  It's a little wonky, but it fixes every problem and I think it is the truest implementation of how everything is supposed to work.
+
+ 
+
+## 14 [Alonewolf87 on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930703)
+
+> 6 minutes ago, RogueSeventeen said:
+> 
+> A grey wanderer guarded card at step 2 is still problematic.  You can easily discard some cards that don't fit the guarded requirements that the quest cards will tell you to search the encounter deck for and you've already reached a null state.  You can still "cheat" guarded cards in for free in quests like Watcher in the Water 1B where you add cards into the staging area until there is X [Threat].  I feel like they're a host of many other quest-specific problems but I can't think of them all off the top of my head.
+> 
+> There is a ruling you can make to fix these issues, avoiding the much abhorred errata of a new card (which is way more of a taboo to designers than players) or disastrous Set-Up changes.  In step 2, when Side A instructs you to put it into play, just sit the guarded card in the staging area.  Then, at the end of step 7, when the quest is set-up and ready, deal it a guarded card.  It's a little wonky, but it fixes every problem and I think it is the truest implementation of how everything is supposed to work.
+
+The easiest way, already suggested by lot of people in this forum and which I put to Caleb's attention, to avoid this problem is to put a "no Guarded" restriction to the attachment played through The Grey Wanderer.
+
+## 15 [Catastrophic09 on July 31, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3967985)
+
+Setup for contracts should still happen in step 2, it only makes sense and changing it to step 7 messes everything up. I strongly disagree with Caleb's ruling and hope he changes it back-we can of course play how we want but this just annoys me knowing a poor ruling was made that should now be "official". As for Grey Wanderer simply say search your deck for a 1 cost attachment and set it aside, put it into play at the end of setup. There, now there is no issue with any scenario's setup or guarded cards since there wasn't a problem to begin with as there was an encounter deck by step 2.
+

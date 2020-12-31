@@ -89,3 +89,132 @@ Flame-of-Anor.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/T
 That's the problem .. Flame of Arnor has the additional costs which makes the "to" important. And so your Istari character has to be exhausted.
 I think, i will link Caleb this thread, so he can read it.. and decide.
 
+## 7 [JanB on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3202862)
+
+> On 5.2.2018 at 3:06 PM, JanB said:
+> 
+> That's the problem .. Flame of Arnor has the additional costs which makes the "to" important. And so your Istari character has to be exhausted.
+> I think, i will link Caleb this thread, so he can read it.. and decide.
+
+So .. here is my follow up conversation with Caleb:
+
+> Quote
+> Hi Jan,
+> You mention in the thread that you’re waiting for my reply, but I don’t see a question in your email. Please let me know what it is you would like me to clarify.
+> Cheers,
+> Caleb
+
+ 
+
+> Quote
+> 
+> Dear Caleb,
+> 
+> i'm sorry for that.
+> I hoped that the discussion makes clear that some of the people think about Flame of Arnor should be revised, too. 
+> In one of my comments i pointed out that the 'to' in Flame of Arnor came from the additional costs you have to pay. Otherwise it would be worded like BSW.
+> For me .. your revision of BSW is not what i expected. I thought the intention of this card was to ready a defending Gondor character. Playing this card on a ready character seems odd.
+> But it's your game, you make the rules. :-)
+> Regards,
+> Jan
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> A good number of the rules questions that I get have to do with the intention of a card vs its actual language. I agree with you that the intention of BSW is that you ready the defending character, that is why my initial answer was that the defending character must be exhausted to be a legal target. However, as I examined the language closer with my coworkers, it became clear that the language on the card does not target an ‘exhausted’ defending Gondor character - just a defending Gondor character. Therefore, it is not a requirement that they be exhausted.
+> It’s not a surprise to me that I made a past ruling for Flame of Anor that conflicts with my current BSW ruling because it was only after the recent conversation I mentioned that I realized these events do not explicitly target exhausted characters. So I must reverse my FoA ruling as well to say that you can play it on a ready Istari character. 
+> Cheers,
+> Caleb
+
+ 
+
+> Quote
+> 
+> Hi Caleb,
+> glad that you are thinking about another revision.
+> But i hoped our conversation goes into the other direction. 
+> That it is mandatory to ready a character if an event or attachment  (like Amored Destrier) tell you to ready one. 
+> Regards, 
+> Jan 
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> Armored Destrier uses the word ‘then’ in its structure, so you have to ready the attached character in order to discard the shadow card. But BSW and FoA don’t use the word ‘then', so readying the target character is not a condition that must be fulfilled in order to trigger the second part of the effect.
+> Cheers,
+> Caleb
+
+ 
+
+## 8 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203552)
+
+> 8 hours ago, GrandSpleen said:
+> 
+> Here are some things you can do with this, that i thought you couldn't do
+
+Not all of these work. It's not that Caleb ruled that you can ready a ready character; his ruling is about targeting and the applicability of a second sentence using "that character" in compound effects.
+
+Thus, each of your examples that purely ready—e.g., Boromir, Cram, ally Glorfindel—cannot be used as you say, since they have no effect other than to ready some character. Spare Hood shouldn't be valid either, as its second sentence starts with "Then".
+
+In other words, you can't pay the costs to do something if there would be no effect OTHER than the cost payment.
+
+It would indeed be a boost to Narya, Tale of Tinuviel, Taste It Again!, and Boomed & Trumpeted compared to how I'd been playing them, though.
+
+Edited February 7, 2018 by sappidus
+
+## 9 [GrandSpleen on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203577)
+
+Caleb's explanation above just mentions that Behind Strong Walls can target a ready Gondor character because it doesn't explicitly state that the character needs to be exhausted.  He repeated that point when discussing Flame of Anor, but didn't mention a secondary effect as requisite for that point to remain true.  So currently it seems that you can do all of the things I typed above.  
+
+If your deck is empty, I wonder can you play Mithrandir's Advice?  Same idea here, paying a cost for no effect.
+
+(whoops, you're right, no Cram on allies, but Spare Hood & Cloak and Born Aloft are 0-point attachments that would also work, should we ever see a Dale ally that is returned to hand)
+
+ 
+
+## 10 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203583)
+
+> 4 minutes ago, GrandSpleen said:
+> 
+> Caleb's explanation above just mentions that Behind Strong Walls can target a ready Gondor character because it doesn't explicitly state that the character needs to be exhausted.  He repeated that point when discussing Flame of Anor, but didn't mention a secondary effect as requisite for that point to remain true.  So currently it seems that you can do all of the things I typed above.  
+
+I disagree on your interpretation of Caleb's words, but I'm sending in a specific query to see if you can ready a ready character in lieu of other effects.
+
+## 11 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203635)
+
+ 
+
+> Quote
+> 
+> My ruling regarding Behind Strong Walls and Flame of Anor was not to say that you can ready character who is already ready. The ruling I gave was that neither of those cards explicitly target an exhausted character. Both of those cards have additional effects that can be resolved even if the target character is not exhausted. BSW gives +1 DEF and Flame of Anor gives an attack boost. Therefore, both cards have the potential to affect the board even if the target character is not readied.
+> 
+> If a card’s only effect is to ready a character, then you cannot play it on a ready character because it will not affect the board. So if Boromir is ready,  you cannot raise your threat by 1 to ready him because it has no effect. Similarly, you cannot play Ever Vigilant to ready an ally who is ready because again it has no effect.
+> 
+> Cheers, Caleb
+
+ 
+
+## 12 [dalestephenson on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203892)
+
+Technically, Caleb is NOT saying you can "ready a ready character".  He's just saying that if an action/response affecting a character *includes* readying, you can still do it to a ready character if it does something *else* that affects the character.  BSW doesn't ready a ready Gondor defender, but it still can be played to give a Gondor defender +1 defense.
+
+## 13 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203926)
+
+> 8 minutes ago, dalestephenson said:
+> 
+> Technically, Caleb is NOT saying you can "ready a ready character".  He's just saying that if an action/response affecting a character *includes* readying, you can still do it to a ready character if it does something *else* that affects the character.  BSW doesn't ready a ready Gondor defender, but it still can be played to give a Gondor defender +1 defense.
+
+In fact, Caleb explicitly said If a card’s only effect is to ready a character, then you cannot play it on a ready character because it will not affect the board, which is close to saying you cannot ready a ready character.
+
+This whole set of rulings is in keeping with a previous partial-fulfillment ruling:
+
+(Please note that I am linking only the explicit ruling, not my commentary in that post [which was subsequently shown to be incorrect]. I still don't get the Daeron's Runes ruling lower in that thread and what it means for the semantics of "then", though it is irrelevant to our current discussion.)
+
+## 14 [GrandSpleen on February 16, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3216324)
+
+No, you can't (Caleb's quoted ruling a few posts above this one makes it clear).
+

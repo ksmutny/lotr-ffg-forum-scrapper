@@ -46,3 +46,9 @@ If we see cards with "Surge 2" on them in the Dream-Chaser cycle, I'm blaming yo
 
 Orc Horn-blower already has the equivalent of Surge 2, and Night Without End(?) from Helm's Deep can "gain Surge 2". I think Caleb already had the idea...
 
+## 6 [ppsantos on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1826595)
+
+I don't consider it "official" ruling unless it is included in the rule book or the Official FAQ.  If it's not in the Official FAQ, then it's 'unofficial' ruling, as far as I'm concerned, even if it came from Caleb, or any other FFG persona.
+
+Edited September 30, 2015 by ppsantos
+

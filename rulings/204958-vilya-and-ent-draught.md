@@ -67,3 +67,36 @@ I just sent an email myself, I hope he doesn't mind.
 
  
 
+## 5 [Teamjimby on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094773)
+
+I got a similar response from Caleb, although I also asked about events like Strength of Arms and Ranger Summons if you don't meet the requirements.  Since Vilya counts as playing those events (you aren't putting them into play), you still need to meet the requirements.  It only lets you cheat into play attachments and allies (if there are any) because you are putting them into play.
+
+## 6 [PsychoRocka on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095408)
+
+Wow so I was actually right and it eliminates ALL COSTS including "additional" ones on top of resource cost. 
+
+See I knew the card text indicated that was the case.
+
+ 
+
+> I got a similar response from Caleb, although I also asked about events like Strength of Arms and Ranger Summons if you don't meet the requirements.  Since Vilya counts as playing those events (you aren't putting them into play), you still need to meet the requirements.  It only lets you cheat into play attachments and allies (if there are any) because you are putting them into play.
+
+This makes perfect sense to me because Strength of Arms requires you to have all leadership heroes to play the card and does not mention cost in any way. Because something like Thicket of Spears specifically refers to the fact you have to pay the cost with all tactics resources Vilya gets around it but whether you are playing Strength of Arms for free or for 2 resources you still need each of your heroes to have a printed leadership icon to even use the card to begin with. 
+It isn't that it only lets you cheat attachments and allies, if you look at Seastans post you can even play cards like Thicket of Spears and Skyward Volley with Vilya, but rather only removes all cost from a card. If there are additional stipulations (like on Strength of Arms where each hero needs to have a printed leadership icon) THEN Vilya can't work around them but it definitely can cheat into play events as well...
+
+## 7 [cmabr002 on April 23, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2183345)
+
+> I think most card effects either use "enter play" or ""when played from your hand" and I think it's clear that one of these does not work with Vilya and one of them does. Erebor Hammersmith is an interesting exception though.
+
+ 
+
+I have received a ruling from Caleb regarding this situation that, to my knowledge, had never been answered by a developer until now, though I may have overlooked it.
+
+ 
+
+> Q: If you exhaust Elrond and Vilya to reveal an ally on the top of your deck can you : 1) put him into play at no cost, 2) play him at no cost, or 3) choose to play him at no cost or put him into play?
+> 
+>  
+> 
+> A: When you use Vilya’s ability and the top card of your deck is an ally or attachment, you put it into play. The added language about “play at no cost” is there for when the top card of your deck is an event, because you don’t put events into play.
+

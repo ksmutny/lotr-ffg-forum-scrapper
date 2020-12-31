@@ -171,3 +171,68 @@ rich
 
 And I'm not surprised, too :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] It is consistent with other LCG such as CoC.  Nice to know the official ruling, thanks Zeb!
 
+## 11 [zeb on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857408)
+
+> I am still not  convinced that this ruling is logical, but be it as it be. I'm going to send my example to FFG and I'm anxious to see their explanation.
+
+ 
+
+Leptokurt, it would be interesting you submit the "loop" you mentioned above. However, I had some thoughts about it: the Responses here are optional. So if there is a loop, it is only a matter of choice. Breaking the loop is just deciding not to do it (and play "A Test of Will" all over again). The only infinite loop problem would arise only if they both had a Forced effect.
+
+ 
+
+Now such kind of games have infinite loops sometimes that break the game. And it happend in the past with LOTR:
+
+ * 
+   : that one is a voluntary one that gave infinite resources. It is a voluntary one, and was fixed by errata'ing Beravor.
+ * Thalin passive effect also was errata'ed because - in part - of an infinite loop with the Surge effect on the Eastern Crows. So making the Thalin effect prior to Surge solved the issue. A lot of players from MTG were puzzled, because of the stack system. In LOTR, there is no stack, and effects are queued instead, with priorities.
+
+If what you say is an infinite loop, it can be fixed at two levels:
+
+ * Simply by errata'ing the cards responsible for it. It is a straightforward and easy way, but indeed not a global solution
+ * Changing or rather precising the rules about timings to prevent loops. This is probably the best solution, although it may be difficult to anticipate all situations and cards, especially those that bend rules with the Golden Rule.
+
+Regarding Caleb, do not forget he is not the only one to decide on rules. He has a team with him that playtest a lot, and he has already reverted rules in the past (e.g. attaching cards to Locations that cannot be targets of player effects).
+
+ 
+
+I really think that what we need is a refined turn sequence, which would help squash these interpretations, especially at trigger points.
+
+## 12 [Nerdmeister on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857814)
+
+I got the feeling lepto is on a mission to prove to the world how bad an idea he considers Caleb´s answer.
+
+ 
+
+Feel free to correct me if I´m wrong ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 13 [leptokurt on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857830)
+
+> I got the feeling lepto is on a mission to prove to the world how bad an idea he considers Caleb´s answer.
+> 
+>  
+> 
+> Feel free to correct me if I´m wrong ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Lol, to be honest Caleb's answer is mortially offending my philosophical view of the world. But this time I only try to get things right in my head.
+
+## 14 [leptokurt on September 6, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=859640)
+
+This is still silly. There is no other response. You only get the new response from the second Valiant Sacrifice as a result of another response. The other point is simply a PoV of how evebts proceeds - for me I have the following picture in mind:
+
+ 
+
+Say someone asks: "Who wants to have a pie?" Several people raise their hands. You count these people and everyone gets a pie. Everyone who comes later gets none.
+
+ 
+
+Caleb's picture is:
+
+ 
+
+Someone asks: "Who wants to have a pie?" Several people raise their hands. You count these people and everyone gets a pie. Everyone who enters later and raises their hands also gets a pie.
+
+ 
+
+So to me the logical approach is to look at one point if there are responses triggering. After that the window for triggering actions is closed. And not to travel back in time to use the trigger again. This is LoTR, not Marvel.
+

@@ -140,3 +140,29 @@ Without the Caleb's answer, in Cair andros, if you explore the last Cair Andros 
 
 Then Caleb's answer makes sense
 
+## 9 [13nrv on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015658)
+
+I agree with NathanH and krokodiler.
+
+ 
+
+Could we have a clarification on that from Caleb ? And maybe an insert in the next FAQ.
+
+## 10 [sappidus on June 19, 2018](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=3378593)
+
+> On 1/25/2016 at 4:40 PM, sappidus said:
+> 
+> If the active location is explored and at the same time the players make enough progress to defeat the current quest, the rules require that the players immediately advance to the next stage. This rule puts priority on resolving effects tied to the current quest before resolving effects tied to the active location. As a result, players must resolve any effects that trigger from defeating the quest before resolving any effects that trigger from exploring the active location. Therefore, The Long Defeat must be resolved before Elf-stone can be resolve﻿d﻿.
+> 
+> ﻿Cheer﻿s,
+> 
+> ﻿﻿﻿﻿﻿Caleb﻿
+
+Reversed here: 
+
+ 
+
+Apparently this will be in the next FAQ. [Source: the Palantir… I mean, Caleb in the CotR Discord.]
+
+Edited June 20, 2018 by sappidus
+

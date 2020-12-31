@@ -263,3 +263,94 @@ Edit: Actually that prevents the whole Wandering Took/Vanish from Sight problem 
 
 Edited July 1, 2016 by cmabr002
 
+## 15 [dalestephenson on July 1, 2016](https://community.fantasyflightgames.com/topic/219748-vanish-from-sight-o-elbereth-gilthonial/?do=findComment&comment=2290802)
+
+>  
+> 
+> >  
+> > 
+> > >  
+> > > 
+> > > >  
+> > > > 
+> > > > > Donkler, if you could, are you able to post the question you sent in and the response you got back word for word?  I'm interested in knowing if Caleb provided any additional insight as to the logic behind the ruling (if it was given) to know if it does indeed apply to the Song of Earendil, Wandering Took combination.
+> > > > 
+> > > >  
+> > > > 
+> > > > I suspect we'll soon see an errata that prevents you from voluntarily raising your threat beyond its limit (much like how you can't "assign" damage to a character beyond what's needed to defeat them).
+> > > > 
+> > > >  
+> > > 
+> > >  
+> > > 
+> > > Sadly, it doesn't really fix the abuse.  You can still reduce every other player's threat to <10 in a 4 player game.
+> > 
+> > If the Loragon player can't increase his real threat to 50+, then he can only do Song of Earendil/WanderingTook until he gets to 49 threat, which seems insufficient to reduce 3 other players threat to <10.  If you had 4 players with 27 threat each, Loragon's 22 spare threat could reduce each other player by about 7 each.  It's only if the new card allows the threat to go above 50 that the combo allows infinite threat reduction for the other players, once set up.
+> > 
+> >  
+> > 
+> > So there's four options:
+> > 
+> >  
+> > 
+> > 1) Have the new card not affect threat elimination.
+> > 
+> > 2) Put a limit on Song of Earendil
+> > 
+> > 3) Put a limit on Wandering Took
+> > 
+> > 4) Accept that a hero and a three card combo can drive other player's threat to zero.
+> > 
+> >  
+> 
+>  
+> 
+> You could start with <27 threat as the Lore Aragorn deck, though.  Then you increase to 49, reduce to starting threat, and go all the way back to 49 again.  It doesn't matter that you threat out soon thereafter because now the other players just win.  But regardless, this is a bit of a deviation from the original question regarding Vanish from Sight combining with an already somewhat problematic combination.
+> 
+>  
+> 
+> I cannot imagine option 4 being healthy for the game, but I think one of the other 3 may be incoming.  Three card combos are really easy to come by now-a-days.
+
+Certainly a three card combo is easy to come by with four players, and until Wandering Took is errataed you could have a suicidal lone-hero Loreagon deck that exists just to use up his (49-12)*2 available threat and die, requiring only a two-card combo.  Still, even if you set it up I don't think it's as a simple as "now the other players just win".  Unless it's a quest specifically designed to threat people out, they still have to do the fighting and questing to actually beat the quest, and secrecy cards aren't so powerful as to make it game over.  (Which is good, because otherwise the two quests that start by setting threat to zero wouldn't be interesting at all.)  And using the precious mulligan and first turn to prioritize getting Took and Earendil out won't help.
+
+ 
+
+Of course, I have a high tolerance for what's "healthy for the game".  Even if the three card combo with Loragon were legal, it's certainly not something you'd do by accident.  The existence of a carefully constructed game-breaking deck impacts only those who want to construct such decks and those who directly play with them.  This isn't a competitive game, so there's no inherent need to stomp out super-powerful decks.
+
+ 
+
+So what really impacts the health of the game, IMO, is not creative and powerful three-card combos, but errata preventing such.  When errata targets Master of Lore, or Horn of Gondor, and turns them from useful cards into coasters, *that* impacts the health of the game by restricting the card pool for everyone.  I fear the cure much more than the disease.
+
+ 
+
+With that said, I see no issues with limiting Wandering Took to once per phase.  That's the kind of nerf I like, limiting the top end while having the common functionality unchanged.  Once per phase doesn't even prevent Loragon/Earendil/Took highjinks, but it'll take way longer.
+
+## 16 [cmabr002 on August 23, 2016](https://community.fantasyflightgames.com/topic/219748-vanish-from-sight-o-elbereth-gilthonial/?do=findComment&comment=2380243)
+
+Source (also above):
+
+ 
+
+>  
+> 
+>  
+> Here is what Caleb responded with to some followup questions. He mentions the combo specifically, so probably will be some errata soon!
+>  
+> 
+> 
+> From Me:
+>  
+> Does Vanish from Sight keep you from being eliminated due to reaching 50 threat?
+>  
+> If you use Vanish from Sight in the Refresh phase can you use Lore Aragorn's ability to reset your dial to your starting threat level? If so, does your starting threat level have to be < 20 since his ability specifically says "reduce"?
+>  
+>  
+> From Caleb:
+>  
+> Vanish from Sight will prevent you from being eliminated when your actual threat climbs over 20, but only until the end of the phase.
+> If you play Vanish from Sight in the refresh phase, you can still use Aragorn’s ability, but only if your starting threat was less than 20 because it says “reduce.” If your starting threat was higher than 20, then you cannot “reduce” your threat by increasing it.
+>  
+> The real problem with the Wandering Took, Light of Earendil, Vanish from Sight + Loreagorn combo is the limitless Action on Wandering Took. I expect that Wandering Took will receive an errata to limit its Action to “once per phase” to prevent such abuses.
+> 
+>  
+

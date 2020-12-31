@@ -48,3 +48,17 @@ If you play Sting and there is no enemy in the encounter deck, the rules tell yo
 
 I don’t think you would reshuffle the encounter deck for that effect though, since it’s during the travel phase. Only if the card actually tells you to do so.
 
+## 4 [sappidus on February 19, 2019](https://community.fantasyflightgames.com/topic/287829-questions-we-know-the-answers-to-but-want-to-ask-anyway/?do=findComment&comment=3628310)
+
+Reference ruling:
+
+Of ancillary interest, as I do not believe this has been reproduced on the forum before (this was shared on Discord in 10/2017):
+
+
+
+> When you play an ally with Hirgon's ability, his reduction has to be applied first because it is part of his effect. That works out nicely for [Spirit] Theoden since reduction (to a minimum of 0) is then applied after.
+> 
+> Cheers, Caleb
+
+
+

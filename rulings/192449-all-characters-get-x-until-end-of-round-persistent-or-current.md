@@ -218,3 +218,50 @@ For clarity, the card I was referring to is http://hallofbeorn.com/Cards/Detail
 
 I can see how most readings of that card would agree with "Oh sure, if that's a lasting effect.. I get it." But it isn't "give" or "get"... which truly reads like a one time thing!
 
+## 9 [Teamjimby on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014514)
+
+FYI:
+
+> Hi Jim,
+> This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+> Cheers,
+> Caleb
+> 
+>  
+
+## 10 [JanB on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014561)
+
+> What happens if you combine these two cards?  Galadriel boosts Bilbo, Bilbo boosts Galadriel, loop continues.  Infinite willpower on both of them?
+> 
+> The-Lucky-Number.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.png]Nenya.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbor%27s-Secret/Nenya.jpg]
+
+ 
+
+Hi Jan,
+
+This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+
+Cheers,
+
+Caleb
+
+ 
+
+## 11 [Ecthelion III on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014846)
+
+> > What happens if you combine these two cards?  Galadriel boosts Bilbo, Bilbo boosts Galadriel, loop continues.  Infinite willpower on both of them?
+> > 
+> > The-Lucky-Number.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.png]https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbor's-Secret/Nenya.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbors-Secret/Nenya.jpg]
+> 
+>  
+> 
+> Hi Jan,
+> 
+> This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+> 
+> Cheers,
+> 
+> Caleb
+
+Welp, looks like the ruling on Gondorian Fire and Blood of Numenor may just have gone out the window AGAIN!!! (or maybe not; what was the last verdict on that?)
+

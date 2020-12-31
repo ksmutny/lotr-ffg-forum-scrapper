@@ -70,3 +70,31 @@ Did not expect that one! Westfold Outrider just got a whole lot better for me, l
 
 I think you should ask Caleb again because it's not clear in which action window the first player discards the outrider here :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
 
+## 8 [Teamjimby on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652328)
+
+Not nearly enough detail.  Many of the timing questions on these forums can't be answered by that chart and we are left to speculate or ask Caleb.
+
+## 9 [Chris51261 on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652480)
+
+They didn't make those green because they felt like it, because they have text added for clarification that isn't green. I can't argue with you if you think the chart in the back of the book is fine, because it's downright awful. Even the description of what the colors mean is really bad. Green "generally" means you can take actions? Maybe when the game first came out that was an okay chart, but it's certainly not anymore. I've sent an email to Caleb, since as mentioned, that's the only way to resolve things when dealing with action windows and timing.
+
+## 10 [JanB on February 14, 2017](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=2639474)
+
+Because no one asks Caleb .. i did it:
+
+> Quote
+> 
+> Dear Caleb,
+> thank you for your latest answer to my questions. After playing with tactic-Aragorn and some stuff which let me engage enemies during their attacks some questions came up i hope that you can help and answer them. First .. Combat Phase .. the enemies will attack first in their "Resolving Enemy Attacks"-Step. In the rule it is described that the players could do action after each of the four steps. Is their an action window before an enemy attack which is not the same action window after Determine Combat Damage? There are 3 threads in your forum which discuss about this "potenial" action window.
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> There is no mystery action window hidden in the combat phase. There is an action window after shadow cards are dealt, and then the first enemy attacks. Once the first enemy attacks, the only action windows are the ones that follow each step of resolving those attacks.
+> Cheers,
+> Caleb
+
+ 
+
