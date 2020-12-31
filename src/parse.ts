@@ -1,14 +1,14 @@
 import * as fs from 'fs'
 import { htmlToText } from 'html-to-text'
-import { writeToFile } from './io'
+import { mkDirIfNotExists, writeToFile } from './io'
 
 
 const inputDir = 'html'
 const outputJsonDir = 'json'
 const outputMdDir = 'md'
 
-try { fs.mkdirSync(outputJsonDir) } catch {}
-try { fs.mkdirSync(outputMdDir) } catch {}
+mkDirIfNotExists(outputJsonDir)
+mkDirIfNotExists(outputMdDir)
 
 
 const dateFormat = Intl.DateTimeFormat('en-US', { day: 'numeric', month: 'long', year: 'numeric' })
@@ -23,9 +23,22 @@ const articleRegex = new RegExp(`<article.*?>.*?${metadataPattern}.*?${commentUr
 
 
 fs.readdirSync(inputDir).forEach(fileName => {
-    const post = parsePost(inputDir + '/' + fileName)
-    saveAsJson(outputJsonDir + '/' + stripExtension(fileName, '.html') + '.json', post)
-    saveAsMd(outputMdDir + '/' + stripExtension(fileName, '.html') + '.md', post)
+    const fileNameFrom = (topic: string, page: number) => `${inputDir}/${topic}#${page}.html`
+    const [, topic, , page] = fileName.match('(.*?)(#(\\d+))?\\.html')
+
+    if (!page) {
+        const post = parsePost(inputDir + '/' + fileName)
+
+        let next = 2
+        while (fs.existsSync(fileNameFrom(topic, next))) {
+            const nextPost = parsePost(fileNameFrom(topic, next))
+            post.comments = post.comments.concat(nextPost.comments)
+            next++
+        }
+
+        saveAsJson(outputJsonDir + '/' + topic + '.json', post)
+        saveAsMd(outputMdDir + '/' + topic + '.md', post)
+    }
 })
 
 
@@ -45,6 +58,7 @@ export interface Post {
 
 
 export function parsePost(fileName: string): Post {
+    console.log('reading ' + fileName)
     const html = fs.readFileSync(fileName, 'utf8')
     const [, url] = html.match(postUrlRegex)
     const [, title] = html.match(postTitleRegex)
