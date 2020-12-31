@@ -1,20 +1,23 @@
 import * as fs from 'fs'
-import { Post, Comment, saveAsMd, stripExtension } from './parse'
+import { mkDirIfNotExists } from './io'
+import { Thread, Comment, saveAsMd } from './thread'
 
 
 const inputDir = 'json'
 const outputDir = 'rulings'
 
-try { fs.mkdirSync(outputDir) } catch {}
+mkDirIfNotExists(outputDir)
 
 
 const officialRulingRegex = new RegExp('caleb', 'i')
 
 fs.readdirSync(inputDir).forEach(fileName => {
-    const post: Post = JSON.parse(fs.readFileSync(inputDir + '/' + fileName, 'utf8'))
+    const [, topic] = fileName.match('(.*)\\.json')
+    const post: Thread = JSON.parse(fs.readFileSync(inputDir + '/' + fileName, 'utf8'))
+
     const officialRulings = findOfficialRulings(post)
     if (officialRulings.length > 0) {
-        saveAsMd(outputDir + '/' + stripExtension(fileName, '.json') + '.md', {
+        saveAsMd(outputDir + '/' + topic + '.md', {
             url: post.url,
             title: post.title,
             comments: officialRulings
@@ -23,12 +26,12 @@ fs.readdirSync(inputDir).forEach(fileName => {
 })
 
 
-export function findOfficialRulings(post: Post): Comment[] {
+export function findOfficialRulings(thread: Thread): Comment[] {
     const hasOfficialRuling = (comment: Comment) => comment.content.search(officialRulingRegex) !== -1
 
-    const [question, ...comments] = post.comments
+    const [question, ...comments] = thread.comments
 
-    return (post.comments.length > 0 && (hasOfficialRuling(question) || comments.find(hasOfficialRuling)))
+    return (thread.comments.length > 0 && (hasOfficialRuling(question) || comments.find(hasOfficialRuling)))
         ? [question, ...comments.filter(hasOfficialRuling)]
         : []
 }
