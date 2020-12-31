@@ -1,0 +1,16 @@
+# [Why 2 versions of Bofur?](https://community.fantasyflightgames.com/topic/76155-why-2-versions-of-bofur/)
+
+## 1 [Tracker1 on December 24, 2012](https://community.fantasyflightgames.com/topic/76155-why-2-versions-of-bofur/?do=findComment&comment=738603)
+
+I think he is the only ally besides gandalf that has another version.  One in tactics and one in spirit.  His stats even change, and the artwork on the tactics card portrays him as a much younger dwarf.  Why did they not choose one of the other unprinted dwarves of the hobbit instead?
+
+## 2 [jc1138 on December 24, 2012](https://community.fantasyflightgames.com/topic/76155-why-2-versions-of-bofur/?do=findComment&comment=738609)
+
+(I just started a thread on multiple versions of characters, you may want to check that one out.  I talk about how they hopefully save some of the higher profile cards, in this case Balin etc, instead of giving them all at once and potentially doom the game.  The compromise is to get multiple versions of already released characters, made up ffg characters, or generic "Erebor Hammersmith" types.)
+
+As for Bofur, he's a little trickier, as he has such a tiny part in the book, so there really isn't much established Tolkien lore to build his cards from.  You can't really say: "yes! those rules capture him perfectly!"  I certainly feel they captured the character just right with: Gandalf (both), Boromir (tactics), Aragorn (Lore), and Bilbo (Lore) (I chose examples of cards with multiple versions).
+
+As to the art, both just look like dwarves to me, they could even be picturing different guys and I'd never know.  If they were going for a "young Bofur" and and "old Bofur" style (which would be kinda cool) then I don't think it worked too well here.
+
+(As an aside, Bofur was one of my favorite dwarves in the new film--he's the smiling guy with the weird hat who talks to Bilbo when Bilbo almost goes back to Rivendell before they go down down to goblin town). 
+

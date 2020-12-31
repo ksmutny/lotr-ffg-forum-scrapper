@@ -1,0 +1,42 @@
+# [Nooby set up question--bad start for HfG if I am playing correctly](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/)
+
+## 1 [Nenya on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549239)
+
+When I setup for HfG, quest card 1A says, "Reveal 1 card per player from the encounter deck, and add it to the staging area."  Step 7 of Setup says to "Follow Scenario Setup Instruction:  The back of the first quest card sometimes provides setup instructions for a scenario.  Follow these instructions before flipping the quest card.  Players then begin the game starting with the first game round."  Rule book, p. 10.  In the FAQ,  "1.19  Card Effects during Setup" states:  "'When Revealed' effects are resolved if the cards are revealed during setup."
+
+So the card I revealed during setup for HfG was "Old Wives' Tales."  It has a "When Revealed" effect as follows:  "Discard 1 resource from each hero's resource pool, if able.  Exhaust any hero that could not discard a resource from its pool." 
+
+If I understand things correctly, since I am still in the process of setting up, I have not yet begun Round 1, and thus have had no resource phase.  So none of my heros has a resource.  So that means that I have to exhaust all my heroes and then begin play, correct?  So I have to go through Round 1 with all my heroes exhausted, right?  Kind of rough for the solo player!
+
+## 2 [lleimmoen on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549250)
+
+When I read the title of you post, I was expecting this. I just scanned through and saw the card's name. I believe you're doing everything correctly. Unless you can use Eleanor's response to cancel the card, you begin the game with all heroes exhausted - quite some start and quite a feat to beat it with such odds.
+
+[edit] It is perhaps even worse in a coop. It is just rotten.
+
+## 3 [Nenya on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549258)
+
+Ileimmoen--thank you for your prompt reply.  I played out the game and got hosed. 
+
+Then starting again, I drew Goblintown Scavengers during set up.  A much better set up card, I think, if I understand set up correctly.  Its When Revealed effect states:  "Discard the top card of each player's deck."  So far so good--I just discard a card.  It continues:  "Until the end of the phase, increase Goblintown Scavenger's threat by the total printed cost of all cards discarded in this way."  Since I am in set up, I am not in any phase of the round, so this part of the when revealed effect just fizzles, correct?
+
+Usually I don't have any questions about set up, but today I guess I am just running into some funny situations. 
+
+Thanks, gang, for your help.  I love this game and am trying to play it correctly (even though I lose a lot more than I win).
+
+## 4 [Shelfwear on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549261)
+
+We had exactly the same start in a 2-player game yesterday. It's a major kick in the groin and it takes a couple of turns to get back onto the tracks afterwards.
+
+## 5 [Shelfwear on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549262)
+
+Nenya said:
+
+Since I am in set up, I am not in any phase of the round, so this part of the when revealed effect just fizzles, correct?
+
+Yes, correct.
+
+## 6 [lleimmoen on October 30, 2011](https://community.fantasyflightgames.com/topic/55529-nooby-set-up-question-bad-start-for-hfg-if-i-am-playing-correctly/?do=findComment&comment=549263)
+
+Again, you're reading it correctly. Scavengers are a good set up card, indeed, unless there is something you really wanted on top of your deck.
+

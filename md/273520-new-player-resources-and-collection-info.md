@@ -1,0 +1,19 @@
+# [New Player Resources and Collection info](https://community.fantasyflightgames.com/topic/273520-new-player-resources-and-collection-info/)
+
+## 1 [Durins_Father on April 13, 2018](https://community.fantasyflightgames.com/topic/273520-new-player-resources-and-collection-info/?do=findComment&comment=3283661)
+
+Hi everyone,
+
+Over the last few weeks, my Vision of the Palantir blog has been updated with more than just Scenario analyses. I have made some articles for new players to read in case they become lost in the amazing community. In this first article, I linked most of the resources available to players across a wide spectrum of media: https://visionofthepalantir.wordpress.com/2018/04/08/blogroll-and-community-resources/ [https://visionofthepalantir.wordpress.com/2018/04/08/blogroll-and-community-resources/]You can add any links to resources I missed down below. I will look to expand the list whenever a new useful blog, channel or group is created.
+
+Besides this, I also made an article in which I discuss all the different official FFG expansions and tried to answer any questions regarding the expansions. I also added a little topic about LOTR LCG Loot now that the Player mats have been released: https://visionofthepalantir.wordpress.com/2018/04/13/lotr-lcg-the-collection/ [https://visionofthepalantir.wordpress.com/2018/04/13/lotr-lcg-the-collection/]
+
+I hope to bring more articles to the blog shortly, I am currently halfway through the Against the Shadow cycle with my scenario analyses. If anyone wants to write an article for the blog, feel free to message me. You can write about your favourite quest or you can make an article discussing a certain trait/archetype.
+
+I would also like to ask anyone who is a reader of my blog to fill in this quick little poll in which I would like to receive feedback on the blog and its articles. This way I can improve the quality to suit the community best: https://visionofthepalantir.wordpress.com/2018/04/10/vision-of-the-poll-antir/ [https://visionofthepalantir.wordpress.com/2018/04/10/vision-of-the-poll-antir/].
+
+Thanks and have an awesome day!
+Durins_Father
+
+Edited April 13, 2018 by Durins_Father
+

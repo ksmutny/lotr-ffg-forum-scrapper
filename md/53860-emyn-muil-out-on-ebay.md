@@ -1,0 +1,8 @@
+# [emyn muil out on ebay?](https://community.fantasyflightgames.com/topic/53860-emyn-muil-out-on-ebay/)
+
+## 1 [richsabre on September 28, 2011](https://community.fantasyflightgames.com/topic/53860-emyn-muil-out-on-ebay/?do=findComment&comment=534199)
+
+this ebay listing show muil in a set of 4 adventure packs along with core set- i thought it was out yet?
+
+http://www.ebay.co.uk/itm/Lord-Rings-Living-Card-Game-Base-Game-4-Expansions-500-Deck-Protectors-/260862266084?pt=LH_DefaultDomain_0&hash=item3cbc9a4ae4 [http://www.ebay.co.uk/itm/Lord-Rings-Living-Card-Game-Base-Game-4-Expansions-500-Deck-Protectors-/260862266084?pt=LH_DefaultDomain_0&hash=item3cbc9a4ae4]
+

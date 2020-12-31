@@ -1,0 +1,122 @@
+# [Voice of Isengard -- What do you think the story will be?](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/)
+
+## 1 [Cunir on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=842889)
+
+we already know from the back of the box that we are going to "enter the service of Saruman the White", so surely there has got to be a big twist at the end of the cycle, when we discover that Saruman is not all he seems.
+
+ 
+
+I play LOTR online, and they have a similar story on there (it's been a while since i did it), where you end up getting captured and imprisoned inside Isengard, and you have to fight your way out. I reckon it's going to be something like that... at first we will be fighting the enemies mentioned on the back of the box, but then we will somehow discover that they are the good guys and get imprisoned in Isengard. Then the big battle in the 6th pack will actually be inside the tower, fighting against Saruman to get our way out.
+
+ 
+
+Maybe they will have another go at an Escape from Dol Guldur type quest -- where one of our companions starts the quest in a cell. 
+
+## 2 [Nickpes on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=842897)
+
+So we are going to be allies with Saruman at the beggining ? 
+
+ 
+
+My prediction on the other thread was on spot then  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 3 [Ellareth on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=842899)
+
+I've read somewhere that it is going to be 'Ring-maker' Cycle.
+
+If so, I'd expect the Cycle to focus around Eregion and ruins of Ost-in-Edhil and North Eastern Rohan, to look for any left-behind lores of Ring-making and also to search for the One Ring.
+
+ 
+
+The 'heroes' might even be responsible for the ring Saruman was wearing on his hand while kidnapping Gandalf.
+
+## 4 [Gizlivadi on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=842908)
+
+> I've read somewhere that it is going to be 'Ring-maker' Cycle.
+> 
+> If so, I'd expect the Cycle to focus around Eregion and ruins of Ost-in-Edhil and North Eastern Rohan, to look for any left-behind lores of Ring-making and also to search for the One Ring.
+> 
+>  
+> 
+> The 'heroes' might even be responsible for the ring Saruman was wearing on his hand while kidnapping Gandalf.
+
+ 
+
+This sounds like it would be the perfect cycle for me. However, I think that the focus will be more centered around Rohan, though I still believe we will delve into the lore of magic rings, maybe even going to Ost-in-Edhil, and I'm sure we will see Saruman's ring at some point. That's only what we can deduce from the expansion box and the "ring-maker" cycle name, but I still have great expectations for this cycle.
+
+## 5 [Alex6222 on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=842938)
+
+I think that at the beginning we will be allies of saruman. There is an attachment called Keys of Orthanc that can be seen at the back of the box. In the cycle i think we will accidentally help saruman build his ring and in the 6th pack we´ll discover the true nature of saruman. Anyway very excited with Eomer. I think that the rohan trait will be mostly on spirit and tactics.
+
+## 6 [richsabre on August 17, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=843000)
+
+>  
+> 
+> > I've read somewhere that it is going to be 'Ring-maker' Cycle.
+> > 
+> > If so, I'd expect the Cycle to focus around Eregion and ruins of Ost-in-Edhil and North Eastern Rohan, to look for any left-behind lores of Ring-making and also to search for the One Ring.
+> > 
+> >  
+> > 
+> > The 'heroes' might even be responsible for the ring Saruman was wearing on his hand while kidnapping Gandalf.
+> 
+>  
+> 
+> This sounds like it would be the perfect cycle for me. However, I think that the focus will be more centered around Rohan, though I still believe we will delve into the lore of magic rings, maybe even going to Ost-in-Edhil, and I'm sure we will see Saruman's ring at some point. That's only what we can deduce from the expansion box and the "ring-maker" cycle name, but I still have great expectations for this cycle.
+> 
+>  
+
+yes i also read that it would be saruman's ringmaking, not the rings of power
+
+## 7 [Gizlivadi on August 18, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=843019)
+
+>  
+> 
+> >  
+> > 
+> > > I've read somewhere that it is going to be 'Ring-maker' Cycle.
+> > > 
+> > > If so, I'd expect the Cycle to focus around Eregion and ruins of Ost-in-Edhil and North Eastern Rohan, to look for any left-behind lores of Ring-making and also to search for the One Ring.
+> > > 
+> > >  
+> > > 
+> > > The 'heroes' might even be responsible for the ring Saruman was wearing on his hand while kidnapping Gandalf.
+> > 
+> >  
+> > 
+> > This sounds like it would be the perfect cycle for me. However, I think that the focus will be more centered around Rohan, though I still believe we will delve into the lore of magic rings, maybe even going to Ost-in-Edhil, and I'm sure we will see Saruman's ring at some point. That's only what we can deduce from the expansion box and the "ring-maker" cycle name, but I still have great expectations for this cycle.
+> > 
+> >  
+> 
+> yes i also read that it would be saruman's ringmaking, not the rings of power
+> 
+>  
+
+ 
+
+This cycle might have both though, FFG do tend to comprise one element of the story as a whole in one pack.
+
+## 8 [player1761766 on August 18, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=843294)
+
+I've been thinking about this, and how people have been saying we'll learn the true nature of Saruman by the cycle's end, but I'm not so sure. While I think it would be really nice to see Saruman as, perhaps, one of these major enemies in the final AP, I suppose it depends when this cycle is deemed to take place. If we as heroes are working for him, then it must be before the Saga expansions and in line with the "original" timeline for the game. So, as Gandalf doesn't know Saruman has turned evil at the beginning of LotR, and goes to him for counsel as the wise head of his Order, I would assume we wouldn't know before that that Saruman is a bad man. Gandalf turns up to help us on quests, after all, so thematically it would make no sense. Whether the designers take this into account, who can say.
+
+ 
+
+I would much prefer to see Saruman as, perhaps, an Objective Ally (I really like these folks) who has no attack value, only willpower (and possibly defense), but has some sly mechanic like raising threat to return enemies to the encounter deck if their engagement cost is higher than your threat or somesuch. Basically, he would have a way to make progress in quests, but not to damage his own troops. Even though we as people know that Saruman turns out to be bad, in-game I'd like to see the heroes somewhat confused by his actions, but as they give a benefit to us we don't question them much further. 
+
+ 
+
+Other than that, I think Saruman will be much like Elrond was to the Dwarrowdelf cycle, and not actually appearing as a physical card. 
+
+ 
+
+Definitely excited for this box, anyway - I think I already mentioned it between palpitations of ecstasy, but having been a long-time fan of Saruman, to finally play in his back yard is going to be lots of fun! 
+
+## 9 [lleimmoen on August 18, 2013](https://community.fantasyflightgames.com/topic/88674-voice-of-isengard-what-do-you-think-the-story-will-be/?do=findComment&comment=843391)
+
+I think the twist will be there in the end. Frodo's journey begins at the end of September whilst Gandalf is imprisoned by early July. Thus it is not only okay but almost required to have Saruman as a bad guy at the end of the cycle, as that will likely come in Summer or even early Autumn of next year when we will already have had the second (and maybe even third) saga box. I would guess the twist might come in the fifth adventure pack of the cycle, with the sixth being the Battle of the Fords of Isen. This certainly should be over by the time we get into the third saga box.
+
+ 
+
+I also predict the first two or three packs of the cycle (after the deluxe) might indeed delve further North up into Eregion (it seems to be the style that the early packs get onto a detour, like they did with Road to Rivendell or Drúadan Forest), it would be a good excuse to find Saruman right colours (them being many) a little later. 
+

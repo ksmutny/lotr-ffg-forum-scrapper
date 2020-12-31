@@ -1,0 +1,239 @@
+# [Game worth it after Vengeance of Mordor cycle?](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/)
+
+## 1 [vilainn6 on February 19, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3897920)
+
+Hello Lord of The Ring fans,
+
+ 
+
+I was collecting this Lcg since the start to Voice of Isengard + all the saga extension. I stopped collecting the cycles because the rampaging difficulty of the later quests was negating my enjoyement. Now that the game is coming to an end and that the player cards pool has expended greatly, fleshing up lot of archetypes, I was wondering if the game is worth completing? It is quite an expensive and complicated task considering lot of extension seems out of print in my area.
+
+ 
+
+While I have no problem doing deckbuilding, I am not the kind of player who like to tweak and retweak deck for particular challenge, so did the game became better after Voice of Isengard for casual players?
+
+Edited February 19 by vilainn6
+
+## 2 [General_Grievous on February 19, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3897950)
+
+It sure did, difficulty generally balanced out so there is only one or two really hard quests per cycles. A lot more powerful archetypes have been formed since then too, Dale, Eagles, and just lately Rohan and even Gondor are coming into their own. The current cycle and its contracts are the icing on the cake guaranteeing that you can play whatever you want to play now. One hero, two heroes and a heroic ally, three heroes only: tricked out in weapons, a Swarm of allies and events that gets free random attachments, only unique heroes, and exactly one of each card variety decks. It's been awesome game finisher cycle that you do not want to miss and can help you play any of the quests. There are also plenty of power decks available and I have found several that can run through pretty much every quest in the game without tweaking. Our trick for playing two player was my wife running a power deck (Outlands, Caldera, Dale, Noldor) and me bringing along Legolas and Eleanor (for some ranged help and the all powerful treachery cancellation). We are fairly casual players and have no qualms playing on thematic mode with the extra resource at the start which helps too. I'll only play normal difficulty when I'm in the solo league or testing a power deck.
+
+## 3 [vilainn6 on February 19, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3897999)
+
+Thank you General Grievious for the lengthy answer. 
+
+Now the killing question, is it worth 1 000$+? I am afraid I won't have multiple years to collect the missing packs before the game goes out of stock like other cancelled LCG and I can already see that I will need to hunt some packs in the 4 corners of USA and Canada. Seems like a now or never deal. By the way, what is the problem with The Wilds of Rhovanion? The price on Amazon is crazy for a relatively recent extension.
+
+## 4 [dalestephenson on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898082)
+
+Right now the game is still being published, and I know there have been reprints since the huge reprint push about a year ago.  I would be surprised if some reprints are not done before the current cycle finishes, which is still months away -- though it's possible reprints could be squeezed out by Champions (which is still selling out its new products quickly), manufacturing problems in China, and/or Asmodee squeezing FFG's inventory as part of trying to flip the company.  I wouldn't panic yet.
+
+The $64 question is what happens when the game goes on hiatus.  If it really is just a hiatus until the next (non-cycle) LOTR products come out in a few years, it would make sense for FFG to keep reprinting older packs as long as it is profitable to do so -- and since reprints have continually sold out quickly, it's hard to argue it hasn't been profitable to do so.
+
+But what if the hiatus is actually The End and FFG stops reprints altogether?  When a competitive LCG stops publishing, this usually crashes the secondary market and allows used collections to be picked up for a song.  But since this doesn't rely on a critical mass of local players to be playable, I doubt that's likely for this game; I think it's more likely to become a "grail game" and the exorbitant prices will continue to rise.
+
+But if you're all the way through Voice of Isengard, it shouldn't take you $1000.  Most of the APs from Angmar on are still available for retail, and all the deluxes but Wilds of Rhovanion, so even with scalpers prices you should come in well under that figure if you snap up what you can, when you can, instead of waiting for them to go out-of-stock again.  Then just wait for reprints to get what you're missing, and in the awful case where reprints never happen and the secondary market goes nuts, just sleeve and proxy what you can't get at a reasonable price.
+
+## 5 [AllWingsStandyingBy on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898493)
+
+I don't think it will cost you over $1,000 (assuming we're talking about usd currency), especially since it sounds like you already own Khazad-Dum, Dwarrowdelf, Against the Shadow, and the Hobbit boxes which can tend to be the hardest to find / most expensive sets.
+
+I got into this game less than a year ago, and I completed my collection from scratch for probably close to $600-700 spread over many small opportunistic purchases spread over the majority of a year.  Already having the first three expansions and some of the Saga stuff, you should be able to avoid a decent chunk of that cost.  Granted, it took some patience, and I also got a bit lucky finding a very reasonably priced used collection that contained the first few cycles and also a couple of Ebay listings for various sets that I hadn't been able to find anywhere else at realistic prices--I just checked Ebay/Amazon every week or so to see if new things cropped up.  In the end, between a local game store that offers rewards discounts for multiple purchases, used lots/packs from Ebay, and online retailers I was able to grab everything, most of it at or below MSRP.  I only ended up having to pay above MSRP for one set, and even then it was only a few bucks more expensive (with free shipping to boot, which basically offset it).
+
+So, if you don't mind grabbing things piecemeal and treating this as a project of patience, I suspect you can put together quite a bit of what you are lacking for well under $1,000 (usd).  No guarantee how long it will take to find everything you are still lacking at great prices, so if having an entirely completed set is a requirement that's a risk factor to weigh, especially since no one knows one way or the other if FFG will continue reprints.  They seem to sell out every single time they do reprints, so that suggests it's still viable, but whether or not they want to spare the materials, times, presses, and cargo space instead of just churning out more Keyforge/Marvel instead is another question no one here can answer.
+
+## 6 [vilainn6 on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898500)
+
+ 
+
+ 
+
+> 14 minutes ago, AllWingsStandyingBy said:
+> 
+> I don't think it will cost you over $1,000 (assuming we're talking about usd currency), especially since it sounds like you already own Khazad-Dum, Dwarrowdelf, Against the Shadow, and the Hobbit boxes which can tend to be the hardest to find / most expensive sets.
+> 
+> I got into this game less than a year ago, and I completed my collection from scratch for probably close to $600-700 spread over many small opportunistic purchases spread over the majority of a year.  Already having the first three expansions and some of the Saga stuff, you should be able to avoid a decent chunk of that cost.  Granted, it took some patience, and I also got a bit lucky finding a very reasonably priced used collection that contained the first few cycles and also a couple of Ebay listings for various sets that I hadn't been able to find anywhere else at realistic prices--I just checked Ebay/Amazon every week or so to see if new things cropped up.  In the end, between a local game store that offers rewards discounts for multiple purchases, used lots/packs from Ebay, and online retailers I was able to grab everything, most of it at or below MSRP.  I only ended up having to pay above MSRP for one set, and even then it was only a few bucks more expensive (with free shipping to boot, which basically offset it).
+> 
+> So, if you don't mind grabbing things piecemeal and treating this as a project of patience, I suspect you can put together quite a bit of what you are lacking for well under $1,000 (usd).  No guarantee how long it will take to find everything you are still lacking at great prices, so if having an entirely completed set is a requirement that's a risk factor to weigh, especially since no one knows one way or the other if FFG will continue reprints.  They seem to sell out every single time they do reprints, so that suggests it's still viable, but whether or not they want to spare the materials, times, presses, and cargo space instead of just churning out more Keyforge/Marvel instead is another question no one here can answer.
+
+Ah yes it is 1000$ CAD and it is including shipping from 2-3 place since my local store is missing some recent stuff in top of the problematic extensions out of print since a while.
+
+Ok I know you guys are all optimistic about the futur of the game and it is very good for you but I didn't ask to be convinced FFG will keep the game in print despite the hiatus. I asked if the game is worth it when completed assuming I don't have years to collect all the cycles I am missing.
+
+Edited February 20 by vilainn6
+
+## 7 [dalestephenson on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898542)
+
+Whether it's "worth it" is a value judgement that depends both on your enjoyment of the game and how much disposable income you have.  I have everything, for me in terms of enjoyment per dollar spent only Dominion can rival it, and looking forward I expect LOTR to leave Dominion in the dust.
+
+## 8 [rees263 on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898572)
+
+> 18 hours ago, vilainn6 said:
+> 
+> While I have no problem doing deckbuilding, I am not the kind of player who like to tweak and retweak deck for particular challenge, so did the game became better after Voice of Isengard for casual players?
+
+ 
+
+> 54 minutes ago, vilainn6 said:
+> 
+> Ah yes it is 1000$ CAD and it is including shipping from 2-3 place since my local store is missing some recent stuff in top of the problematic extensions out of print since a while.
+> 
+> Ok I know you guys are all optimistic about the futur of the game and it is very good for you but I didn't ask to be convinced FFG will keep the game in print despite the hiatus. I asked if the game is worth it when completed assuming I don't have years to collect all the cycles I am missing.
+
+You've described yourself as a casual player and then expressed interest in spending $1000 completing your collection, which doesn't sound very casual to me.
+
+My honest opinion is that someone who is only a casual player probably won't get enough out of the game - by it's very nature it demands investment of time as well as money to get the most out of it. Having said that I don't think you'll find much success on this forum trying to find people who do not think owning the entire collection is worth it.
+
+Perhaps you could explain a bit more what put you off in the first place? In terms of difficulty I don't think that there has been any marked decrease since Ringmaker and this holds true if you check out the community difficulty ratings for each quest. If difficulty is an issue, would it lessen your enjoyment to play on easy mode?
+
+## 9 [Wandalf the Gizzard on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898588)
+
+If you do decide to jump in again, I would recommend skipping the Angmar Awakened cycle. It’s quite difficult, and that seems to be the main reason you stopped playing for a while.
+
+## 10 [vilainn6 on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898652)
+
+> 1 hour ago, rees263 said:
+> 
+>  
+> 
+> You've described yourself as a casual player and then expressed interest in spending $1000 completing your collection, which doesn't sound very casual to me.
+> 
+> My honest opinion is that someone who is only a casual player probably won't get enough out of the game - by it's very nature it demands investment of time as well as money to get the most out of it. Having said that I don't think you'll find much success on this forum trying to find people who do not think owning the entire collection is worth it.
+> 
+> Perhaps you could explain a bit more what put you off in the first place? In terms of difficulty I don't think that there has been any marked decrease since Ringmaker and this holds true if you check out the community difficulty ratings for each quest. If difficulty is an issue, would it lessen your enjoyment to play on easy mode?
+
+Did the player cards become better with the time? I remember some terrible cards in the early cycle.
+
+As for why I quit, I grew tired of needing to play the same decks/crazy combos to win quests. Everytime I tried something more thematic or unusual, most of the quests punished be very quickly. Now with 9 cycles of players cards, is there more varied tools to takle those quests?
+
+Edited February 20 by vilainn6
+
+## 11 [Will Anderson on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898691)
+
+I almost always play thematic decks, and usually try to take them through an entire cycle with minimum changes. There's no doubt this has become far easier to do as the card pool has increased (I collected everything a few years ago and have kept up to date since). There has also been some general power creep in player cards, especially the last couple cycles. It's rare there will be cards as useless as those early ones; some have even been rehabilitated through the release of newer cards. There are still some quests that are going to be very difficult no matter what, but it's not the majority. And the Ered Mithrin and Vengeance of Mordor cycles have seen the release of some very powerful, very interesting heroes that broaden the way you can play the game.
+
+It is a big investment, no getting around it, but I've found my enjoyment of the game expanded in proportion to how many cards I had, as that meant more and more options, potential combinations, and ways to experiment.
+
+## 12 [Valhalla Gaming on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898727)
+
+> 21 hours ago, vilainn6 said:
+> 
+> Hello Lord of The Ring fans,
+> 
+>  
+> 
+> I was collecting this Lcg since the start to Voice of Isengard + all the saga extension. I stopped collecting the cycles because the rampaging difficulty of the later quests was negating my enjoyement. Now that the game is coming to an end and that the player cards pool has expended greatly, fleshing up lot of archetypes, I was wondering if the game is worth completing? It is quite an expensive and complicated task considering lot of extension seems out of print in my area.
+> 
+>  
+> 
+> While I have no problem doing deckbuilding, I am not the kind of player who like to tweak and retweak deck for particular challenge, so did the game became better after Voice of Isengard for casual players?
+
+It really isn't immensely difficult to complete a collection, especially over the course of a few months. Also I've seen once hard to obtain sets regularly get reprinted in the time since I've finished my collection. 
+
+Although I am very much a fan of the difficulty of the game, I can say with confidence the game accommodates all levels of play. Each block of content I found to have a good spread of easy/medium difficulty quests, with usually two pretty hard ones. You always have the option of taking out the "hard" cards and playing on easy mode if you do find some of the tough ones to be a bit much. I'd say you'd be able to finish most blocks of content with minimal changes assuming you construct a potent deck in the first place.
+
+## 13 [dalestephenson on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898748)
+
+Just in terms of tribal archtypes, here's the ones I considered fully formed through VoI supplemented with *all* saga cards:
+
+Eagles (non-solo capable)
+
+Rohan (requires saga)
+
+Dwarves
+
+Gondor
+
+Outlands
+
+Since then:
+
+Ringmaker: Silvan
+
+LR/Angmar: Dunedain, Ents
+
+GH/Dreamchaser: Noldor
+
+SoH/Harad: Harad
+
+WoR/EM: Dale, Woodmen, Beornings (last two still a bit weak), Hobbit [ally]
+
+current: no new tribal archtypes, but the contracts explode the deckbuilding possibilities.
+
+Virtually every tribal archtype has gotten better since VoI through more hero options and more attachments/allies/events.  Eagles is *dramatically* better and IMO solo-capable.  The one loser may be Dwarven swarm due to errata of earlier cards, but Dwarven mining has got a lot more to play with now.  And a number of cards make old "dud" cards better.  Power of the Earth is even worth considering in a Woodman deck, and even Beorning Beekeeper isn't so bad when you can bring into play with Beorning Skin-Changer.  (Sorry, The End Comes is still terrible).  Lothriel makes a lot of old and ignored Rohan/Gondor cards worth considering.  The Ered Mithrin cycle was spectacular for both how many tribes it introduced and how much support it was able to give existing cards and types while it was doing it.
+
+## 14 [rees263 on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898880)
+
+> 3 hours ago, vilainn6 said:
+> 
+> Did the player cards become better with the time? I remember some terrible cards in the early cycle.
+> 
+> As for why I quit, I grew tired of needing to play the same decks/crazy combos to win quests. Everytime I tried something more thematic or unusual, most of the quests punished be very quickly. Now with 9 cycles of players cards, is there more varied tools to takle those quests?
+
+There are still a few duds, but I would say that the average quality of player cards has increased over time, with the two most recent cycles having some exceptionally strong packs. The number of viable decks has certainly increased. There are still some quests which require a more specific approach, but you shouldn't be railroaded into a specific deck.
+
+Do you play solo? That does affect the viability of some decks, but you still have much more selection than you used to.
+
+## 15 [AllWingsStandyingBy on February 20, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3898899)
+
+> 5 hours ago, vilainn6 said:
+> 
+> Ok I know you guys are all optimistic about the futur of the game and it is very good for you but I didn't ask to be convinced FFG will keep the game in print despite the hiatus. I asked if the game is worth it when completed assuming I don't have years to collect all the cycles I am missing.
+
+
+(1) The two points are inescapably linked.  If reprints keep happening and places like MiniatureMarket have the full range back in stock in a couple months at below MSRP, the cost (time+money) of completing a set are going to be way lower.  We aren't saying reprints will or won't continue, we're saying that no one knows definitively so given that current uncertainty it's probably worth taking a "wait and see" approach: if online retailers get any restocks in the next several months.  If they do, take that as a sign of a much lower bar toward completion.  If they don't, then you've got a tougher decision.
+
+(2) If you just want to know whether or not the game is worth completing assuming it's gonna cost you an abstract $1,000 CAD, none of us can inform your decision about that.  Only you know what level of subjective enjoyment you derive from the game, how much time you'll have to build/play, and what your budget for both funds and free time look like -- all things required to make any sort of judgment about "value."  So only you can answer that, and it's not a question worth asking the hive-mind.
+
+(3) Why wouldn't you have time to collect the missing content with a slow piecemeal approach? Even if you got the entire product line tomorrow, it's not like anyone would be able to play through all the quests or try all the deck types in a month.  There are fairly active players that have been playing this game for years and haven't played through every cycle yet.  With nearly 90 quests and so many different viable deck archtypes and heroes/player cards that can customize those archetypes, the replayability of this game is very high (especially since it can be played 1-4 players, which presents additional inter-deck dynamics to deck-building and play), so there's no pressing need to own the entire lineup for playing purposes, since one could throw different decks and deck pairings against the Mirkwood cycle for many, many games.
+
+## 16 [General_Grievous on February 21, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3899262)
+
+Only thing I would also add is that there is over 90 quests in the game. Current count I think is 113, and not including:
+
+-rest of current unreleased cycle
+
+-make your own scenerio packs (that there are 4 of and have tons of combinations in there alone)
+
+-nightmare packs that essentially make a new quest
+
+ 
+
+(Also there are lots of quests with high replayability/randomness that feel like different quests based on what you draw)
+
+ 
+
+So content, content LOTR LCG has haha.
+
+## 17 [Valhalla Gaming on February 22, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3900168)
+
+> On 2/21/2020 at 3:56 AM, General_Grievous said:
+> 
+> Only thing I would also add is that there is over 90 quests in the game. Current count I think is 113, and not including:
+> 
+> -rest of current unreleased cycle
+> 
+> -make your own scenerio packs (that there are 4 of and have tons of combinations in there alone)
+> 
+> -nightmare packs that essentially make a new quest
+> 
+>  
+> 
+> (Also there are lots of quests with high replayability/randomness that feel like different quests based on what you draw)
+> 
+>  
+> 
+> So content, content LOTR LCG has haha.
+
+This is very on point, I feel like people imagine the content being fairly limited, and to the uninitiated that 113 might sounds like not that many quests however nightmare decks come close to effectively doubling that, since they are genuinely more or less new quests. 
+
+Also I have played a LOT of this game in one year, both solo and with friends, and there are plenty of quests I'd enjoy revisiting just to see how they scale with more or less players, as well as a surprising number of quests with replay value and varying elements like The Steward's Fear and Murder at the Prancing Pony.
+
+In regards to asking about if player cards have gotten better I'd say for sure- And perhaps other games have scarred me, but this game has incredibly consistent interesting/overtly good cards. Heck with there newest block of content the contracts are not only good but make you consider your entire collection in a new light.
+
+## 18 [vilainn6 on February 24, 2020](https://community.fantasyflightgames.com/topic/306010-game-worth-it-after-vengeance-of-mordor-cycle/?do=findComment&comment=3900949)
+
+Thank you for all the answers. I will give the recent scenarios a shot on OCTGN and if I like them and the packs stay in print in the following months/years, I will probably complete my collection.
+
+Cheers
+

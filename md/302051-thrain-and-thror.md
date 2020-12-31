@@ -1,0 +1,169 @@
+# [Thrain and Thror](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/)
+
+## 1 [malefacus on November 8, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824256)
+
+We have seen many obscur dwarf characters but we still miss these two.  I would love to see Thror and Thrain. Be it as allies or heroes. I hope FFG has plans for them.
+
+Any hype for them?
+
+## 2 [AllWingsStandyingBy on November 8, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824447)
+
+> 4 hours ago, malefacus said:
+> 
+> We have seen many obscur dwarf characters but we still miss these two.  I would love to see Thror and Thrain. Be it as allies or heroes. I hope FFG has plans for them.
+> 
+> Any hype for them?
+
+
+I'd very much like them, but with there only being three unknown Heroes left in the cycle, and with one of the packs already containing a Dwarf (Thorin Stonehelm), it doesn't seem terribly likely, sadly.
+
+## 3 [Onidsen on November 8, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824480)
+
+Honestly, I'd rather not. If Thorin Oakenshield is outside of the time frame of this game (and he very much is - the only reason that he was included in the game was because the developers decided to do the Hobbit saga boxes), then Thrain and Thror are certainly well outside of the time frame.
+
+Because they are the father and grandfather of Thorin, it can be easy to miss just how long ago they died, but it was incredibly long before the game is set, and even very long before the Hobbit is set.
+
+The ring is destroyed in 3019 of the 4th age. Bilbo's party was 18 years prior, in 3001; the game is set in between those two years. Thorin and company reached the Lonely Mountain in 2941, 60 years before the game is set. Thrain died in the dungeons of the Necromancer, in Dol Guldur, in 2850, nearly a century before Thorin and company left for Erebor. Thror died in 2790, 6o years before that (and only 20 years after the dragon came to Erebor in 2790).
+
+To put things in perspective, Thror died only 30 years after Helm Hammerhand, king of Rohan. Helm was the 9th king of Rohan. Theoden was the seventeenth. So to include Thror in the game at all would require going far enough back in time to get halfway through the lifespan of the entire kingdom of Rohan.
+
+TLDR - Thror and Thrain died a really long time ago.
+
+## 4 [Wandalf the Gizzard on November 8, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824569)
+
+Yeah, it's hard to realize how far long ago (compared to the events of the books) Thror and Thrain were active, it's only three generations after all! But Dwarves had really long lifespans for mortals, at least when compared to men.
+
+## 5 [Felswrath on November 8, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824590)
+
+The Against the Shadow's Cycle is set in that time period. Were we ever told when the other cycles were set?
+
+## 6 [TwiceBorn on November 9, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824642)
+
+I would like a hero Thrain, if only so that I could use him as the captive hero in Escape from Dol Guldur.
+
+## 7 [Kjeld on November 9, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824649)
+
+That said, it would be fun to see some more stand-alone scenarios that let players experience some of the historic events of the Third Age. FFG already set a precedent for this with The Hobbit boxes, and they could do a Battle of Azanulbizar scenario with Thrain II as the hero or Scatha the Worm with Fram Framson as the hero.
+
+Edited November 8, 2019 by Kjeld
+
+## 8 [Onidsen on November 9, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824695)
+
+> 2 hours ago, Felswrath said:
+> 
+> The Against the Shadow's Cycle is set in that time period. Were we ever told when the other cycles were set?
+
+The Shadows of Mirkwood cycle is set in that era - the hunt for Gollum was very late in the time period.
+
+The Khazad dum box is set after Balin and his colony are destroyed, which means that the earliest possible date could be before the time period of the game, but still well after the events of the hobbit.
+
+The Drarrowdelf cycle is implied to be set after the Khazad dum box, but not explicitly so.
+
+The against the shadow cycle is set in the reign of denethor; voice of Isengard during the reign of Theoden (and during the adult lifetime of Grima).  Angmar awakens has Aragorn as chieftain of the Dunedain, and that cycle starts the connected storyline that has continued throughout the remainder of the game.
+
+I've used only evidence from the in game narrative here; I believe that there is developer commentary that nails it down more firmly, but i don't have time to go find it atm.
+
+Some of the print on demand quests stray a little outside of the time frame (or are at least ambiguous), but except for battle of Laketown and the saga or saga adjacent quests (including assault on Dol Guldur), all of them can fit inside that time frame (including the siege of annuminas - I think that it's clearly meant to be a defense of the ruined city by the modern dunedain, not an ancient siege during the lifetime of the kings of arnor)
+
+## 9 [Alonewolf87 on November 9, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824903)
+
+> 8 hours ago, Onidsen said:
+> 
+> including the siege of annuminas - I think that it's clearly meant to be a defense of the ruined city by the modern dunedain, not an ancient siege during the lifetime of the kings of arnor
+
+Well a few of the enemies cards from that quest reference Angmar or Carn Dum, so it might seems it's set during the time when Angmar was active in fighting against the Dunedain realms (and when Arthedain was fighting against Angmar Annuminas had been in ruins for centuries already).
+
+> 8 hours ago, Onidsen said:
+> 
+> The against the shadow cycle is set in the reign of denethor; voice of Isengard during the reign of Theoden (and during the adult lifetime of Grima).  Angmar awakens has Aragorn as chieftain of the Dunedain, and that cycle starts the connected storyline that has continued throughout the remainder of the game.
+
+There is also an apparent connection storywise between those cycles, as in it seems like the heroes group travelling to Isengard first, to Eriador later and afterwards to the Grey Havens appears to be the same who helped Denethor in the first place.
+
+## 10 [Wandalf the Gizzard on November 9, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3824992)
+
+Against the Shadow is too closely connected, narrative-wise at least, with Voice of Isengard and Angmar Awakened to be that far back on the timeline. Starting with Against the Shadow and going all the way to Vengeance of Mordor, all cycles are somehow chronologically connected.
+
+## 11 [dalestephenson on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3827626)
+
+However, it's important to remember that the time restriction was by choice, not need, and some of the characters published would be implausibly young to be adventuring at the party-end of the game's period.  The Hobbit saga showed the potential for stories set outside the period.  I believe Siege of Annuminas was *not* a defense by modern Dunedain -- who are not on record as inhabiting that ruined city, nor had to fight the hosts of Angmar at all during the period of the game.  I think it's a callback to the fall of the northern kingdom, over a thousand years before the period of the game.
+
+This last cycle is clearly not where they'll throw in pre-Party characters.  But post-hiatus there's no reason they couldn't tap the wealth of the appendices for content.
+
+## 12 [TwiceBorn on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3827680)
+
+If this report is correct, the Amazon series will be set in the Second Age: https://www.cnet.com/news/lord-of-the-rings-amazon-series-cast-release-date-rumors-news/ [https://www.cnet.com/news/lord-of-the-rings-amazon-series-cast-release-date-rumors-news/]
+
+So yes, that would make it a viable timeframe to explore in the game post-Shadow in the East. 
+
+## 13 [Onidsen on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3827684)
+
+> 2 hours ago, dalestephenson said:
+> 
+> I believe Siege of Annuminas was *not* a defense by modern Dunedain -- who are not on record as inhabiting that ruined city, nor had to fight the hosts of Angmar at all during the period of the game.  I think it's a callback to the fall of the northern kingdom, over a thousand years before the period of the game.
+
+A callback, definitely (although Annuminas was never overrun by the hosts of Angmar, and to my knowledge, was never besieged.  It became deserted due to population decline). The scenario is certainly meant to evoke that feel.
+
+It also feels like a... call- sideways? Can I coin that term? Anyways, a reference to the situation of Annuminas in LOTR Online, in which the deserted city is under the protection of a group of Dunedain who call themselves the Wardens of Annuminas (which may be referenced in the ally of that name we have at present), who are in constant conflict with orcs from Angmar.
+
+In case it matters, my view is rather heavily influenced by the analysis done by Master of Lore [https://www.google.com/amp/s/masteroflore.wordpress.com/2017/01/14/siege-of-annuminas/amp/].
+
+To the broader point, however, if they choose to visit a different time period after the hiatus, I wouldn't have a problem with that in theory, but part of the big draw for this game for me is how well they stick to theme, even in the diversions like the hobbit saga expansions. I would hope they would find some way to keep that theme if they chose to go that direction.
+
+## 14 [dalestephenson on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3827979)
+
+For me the theme, or more correctly the setting, is Tolkien's world, not the years 3001-3018 that the cycles have been confined to.  Departing from those confines I see as exciting and praiseworthy, not abandonment of the text.  This has been done, successfully, with the two sagas -- one immediately after the period and one 60 years before, and three print-on-demand quests associated with it.  Those have the advantage of being famous; but I'd love to see POD or actual product on earlier events described in the text or appendices, even far earlier.
+
+The siege of Annuminas is not in the canon, and Master of Lore is, as always, a great resource.  He is quite correct that Annuminas was no longer the capitol by the time Angmar was a going concern.  Due to lack of Dunedain, it was *already* failing into ruin by the time the capital moved -- likely by Amlaith of Fornost, the King of Arthedain when Arnor fragmented.  Fornost would suffer the same fate, as Elrond says "that now too is desolate".  Even in the more successful south Kingdom the decay of the Dunedain could be seen -- plague depopulated Osgaliath to the point that Tarandor moved to Minas Anor, and we read "Osgaliath was now partly deserted, and began to fall into ruin".  This was in 1640, well before Minas Ithil fell (2002), and Osgaliath wasn't "finally ruined" until 2475.  The ruins of Osgaliath would remain under the control of Gondor for some time, it was not until 2901 that most of the inhabitants of Ithilien fled, and not until June 20, 3018 that Osgaliath was assualted by Sauron, with the last bridge being destroyed and four only (including Faramir and Boromir) being saved by swimming.  Though Osgaliath began to fall into ruin by 1636 and was finally ruined in 2475, in 3018 it was still a fortified point requiring assault by an army.  The decline of the southern Dunedain did not end with the abandonment of Osgaliath, we read in the main text that "it was in truth falling year by year into decay; and already it lacked half the men that could have dwelt at east there.  In every street they passed some great house or court over whose doors and arched gates were carved many fair letters of strange and ancient shapes; names Pippin guessed of great men and kindreds that had once dwelt there; and yet now they were silent and no footsteps rang on their wide pavements, nor voice was heard in their halls, nor any face looked out from door or empty window."
+
+I imagine the same description would apply to the city of Elendil when it was abandoned by the Heirs of Valandil, and Fornost certainly is better placed geographically for disputes with Rhuadar or Cardolan.  But the "Wardens of Annuminas", inspired by LOTR online or not, tell us that in the game the rangers of the north go to, and possibly dwell in, that ruined city -- that seems plausible to me.  What seems less plausible to me is that the existence of such wardens in 3001-3018 fixes the Siege in the time period of the game, a battle between the remnants of Dunedain and the remnants of Angmar.  If it's plausible that the ruined Annuminas was the home of rangers in Aragorn's day despite their few numbers, it's certainly plausible that Annuminas was not absolutely deserted in the days of Angmar and Arthedain, when the rangers were far more numerous and Angmar actually was sending hordes and hosts into the field.
+
+And indeed, it's plausible that the no-longer-capital Annuminas, in the days of the Arthedain, still deserved the appelation of *city*, despite no longer being the capital, as Osgaliath still did after it lost its status and its king.  If so, the most likely setting for the scenario is in 1974, when the Witch-King overran Arthedain.  Some points of interest from the little we know from the appendices:
+
+1) Arvedui held out upon the North Downs and fled *north* from the witch-king when Fornost was captured.  Angmar is well north (and east) of Arthedain, but it appears he was attacking Fornost from the South, cutting off the routes to Lindon or Rivendell.  We also read that his sons were driven across the Lune -- yet the Shire was *not* invaded at this time, and the Brandywine lies between Fornost and the Lune.  However, if you flee through Annimunus and are pursued, you can be driven across the Lune wihile staying well north of the Shire and never crossing the Brandywine.  This, I suspect, is what happened, and even an abandoned Annuminas would be a gathering strong point for fleeing people, a chance to bloody the nose of the pursuers and hopefully gain the time needed to flee across the hills and river and pass down to the Havens.  I think this is the most likely setting for the quest -- though Angmar was operative for a long time, and Annuminas could have been assaulted in any of those wars (if populated) by a force from Angmar approaching from the north.
+
+Master of Lore mentions the inaccuracy of the flavor text on 1A, since it is no longer the "Dunedain capital" and interprets it as remant versus remnant.  But "remnant" is not a word appearing in the quest in either flavor text or card name, and the text/names that appear are consistent with what it claims to be on the POD back card "the players must protect the Dunedain city from the host of Angmar."  In 1A it is an *army* approaching, and siege tunnels and battering ram are employed.  An enemy card is named "Host of Angmar", a treachery is called "Hordes of Angmar".  While the Angmar cycle puts some meat on a resurgment Angmar, Carn Dum is in the heart of that territory -- this city is on the far side of Arnor.  In Lost Realm we see a raid in chetwood and a battle at fornost entirely by the undead -- no suggestion of an orc *army* so far from home.
+
+The flavor text on Page 1/5 card reads "..they were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar"--Tom Bombadil.  Bombadil is here speaking of the barrows, but that reference is *firmly* fixed in the Arthedain period, not 3001-3019.
+
+The flavor text on the stages represents a large battle with a populated city:
+
+1A "An army from Angmar marches on the Dunedain capital of Annuminas.  You rush to prepare the defense as best you can before the Orcs reach the city"
+
+2A "You've prepared the defenses as best you could, but the enemy has broken through in several places.  It's up to you to protect the people inside the city."
+
+3A "You've held back the host of Angmar, but a dark figure appears to lead the final assault.  With a terrifying cry, he orders a battering ram against the gate.  The old timbers won't endure for long, so you rally your troops for a desperate counter-attack.  It's victory or death!"
+
+1C "An army from Angmar marches on the Dunedian city of Annuminas.  You ring the alarm bells and hurry to gather what strength you can."
+
+2C "You've gathered everyone you can into Annuminas but the host of Angmar is hot on your heels.  Once you reach the city gate, you draw your weapons and turn to face the charging Orcs.  They cannot be allowed to enter this way.
+
+3C "You've driven back the Orcs, but they've captured some of your companions.  You won't abandon your friends, so you follow them to the enemy camp."
+
+1E "An army from Angmar marches on the Dunedain city of Annuminas.  Your friends need time to prepare the defense, so you ride out to meet the enemy."
+
+2E "You've done all you can to slow the enemy, so you retreat inside Annuminas and man the walls.  Grappling hooks and ladders are raised against the battlements and arrows whistle overhead as the host of Angmar attacks the city."
+
+3E "You've driven the enemy from the battlements when you hear a commotion from below.  Orcs have tunneled under the walls and attack you from the rear.  You charge down the stairs to stem the tide of Orcs and block the tunnel entrance."
+
+The text just doesn't fit to me for any post-Arthedain period after the fall of Angmar, and certainly not in 3001-3019.  During the War of the Ring, just thirty Dunedain could be gathered in haste, and the absence of so few was sufficient to make the country around Bree dangerous.  There were no enemy armies in Arnor to fight, nor were there sufficient Dunedain to resist them.
+
+## 15 [Rob_Oz on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3828319)
+
+Apologies for the thread-deviation, but I love the discussion about Annuminas!
+
+I've loved this quest from the moment I played it at my Fellowship Event and have always wondered about its origins. I thought it was grounded in information found in the appendices, but after spending the last hour or so reviewing Appendix A and B and reading dalestephenson's extensive remarks I'm dubious. The Appendices in the Return of the King contain very little. The only scrap of additional information I could locate comes from this paragraph in Appendix A, page 1077:
+
+"A great host came out of Angmar in 1409, and crossing the river entered Cardolan and surrounded Weathertop." The paragraph goes on to state the forces of Angmar took hold of Cardolan and Rhudaur for a time and were eventually repulsed at Fornost by Araphor, son of Arveleg with help from Cirdan. A review of a map of Arnor shows Fornost to be well east of Annuminas. So while this incursion hints at being the source for the Siege of Annuminas quest, ("A great host from Angmar" could be the source for the Host from Angmar encounter deck card), it apparently fell well short of reaching the former capitol.
+
+Edited November 13, 2019 by Rob_Oz
+
+## 16 [dalestephenson on November 13, 2019](https://community.fantasyflightgames.com/topic/302051-thrain-and-thror/?do=findComment&comment=3828376)
+
+Yes, 1409 and 1973 are the two invasions detailed in the appendices, and of the two the latter is the one likely to reach Annuminus -- since it overran the whole kingdom.  However, I think it's likely that hosts of Angmar entered the kingdom at various points between the two dates, those two being notable for their permanent effects -- the destruction of Amon Sul and move of the palintir for the former, and the end of the kingdom for the latter.  From Appendix A (iii) we read that "It is said that Angmar was for a time subdued..." after their 1409 successes, with the next date being mentioned "In 1974 the power of Angmar rose again, and the Witch-king came down...", but I don't think that means that Angmar was quiet all those centuries in between.  Certainly the 1974 invasion did not come out of the blue.  We read in A (iv) that after Arvedui's claim to Gondor was rejected, but Earnil offered aid at need and as able:
+
+"It was, however, long before Earnil felt himself sufficiently secure to do as he promised.  King Araphant continued with dwindling strength to hold off the assaults of Angmar, and Arvedui when he succeeded did likewise; but at last in the autumn of 1973 messages came to Gondor that Arthedain was in great straits, and that the Witch-king was preparing a last stroke against it."  Arvedui succeeded Araphant in 1964, but I suspect war with Angmar was a constant threat since its establishment.
+
+Also worth noting is the geography of Earnur and Cirdan's assault on the Witch-King in 1975, now established as Fornost.  The Witch-King went to meet them, expecting to "sweep them, as others befor, into the Lune".  The attacking host came out of the Hills of Evendim, then later the main body of horse came around the hills on the north -- the battle being fought between the lake and Fornost.  Annuminas is of course on the shores of the lake and next to the Hills of Evendim, so this final clash happened with the Witch-King going to meet his foes by moving directly towards Annuminas, and expecting to sweep them into the river past Annuminas -- as he had done before.  This doesn't prove that the Witch King went through the site of Annuminas in 1974 (the passage through the hills to the Lune could certainly be done passing north of the lake, bypassing the site entirely), and the witch-king *himself* is not a part of the POD quest, but it does show that Angmar forces were in the general vicinity of the site in 1974, unlike 3001-3018.
+
+Another thought is that after Amon Sul was destroyed in 1409, the Palintir was rescued and taken to Fornost.  If the Palintir of Annuminas had moved to Fornost with the King previously (not recorded, but seems reasonably likely) that would give them two palintri at the same location, which seems redundant and useless if there is any other plausible place to locate one.  When Arvedui fled north he had both with him, so perhaps they were both at Fornost from 1409 on; or perhaps they were gathered from separate locations in the defeat -- in any case, neither stone is ever called the stone of Fornost.
+

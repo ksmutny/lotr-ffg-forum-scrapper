@@ -1,0 +1,250 @@
+# [How much longevity left in this game?](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/)
+
+## 1 [jediMasterLenny on December 15, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1937083)
+
+With the announcement that CoC LCG is going away - how much life do you think is left in LOTR? My wife and I are always looking for good co-op games (FFG delivers on many levels) and we just took the plunge into LOTR and are loving it!
+
+ 
+
+That being said: how much time do you *think* we have left in these cycles?
+
+## 2 [danpoage on December 15, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1937144)
+
+At least two more years. Beyond that, who knows - there is still much of Middle-earth left unexplored.
+
+## 3 [Bullroarer Took on December 15, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1937216)
+
+Agree with Dan.  By all accounts it's selling well - unlike CoC - so I don't think they really want to stop it.
+
+## 4 [divinityofnumber on December 15, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1937539)
+
+LOTR LCG is an FFG best seller. Caleb and Matt have done an awesome job with the game, and the player base seems quite loyal and growing. This game is one of FFG's top products; they are not going to stop it any time soon.
+
+ 
+
+See this video:
+
+https://youtu.be/rnrlBSvzxuU?t=15m18s [https://youtu.be/rnrlBSvzxuU?t=15m18s]
+
+Edited December 15, 2015 by divinityofnumber
+
+## 5 [Ecthelion III on December 15, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1938079)
+
+Here's the last "the game is dying" thread:
+
+https://community.fantasyflightgames.com/topic/175069-the-future-life-of-lotr-lcg/page-2?hl=%2Bgame+%2Bdying#entry1605496 [https://community.fantasyflightgames.com/topic/175069-the-future-life-of-lotr-lcg/page-2?hl=%2Bgame+%2Bdying#entry1605496]
+
+## 6 [JonofPDX on December 17, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1941490)
+
+So…there’s kind of two issues here. First, is the game in imminent danger of being cancelled? And second, why do people keep thinking it’s about to be cancelled?
+
+ 
+
+The first question is actually pretty easy to answer: no, the game won’t be cancelled for at least a year and a half. Probably much longer. We have 2 more Saga boxes, 1 more deluxe and another whole cycle worth of content confirmed and in production. And that’s just what we’ve had explicitly spoiled. Content is coming out as fast as it ever has for the game with no discernable slow down or reformatting (ala Call of Cthulhu) and we have anecdotal evidence that the game sells well and is profitable.
+
+ 
+
+The second question is more interesting. For years now people have been predicting the death of the LotR LCG. Why? While we don’t have hard numbers FFG has said repeatedly that it sells well and top management at the company has even been involved with the development. But still—there is this pervasive feeling within the community that the game in underperforming.
+
+ 
+
+I think the reason for this is that we are trying to judge LotR based on our preconceived ideas about what a successful CCG/LCG looks like. We don’t often see LotR events at cons (and when we do, they are usually smaller than comparable events run for the other LCGs) . It is much rarer to see the game played at your FLGS than, say, Netrunner or A Game of Thrones. And the meta feels different. Without the competitive edge of the other LCGs, everything seems a little more peaceful without the big shifts as players compete against eachother in the deckbuilding space as well as the table. And that can all look like a bad thing.
+
+ 
+
+I was listening to an episode of a gaming podcast recently and they were discussing which LCG they thought FFG would retire next and almost everybody said Lord of the Rings. Why? Because they “never see anyone playing it” and the coop nature lacked the competitive edge that drives sales. But—to the best of our knowledge that just isn’t true. Product is being bought be somebody—presumably someone is playing the game. A lot of someones if it really is one of FFG’s bigger sellers.
+
+ 
+
+I think the big difference is who is playing the game. As a coop game, FFG has struggled to build a format to engage players at cons and events. The scoring system is not widely used and the deck-building it promotes can be limiting. And he unique-card deck construction mechanics make it one of the hardest games to just sit down and play a pick-up game of in your FLGS. But where the game excels, and where I think the majority of its fans are, is as a coop experience separate from the LCG experience—people playing with their kids or girlfriends or husbands. Home game nights with friends. More personal experiences. And a player-base that is harder to measure than the other LCGs so the game looks like it’s underperforming from the outside. 
+
+## 7 [Gizlivadi on December 17, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1941512)
+
+That's a nice analysis JonofPDX. There's also the solo option this game offers, which actually draws a lot of players into the game, myself included, and unless they post in these or other forums, you won't really hear about them at all. So I guess that also obscures the visible player base all other card games have. 
+
+## 8 [Raven1015 on December 17, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1941575)
+
+Totally agree, Jon. I think many gamers, especially those who play competitive games, are still locked in an old mentality and don't really understand how LOTR is different (in the ways that you described). What the past few years have seemed to show is that there is a sizable audience out there that wants solo and cooperative games, and there seem to be more and more of these coming out over time. 
+
+## 9 [zeromage on December 17, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1941605)
+
+The thing is the people who like this game, like it A LOT. Most players I know own EVERYTHING for the game. I own multiple copies of everything released (I really like having encounter decks and player decks pre-built). Everyone I know who plays plays this game more than any other game. Besides frostgrave and warhammer fantasy this is my most played game for the past 3 years. The only games I've played more would be magic (which I don't play anymore) or d&d.
+
+To put it in perspective I've played eldritch horror maybe 10 times this year (and love that game). I couldn't even count how many times I've played this game.
+
+## 10 [JohnGarrison1870 on December 17, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1941701)
+
+Another contributing factor may be the longevity of early cards. LotR doesn't cycle out, and although the meta and community is focused on the most recent releases all of the old material is still frequently used. Many player cards from core and the first two cycles still appear in many decks, and the older quests are frequently revisited and discussed on blogs, etc.
+
+ 
+
+This may create a feeling within people that the game is "getting pretty old now", just because they've been hearing about certain cards and quests for a number of years. At least, this may only be a small, subconscious contributing factor.
+
+ 
+
+**Edit:** Although sales may still be strong, I do wonder how well later cycles are selling comparatively. Most new players will want to start with Mirkwood, etc., so it's not surprising those have been reprinted many times. But as is the nature of these things, I suspect sales for the later cycles are small by comparison - even when you factor in the less time they've been available.
+
+ 
+
+Unless someone has a heavy interest in Corsairs or Angmar, for instance, they're not too likely to go after those cycles unless they already have all the earlier releases. And the longer the game goes on, the more likely someone will stop and not move on to the next cycle. Certainly there will always be die-hard fans who are committed to getting everything that could be released, but I doubt that population would be enough to keep the game going indefinitely.
+
+ 
+
+It's already getting to the point where most blogs and netdecks require you to have nearly a full collection in order to replicate them. The bigger the card pool, the worse that problem will be. Eventually, LotR's "plus" of not cycling may turn into a "minus".
+
+Edited December 19, 2015 by JohnGarrison1870
+
+## 11 [Hawkstrike on December 18, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1942072)
+
+As a newcomer to the game -- just picked it up in the past month -- I'm encouraged by the early releases continuing to get reprints.
+
+If the game were dying, they wouldn't bother.
+
+## 12 [Thanatopsis on December 18, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1942960)
+
+> It's already getting to the point where most blogs and netdecks require you to have nearly a full collection in order to replicate them. The bigger the card pool, the worse that problem will be. Eventually, LotR's "plus" of not cycling may turn into a "minus".
+
+ 
+
+I've been a staunch supporter of FGG's decision to not implement their rotation policy on LotR, but this comment opened my eyes, and I'm intrigued. The barrier to enter into the game may be low "just buy what you're interest in". But, the barrier barrier to enter into the community just gets higher and higher.
+
+## 13 [JonofPDX on December 18, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1943470)
+
+>  
+> 
+> > It's already getting to the point where most blogs and netdecks require you to have nearly a full collection in order to replicate them. The bigger the card pool, the worse that problem will be. Eventually, LotR's "plus" of not cycling may turn into a "minus".
+> 
+>  
+> 
+> I've been a staunch supporter of FGG's decision to not implement their rotation policy on LotR, but this comment opened my eyes, and I'm intrigued. The barrier to enter into the game may be low "just buy what you're interest in". But, the barrier barrier to enter into the community just gets higher and higher.
+> 
+>  
+
+ 
+
+This ^
+
+ 
+
+I really think that at this point in the game's life the biggest problem is barrier to entry for new players. 
+
+ 
+
+Don't get me wrong--I completely support FFG's decision to not rotate out older cards/APs/Deluxes for this game. The coop nature means there simply isn't a need for it and we would lose not only the player cards, but also the Quests and Encounter cards from those sets. 
+
+ 
+
+But the ever expanding catalog of APs, Deluxes and Sagas does present a problem as new players can have a hard time knowing where to begin. Do I just buy the APs where the quests interest me thematically? Or the APs where the player cards interest me. Or pick and choose through the catalog for specific combo-cards, but be left with Quests I may simply not be able to play (due to not owning necessary Deluxes). Personally, I always suggest playing through the game chronologically from Mirkwood on (since I think those Quests are a good intro/tutorial for the game as a whole) but not everybody can do that.
+
+ 
+
+And this game is hard. It's not like it's easy for even an above-average player to throw together a deck with a limited cardpool and still feel confident in it's performance against a lot of the modern Quests.  
+
+ 
+
+A couple weeks ago there was a lot of discussion about Glorfindel and his OPness (not trying to start that again, by the way) and I said in a post that he may be OP but cards like him are necessary as they are largely self-contained, easy-to-play engines that can be slotted into most decks to straight-up make them better. Something that is really important at the current difficulty level as it allows novice players that don't have access to the entire cardpool to buy one AP that will significantly increase the effectiveness of their decks. The (much derided) Outlands trait is an even better example of this--veteran players that have access to the total cardpool and the experience to use it may scoff at them but they are a great entry point to new players to allow them to play later, harder quests. 
+
+## 14 [webslinger9 on December 18, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1943685)
+
+>  
+> 
+> >  
+> > 
+> > > It's already getting to the point where most blogs and netdecks require you to have nearly a full collection in order to replicate them. The bigger the card pool, the worse that problem will be. Eventually, LotR's "plus" of not cycling may turn into a "minus".
+> > 
+> >  
+> > 
+> > I've been a staunch supporter of FGG's decision to not implement their rotation policy on LotR, but this comment opened my eyes, and I'm intrigued. The barrier to enter into the game may be low "just buy what you're interest in". But, the barrier barrier to enter into the community just gets higher and higher.
+> > 
+> >  
+> 
+>  
+> 
+> This ^
+> 
+>  
+> 
+> I really think that at this point in the game's life the biggest problem is barrier to entry for new players. 
+> 
+>  
+> 
+> Don't get me wrong--I completely support FFG's decision to not rotate out older cards/APs/Deluxes for this game. The coop nature means there simply isn't a need for it and we would lose not only the player cards, but also the Quests and Encounter cards from those sets. 
+> 
+>  
+> 
+> But the ever expanding catalog of APs, Deluxes and Sagas does present a problem as new players can have a hard time knowing where to begin. Do I just buy the APs where the quests interest me thematically? Or the APs where the player cards interest me. Or pick and choose through the catalog for specific combo-cards, but be left with Quests I may simply not be able to play (due to not owning necessary Deluxes). Personally, I always suggest playing through the game chronologically from Mirkwood on (since I think those Quests are a good intro/tutorial for the game as a whole) but not everybody can do that.
+> 
+>  
+> 
+> And this game is hard. It's not like it's easy for even an above-average player to throw together a deck with a limited cardpool and still feel confident in it's performance against a lot of the modern Quests.  
+> 
+>  
+> 
+> A couple weeks ago there was a lot of discussion about Glorfindel and his OPness (not trying to start that again, by the way) and I said in a post that he may be OP but cards like him are necessary as they are largely self-contained, easy-to-play engines that can be slotted into most decks to straight-up make them better. Something that is really important at the current difficulty level as it allows novice players that don't have access to the entire cardpool to buy one AP that will significantly increase the effectiveness of their decks. The (much derided) Outlands trait is an even better example of this--veteran players that have access to the total cardpool and the experience to use it may scoff at them but they are a great entry point to new players to allow them to play later, harder quests. 
+> 
+>  
+
+I think the hard part of limiting the cycle would be the fact that we get about half the number of player cards a cycle. So either they would have to phase out cards after giving us half the amount other LCG's have access to, or double the number of cycles, which would be crazy. 14 cycle before we eliminate any? We don't even know if there will be that many (I hope there is!) Also, is there a specific benefit to get rid of your content, like the quests? Say they do decide to remove the Mirkwood cycle from rotation. Now there are 6 quests a new player can never get a hold of. That strikes me as a worse alternative than a slightly bloated card pool.
+
+ 
+
+Plus, as it has been alluded to  before, LotR LCG is a different beast from the others. Being a co-op game, it doesn't hurt being able to access all the cards. My best advice would be to find a player already interested in the game. If they are like most of us, they'll have mostly everything, and can spare you a deck, or even cards to fill out your deck. Unlike the competitive scene, it's actually encouraged to share your card pool with someone that might be lacking, if you are playing together.
+
+ 
+
+Barring finding an established player, you can proxy cards to see if you like them. If they become essential, you can find that pack and purchase it. That's one of the great things about the game, (almost) no one is going to get angry if you're using a proxy. Especially if you're playing solo. just my opinion though.
+
+## 15 [JohnGarrison1870 on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1944551)
+
+Thankfully, many blogs and decks and playthroughs still deal with older quests, and many even assume one only possesses cards that were available at the time. The community is doing a pretty good job of trying to ease any intimidation those with smaller collections may feel.
+
+ 
+
+Still, LotR will one day face the dilemma every game with expansions must face. At some point, it gets too big to attract new players, and even many old players will eventually reach their saturation level and drift off.
+
+ 
+
+Thankfully, I think we're a few years off from that yet.
+
+ 
+
+Though, I wouldn't be too surprised if they move to a "deluxe expansions only" model after Grey Havens cycle and the Lord of the Rings Saga boxes are done...
+
+## 16 [GrandSpleen on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1944605)
+
+>  
+> 
+> Though, I wouldn't be too surprised if they move to a "deluxe expansions only" model after Grey Havens cycle and the Lord of the Rings Saga boxes are done...
+
+ 
+
+Boy I hope not, the card pool grows so slowly as it is, that would really slow the gears down.
+
+## 17 [alexbobspoons on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1945006)
+
+I sometimes find the card pool daunting and do wonder if in the future, encounter-only deluxes will be made so as to keep pumping in new adventures after no more ideas/characters for player cards are left.
+
+Id be ok with those deluxes
+
+## 18 [John Constantine on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1945010)
+
+> I sometimes find the card pool daunting and do wonder if in the future, encounter-only deluxes will be made so as to keep pumping in new adventures after no more ideas/characters for player cards are left.
+> 
+> Id be ok with those deluxes
+
+I hope this never happens.
+
+## 19 [Mndela on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1945034)
+
+I think: in the future FFG will buy my art. ^^ My fanmade player cards will become official cards. :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png] And the game will increase a lot of fun.
+
+## 20 [Bullroarer Took on December 19, 2015](https://community.fantasyflightgames.com/topic/195947-how-much-longevity-left-in-this-game/?do=findComment&comment=1945149)
+
+> > I sometimes find the card pool daunting and do wonder if in the future, encounter-only deluxes will be made so as to keep pumping in new adventures after no more ideas/characters for player cards are left.
+> > 
+> > Id be ok with those deluxes
+> 
+> I hope this never happens.
+
+I do too.
+

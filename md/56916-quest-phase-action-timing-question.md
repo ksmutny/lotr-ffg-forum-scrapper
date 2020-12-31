@@ -1,0 +1,24 @@
+# [Quest Phase Action Timing Question](https://community.fantasyflightgames.com/topic/56916-quest-phase-action-timing-question/)
+
+## 1 [RGun on November 29, 2011](https://community.fantasyflightgames.com/topic/56916-quest-phase-action-timing-question/?do=findComment&comment=561418)
+
+Can you play actions after the Quest Phase starts but before you commit any characters to the quest?  The rule book says you can take actions at the end of each step and Commit Characters is the first step so I am assuming the first opportunity you have to take actions after the Quest Phase has started is after you have decided which characters to commit - is this correct interpretation of the rules?
+
+Normally, it wouldn't matter as you can take actions at the end of the Planning Phase but in the Hunt for Gollum there is a situation where this is relevant.  In Phase 2B there is a forced action that occurs at the beginning of the Quest Phase.  It is to look at the top 2 cards of the encounter deck and then add 1 to the staging area and discard the other.  I am playing solo and using Denethor.  His action is to exhaust and look at the top card of the encounter deck and then move to bottom of deck if you like.  Can I use his action after the forced action of Phase 2B completes and before I commit any characters to see what the next card is, or do I have to wait to use his action until after I have decided what characters to commit (less useful)?  If I use his action at the end of the Planning Phase then the card I see will be one of the 2 that the forced action of Phase 2B reveals and hence a different card then if I wait to use his action after the forced action completes.
+
+## 2 [zeb on November 29, 2011](https://community.fantasyflightgames.com/topic/56916-quest-phase-action-timing-question/?do=findComment&comment=561424)
+
+This has been discussed before (starting there [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efpag=34&efid=201&efcid=4&efidt=479840] and on following page): indeed the rule book is contradictory, between the text rules ("end of each step") and the turn sequence chart on pages 30-31. The consensus is that you have to be able to play before committing characters to quest (as in the chart, not the text), on the basis that this card would not be playable:
+
+We So Not Sleep [http://www.cardgamedb.com/slir/h288/forums/uploads/lotr/we-do-not-sleep-tdm.jpg]
+
+Some people said that it is also confirmed by Gildor's Council, however, because of the Golden Rule (see FAQ), this would not be true: the card says to play before committing the characters to quest and thus would explicitely override a basic rule preventing to do so. On the other hand, We Do Not Sleep does not specify this, so the basic rules must allow to be able to play before committing characters to make this card playable.
+
+This shows that Nate should come up with a very precise turn sequence in a future FAQ.
+
+ 
+
+ 
+
+ 
+

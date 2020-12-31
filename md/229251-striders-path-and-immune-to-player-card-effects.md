@@ -197,3 +197,25 @@ It ought to.
 
 Edited September 18, 2016 by Lecitadin
 
+## 26 [Benoit Poulin on September 19, 2016](https://community.fantasyflightgames.com/topic/229251-striders-path-and-immune-to-player-card-effects/?do=findComment&comment=2421318)
+
+> ... so you could have 3 active locations on the last stage of the Watcher in the Water quest!!! This is alsmost like teleportation...
+
+how come?
+
+## 27 [GrandSpleen on September 19, 2016](https://community.fantasyflightgames.com/topic/229251-striders-path-and-immune-to-player-card-effects/?do=findComment&comment=2421531)
+
+He means The Ring Goes South.  You can have 2 active locations at the end of that quest.  But I don't think there is a way to get 2 immune active locations, so you wouldn't be able to move a 3rd down there.
+
+## 28 [JanB on March 22, 2017](https://community.fantasyflightgames.com/topic/229251-striders-path-and-immune-to-player-card-effects/?do=findComment&comment=2697725)
+
+Played Drowned Ruines yesterday. While playing we were instructed to make Shrine of Morgoth the active location. At this moment we had another active location, so i simply added Shrine of Morgoth so there were two active locations ... played right?
+
+## 29 [Crabble on March 22, 2017](https://community.fantasyflightgames.com/topic/229251-striders-path-and-immune-to-player-card-effects/?do=findComment&comment=2697786)
+
+As an addition there the quest card Sahir's Betrayal does instruct you to " Make the set aside Shrine to Morgoth the active location, Grotto side faceup. " However it does not say "return any active location to the staging area" like for example the second quest card in Watcher in the Water did.
+
+## 30 [JanB on March 22, 2017](https://community.fantasyflightgames.com/topic/229251-striders-path-and-immune-to-player-card-effects/?do=findComment&comment=2697863)
+
+@Crabble [https://community.fantasyflightgames.com/profile/211366-crabble/] Spoileralert! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+

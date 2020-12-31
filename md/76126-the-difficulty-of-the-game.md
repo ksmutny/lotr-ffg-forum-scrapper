@@ -1,0 +1,462 @@
+# [The difficulty of the game.](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/)
+
+## 1 [Stenun on December 23, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738343)
+
+Various threads on this forum sometimes end up in a discussion of the apparent increasing difficulty of the game.
+
+To be honest, I do actually think this is a problem - it's nice having hard sceanrios but if we just have had scenarios then we are going to alienate a lot of players, the sales will decrease and the game will stop.  Personally, I think FFG need to start bringing out some easier scenarios, what do you think?
+
+The current mean average Difficulty Number of the scenarios (not including the PoD expansions or the first Hobbit deluxe which came without difficulty numbers) is just over 5.  If we drop the only 1 from the calcuations, the mean average is 5.3.  That might not seem like much but I personally think it's quite telling.  If we include the PoD expansions, the mean average leaps up to 5.4.  Surely I'm not the only one who thinks all of these means are too high?
+
+ 
+
+The mode average (the one that appears the most often), for those who are interested, is 7.
+
+Seven??  Seriously??  C'mon … that's obviously too high, surely?
+
+ 
+
+Now I know, I know, a lot of people say that the difficulty numbers aren't that reliable a guide.  But I would still maintain that the game is pitched too high and alienates the less hardcore players.  I have no problem with difficult scenarios but I would like some variety, too.
+
+## 2 [jc1138 on December 23, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738354)
+
+I think you bring up good points.  I don't put much stock in the challenge ratings, however, as I really struggled with the Anduin encounter (a 4), but beat Rhosgobel (a 5) first try.  (I'm only playing solo).  Also, DG as everyone knows is a 7, but it should perhaps be a 10 from what I've read and the times I've tried--it really is much more difficult.
+
+On the whole, I'd rather they skew the encounters on the hard side than easy, overall.  That way I can beat it using 4 heroes, solo (count threat of 3 highest) first, then try to do it standard with only 3, or maybe try 2-handed (haven't tried this yet).  Also, when I do finally beat the Encounter with 3 heroes solo it's an accomplishment.
+
+I do wish they would throw in an easier one in, every now and again.
+
+## 3 [richsabre on December 23, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738355)
+
+the problem with those stats is that difficulty ratings in this game are meaningless. i actually thought theyd given up putting them in after the hobbit, but aparently not
+
+as a vetern player i find quests easier to win than perhaps the average player, but still enough of a challenge that i dont feel like they need to be harder
+
+i guess im in the sweet spot.
+
+this is indeed something that comes up often though, so i guess its something that ffg should, and probably are, taking into account
+
+i guess the later on packs get the harder they get- just a way to sell packs
+
+rich
+
+## 4 [player1761766 on December 23, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738414)
+
+I too lament the fact that some quests are just too hard to get through. I often ascribe this to the fact that the game is designed for two players, but I only play solo (that it can be played solo is, as often discussed, more accident than design). In terms of length of time playing, I suppose I'm a veteran of this game as well, though in terms of actual number of games played, I'm as fresh-faced as a fairly new player. This is partly because I am, at best, only a casual gamer, but also because the difficulty of this game can sometimes really turn me off, and I won't play it for months. (Watcher in the Water is the only game I have played that has caused me to swear so vociferously I could have burst a blood vessel or two). 
+
+I wouldn't like to see easy quests, but I don't want the trauma of having to concede the game once the encounter cards are drawn during setup, either.
+
+## 5 [Ellareth on December 23, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738420)
+
+Skipping the unreliability of difficulty rating, I agree with the point you are trying to make.
+
+ 
+
+Let's look at last few expansions we had:
+
+Shadow and Flame, Battle at Laketown, The Hobbits, Heirs of Numenor.
+
+ 
+
+Without a specific deck (Ori dwarf deck or Hama feint deck), Shadow and Flame is no cakewalk.
+
+Battle at Laketown is argueably the most difficult scenario so far
+
+The Hobbit quests weren't that difficult, but it is not easy neither, I think this expansion was a sweet spot
+
+While I enjoy Heirs of Numenor with the new found love for tactics, the difficulty of all three scenarios are definitely higher than average.
+
+ 
+
+I think this happened because we are inbetween cycles at the moment.
+
+Shadow and Flame had to be difficult because it was end of a cycle (Return to Mirkwood was tough too)
+
+Battle at Laketown was PoD so, again, it had to be tough.
+
+The Hobbit Saga expansion was something new, but is not a regular thing (although I wouldn't mind regular releases of Saga expansions)
+
+Heirs of Numenor had to be slightly more difficult than the last delux expansion due to the player card power creep.
+
+ 
+
+However, I think once we get into the actual Against the Shadow cycle, the problem will resolve itself, as the first 2 adventure packs are usually mild in terms of difficulty.
+
+## 6 [jc1138 on December 24, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738452)
+
+I like what you say, Ellareth, about the difficulty increasing gradually over the course of an Encounter rotation (ie how Moria cycle hightens in difficulty up to Shadow and Flame).  It's a good model to follow, and gives a climax to a cycle, rather than just saying "btw, it's over now."
+
+It's hard to fix any kind of difficulty to any Encounter, as they will be played so differently depending on circumstances.  A 4-player Escape from Dol Guldur will play very different from a solo.  Also, some quests are punishing, almost impossible, unless/until your deck is built to handle them, but if/when it has the right tools (like location control for the Emyn Muil Quest) they're a breeze and your deck will win almost every time.  How would you judge such Encounters?  (Yes, you can build a deck to go up against any Encounter, but many still remain difficult in solo even when you built to beat them).
+
+It would help if we know what criteria FFG uses to establish it's challenge ratings; out of the blue, I'd say they probably rate them judging by a standard 2-player game. 
+
+## 7 [player1761766 on December 24, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738523)
+
+I suppose part of the problem could be said to be down to the way the game is distributed. If each cycle was instead a big-box expansion of six quests, it would have something for everyone and so we probably wouldn't complain so much. At least, I don't think I would. The core set has a difficult scenario, an easy one, and a middling one, but because the quests are single-issue things, I end up feeling like I've paid £12 for something I can't play with. Well, excepting the player cards, though they're only, what, a fifth of the cards in the pack? 
+
+ 
+
+## 8 [kennoastic on December 24, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738530)
+
+Deluxe expansion like Heirs of Numenor could have 1 easy, 1 medium and 1 hard quest, so there is something for "everyone".
+
+## 9 [Raven1015 on December 25, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738882)
+
+kennoastic said:
+
+Deluxe expansion like Heirs of Numenor could have 1 easy, 1 medium and 1 hard quest, so there is something for "everyone".
+
+
+
+ 
+
+True, but then advanced players might complain that there is only 1 real quest for them, and similarly new players might say there is only 1 quest that is suitable for them. I think the best solution is just to make quests more customizable. Include with the rules for each AP/expansion instructions for an easy mode ("remove these cards", or "ignore the effects on this quest stage"), normal mode, and hard mode ("add these hard cards", "add this effect to this quest stage"). I don't think it would be that difficult to do this as part of the design process, and would improve the experience and longevity of quests for everyone
+
+## 10 [kennoastic on December 25, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738892)
+
+Raven1015 said:
+
+kennoastic said:
+
+ 
+
+Deluxe expansion like Heirs of Numenor could have 1 easy, 1 medium and 1 hard quest, so there is something for "everyone".
+
+ 
+
+ 
+
+ 
+
+True, but then advanced players might complain that there is only 1 real quest for them, and similarly new players might say there is only 1 quest that is suitable for them. I think the best solution is just to make quests more customizable. Include with the rules for each AP/expansion instructions for an easy mode ("remove these cards", or "ignore the effects on this quest stage"), normal mode, and hard mode ("add these hard cards", "add this effect to this quest stage"). I don't think it would be that difficult to do this as part of the design process, and would improve the experience and longevity of quests for everyone
+
+
+
+It's a good solution. But there will be someone complaining about buying cards they don't need because they never play easy/hard mode ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+How about having extra rules on the quest and encounter cards? If there is room for it ofcourse… A quest card could have something like "Hard: All enemies have surge" or "Easy: At end of turn draw an extra card". An encounter could be for example "Hard: When revealed [this] engages the first player" and so on…
+
+## 11 [richsabre on December 25, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=738904)
+
+there is really alot of ways ffg could change the difficulty of the quests, but the point is, will they? will they put the extra amount of time into play testing each and every quest in each difficulty level.
+
+you may be thinking, well, just adding 'gains surge' or 'draw 1 extra card' isnt going to add alot of design work, but weve seen several times how one minor mistake or oversight on ffgs behalf can send a game crazy hard or easy
+
+personaly i dont see things changes for a long time yet, if at all.
+
+rich
+
+## 12 [Raven1015 on December 26, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=739039)
+
+richsabre said:
+
+there is really alot of ways ffg could change the difficulty of the quests, but the point is, will they? will they put the extra amount of time into play testing each and every quest in each difficulty level.
+
+you may be thinking, well, just adding 'gains surge' or 'draw 1 extra card' isnt going to add alot of design work, but weve seen several times how one minor mistake or oversight on ffgs behalf can send a game crazy hard or easy
+
+personaly i dont see things changes for a long time yet, if at all.
+
+rich
+
+
+
+ 
+
+I guess it depends on whether they think it is enough of an issue or if there is enough of an incentive to make those changes. For me personally, I'm pretty happy with the difficulty overall. I guess the issue is that we've heard of some new players getting turned off by the difficulty when first getting into the game. But beyond those stories, we don't really have any hard data on how new players feel about the game and difficulty, how many turn away from the game, etc. From what I've heard, this game is one of FFG's top sellers, so such changes probably don't seem like that big of a priority at the moment.
+
+## 13 [HeavyKaragh on December 26, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=739070)
+
+Is always easier to find negative opinons than positive opinions. We ear of those turned off players often, but we don't ear about turned on players often.
+
+I'm happy with the difficulty level. Is really easy to soften quests removing baddest encounter cards, then I don't think we need "easy mode cards".
+
+## 14 [just Logan on December 27, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=739359)
+
+Agree, I strated gaming with AD&D, my 1st encouter with FFG was when AGoT TCG came out, a great game that they turned into a money sink hole. When it started to get huge powr creep, I being a not rich person, stopped playing. Then I played The Hobbit, LotR (the board game), and Arkham Asylum.  Those games are hard, and require thought, planning and cooperation beyond anything else I have ever played. I've played RPG's with great GM's that could make this happen but it's never been built into the game. If a co-op game isn't really hard, it's bad. AH is the best board game I have ever playedand the first too many times I played it I lost , then I scraped by, then I got an expac, then I lost, then I scraped by then etc.  If you want a  game you can play through go get your modern duty halo warfare call. If you want a game that gets easier and easier the better you get play your WOW and every other C"RPG" if you want a game that challenges you to make good decisions and interact with people play an FFG game. If you would quit a game becase it's "too hard" go home and play your games. but admit that you suck at games that you will get you ass kicked by bowser, and Mike Tyson, and a dirt bike track and a ghost named pinky.
+
+## 15 [divinityofnumber on December 28, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=739855)
+
+I enjoy extremely difficult quests. Beating a quest the first or second try is seriously disappointing. True, you can always keep trying for a better score, instead of simply beating it. But, I get more enjoyment out of finally beating a really dificult quest than I do out of trying to improve my score on an easy one. 
+
+## 16 [Mattr0polis on December 28, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=739885)
+
+divinityofnumber said:
+
+ 
+
+I enjoy extremely difficult quests. Beating a quest the first or second try is seriously disappointing. True, you can always keep trying for a better score, instead of simply beating it. But, I get more enjoyment out of finally beating a really dificult quest than I do out of trying to improve my score on an easy one. 
+
+ 
+
+ 
+
+This. You don't want to wait a month for a new quest only to destroy it on the very first try and have to wait a month again for a new one. It's funner if you have to work at it.
+
+And as more and more cards are released for the game, old quests get easier as it is (for example, the core set and Mirkwood cycle quests are so easy now) so you don't want things too easy right off the bat.
+
+I do though like the big box expansions when it's like an easy quest, medium quest, and a hard quest. Especially if they are planning to eventually add Nightmare add-in decks for ALL old quests.
+
+## 17 [rfox01 on December 29, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=740195)
+
+I just started playing this game and I'm really liking it especially with the solo play capability. So far I've only played with 2 of the 4 preconfigured decks from the Core set playing Passage through Mirkwood (DL=1) and I'm just barely surviving most of the games, and that's playing without Shadows! I know I'm still learning the game and I'm sure my player deck will improve with expansions, but I can't imagine what the harder Quests would be like.
+
+I'd be thrilled to continue playing this game for a while and I'm excited to get into the exansions and adventure paths. For example, the Hobbit saga expansions sound really interesting, but everyone says it's really hard and only experience players should get it. I understand making more difficulty scenarios to appeal to the hard-core advanced players who want a challenge, but I would hope the designers keep in mind to make games and expansions as accessible as possile to a wider audience.
+
+Can it really be that hard to scale Quests for different levels?
+
+I like the idea of an increasing level of difficulty as an adventure cycle progresses.
+
+Other options could be they could have adapted easily for scalability is indicating optional Encounter sets for a Quest. If you want a harder game, include this optional set; if you want an easier game, don't include it.
+
+Or they could have a small icon on the face of the Encounter cards to indicate an "Easy","Normal", or "Hard" difficulty. So for example, if you want a medium game, just include the Easy or Normal cards. Maybe a color icon would be less intrusive: Green, Yellow, Red
+It would take a little more setup time for you to sort through the cards to include or exclude cards, but it least then more people can play all Quests at whatever difficulty level they want, and it also gives you the ability to replay the Quests at increasing difficulty when you improve your game.
+
+ 
+
+## 18 [jc1138 on December 29, 2012](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=740313)
+
+I definitely lean towards preferring a higher difficulty, and agree that we as players have some measure of control over this.  For instance: Hunt for Gollum, Hills of Emyn Muil are easy with Spirit decks, especially with Northern Tracker.  To make them harder limit your deck by playing without the Northern Tracker, or even not using Spirit.  Then, try using just Tactics (a sphere which, though it's come a long way since Core, is not well suited to these scenarios) if you feel it's still too easy.
+
+## 19 [Hannibal_pjv on January 1, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=741474)
+
+Yep, it is better to make scenarios difficult enough. Some customization would be nice. Those comeing nighmare add on cards will help a situation a bit, but casual players are more keen on making the game more easier. I find most scenarios too easy after some try, but not all players are so keen on deck tuning or willing to buy all nesessary cards.
+
+Fortunately it is much more easier to make the game more easy than to make it harder. Here are some suggestion that I put in Boardgamegeek.
+
+ 
+
+ - - - - - - - -- -- - --- - - - - - -
+
+ 
+
+I may suggest some modifications that you may use. (Use one or more of them depending an how difficult the scenario is.
+
+1. Hard duty: (aka Night shift) Untap a character by giving a wound to the untapping character (owerworking)
+2. Backpak: (select one, two, or three… cards in advantage from your playing deck and when you draw a card, you can take it/them from your draw deck or backpak.
+3. Gifts of Caladriel: (or other suitable character) A variation of backpak, but you get a fixed amount of preselected cards directly to your hand in suitable part of the game (beginning, start of second phase etc.)
+4. Prepared defenses: (a variation of Gifts of Caladriel) You start the game with some preselected cards. They replase or are additional to your normal starting hand.
+5. Favor of Valar: (Plessed by Eru etc…) You get additional resource token(s) in the resource phase
+6. Prepared for battle: (Family heirlooms) Every character starts the game with one item (or attachement)
+7. Fellowship: (Start the game with one or more allies)
+8. Long journey: Start the game with 7, 8, 9 or 10 cards (instead the normal 6).
+9. Campfire: (aka Resting plase) You get one or more healing after you complete one stage.
+10. Sanctuary: (as Campfire, but you reduce you threath level after you complete one stage)
+11. an Elven cloak: You start the game with reduced treath level (because of an Elven cloak it is harder for enemies to catch you)
+
+So here we have some options that makes the game easier. Thematically it is easy to fith these to the scanarios. The more dangerous mission is, the more you get support from free peoples of Middle Earth.
+Just don't over use them or you make the game too easy! It is guite easy to make up more of them, just make sure that there is somekind of "reason" for the modification.
+
+ - - - - -  - -  - - -  - - - -  - - -  - -
+
+ 
+
+## 20 [GalaxyUC on January 2, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=741864)
+
+I am a very casual player. I play maybe once every month if I'm lucky. I bought this game to play solo. However, playing solo means one of two things, if you want to be a DL 7, you need two hands or just quit, because it cannot be done. I have many Kazad Dum and 1.5 Cycles of adventures…I REALLy wish there was scaleability, because I can barely beat the DL-1 in the core set. BARELY!!! This game is HARD. i have logged 8+ plays of the game so far and have beaten DL-1 from the Core like, twice. I play this game for it's story and the great art. I wish I could play casually without having to cheat…too much  ;-)
+
+## 21 [richsabre on January 2, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=741922)
+
+GalaxyUC said:
+
+I am a very casual player. I play maybe once every month if I'm lucky. I bought this game to play solo. However, playing solo means one of two things, if you want to be a DL 7, you need two hands or just quit, because it cannot be done. I have many Kazad Dum and 1.5 Cycles of adventures…I REALLy wish there was scaleability, because I can barely beat the DL-1 in the core set. BARELY!!! This game is HARD. i have logged 8+ plays of the game so far and have beaten DL-1 from the Core like, twice. I play this game for it's story and the great art. I wish I could play casually without having to cheat…too much  ;-)
+
+
+
+i think the reason here is that you havnt played enough. i bought the game for solo as well as for the first year and a bit played just that. i beat all of the quests apart from dol guldur.
+
+so while i agree on the difficulty of solo play i would say give it more of a chance….
+
+rich
+
+## 22 [Serazu on January 3, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=742118)
+
+The sad truth is that, if you play solo, the choices are limited: without Spirit, this game is really tough.
+
+## 23 [Angus Lee on January 3, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=742167)
+
+Serazu said:
+
+The sad truth is that, if you play solo, the choices are limited: without Spirit, this game is really tough.
+
+
+
+Depends on your card pool.  Currently I use a deck of drawfs without spirit cards and it performs quite well, though my card pool for this deck is all Adventure Packs and up to the Hobbit expansion.  Granted, without a Test of Will, it is vulerable to deadly Tracheries.
+
+## 24 [schmoo34 on January 3, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=742308)
+
+I never played a deckbuilding game prior to this.  I'm not sure I ever will again. 
+
+ 
+
+Don't get me wrong, I enjoyed this, to some extent, but the things that make the deck-building community happy is not what makes me happy.
+
+ 
+
+For example, due to the difficulty of the quests, there are only a very few limited options for succeeding that quest.  For some, this is fun, for me, this is BORING!!!
+
+ 
+
+I just purchased over 1000 cards, and I can only use 50 to beat this quest.  The other 950 just sit there, worthless.  
+
+ 
+
+Now, some will chime in and say, "hey, the sky is the limit, you can build whatever theme or deck you want!".  Not if you want to have a reasonable chance at success, you can't. 
+
+ 
+
+Many have already said…spirit cards or bust.  I do agree, the dwarves have serious advantages to them.  And I often solo play with two hands…spirit on one and dwarf on the other.
+
+ 
+
+But deckbuilding players never understand my point or if they do, they brush it off and say that is what deckbuilding games are all about.
+
+ 
+
+If I buy a game with a wizard, cleric, rogue and fighter and the game is only winnable with the wizard and cleric and the rogue/fighter are not capable of winning, then it is an unbalanced game.
+
+ 
+
+LOTR/LCG is an unbalanced game in a similar way.  I'm not trying to say it isn't fun.  I own every expansion and campaign there is to date, so it would be pure supidity for me to say to you that it isn't fun and still keep purchasing and supporting the game.  I'm just simply saying, it feels broken and the difficulty levels exascerbate its brokenness.  Rhosgobel is the one quest that made sense to me, because you finally use cards you would otherwise not use.  As it stands, I have a whole pile of cards which are never used  (Rohan deck anybody?  Eagle deck anybody?).  I keep trying to use them, but they just don't work with a high degree of success.  The only thing which works is very limited.
+
+ 
+
+So I have, in essence, a game with over 1000 pieces, but we only play with 100 of them.  THat is how I see it, but deckbuilding players don't see it this way, they think this is wonderful.  I guess my boardgaming roots are just too strong…I would be ashamed to play a boardgame which was that limited in its use.
+
+## 25 [Hannibal_pjv on January 4, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=742936)
+
+Yeas. LCG games are deck building games. You have to like it in some degree, to like these games a lot. But I still play guite succesfully eagle deck :-) It just have so much card drawing that it is hard to not make it work, so it somewhat cements what you say. Certain type of decks are just better than another kinds are.
+
+And that is the thing that game designers try to brake from time to time. You need very different deck to the Heirs od Numenor cycle than with two previous, but it just makes some type of decks better compared to other. It is the very nature of all deckbuilding and development games. In WW II games if you managet to develop some uber technology it may be impossible to stop you etc. It is possible to find out uber combos in miniature games, and it is possible that only certain army types can counter that combination. It is the bless and curse in the same time. Some people finds out completely uber, even proken combinations/play styles and other are desperately trying to offer harder counter effects. In Co op games it is the game company.
+
+For example in board game Archam Horrow, each "upgrade" kit makes the game harder and harder, just to counter better and better gameplay of some players in the world, so It is definitely only problem in card games. Yoy have to somehow masochistly like the sutuation ;-) or make some house rules to remedy the situation id you are not "sitting in the top of power curve".
+
+So far there has been several ways of beating many of those scearios with different heroes and some varitions of speres, but the harder the scenario gets the less there is marging for alternatives. IMHO. That is one reason why I like those custome scenarios. There are guite many to chose from so that I can get challenge hard enough, so that I can try to beat and get beaten down with many deck variations.
+
+## 26 [bigcrowe on January 8, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=744544)
+
+schmoo34 said:
+
+LOTR/LCG is an unbalanced game in a similar way.  I'm not trying to say it isn't fun.  I own every expansion and campaign there is to date, so it would be pure supidity for me to say to you that it isn't fun and still keep purchasing and supporting the game.  I'm just simply saying, it feels broken and the difficulty levels exascerbate its brokenness.  Rhosgobel is the one quest that made sense to me, because you finally use cards you would otherwise not use.  As it stands, I have a whole pile of cards which are never used  (Rohan deck anybody?  Eagle deck anybody?).  I keep trying to use them, but they just don't work with a high degree of success.  The only thing which works is very limited.
+
+
+
+See I found this pretty funny because we'd been struggling for a while with Foundations of Stone with 2 players. Our two Dwarf decks couldn't make it through after repeated plays. Just to be different we tried it with a Rohan and an Eagle deck (built on a "Eagles are rubbish" dare) and made it through first time! Then those two decks sailed past Shadow and Flame as well.
+
+I think it's easy to get stuck in a mindset of what's good and not, and this restricts you trying out new things.
+
+But even if you are sure some cards are rubbish there's no reason you can't at least try them. See it as a challenge… take a bad strategy and try and make it as best you can. Play the early, easier scenarios. This way you're getting repeated use out of both 'bad' cards and early scenarios that are just too easy for your good decks to bother with.
+
+## 27 [Bellasarius on January 9, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=745045)
+
+Morph said:
+
+schmoo34 said:
+
+ 
+
+But even if you are sure some cards are rubbish there's no reason you can't at least try them. See it as a challenge… take a bad strategy and try and make it as best you can. Play the early, easier scenarios. This way you're getting repeated use out of both 'bad' cards and early scenarios that are just too easy for your good decks to bother with.
+
+
+
+This.
+
+ 
+
+Deck building for me is the essence of the game.  Developing single and multi sphere decks of different varities and strengths is, for me, the most enjoyable aspect of the game. 
+
+My friend and I play 2 player.  I have never played the game 1 player before.  We have come across adventures that have been so difficult we couldnt imagine how we were going to defeat them.  But each time we sat down and either tweaked the decks we were using or came up with a different combo altogether, and eventually overcame. 
+
+I have seen no personal evidence that one sphere is essential to winning, or is necessary to defeat most adventures.  Although we usually play two spheres each.  Finding card combos either within your personal deck, or in concert with another deck, is what really makes this game fun.
+
+Given the incredibly high number of variables, FFG has done a steallar job with balance.  And Keep the difficulities high.  Nothing dissappoints me more than beating an adventure on the first try.
+
+## 28 [just Logan on January 9, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=745051)
+
+That, as a huge fan of co-op and that's how it works. The LotR baord game, Arkham, and this. Maybe there sould be a "tutorial" encounter, but after that it should be hard to win. A co-op game that isn't exactly almost too hard is a boring game, and as anyone who plays co-op games knows, the game gets easier so you need expansions to ramp up the difficulty. A good expansion for this game should seem almost impossible on the 1st play through. then you build your decks paly a few more times, it's still hard. Then, well you know how to win and you go what's next. Look at the Arkham page there is no shortage of "too hard" posts but there are 10x as many let's make house rules to make it harder posts
+
+## 29 [jc1138 on January 10, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=745666)
+
+In response to schmoo34's comments only about 5-10% of cards being usable.
+
+You make some good points.  Some cards are simply almost always better than others, and some cards are chaff.  For instance, I've never played Beorn's Hospitality, so this would qualify for me as wasted money/space, as you mention.  However, I feel that compared to other games LotR: LCG has far fewer of these sorts of cards than other card games (such as Magic's many of versions of Grizzly Bears), because in some scenarios they can find a home and even be great.  If I read you correctly, it bothers you that for a scenario only certain cards are good.  To me this is a strength of the game because it encourages you to:
+
+-Use cards that may not be good in a general sense, but are in a specific scenario (I feel that Elanor fits the bill here, to some degree).
+
+-See if you can beat a scenario with tools not built specifically for it.  It's a lot of fun to try location-heavy quest like Emyn Muil w/out Northern Tracker.  Give it a try.
+
+You mention using only 50 or 100 cards out of a collection of 1000, and this is boring to you.  May I suggest not using only the best of the best?  Lorien Guide instead of Northern Tracker.  One can beat the scearios without ONLY using the top cards/spheres.  Your win % may not be quite as high, but being a good player will do much to balance this out.  I'm no master at this game and have won difficulty level 7 scearios with many of these sub-optimal cards, playing single-hand solo, with a win ratio in the neighborhood of 50%.  If you're looking for that deck to get you in the 90%+ win ratio then perhaps your card pool would be more limited, as you mention. 
+
+Yes, perhaps Spirit is the strongest sphere (it could well be for a majority of the scenarios), but the nature of the game doesn't require balance between the spheres, although they should be roughly comparable.  I feel the spheres are becoming closer in power the more cards are released.
+
+Power-creep is pretty inevitable in card games, and it's impossible to have hundreds of cards that will be balanced for more than 20 unique scenarios.  Deck-building ccg's (lcg's, tcg's, whatever) are not to everyone's taste.
+
+## 30 [Hannibal_pjv on February 10, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=761175)
+
+Allso I would like to say that Hobbit scenarios seems to be very possible to solve with core and both Hobbit expansion cards. With core and only one of those Hobt scenarios it is going to be too difficult. Allso it is better to have 3 treachery changelin cards in each plaing deck.
+
+## 31 [PadmeSkywalker2 on February 10, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=761245)
+
+I've been playing the game since it came out, have every single expansion and POD and I'm very close to quitting the game because of the difficulty level. 
+
+It feels like at one point the quests were more on the easy side and now the pendulum has swung to being way too hard. I don't mind tweaking my decks, but I honestly do not have the time to take them apart and make brand new ones for every single quest. I also like playing games with four decks and feel like the quests are terrible at scaling up and down in terms of difficulty.
+
+My husband and I play together and we've already tried modifying the rules and we still find it too difficult. There needs to be a bigger variety of quests for different kinds of players. The quests should be on the easier/average difficulty side with variants to make them more challenging for those who want higher difficulty. As someone mentioned, I think the hobbit expansion was the sweet spot for the game, not too easy, not too hard. 
+
+Also, the development of the spheres and the keywords have been really uneven. Rohan has pretty much been forgotten for example and it is nearly impossible to have a spirit only deck. If they have POD quests, why can't they also make POD cards for the spheres? I would gladly buy them. I am more than willing to throw my money at Fantasy Flights if they do this, because frankly, I have more cash than time.
+
+Honestly, the game has become less fun and less thematic as time has gone on. I play to have fun, and while I don't mind working for my wins, playing the latests quests feel like I am beating my head against the wall. 
+
+## 32 [richsabre on February 11, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=761445)
+
+PadmeSkywalker said:
+
+Also, the development of the spheres and the keywords have been really uneven. Rohan has pretty much been forgotten for example and it is nearly impossible to have a spirit only deck. If they have POD quests, why can't they also make POD cards for the spheres? I would gladly buy them. I am more than willing to throw my money at Fantasy Flights if they do this, because frankly, I have more cash than time.
+
+ 
+
+
+
+this would be a problem for player cards as they are non compatible…unless you sleeve then it would be easy to tell what was coming in your deck next. this isnt a problem for pod quests where they dont interact physically with your own cards
+
+rich
+
+## 33 [Eryx_UK on February 14, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=762793)
+
+As someone who bought the game for solo play and gets to play two player once in a blue moon, what I have to help with the difficulty without houseruling, is to use the optional in the rulebook which says not to draw shadow cards. For those of us who play solo and don't like the harsh difficulty this actually helps balance it just a little bit.
+
+## 34 [jc1138 on February 14, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=762808)
+
+One thing is for certain: You Can't Please Everyone.  This game will be deemed as too difficult by some and even too easy by a few. 
+
+For me, sure it's tough (I only play solo) but it's very simple to put into effect house rules that simplify things to a degree.  One that I've used in the past is the option of taking an extra mulligan (or two…), or choosing one card from the deck for my opening hand.  These sort of variants are certainly less game-changing than playing with no shadow effects or an extra hero.  Also, when I win the scenario I'll go back and beat it without the extra mulligan or one free card or whatever, now that I've got a handle on it.  (However, lately I've been trying to just playing things straight).  The only quest that I haven't had success with this is (suprise) Escape from Dol Guldur--to "beat" it solo I used 4 heroes, chose the captive, AND chose a card to have in my starting hand (even then it wasn't easy!).
+
+## 35 [Style75 on February 17, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=763764)
+
+I currently play 2-player as much as possible because I feel it is the sweet spot for this game, but I frequently play solo simply due the busy lives of myself and my friends. When I play solo I almost always play "double-fisted" (I control two decks) because the true solo game can be extremely luck based. I should say, however, that I've been experimenting with ways to make the true solo game more fun. I've tried playing without shadow cards but I find that they are increasingly a critical part of the story of each scenario and removing them makes the scenario too different from regular play. The other tricks I've tried are to start with more resources than normal (+1 or +2 or +3 depending on the scenario) and/or starting with more than 6 cards in my initial draw. These changes give the solo player a little boost from the start but don't effectively change the nature of the game. The problem is that victory is still very much dependant on luck of the draw from the encounter deck. Another modification I've tried is one that I saw on BGG. Start with 4 heroes instead of 3 and use the average threat of the 4 heroes. This is a huge power increase which makes the game significantly easier in solo play and I recommend it for those of you who find normal solo play just too difficult to be worthwhile.
+
+In general, if the game is too hard for you to enjoy, there's lots of little tricks you can to make it easier. I know this doesn't help those who plan to play at conventions or organized play, but when you're at home there's nothing stopping you from tweaking the rules to get the kind of game experience you want.
+
+I would much prefer if FFG keeps the game difficult. It's a lot easier to use houserules to make the game easier than it is to make it harder. FFG needs to do a better job at providing alternative rules for easier play, especially for beginners trying to get into the game this late in the game's development.
+
+## 36 [legolas18 on February 17, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=763955)
+
+I hope that FFG does not make anything easier.  The theme and difficulty of the game right now are awesome right now, in my opinion, and if they made anything easier I would not buy it.  That is the whole point of these types of games.  If it is too easy, then a lot of people are not going to like it and are not going to invest in it.  If it is hard, but still beatable, then that's what makes people like the game.  
+
+If some of the scenarios are too hard, then nothing is forcing you to play them.  Go on to a different one.  But all the scenarios have been beaten, and they are all possible, otherwise they would not have been released.  I haven't beaten all the scenarios yet, and I definitely haven't beaten the Heirs of Numenor quests.  But a whole cycle is coming, based on Heirs of Numenor type quests, and every single adventure pack will have more cards that make the previous ones easier.  Don't give up on the game, thinking it's too hard, because they wouldn't make a game that isn't possible.  If you need help on certain quests, use the forums.  There are a whole bunch of people on here that will help if they can.
+
+ 
+
+## 37 [Style75 on February 18, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=764110)
+
+Oops! In my last post I suggested a way to make the solo game easier by using 4 heroes and the average threat of each. Wrong! (this is what happens when I start posting while completely exhausted and a busy toddler climbing over me).
+
+What I meant to say is use 4 heroes and the starting threat is 3 times their average threat. ex. [ (7+10+8+12) / 4 ] x 3 = 27.75 = 28 starting threat. This gives the solo player a significant power boost and the game is much easier but it still doesn't resolve the inherently luck based nature of the solo game.
+
+## 38 [gatharion on February 18, 2013](https://community.fantasyflightgames.com/topic/76126-the-difficulty-of-the-game/?do=findComment&comment=764188)
+
+Some cards are better than others, that's always the nature of nearly any game (not just those with deck construction). However, some people have different play styles and cards that you write off, might be key components in the strategy employed by another player.
+
+Who said Eagles were rubbish? Because they are…. against some quests. The Hills of Emyn Muil is a very simple quest that I can destroy in a few turns with a good Spirit deck, but can't get anywhere against with my Eagles. And yet, I can beat all of the Heirs of Numenor quests with the same Eagle deck.
+
+There are some very good decks posted on the strategy forum here or on CardGameDB.com, try out one of those and see how you do. Also, if you're not confident with a deck, try it out against Passage from Mirkwood in the core set. It's a good tutorial quest as it isn't overwhelmingly hard, but does present the basic challenge array (needing to get Progress Tokens, dealing with enemies, having Treachery cards and Shadow cards that can be unpleasant surprises). If your deck doesn't get bogged down there, then try it out on a level four quest. If you lose, then consider why you lost and if there's a way to tinker your deck to compensate for why that happened.
+

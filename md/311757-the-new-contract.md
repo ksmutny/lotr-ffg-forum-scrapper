@@ -1,0 +1,260 @@
+# [The new contract..](https://community.fantasyflightgames.com/topic/311757-the-new-contract/)
+
+## 1 [asgardianphil on October 8, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999075)
+
+A mate just sent me these screen shots. 
+
+Is this legit? 
+
+IMG-20201008-WA0002.jpg [//content.invisioncic.com/Mfantflight/monthly_2020_10/IMG-20201008-WA0002.thumb.jpg.cb8d98171d7231db002e0315d9ea9877.jpg] [//content.invisioncic.com/Mfantflight/monthly_2020_10/IMG-20201008-WA0002.jpg.19574dcc0c17ae9eabc4cfab2dc5f028.jpg]
+
+IMG-20201008-WA0003.jpg [//content.invisioncic.com/Mfantflight/monthly_2020_10/IMG-20201008-WA0003.thumb.jpg.cc7cec69a3fd01a2eae8e69aa4f809f5.jpg] [//content.invisioncic.com/Mfantflight/monthly_2020_10/IMG-20201008-WA0003.jpg.9bc0fb6fb8ac4cb1db97c0155598e777.jpg]
+
+## 2 [Thanatopsis on October 8, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999210)
+
+Yes, this is a legitimately spoiled card provided by FFG. It will be released as part of the Hunt for the Dreadnought scenario.
+
+## 3 [TrueLolzor on October 8, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999238)
+
+Interdasting.
+
+## 4 [GrandSpleen on October 8, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999290)
+
+I haven't figured out why I'd want to use it yet, except for just the novelty of it.
+
+As a frequent player of 4-player games, this would just be a really bad idea for a lot of scenarios out there. But I guess this type of thing is true for all contracts, like doing Burglar's Turn in a deck with several Immune locations that you have to travel to, using Three Hunters in scenarios which require a lot of extra exhausting (like Sailing tests), etc.  
+
+So: 100 card deck. That's a "restriction" as it hits consistency. But, as I've noted before with Council of the Wise decks, you don't have to build to compensate for it, you also have the option of building around it, so if you're in the mindset of selecting cards for a role (like "defense" or "readying") rather than a specific card interaction, you can still build a good deck. In fact, I could probably take a couple of my existing Council of the Wise decks, increase all copies of the cards from 1 to 2, and end up with a Perilous Journey deck that performs pretty reliably.
+
+Then: look at 2 cards, draw 1.  This could be seen as compensation for the 100 card requirement, but it's actually better than that. Without other card draw, you're getting 2 cards per round (one from standard draw and one from the contract), and going through the top 3 cards of your deck in total without even having to discard anything (the unselected card goes to the bottom of your deck. That could be a plus or a minus depending on the deck you're building).  So actually, your hand will fill up nice and fast.
+
+The 'free' card play when you flip to side B and the no-exhaust thing for heroes.... Nice, but not worth taking a contract for.  Just icing. Searching your whole deck to get that 'free' card into play probably won't matter, as this is gonna happen most likely mid- to late-game when you're already established (and if you aren't established at that point, you're probably going to lose anyway).
+
+The side A card draw effect is really the only reason I can imagine you would ever want to play this contract, so you'd want to stay on side A for as long as possible. That'll probably bias me toward low threat starting heroes, and staying away from the One Ring.
+
+## 5 [player3351457 on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999325)
+
+Yeah this is only contract you want to stay on side A. Practically no benefit to side B, except for maybe a final push with a helm of secrecy or something. Because if you have a threat heavy deck you are out in less than 10 turns and other than the no exhausting to quest, you are out of benefits.
+
+Mining decks love this contract.
+
+## 6 [General_Grievous on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999393)
+
+I am very excited about this contract, specifically the crazy card draw for resource generation heavy decks like Tactics Hirgon and Mablung heroes or Lore Radagast.
+
+## 7 [Miceldars on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999409)
+
+The real restriction of this contract is you'll have to shuffle a 100+ cards deck. Not so easy, especially if they are in sleeves
+
+## 8 [TrueLolzor on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999415)
+
+Especially? Cards are much, much easier to shuffle in sleeves than without em, they just slide effortlessly between each other instead of getting stuck on each other.
+
+## 9 [PigsAreOurEquals on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999431)
+
+> 2 hours ago, TrueLolzor said:
+> 
+> Especially? Cards are much, much easier to shuffle in sleeves than without em, they just slide effortlessly between each other instead of getting stuck on each other.
+
+I think it's just that the stack of cards+sleeves becomes to tall to shuffle easily.
+
+## 10 [asgardianphil on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999443)
+
+It's just going to be a pain in the @#$× making a 100 card deck, sleeving it, failing the quest, pulling the deck apart, unsleeving it and starting again with another 100 card deck. Might see more use on octgn where deck building is easier. 
+
+Or are they hoping that a 100 card deck Will be a deck for all quests. The one deck to rule them all.  You don't need to collapse the deck, just steamroll through a whole cycle. Maybe in multiplayer this is the ultimate support toolbox deck. 
+
+If side b let You reduce threat then it might have been better but a 1 off 10 threat reduction that puts you 10 off threat elimination still means the end is in a few turns without other threat reduction for many quests. (There's been an increasing trend in quests that ramp up threat exponentially that threat reduction means is a must in your deck) You'll most likely be swarmed by enemies too reaching threat 50. 
+
+Interesting on paper but we can already come to the table with 100 cards decks and get those advantages of card draw and mining for 1 card with as much threat reduction as we want so why should we bother to pick this? 
+
+Kind of another dud card. 
+
+ 
+
+ 
+
+## 11 [asgardianphil on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999445)
+
+Looking at one of the unwritten benefits of the card is that for one round you don't need to quest with anybody providing you also don't need to make progress. 
+
+It's not something you can really plan for but when you are approaching your threat elimination level then you can decide to not quest.. threat out and then flip the contract. The overall threat reduction could run into the 20s or 30s i guess. 
+
+That round you'll be able to tackle any enemies hanging around. 
+
+## 12 [asgardianphil on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999447)
+
+One card you might pull is your 1 copy of  Justice Shall be Done. For one last awesome round. 
+
+## 13 [Lecitadin on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999458)
+
+I'm gonna make a 100 cards deck without any allies, only attachments and events.
+
+## 14 [Bobbymcbobface on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999502)
+
+> 3 hours ago, asgardianphil said:
+> 
+> It's not something you can really plan for but when you are approaching your threat elimination level then you can decide to not quest.. threat out and then flip the contract. The overall threat reduction could run into the 20s or 30s i guess. 
+
+@asgardianphil [https://community.fantasyflightgames.com/profile/319785-asgardianphil/] I don't believe that it will lower your threat by that much. For example, if your threat is at 47 and is then raised by 15 as a result of failing the quest, your threat will now be 53 after triggering the contract. Thus, you will still lose immediately. It is lower by 10 from whatever level you reached, not from 50.
+
+## 15 [player3351457 on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999525)
+
+I rebuilt my mining deck around this, utilizing, more than anything, the fact I can run high threat heroes with an effective threat elimination of 60.
+
+Let me know your thoughts:
+
+https://ringsdb.com/decklist/view/17880/miningdeckwithspoiledcontract-1.0 [https://ringsdb.com/decklist/view/17880/miningdeckwithspoiledcontract-1.0]
+
+## 16 [asgardianphil on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999552)
+
+> 2 hours ago, Bobbymcbobface said:
+> 
+> @asgardianphil [https://community.fantasyflightgames.com/profile/319785-asgardianphil/] I don't believe that it will lower your threat by that much. For example, if your threat is at 47 and is then raised by 15 as a result of failing the quest, your threat will now be 53 after triggering the contract. Thus, you will still lose immediately. It is lower by 10 from whatever level you reached, not from 50.
+
+well spotted... i was desperately looking for an advantage in using this card that the obvious escaped me. this makes it back to being folder fodder. 
+
+## 17 [player3351457 on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999602)
+
+> 4 hours ago, Bobbymcbobface said:
+> 
+> @asgardianphil [https://community.fantasyflightgames.com/profile/319785-asgardianphil/] I don't believe that it will lower your threat by that much. For example, if your threat is at 47 and is then raised by 15 as a result of failing the quest, your threat will now be 53 after triggering the contract. Thus, you will still lose immediately. It is lower by 10 from whatever level you reached, not from 50.
+
+Interesting. So you don't think it works like Favor of the Valar, where you essentially drop it 10 below your elimination level? Can your threat be set above your elimination level, even momentarily when calculating? That seems weird to me. Like there isnt any rule about what happens to excess threat, whether it fizzles if it puts you past your elimination level. 
+
+## 18 [Bobbymcbobface on October 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999633)
+
+@player3351457 [https://community.fantasyflightgames.com/profile/328421-player3351457/] Favor if the Valar specifically states to reset your threat to five less than your threat elimination level. But yeah, I’m not totally sure what happens to excess points of threat. But the above post is the way I read it. 🤷‍♂️
+
+## 19 [Kjeld on October 10, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=3999692)
+
+> 10 hours ago, Bobbymcbobface said:
+> 
+> @asgardianphil [https://community.fantasyflightgames.com/profile/319785-asgardianphil/] I don't believe that it will lower your threat by that much. For example, if your threat is at 47 and is then raised by 15 as a result of failing the quest, your threat will now be 53 after triggering the contract. Thus, you will still lose immediately. It is lower by 10 from whatever level you reached, not from 50.
+
+The exact wording is: "When you reach your threat elimination level, flip this card over instead."
+
+This could certainly imply that once you reach 50 (or whatever your threat elimination level is), instead of continuing*, you flip the card and reduce your threat by 10. Which would leave you at 40 (or whatever 10 less than your threat elimination level is).
+
+*instead of continuing to do anything else is what is implied, I think, though it's ambiguous. I think this could reasonably include going past 50 and/or triggering your elimination.
+
+## 20 [player3351457 on October 11, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4000091)
+
+So even though I built a deck that utilizes the contract, I am not quite sure the payoff is worth the price. First of all, theoretically, you could build a workable 100 card deck any time you want. Erestor + mining makes it possible. But the lack of threat reduction gives me pause as to whether or not the cost of 1 threat allowing you to essentially take 2 cards, 1 of choice, each round. A simple 50 x2 and card draw x2 at least balances out ratios. But is the 1 threat, getting you closer to elimination, worth the ability to optionally choose your card? If threat reduction were possible I would say yes, but without threat reduction, chosing this option is trading a round of play for a single card. Not worth it. Threat raising in the grey wanderer is worth it because you are granted a pool of threat to give, while you would want to run 3 heroes in this contract to maximize the benefit of the backside.
+
+Secondly, and perhaps most importantly, you don't double the size of your starting hand, OR even grant you an additional two mulligans (the first one gives you even odds on card search and hand to deck, while second allows you to equal odds of getting your ideal starting hand of 6). This is a huge oversight, or a huge cost.
+
+The nonexhaust payout on side B is a weak payout, IMHO. Haldan and Light of Valinor, plus a plethora of readying options tells me that a nonexhaust option for all three of my heroes is not worth nearly threating out to achieve. Plus, once you flip to B, you don't even have access to your card draw anymore. In theory, by the time you flip the contract, it is expected that you ought to have your board set up. But this lends itself to a marathon style of play... since you will have to get through more of your deck to get your board established.
+
+The better payout is that you get a built in -10 reduction, effectively raising your threat elimination level to 60 (or 55 with the ring). One could argue that two cards (galadrim's greeting) is better, and might be worth the cost. Or if running noldor, three elronds council gets you there... spirit merry is incredibly effective and beregond in a marathon game pays his debts to threat. That doesnt even mention loragorn. There are ways to control threat and I am not sure giving them all up for a one time -10 makes it helpful. (Not to mention the controversy surrounding threat above 50 listed in the above discussion)
+
+So to recap:
+
+Cost--
+
+1. Double deck
+
+2. No threat control
+
+3. Wacked out ratios in starting hand size and draw while on side A.
+
+4. More cards cost threat
+
+Payout--
+
+1. Card control
+
+2. Threat elmination level raised 
+
+3. Nonexhaust questing heroes.
+
+ 
+
+I think this is the least effective of all the contracts. Change my mind (please)
+
+## 21 [asgardianphil on October 17, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4002277)
+
+Looking back over all the contracts and having used all of them (even the new one; my Fortress of Nurn arrived last week) they are very dissapointing and I wonder what the designers were trying to do. 
+
+Sure they felt a need to open up deck building possibilities but the contracts hamstring the type of deck they are trying to create. Many of the decks (bar the bonded friendship and messenger of the king) could be built without the need of the contract so what incentive does the contract give.... none! Because invariably the deck restrictions that are imposed by the contract goes too far in the opposite direction of an auto include..  they make the contracts an auto exclude. 
+
+If I was designing them I'd have made them Havens (player location such as Rivendell, Edoras, Blue Mountains, Lorien etc deployed to the side) that just granted benefits along as certain conditions were in effect, eg only have one hero, or have no allies on the table. You could even have the havens be a side deck where you could put traited cards and cards associated with a trait) under them (like the door way cards in deciphers Star Trek TNG card game ) and play them from there with discounts etc. 
+
+The game is already hard and each cycle increases the difficulty so I see no problem in creating some op themed cards for those who want to use them in thematic play. 
+
+Contracts open deck building options with one hand and restrict them with the other, they offer some game balance effects with one hand and take them away with the other. 
+
+Sure they're not cards that you can't play without, but they are also cards you can't play with. Most of them feel great but play flat very much like The End Comes and you're much better off sticking to the normal deck building methods with all the allies you want, all the heroes you're allowed, all the threat reduction  you can and as many attachments as you want. 
+
+ 
+
+## 22 [TrueLolzor on October 17, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4002283)
+
+I don't think contracts should have ever been "auto include", otherwise there wouldn't be much point. The main attraction of contracts that I see is creating/enabling/supporting archetypes that were previously impossible/disadvantaged. The main goal is achieving a fantasy of the dream deck that can also hold it's own, not helping minmax. 
+
+## 23 [GrandSpleen on October 17, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4002288)
+
+Glad to see the designers achieved their goal. Opened up many decks, spurred community imagination, all the while preventing the contracts from becoming the “only” decks worth playing. You would not want to see an auto include card that pumps the strength of a deck with no downside. Every deck published would become some variant of that deck. 
+
+## 24 [rmunn on October 21, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4003677)
+
+I haven't seen anyone yet discussing the fact that after you flip over the contract, you're now at 40 threat level (probably) and thus in Valour mode. I feel like this might be getting overlooked. Set up a bunch of Valour allies like Veteran of Osgiliath, Angbor the Fearless, Honour Guard, and Defender of Cair Andros. Then when you know you're going to flip to side B this turn, make sure you have 2 Leadership resources ready. Go all-in on questing, and when you flip to side B, pull and play Need Drives Them at a 3-cost reduction, making it free. Now your entire board is ready to attack or defend. Play Rallying Cry at the start of the Combat phase, and now every time Honour Guard exhausts and discards to cancel 5 points of damage, you get him in your hand. Plus any Defenders of Cair Andros that die despite their 4 defense are still available to bring back as well, albeit expensively. You'd be able to soak a massive amount of damage and still have plenty of attack power left to, most likely, clear the board of enemies.
+
+Also, would Pillars of the Kings ("set your threat to 40") count as "reducing" your threat under the terms of the contract, or not? I can't seem to find any rulings on whether "set a value to X" counts as increasing or reducing that value for the sake of effects that trigger on increases or reductions, or effects that forbid increases or reductions. If Pillars of the Kings is still playable under this contract, it could give you up to extra ten turns in Valour mode on top of the up-to-ten Valour turns you already got from side B of the contract. (Of course, Doomed effects would make that fewer than ten turns...) And even if Pillars of the Kings is forbidden by this contract, a Leadership-Tactics Valour deck could produce some pretty incredible contract-flip turns.
+
+Edit: I don't see any rules about "set" interacting with "cannot be reduced" in the LotR LCG. But the online rules reference for Legend of the Five Rings, whose "modifiers" entry includes a lot of rules identical to the "modifiers" entry in LotR LCG's online rules reference, also includes the following: "If a value “cannot be increased/decreased, [...] “Set” modifiers are not ignored, as they do not directly increase/decrease the value." Assuming the ruling for LotR would be the same as FFG's other LCGs, that means that Pillars of the Kings can be used during this contract's side B to give you a second set of up to ten Valour turns.
+
+Edited October 21 by rmunn
+
+## 25 [Alonewolf87 on October 21, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4003690)
+
+> 53 minutes ago, rmunn said:
+> 
+> Also, would Pillars of the Kings ("set your threat to 40") count as "reducing" your threat under the terms of the contract, or not? I can't seem to find any rulings on whether "set a value to X" counts as increasing or reducing that value for the sake of effects that trigger on increases or reductions, or effects that forbid increases or reductions.
+
+Yeah, Caleb made a ruling with the example of Saruman and Pillars of the Kings. Basically any effect that lowers the value of your threat dial is "threat reduction", no matter which verb is used in the card effect. So Pillars of the Kings would not help you here.
+
+Edited October 21 by Alonewolf87
+
+## 26 [rmunn on October 21, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4003693)
+
+> 5 minutes ago, Alonewolf87 said:
+> 
+> Yeah, Caleb made a ruling with the example of Saruman and Pillars of the Kings. Basically any effect that lowers the value of your threat dial is "threat reduction", no matter which verb is used in the card effect. So Pillars of the Kings would not help you here.
+
+That makes sense, even though it contradicts the rules of L5R. But then, L5R is a competitive game, where the "cannot be reduced" effect is probably coming from the other player's deck and shouldn't necessarily be favored over the "set" effect. Whereas here, the "cannot be reduced" text is almost certainly coming from the encounter deck, or is a penalty on powerful cards like Saruman and bypassing that penalty would make them OP. So it makes sense here to have a different ruling in LotR than the ruling in L5R.
+
+## 27 [Alonewolf87 on October 21, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4003698)
+
+> 3 minutes ago, rmunn said:
+> 
+> That makes sense, even though it contradicts the rules of L5R. But then, L5R is a competitive game, where the "cannot be reduced" effect is probably coming from the other player's deck and shouldn't necessarily be favored over the "set" effect. Whereas here, the "cannot be reduced" text is almost certainly coming from the encounter deck, or is a penalty on powerful cards like Saruman and bypassing that penalty would make them OP. So it makes sense here to have a different ruling in LotR than the ruling in L5R.
+
+Also especially since they are different games, so I don't see why the rules of one should affect the other....
+
+I am reminded of another topic where a poster was considering a couple of LOTR LGC cards extremely powerful by taking into account some rules used in the Arkham LCG (I think it was stuff like Infighting in regard to moving damage to Immune enemies since it targets the damage and not the enemy, which was quite wrong). There might be some common ground design-wise, but they are two quite separate things.
+
+## 28 [rmunn on October 21, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4003702)
+
+> 24 minutes ago, Alonewolf87 said:
+> 
+> Also especially since they are different games, so I don't see why the rules of one should affect the other....
+> 
+> I am reminded of another topic where a poster was considering a couple of LOTR LGC cards extremely powerful by taking into account some rules used in the Arkham LCG (I think it was stuff like Infighting in regard to moving damage to Immune enemies since it targets the damage and not the enemy, which was quite wrong). There might be some common ground design-wise, but they are two quite separate things.
+
+If you look at the online rules reference for LotR and the online rules reference for other FFG LCGs such as L5R, you'll find a lot of rules in common, because FFG seems to be starting from a basic set of rule ideas and tweaking it to fit each game. E.g., compare the "Modifiers" entry in the LotR rules reference [https://images-cdn.fantasyflightgames.com/filer_public/90/19/90191e4e-a341-4379-b398-5963b7a87ebf/mec01_online_only_rules_reference_for_website.pdf] and the L5R rules reference [https://images-cdn.fantasyflightgames.com/filer_public/63/72/637221ff-45bb-458c-ac01-639844244adf/l5c01-online_rulesreference_v15-d25xp164j1gc-compressed.pdf], and you'll find that both games have almost the same Modifiers rules, and they also have practically the same rules for Cancel effects, for the word "Cannot", for the concepts of "Play" vs "Put into play", and much more. And the places where the rules vary, it tends to be in ways that make sense for that game (e.g., in L5R each player has two decks, the Conflict and Dynasty decks, so the play/put into play rules mention that fact, whereas that language is omitted in the LotR rules reference where there's one deck per player). That's why I wanted to verify whether LotR's omission of the "Set to X is not prevented by "cannot be increased/decreased" effects" language present in L5R was deliberate, because there's a decent chance that it wasn't, and in the absence of a ruling it would make sense to resolve an ambiguity the same way other FFG LCGs resolve the same ambiguity. Now that I know there's a ruling, my question has been answered; thanks for that.
+
+Edit: And the reason I figured LotR's omission of that language present in L5R might not be deliberate is because LotR was FFG's first LCG, and the early years (I picked it up when it was first released) had a LOT of rules changes. In particular, the Modifiers rules went through a couple of iterations before landing in their final state, with some back-and-forth about whether lasting modifiers would be recalculated or not, for example. And so when I saw that the LotR online rules reference dated from 2018, and the L5R rules reference dated from 2020, I figured there might have been another FFG decision about how to treat modifiers in the past two years, which they just forgot to retrofit into their first LCG. Now I know it was a deliberate decision, not an omission.
+
+Edited October 21 by rmunn
+
+## 29 [player3351457 on November 14, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4014119)
+
+My buddy and I ran my mining deck with this contract across from an erestor-elrond-denethor deck against Attack on Dol Guldur. Though it was severely under prepared for locations (we went in blind) mining works exceptionally well with this contract. I felt like the plethora of cards was less of a cost and more of a resource. I also did not toy around with side B as we ended the game at 48 threat.
+
+In short-- this contract is a lot more fun in practice than in theory.
+
+## 30 [asgardianphil on December 9, 2020](https://community.fantasyflightgames.com/topic/311757-the-new-contract/?do=findComment&comment=4027395)
+
+I'm guessing that Tactics Éowyn can't reduce starting threat by 3 when she's played with this contract. Contract hits the table first. Draw hand; mulligan; encounter setup window and finally player setup window. 
+

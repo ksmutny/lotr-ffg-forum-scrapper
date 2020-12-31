@@ -328,3 +328,39 @@ I asked a rule question and here is the answer:
 
 Edited August 13, 2013 by -nebur-
 
+## 26 [richsabre on August 14, 2013](https://community.fantasyflightgames.com/topic/87463-silvan-tracker/?do=findComment&comment=839139)
+
+nice to know, thanks
+
+## 27 [leptokurt on August 15, 2013](https://community.fantasyflightgames.com/topic/87463-silvan-tracker/?do=findComment&comment=840374)
+
+I think it was clear that he heals everyone (otherwise why playing Mirlonde?). I think the point is that his reaction triggers automatically, so it can fire multiple times at one point of the game, unlike reactions that you need to play via event or exhausting a character.
+
+ 
+
+Good explanation by GrandSpleen btw!
+
+## 28 [leptokurt on August 15, 2013](https://community.fantasyflightgames.com/topic/87463-silvan-tracker/?do=findComment&comment=840376)
+
+>  
+> 
+> > Well, if Legolas has a Blade of Gondolin, and you defeat an enemy, you can use that single event to trigger both Legolas's response and the Blade's response.  One event may trigger multiple responses.  
+> > 
+> >  
+> > 
+> > Likewise two discrete events can trigger the same response two times.  The rule is: one response may be triggered once per trigger.  So if one ally is discarded, you cannot trigger Horn of Gondor's response multiple times for that one trigger.  But if two allies are discarded, you can trigger the Horn's response two times, once per trigger.  I'm surprised Glaurung would question that.
+> > 
+> >  
+> > 
+> > At first I thought the only real question here is whether characters being readied during the refresh phase counts as a single event, which could only trigger a given response one time, or whether each character being readied is a discrete event, and each one could trigger a response (like Silvan Tracker).  Now that I see your thinking a little more clearly, Glaurung, it seems more like a fundamental question as to whether several simultaneous events can trigger the same response multiple times.
+> > 
+> >  
+> > 
+> > Since the rule for responses is "once per trigger," I don't really have a lot of question in my mind here.  5 characters leaving play is 5 discrete triggers for the Horn, and 5 characters readying during the refresh phase are 5 discrete triggers for the Tracker.  Feel free to shoot that question on to the designers if you're still in doubt.
+> 
+> Yes about HOG you absolutly right.....I forget about this one........Sounds like you right then. But then I can reduce a lot of threat with SOE? Hmmm sounds very broken then........ we need ask designers
+> 
+>  
+
+What do you mean? SoE works only once. If one player raises hir threat by 5, you can still only raise your threat by 1 to lower his threat by 1. You don't do this for every single point (otherwise Elfhelm would be quite the bummer).
+

@@ -1,0 +1,26 @@
+# [Samurai miniatures army](https://community.fantasyflightgames.com/topic/246024-samurai-miniatures-army/)
+
+## 1 [EmpireErik on March 29, 2017](https://community.fantasyflightgames.com/topic/246024-samurai-miniatures-army/?do=findComment&comment=2709287)
+
+Someone posted about a samurai army. 
+
+ 
+
+I found this this on Facebook:  
+
+https://m.facebook.com/alfonso.falco.9/posts/pcb.1010231762441645/?photo_id=10212514703812250&mds=%2Fphotos%2Fviewer%2F%3Fphotoset_token%3Dpcb.1010231762441645%26photo%3D10212514703812250%26profileid%3D100001700053637%26source%3D48%26refid%3D18%26ref%3Dbookmarks%26_ft_%3Dqid.6403040961442210624%3Amf_story_key.1010231762441645%3Atop_level_post_id.1010231762441645%3Atl_objid.1010231762441645%26cached_data%3Dfalse%26ftid%3Du_b_g&mdf=1 [https://m.facebook.com/alfonso.falco.9/posts/pcb.1010231762441645/?photo_id=10212514703812250&mds=%2Fphotos%2Fviewer%2F%3Fphotoset_token%3Dpcb.1010231762441645%26photo%3D10212514703812250%26profileid%3D100001700053637%26source%3D48%26refid%3D18%26ref%3Dbookmarks%26_ft_%3Dqid.6403040961442210624%253Amf_story_key.1010231762441645%253Atop_level_post_id.1010231762441645%253Atl_objid.1010231762441645%26cached_data%3Dfalse%26ftid%3Du_b_g&mdf=1]
+
+ 
+
+hope it helps those in this game.  
+
+ 
+
+Also Perry miniatures has them as well a North Star. 
+
+Pardon the typos please. 
+
+## 2 [987654321 on April 3, 2017](https://community.fantasyflightgames.com/topic/246024-samurai-miniatures-army/?do=findComment&comment=2715428)
+
+Uuuuuuuuh..wrong game?
+

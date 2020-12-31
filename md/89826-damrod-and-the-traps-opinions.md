@@ -1,0 +1,138 @@
+# [Damrod and the traps ... opinions ?](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/)
+
+## 1 [Nickpes on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858163)
+
+One of the Actions I had never found of any use so far (apart if you are close to win the game or lose by threat) was the one that Damrod has ... discard him to reduce your threat by the number of enemies in staging area. 
+
+ 
+
+While his stats where ok for a Spirit character and despite the fact that there where not other Spirit rangers, that action was useless IMO
+
+ 
+
+With all these new traps we get and the new ranger characters that boost a little that trait, I start to find that maybe you can manage to reduce threat but a respectable amount discarding him. Yet his cost is high and you must have Spirit heroes while nearly all other ranger and trap cards are Lore 
+
+ 
+
+ 
+
+Has anyone thought about the use of Damrod in play ? 
+
+## 2 [camacazio on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858413)
+
+As for using him as a ranger, I don't really know, but I found that he can indeed save you in rough spots, especially good if you mess around with optimizing a deck with Dunhere where you keep lots of things out there. It's also nice because sometimes unique ally duplicates take up space in your hand, so you might as well discard him, maybe ready Imrahil or use valiant sacrifice or something, then play him again.
+
+## 3 [Rapier1 on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858515)
+
+Faramir, Dunhere and one other hero probably have a deck that he would fit into.
+
+I never have used this ability, but it isn't because I never would.
+
+## 4 [danpoage on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858569)
+
+I definitely think there is a potential with his ability, and I like the more subtle synergies like these. Obvious combos like Hirluin + Outlands are far less interesting to design and play. That said, Damrod is expensive at 4 resources and Spirit and Lore (for Ranger Spikes, etc.) are the two worst spheres when it comes to resource acceleration. The only way I see him working with the current card pool is paired with Leadership. Not only does this give you Steward of Gondor, Theodred and all of the other acceleration, but it gives you Fresh Tracks. That card has always been good, but now that Rangers+Traps is an archetype, Fresh Tracks is even better.
+
+## 5 [joezim007 on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858592)
+
+I'm actually making a 2-deck combination. One is a mono-Lore Ranger/Trap deck (still not ready; waiting for Black Riders) that is paired with a Leadership/Spirit deck. Since it will be paired with a trap deck, the L/S deck is going to have Damrod in it. The Leadership hero is Boromir, so Damrod should also get a bonus attack point while he waits for the staging area to fill up. I'm excited to see how well this works out. I'm excited to see how well he works out.
+
+## 6 [Nickpes on September 5, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858606)
+
+Though i do not play 2decks, your thought seems very interesting joezim007
+
+## 7 [Pharmboys2013 on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858830)
+
+I think Damrod just suffers from being in a sphere with no other cards to really match his archetype.  If we had perhaps received a spirit ranger hero instead of Caldara he might have been more reasonable to try and fit in.  Even other ranger spirit cards would have helped his potential, but as of now he is just too expensive and the wrong sphere to fit cleanly into the ranger deck type.
+
+ 
+
+Tell you what though, he would be a great target for elf-stone...
+
+## 8 [Karlson on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858867)
+
+> I think Damrod just suffers from being in a sphere with no other cards to really match his archetype.  
+
+ 
+
+Agreed.  All the ranger goodness has been for Lore so far.
+
+## 9 [Gizlivadi on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858904)
+
+Agreed. If Damrod had been Lore he would be in most if not all Ranger builds, but since he's Spirit nobody will  use him expect for maybe a few decks or ranger decks that run Spirit via Song of Travel. Again, this is a good example of why I don't particularly like the idea of the spheres as opposed to traits (unless they focus one trait in one or two spheres exclusively, which is NOT the case for Damrod.)
+
+## 10 [danpoage on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858990)
+
+Good point about Elf-Stone. At GenCon, when we opened The Black Riders and saw that card, our eyes bugged out of our heads. My first thought was, "oh man, no more paying for Gildor". That card is one of the best attachments in the game, and the more quality allies that get printed, the better it is going to get. I hate to use the phrase auto-include, especially because I think that cards like A Test of Will are not actually necessary in some decks with Spirit. Even so, any deck that includes Lore needs to seriously consider Elf-Stone. For 1 resource it is almost impossible to not see a huge resource advantage. With Asfaloth and cards like Thror's Map and Strider's Path in the same sphere, it is almost trivial to pull it off at the right time.
+
+ 
+
+As for Damrod being spirit, the ability would not make sense for Lore. While I absolutely agree that more focus should be placed on traits, I do not want to see spheres bleeding into each other (e.g. more threat-reduction in Lore - Strider is all that sphere needs) and I also think that the archetypes become too stale if each trait is only represented in a single sphere. In time, the card pool will grow to where there will be multiple different archetypes involving the same trait across different spheres. A good example of that is Rohan. With Theoden and Eomer both coming soon, we will finally have a strong tactics build with that trait. Rohan with Spirit and Leadership has always been good at questing, hopefully The Voice of Isengard will make that deck a bit less one-dimensional as well. In any case, I am glad that traits are spread across spheres, as long as they have enough synergy to make the extra logistics of multi-sphere actually worth it.
+
+ 
+
+While Damrod remains too expensive, for now, his traits both hold promise for the future, and his stats aren't bad, so I have by no means given up hope for him ever being useful. With Caldara being released, I have a sneaking suspicion that we will see more cards involving allies in the discard pile. If this ends up being true, his cost may not be as bad as it looks. In any case, we will have to wait and see. Not every good card starts out that way, some of them have to work their way there through patience and persistence.
+
+Edited September 6, 2013 by danpoage
+
+## 11 [Rainelotr on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=858994)
+
+I have seen damrod used to devestating effect at the beginning of the third stage of Down the Anduin just before something like 12 enemies swarmed us and after many tuns of serving as a useful ally
+
+Edited September 6, 2013 by Rainelotr
+
+## 12 [Nickpes on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859040)
+
+>  
+> 
+> Tell you what though, he would be a great target for elf-stone...
+
+If you play him with elf stone, do you need on of your heroes to be spirit, don't you ?
+
+## 13 [Pharmboys2013 on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859043)
+
+>  
+> 
+> >  
+> > 
+> > Tell you what though, he would be a great target for elf-stone...
+> 
+> If you play him with elf stone, do you need on of your heroes to be spirit, don't you ?
+> 
+>  
+
+ 
+
+Well i thought this was more about Damrod's place in the ranger archetype and not mono-lore.  Regardless, with the elf-stone you wouldnt actually require any of your Heroes to be spirit.  It just says put an ally into play from your hand, doesnt mention any other pre-requisites or requirements aside from exploring the location with the extra quest point.  The more i think about it, the more playable I think he may become for ranger decks.  Even having just 1 spirit hero gives access to threat reduction and you can possibly have the resources build on your hero and pay for Damrod worst case scenario incase you dont draw elf-stone (which in lore shouldnt be an issue) or want to save the attachment for someone like Gildor or Anborn.  The biggest problem may just be deck space.  I'm very strict about playing with 50 cards...sometimes use 52 if i have an obscene amount of card draw
+
+## 14 [leptokurt on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859106)
+
+Damrod is awesome when you're playing secrecy. Especially when you're playing a hobbits deck and you don't plan to engage an enemy at all. With one Resourceful attached you can easily pay for him.
+
+## 15 [Morithain on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859222)
+
+Agreed.  In my Spirit-Glorfindel/Strider deck, I included Damrod just to see what happens, and he turned out to be very useful since I could fight with him and attach ranger bow to him, and of course another threat reduction in a secrecy deck is just plain awesome.  With dwarven tomb and will of the west I have the ability to get him back, too, which is just funny.  
+
+Edited September 6, 2013 by Morithain
+
+## 16 [noctum_carpe on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859223)
+
+Hum would his ability work with sneak attack?
+
+## 17 [Morithain on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859307)
+
+Good question.  I'm inclined to think no because the Damrod card says discard Damrod from play to lower threat.  If it said "after Damrod leaves play, lower threat" that would be different.  You have to actively discard Damrod to get the threat lowering, rather than the more passive "leaves play" you get with Sneak Attack.  
+
+ 
+
+But I could be wrong about this, in which case Damrod just got way more awesome.
+
+## 18 [Teamjimby on September 6, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=859381)
+
+> Hum would his ability work with sneak attack?
+
+I don't see why you couldn't sneak attack him and use his ability, but then he would be discarded instead of returned to your hand.
+
+## 19 [Narsil0420 on September 8, 2013](https://community.fantasyflightgames.com/topic/89826-damrod-and-the-traps-opinions/?do=findComment&comment=860539)
+
+I used his ability for the first time in a mono-Spirit deck that was paired with a mono-Lore Ranger deck. He's great if you're doing mono-Spirit and need to keep your threat down. I think he would also combo nicely with Caldara since you could use his ability and then bring him back for free.
+

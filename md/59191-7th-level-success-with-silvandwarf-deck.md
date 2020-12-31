@@ -1,0 +1,186 @@
+# [7th level success with silvan.dwarf deck](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/)
+
+## 1 [richsabre on January 18, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581533)
+
+edit- since posting this ive had it pointed out that mirkwood runners dont get the bonus when attacking together........still great for goblin smashing
+
+ive began to play with silvan characters and after tonight absolutly love them.....i came up with an hugely thematically incorrect deck (wood elves and dwarves- what next!) which i like
+
+i basically was sick of goblins building up so i went for a way to keep my map maker-zigil-protector of lorien deck and add in some useful allies. mirkwood runner is great. most goblins have 2 health, so their 2 attack ignoring defense stats gets rid of them immediatly- i had 3 in play at once, then i was using fast hitch with burning brand to defend multiple attacks with the same heros....the brand making sure none of them nasty 'add goblin to staging area' comes up
+
+of course being lore it has some good healing combos....silvan trackers heals the silvan cards, nimrodel can deal with the heros
+
+i used forest snare to deal with the troll, then used the 3 runners to EDIT...played wrong
+
+and of course i use bilbos card draw with gleowine to use protector of lorien to its most, buffing up willpower, and also the strategy of mining for resources with zigil miner, the buffing map maker up, and of course bifur has the added benefit of allowing me to transfer a resource per turn
+
+im tired so the amounts might be slightly off!
+
+bilbo/frodo/bifur
+
+ 
+
+mirkwood runner x 3
+
+silvan tracker x 3
+
+riversong x 1
+
+haldir x 3
+
+map maker x 3
+
+zigil miner x 3
+
+gildor x 2
+
+gandalf x 3
+
+daughter of the nimrodel x 2
+
+erebor record keeper x 2
+
+gleowine x 2
+
+miner of the iron hills x 2
+
+northern tracker x 2
+
+ 
+
+protector of lorien x 2
+
+burning brand x 3
+
+fast hitch x 3
+
+forest snare x 2
+
+rumour from the earth x 3
+
+unexpected courage x 1
+
+ 
+
+a test of will x 2
+
+hasty stroke x 2
+
+galadhrims greetings x 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+## 2 [TheLightdarker on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581950)
+
+richsabre said:
+
+ 
+
+i used forest snare to deal with the troll, then used the 3 runners to easily kill it, without the snare they could have gotten rid of the threat within two turns 
+
+ 
+
+ 
+
+Unless I'm reading this incorrectly, one Mirkwood runner should take 4 rounds of attacking to kill a single Cave Troll (without bonuses to its attack), and three Mirkwood Runners attacking together (not alone), would take just as long (4 rounds) to kill a single, 4 defense Cave Troll.
+
+Anyhow, Bilbo + A Burning Brand + Fast Hitch is a great remedy for that oh-so-frustrating "add X to the staging area," so nicely done!
+
+## 3 [richsabre on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581954)
+
+Lightdarker said:
+
+ 
+
+richsabre said:
+
+ 
+
+i used forest snare to deal with the troll, then used the 3 runners to easily kill it, without the snare they could have gotten rid of the threat within two turns 
+
+ 
+
+ 
+
+Unless I'm reading this incorrectly, one Mirkwood runner should take 4 rounds of attacking to kill a single Cave Troll (without bonuses to its attack), and three Mirkwood Runners attacking together (not alone), would take just as long (4 rounds) to kill a single, 4 defense Cave Troll.
+
+Anyhow, Bilbo + A Burning Brand + Fast Hitch is a great remedy for that oh-so-frustrating "add X to the staging area," so nicely done!
+
+ 
+
+ 
+
+edit; just realised my mistake....it only gets the bonus when attacking alone....my bad...i thought that was too powerful a combo..haha still theyre good for one shotting goblins
+
+## 4 [TheLightdarker on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581958)
+
+Unless I'm mistaken, here are my thoughts:
+
+Mirkwood Runner reads, "While Mirkwood Runner is attacking alone, the defending enemy does not count its Defense." (emphasis mine)
+
+Rulebook p. 20, "A player has the opportunity to declare 1 attack against each enemy with which he is engaged."
+
+This means that you have two options to attack the Cave Troll:
+
+1) Attack with one Mirkwood Runner (which would count as attacking alone, and would bypass the Troll's 4 Defense)
+
+2) Attack with all three Mirkwood Runners at the same time (which would be attacking with multiple combatants, not alone, and would therefore not bypass the Troll's 4 Defense)
+
+## 5 [richsabre on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581973)
+
+Lightdarker said:
+
+Unless I'm mistaken, here are my thoughts:
+
+Mirkwood Runner reads, "While Mirkwood Runner is attacking alone, the defending enemy does not count its Defense." (emphasis mine)
+
+Rulebook p. 20, "A player has the opportunity to declare 1 attack against each enemy with which he is engaged."
+
+This means that you have two options to attack the Cave Troll:
+
+1) Attack with one Mirkwood Runner (which would count as attacking alone, and would bypass the Troll's 4 Defense)
+
+2) Attack with all three Mirkwood Runners at the same time (which would be attacking with multiple combatants, not alone, and would therefore not bypass the Troll's 4 Defense)
+
+
+
+yeah thats all correct, for some reason i just plainly misread the whole card
+
+## 6 [SiCK_Boy on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581981)
+
+How do you use the Zigil Miners in your deck?
+
+You just call random numbers between 2 and 5 and hope to hit the right one? Or do they only become effective after you have Gildor in play?
+
+Don't you feel they become a little bit random in this kind of deck (as opposed to the various miner lists proposed elsewhere filled with 5-cost cards to maximize the miner's rentability)?
+
+Just curious to kn ow how usefull they become in a deck not built specificaly around them.
+
+## 7 [richsabre on January 19, 2012](https://community.fantasyflightgames.com/topic/59191-7th-level-success-with-silvandwarf-deck/?do=findComment&comment=581984)
+
+SiCK_Boy said:
+
+ 
+
+How do you use the Zigil Miners in your deck?
+
+You just call random numbers between 2 and 5 and hope to hit the right one? Or do they only become effective after you have Gildor in play?
+
+Don't you feel they become a little bit random in this kind of deck (as opposed to the various miner lists proposed elsewhere filled with 5-cost cards to maximize the miner's rentability)?
+
+Just curious to kn ow how usefull they become in a deck not built specificaly around them.
+
+ 
+
+ 
+
+they are useful, the majority of my deck are 2/3 cost(ive changed it around from the above)...so call one of them....the deck isnt designed to be round them unlike most others on here...it just wouldnt work solo as the others need a suport deck- this is designed to incorporate them alongside map maker, its surprisingly effective, though of course there is degree of luck with it, but i like it, it adds something to the game for me
+
+i think the point with this deck is more card draw and protector of lorien than miner- i just add that for some flavour, so i guess the short answer to your question is yes they are useful- but it isnt a reliable strategy
+

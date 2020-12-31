@@ -1,0 +1,46 @@
+# [Am I doing this right?](https://community.fantasyflightgames.com/topic/134841-am-i-doing-this-right/)
+
+## 1 [NikToo on February 13, 2015](https://community.fantasyflightgames.com/topic/134841-am-i-doing-this-right/?do=findComment&comment=1447664)
+
+I just wanted to check I'm doing a few things right. Just did my second playthrough of the Mirkwood scenario with the Leadership starter deck.
+
+ 
+
+Using Theodred's ability I was able to place one resource on Aragorn and ready him every turn, meaning I could add 5 Willpower with Theodred, Aragorn and Gloin, and still have Aragorn readied. Along with Faramir he was able to see of most threats and a couple of lucky draws to start with saw me very quickly through the first two stages, even managing to see off Chieftain Ufthak with a Sneak Attack and Longbeard Orc Slayer, and For Gondor! in one turn.
+
+ 
+
+For the third stage I got Beorn's Path, and also Celebrian's Stone and Steward of Gondor which I put on Aragorn, making him a Willpower and Resource horse. So in one turn I commit Aragorn (4), Gloin (2) and Theodred (1), for 7 Willpower. Ready Aragorn again. I then draw The Necromancer's Reach treachery to deal one damage to each exhausted Hero, which kills old Gloin. Does his Willpower still contribute? As I had nothing in the staging area, I assumed it counted and put seven progress markers on the quest location.
+
+ 
+
+Next round I committed Aragorn, Theodred and Brok Ironfist for another 7 Willpower. I then drew a Forest Road, with a threat strength of 3. So I win the engagement 7-3, put four progress tokens on the quest location as the Forest Road was still in the staging area, and win the game in about seven rounds.
+
+ 
+
+So, some questions: Did I do it right counting Gloin's Willpower? Am I using Aragorn correctly with the Stone and Steward attachments? Is it correct putting the final progress tokens on the quest with a location still in the staging area? And for future info, can I play Sneak Attack on Gandalf, and trigger his abilities more than once? Theoretically just bouncing him in, reduce the Threat Level and return him to my hand, as the Sneak Attack says "End of phase" and Gandalf's text says "End of round".
+
+## 2 [Olorin93 on February 13, 2015](https://community.fantasyflightgames.com/topic/134841-am-i-doing-this-right/?do=findComment&comment=1447700)
+
+Glad you're enjoying the game!
+
+ 
+
+- If a character leaves play before the quest is resolved, their willpower does not contribute. Staging (revealing encounter cards from the deck) takes place before willpower and threat is compared and any card effects are resolved first. So if the treachery killed Gloin, his willpower would not be included.
+
+ 
+
+- You seem to be using Aragorn correctly. Steward of Gondor is a pretty powerful card. Leadership overall is great at gaining resources.
+
+ 
+
+- You can put progress on the quest card if there is no active location to put progress on first. And you don't have to travel to a location if you don't want to, unless it has an effect that forces you to. Usually it's a good idea to travel and get the card's threat out of the staging area (since active locations' threat are not counted when questing) but it varies in different situations.
+
+ 
+
+- And yes, Sneak Attack with Gandalf is a very powerful combo. Note however that the Sneak Attack effect only lasts for a phase - if you play him in the quest phase, he will return to your hand before combat ensues. I made me mistake of leaving him in play for a whole round for a pretty long time before I read the card more carefully. When you pay to summon Gandalf normally, he stays until the end of the round (but then you don't get him back to your hand).
+
+ 
+
+The mono-sphere Leadership deck is probably the one best suited for tackling Mirkwood for new players. Well done! See you on the Anduin.
+

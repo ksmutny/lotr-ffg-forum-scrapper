@@ -1,0 +1,41 @@
+# [Defeating The Nameless Fear](https://community.fantasyflightgames.com/topic/84533-defeating-the-nameless-fear/)
+
+## 1 [GrandSpleen on May 31, 2013](https://community.fantasyflightgames.com/topic/84533-defeating-the-nameless-fear/?do=findComment&comment=800500)
+
+A ruling this month about card immunity and attacking enemies in the staging area (see the post here [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=284&efcid=4&efidt=807643]) opens up a path for defeating The Nameless Fear in Flight from Moria.  Hands Upon the Bow is a legal card to play against this enemy.  Dunhere and Great Yew Bow won't work.  
+
+Anybody tried?
+
+Your mission, should you choose to accept it: you will need Hama to cycle Hands Upon the Bow, and you'll need to beef the heck out of somebody.  Erebor Battle Master with a Dunedain Cache and a cadre of dwarves at their back?  Throw in Dunedain Marks and dual-wielding Dwarrodelf Axes to further boost the attack power.  Call up the Support of the Eagles to add up to 9 attack power from Vassals of the Windlord, or even more if you manage to beef up some Eagles of the Misty Mountain first.
+
+All this while trying hard not to advance quest cards (+victory points, noooo!) or get wiped out by A Foe Beyond or Dark and Dreadful.
+
+## 2 [Ellareth on May 31, 2013](https://community.fantasyflightgames.com/topic/84533-defeating-the-nameless-fear/?do=findComment&comment=800510)
+
+Gimli has base attack of 2.
+With Dain's buff total attack of 3.
+Play Khazad-Khazad x3 for total attack of 3+9 = 12
+Attach 2 Platemail and 12 wounds for total attack of 12 + 12 = 24
+Attach Dunedain Mark x 3 for total attack of 24 x 3 = 27
+Exhaust x 3 Support of Eagle to burrow attack strength of Eagles of Misty Mountain with 14 Eagles attached underneath (3 Vassal, 3 Guardian, 3 Descendent, 3 Landroval*, 2 Eagles of Misty Mountains) for total attack of 27 + (3 x 14) = 69
+Play x3 Song of Durin for total attack of 69 + 6 = 75
+Attach Dunedain Cache to make Gimli ranged
+Play Hands Upon Bow to attack Nameless fear with 76** Attack Strength Gimli
+
+If this isn't satisfying enough, attach Keeping Counts on Gimli and Legolas, make sure Gimli's Keeping Count has 0 Resources and Legolas' Keeping Count has X resources for additional X attack strength for Gimli where X is amount of time and patience you have.
+
+ 
+
+*I assume you can play other copies of Landroval once a copy of Landroval that was in play becomes facedown attachment.
+** Hands Upon Bow gives additional Attack Strength,
+
+## 3 [Nerdmeister on May 31, 2013](https://community.fantasyflightgames.com/topic/84533-defeating-the-nameless-fear/?do=findComment&comment=800531)
+
+GrandSpleen said:
+
+A ruling this month about card immunity and attacking enemies in the staging area (see the post here [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=284&efcid=4&efidt=807643]) opens up a path for defeating The Nameless Fear in Flight from Moria.
+
+Are you implying that he couldn´t be beat before?
+
+´Cause my buddy and I already did that burla [http://www.fantasyflightgames.com/edge_scripts/ckeditor/plugins/smiley/images/burlon.gif]
+

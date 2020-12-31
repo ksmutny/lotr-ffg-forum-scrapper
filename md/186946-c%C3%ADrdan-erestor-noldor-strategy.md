@@ -1,0 +1,186 @@
+# [Círdan, Erestor, Noldor Strategy](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/)
+
+## 1 [Fingolfin Fate on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1768976)
+
+Hello, I couldn't be around as much as I would have wanted to but I still kept an eye on spoilers. And as most here I too am excited about the new deluxe, finally and Elven one.
+
+ 
+
+With that I would like to ask those who like to look into the future a bit. What do you think, is Círdan going to be a good match for Erestor? I would think so, because you get 5 cards each round, out of which one might be easy to discard, as you will probably find one you wouldn't be able to play that round. The situation gets better when the cards benefit from being in the discard pile, most of which are yet to arrive.
+
+ 
+
+But maybe others think otherwise about the couple?
+
+ 
+
+Considering they do match their strength well, who would you pick as the third hero?
+
+ 
+
+I have three suggestions:
+
+ 
+
+1) Glorfindel. The most thematic one. Mechanically, he doesn't benefit the deck but he does benefit it greatly with the stats, as he always does. I am talking about the Spirit version, naturally. The sphere feels a double-edged thing here: 2 Spirit heroes allow for round 1 Arwen, or Light of Valinor and Silvan Refugee, for instance.
+
+ 
+
+2) Legolas. Less thematic but still good. Allows for Tactics: huge array of weapons, and especially Elven Spear feels great here. And the weapons don't mind Silvan.
+
+ 
+
+3) Boromir. Tactics, and less thematic still. Best mechanically perhaps, Protector of Lórien which is a card to mulligan for with Erestor works perhaps best on Boromir. Still allows for Elven weapons but they no longer work that well with only Círdan and Erestor.
+
+## 2 [gandalfDK on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1768979)
+
+Fourth-
+
+Do a monolore deck with the best Glorfindel, Lore Glorfindel! Go all wp! For mp it's even better.
+
+## 3 [Nickpes on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769031)
+
+Strange as I may feel to write this (since I love Spirfindel) I would not use him, cause Cirdan seems also a perfect candidate for Light of Valinor and this could be of a problem.
+
+ 
+
+I would go for Galadriel cause with Nenya she is both Lore and Spirit, which helps with resources, I find this important to use as much of the cards you will need since they will be discarder at the end of turn. Offcourse she could boost up Cirdan questing (he could even quest on his own for 8 without exhausting with Light of Valinor) and maybe even his attack with fair and perilous. Erestor could defend with Burning Brand and Cloak of Lorien, as well as Arwens ability. Offcourse there is also Gildor who can defend with these, but playing Gildor is another difficulty since you must play him the same turn you draw, in order for him to not discard. To have that many resources, even with Galadriel as Lore, might prove difficult, maybe Imladris Stargazer with Elf Stone could help but it needs good timing yet. I tend to believe that we might see something that will generate resources for Noldor on Spirit or Lore?, since there is not even a single Noldor Leadership hero as far as I remember - oh wait, there is Elrohir but he makes you need Eladan, thus not very helpfull. Except if Galdor appears as a Leadership hero
+
+ 
+
+For the discard thing, to be honest I hate discarding cards, thus I am very strange on what benefits will player get in order to do this, I can't wait to find out
+
+Edited September 2, 2015 by Nickpes
+
+## 4 [Fingolfin Fate on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769048)
+
+> Fourth-
+> 
+> Do a monolore deck with the best Glorfindel, Lore Glorfindel! Go all wp! For mp it's even better.
+
+Mono-Lore? Who would be the third Lore hero? Círdan is Spirit...
+
+## 5 [Fingolfin Fate on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769051)
+
+Interesting about hating to discard cards, I have often felt the same way. But if the whole strategy shall be based upon it, then Círdan and especially cards like Protector of Lórien or Elven Spear will become all that much better.
+
+ 
+
+I have been playing a proxy Erestor for a while, and he is a force, even now, before most of the support have arrived.
+
+ 
+
+Of course, Galadriel is a good choice, it is just, for me she is locked with Celeborn in a Silvan deck.
+
+## 6 [Nickpes on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769058)
+
+Nah, she dumped the guy anyway to return to Valinor, unlock her  :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 7 [PsychoRocka on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769128)
+
+Good to see you on the forums again Fingolfin :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+what do you think of the new Ettenmoors player spoilers?
+
+## 8 [PocketWraith on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769516)
+
+When Erestor got spoiled I thought he looked really interesting but I didn't have any particular ideas for decks that I'd build with him myself, I just wanted to see what other people would come up with. Cirdan though seems a perfect companion, as well as being a hero I definitely want to build with, so once we get The Grey Havens I definitely want to try it. One thought is simply to go all out and have Bilbo as the third hero, plus take the ship that makes you draw an extra card. So each resource phase you draw 7 cards and discard 1. It'd be a bit more of a gimmick, but a fun one, and probably still fairly effective.
+
+## 9 [John Constantine on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769572)
+
+Without the sufficient resource generation, you'll be drawing a lot of dead cards that will end up in your discard pile and will herald the coming of an empty deck.
+
+## 10 [DunedainLoreKeeper on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769690)
+
+Between the Elven Spear, and the two Noldor allies from the Dwarrowdelf cycle, there seems to be quite a few good Tactics cards for a Noldor card-draw deck. Erestor with Protector of Lorien and Burning Brand can be your defender, Cirdan can be your quester, so you might want some tactics to up the attack power for solo. Mablung might help pay for more cards you'd otherwise toss away. Hama could reuse discarded cards and with 5 discards every turn, you'll have access to virtually every tactics event in every combat phase.
+
+ 
+
+Spirit has the most abilities to play (spirit) cards from your discard pile, so getting more spirit resources might warrant another spirit hero. Idrean could help with attack power in a willpower deck.
+
+ 
+
+Leadership could get you more resources, but I haven't seen much synergy with the discard mechanic yet. Maybe Theodred, or Celeborn with his cheap Silvans.
+
+ 
+
+More lore seems to be the least interesting option, as you already have carddraw a-plenty.
+
+ 
+
+ 
+
+All things considered, I'd favor Hama for his ridiculously vertasility if you're tossing that many cards in the discard pile.
+
+## 11 [Nickpes on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769693)
+
+I agree, the more cards players will draw, the more will be discarded and some might prove important during the game. 
+
+## 12 [PocketWraith on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769899)
+
+> Without the sufficient resource generation, you'll be drawing a lot of dead cards that will end up in your discard pile and will herald the coming of an empty deck.
+
+Well I did say it'd be more of a gimmick than a serious deck. But fill up on cheap cards, a little recursion, and the Noldor stuff that's powered by discarding and I think it should be pretty effective. You just have to go at a quick pace to win before you run out of deck.
+
+ 
+
+> All things considered, I'd favor Hama for his ridiculously vertasility if you're tossing that many cards in the discard pile.
+
+Except Hama recycles things after he's declared as an attacker, so any event you recycle with him you'll have to play after starting to attack enemies and before the end of the Refresh phase, at which point a lot of Tactics events aren't going to be that helpful.
+
+## 13 [Fingolfin Fate on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1769946)
+
+I was initially afraid of dead cards with Erestor but many games in (with him, Boromir and Glorfindel), this seems hardly ever the case. The only problematic round in that regard is round 1. But even then, if you mulligan for Protector, you have about 2/3 of a chance to have on round 1 (with the extra cards thanks to Erestor), and then you're good. Elven Spear is another tool to solve this problem, Elven Jeweller too, though she doesn't seem so strong.
+
+ 
+
+Psychorocka, thanks for asking. To digress (partly), I really like Fair and Perilous, I have tried it already as well, it wasn't as great as I hoped but perhaps that was my mistake. I am not very happy about the Steed, that doesn't seem particularly strong but maybe experience will prove otherwise. Dori is a similar story, underwhelming to look at. I am not a great fan of side quests so far, even though the others seem very powerful in effect; it is just difficult to dedicate the whole round to it; but this Tactics one just seems outright terrible: it has more progress and the reward may be problematic as you want to get rid of enemies in the combat round and not have them engaged (and especially not with every player) during questing. On the other hand, I think Ranger Provisions will become a staple, and it is one more little combo with the Sword-Thain.
+
+## 14 [Noccus on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1770173)
+
+> For the discard thing, to be honest I hate discarding cards, thus I am very strange on what benefits will player get in order to do this, I can't wait to find out
+
+ 
+
+Discard decks are very fun to tinker with, and entertaining to play as well.
+
+In a lot of earlier cards games players found impressive ways to create loops through the discard pile though.
+
+Let's see how it plays out here, as there are some extremely creative deckbuilders around for this game.
+
+ 
+
+You could best compare it's playstyle to the "bounce" effect the Silvan have, I guess.
+
+Cards can go back and forth from table to hand, but then you get use the discard pile.
+
+So I think if you like bouncing, you will like fiddling with the discard pile.
+
+But as you say: only 1 way to find out :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 15 [Nickpes on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1770199)
+
+I see your point. I did use the Silvan discard ability one some occasions and worked well, but yet again i was not restricted on number of cards in my hand. Erestor restricts you on four cards that discard at the end of turn which seems to difficult on me. But if the new cards have abilities that help then it might work. I must be patient i guess for a few months
+
+## 16 [Gizlivadi on September 2, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1770339)
+
+I feel that by the time we get to the Grey Havens Erestor, Círdan, Glorfindel will be very powerful. PLus it's really thematic. I'd go with that for sure as an established powerful deck. Galadriel would also be powerful.
+
+## 17 [DunedainLoreKeeper on September 3, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1772216)
+
+> > 
+> 
+> Except Hama recycles things after he's declared as an attacker, so any event you recycle with him you'll have to play after starting to attack enemies and before the end of the Refresh phase, at which point a lot of Tactics events aren't going to be that helpful.
+> 
+>  
+
+True, it would require other cards like Quick Strike or Ambush to get Hama to attack first. But on closer inspection in the card search: most tactics events left me unimpressed. Feint is definately the best one, and therefore hard to use. Eagles are coming and Foe-hammer don't work well with Erestor either. 
+
+## 18 [DarkPhoenix on September 4, 2015](https://community.fantasyflightgames.com/topic/186946-c%C3%ADrdan-erestor-noldor-strategy/?do=findComment&comment=1773709)
+
+I think Galadriel would work nice.
+
+ 
+
+Wonder if Stand and Fight would be fare well in this deck, after few turns you will probably have bunch of allies too choose from in your discard, and can pay for them in spirit.
+

@@ -1,0 +1,112 @@
+# [Returning to the game](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/)
+
+## 1 [alpha5099 on October 19, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=712344)
+
+ Hi there. I picked up a copy of the Core Set around the end of last year, and played the game for a month or two. I got a bit bored, life got hectic, and I stopped playing. I've been thinking about giving LotR another shot lately, and I was hoping I could get some thoughts on the state of the game right now.
+
+I've only picked up the first three adventure packs so far, and for right now, where I'm just dabbling with the cards I have right now and see if the game clicks with me again, I'll just be sticking with those, but if I do decide to pick up more cards, what should I focus on? Should I just focus on finishing up the first cycle and progressing through the packs in order, or should I jump ahead, start work on the second cycle or pick up expansions?
+
+Could anyone fill me in on what I missed? I stopped playing right around when Khazad-Dum came out, which I never had a chance to play. Since then, there's been another cycle of adventure packs, the first saga expansion, and two more expansions coming soonish. What kind of themes and mechanics were introduced? And what exactly is the deal with saga expansions? Is there any substantial difference with them, or is more marketing distinction?
+
+Thanks for any advice you guys can provide.
+
+## 2 [GrandSpleen on October 19, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=712374)
+
+ Well, I'll take a stab at this.  I don't own everything that's been released, but I keep up on the news.
+
+Saga Expansions allow players to take part in the events described in the books.  We've got the first half of the Hobbit on shelves now, with the second half due out probably before Christmas (dunno if there is a confirmed release date).  Perhaps someday they will do the Lord of the Rings trilogy, but there's been no talk of this from the developer's side, as far as I am aware.  Just community speculation.
+
+As far as game mechanics, the Saga Expansions are just like standard quests, but they introduce a "Treasure" game mechanic.  There are certain cards that you can only include in your player deck if you "discover" them in a previous scenario.  Bilbo's Sting [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1559] is an example.  To discover the card, you have to fulfill certain conditions above and beyond the victory conditions when playing the scenario where that treasure is found.  The Hobbit expansions also have Bilbo himself as a sort of fourth hero; he collects "Baggins" resources which can be used to pay for "Baggins" sphere cards, which are unique to The Hobbit.
+
+OK, back to regular Adventure Packs.  The Dwarrowdelf cycle introduced a mechanic called Secrecy.  This is a discount that is applied to cards when your threat is below 20.  If a card costs 4 resources and has the text "Secrecy 3," then you will only have to pay 1 resource (4 minus 3) to play it from your hand -- but only if your threat is below 20.  This typically means bringing only two heroes.  I don't think this was a particularly popular game mechanic, and there have only been a handful of such cards released.  Don't know what the future holds for this one.
+
+You said you have some of the Mirkwood cycle -- the remainder of that cycle continued to flesh out Eagles and Rohan.  Dwarrowdelf gave Dwarves a whole lot of love and put quite a few Noldor allies and heroes into our hands (and a smattering of Silvan allies as well).  
+
+Probably the biggest game-changing additions to the game over the last cycle have been the heroes.  There are some very nice heroes available now.  Check out the spirit Glorfindel [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1462], lore Aragorn [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1414], Beorn [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1544], Elrond [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1490], and Elladan [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1389] and Elrohir [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1362] (affectionately referred to as the "Ninja Twins").  And let's not forget Dain [http://lotrlcg.com/pages/cardFocus.php?Card_Key=1263] from the end of the Mirkwood cycle.  And many of the new Dwarves from the Hobbit expansion seem to be popular as well, but I haven't experienced that for myself.
+
+There has also been a new 'print on demand' scenario, debuted at Gen Con this year.  It's the Battle of Dale, and pits heroes against the dragon Smaug.  And as you mentioned, there are more expansions on the horizon.  The Heirs of Numenor expansion will be adding some interesting mechanics that allow you to make quest progress with combat statistics instead of willpower.
+
+Alright, that's all I have for you now!  Hope I was helpful, and welcome back!
+
+## 3 [richsabre on October 20, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=712473)
+
+i own all sets to date and i shall give my own views on this…im in a hurry so sorry grandspleen if i repeat anything you say
+
+after the mirkwood cycle, we got khazad dum, which was 3 quests of medium difficulty that took us through moria several years before the actual dwarrowdelf cylce. the player cards were all dwarf based
+
+after this the dwarrowdelf started with first taking awen through the mountain pass to rivendell. this storyline was in the first two pacsk- redhorn gate and road to rivendell. this kicked off what i think is the main theme of the cycle….not dwarves (of which we got many) but noldor.
+
+there are some extremely powerful noldor cards in the cycle, elrond and glorfindel shining as two of them. after we reach rivendell we are sent back into moria via the west gate where we meet the watcher, then we have 2 packs pretty similar of running around getting lost inside, then we battle the balrog.
+
+all together i really liked this cycle, however i think while its player cards were better than mirkwood, its playability was not….the underground didnt transfer well i think. thats not to say the quests are bad….it just ones like the long dark get old quick
+
+after that we had the saga pack 1- the first hobbit pack. this took us to the riddle game with gollum and is very good, albeit very hard (i would not recommend anyone without a good card pool getting this)
+
+the card pool was mainly dwarven, really solidifying dwarves as the most developed upon race in the game so far.
+
+there is a 2nd pack coming in  a few months……i think it is obvious that they are coinciding this with the film releases…a little annoying to 'anti-filmys' like me, but i see that its a good idea.
+
+there was battle for laketown POD which was in gencon event- this has just been released and is just about impossible to win
+
+then lastly we have the hiers of numenor deluxe pack coming soon, and the subsequent cycle, which i cant remember right now. it looks amazing and wil concentrate on gondor. it seems like it will be giving tactics a new life with keywords such as 'siege'
+
+this new cycle really seems to be the pack that will freshen the game…it seems like it will working differently,eg. using attack stats for questing
+
+ 
+
+now which ones for you to get- i would say, as i always do…go in order
+
+this is because if you have done this already then you may as well finish…im a theme player so this appeals to me, however it may not to you.
+
+another reason is that there are cards in later packs that are almost destined to be used with cards already brought out….they will lose their effect if you dont have the related cards. also the song cards are really key to multisphere deckbuilding
+
+also its worth pointing out that, despite the last mirkwood pack- return to mirkwood, being a horrible solo quest, it is worth getting for the hero- dain
+
+dain will be extremely useful for the following dwarf packs, and he really increases every dwarf's usability
+
+rich
+
+## 4 [Mr Coffee on October 22, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=713406)
+
+richsabre said:
+
+now which ones for you to get- i would say, as i always do…go in order
+
+this is because if you have done this already then you may as well finish…im a theme player so this appeals to me, however it may not to you.
+
+another reason is that there are cards in later packs that are almost destined to be used with cards already brought out….they will lose their effect if you dont have the related cards. also the song cards are really key to multisphere deckbuilding
+
+also its worth pointing out that, despite the last mirkwood pack- return to mirkwood, being a horrible solo quest, it is worth getting for the hero- dain
+
+dain will be extremely useful for the following dwarf packs, and he really increases every dwarf's usability
+
+rich
+
+
+
+ 
+
+I have never really disagreed with Rich on ANYTHING on this board before… but I would probably have a slight difference of opinion on this one.  Typically I would agree that to go in order is best.  However, Having just done a card-by-card breakdown of all player cards in each AP from Mirkwood for a friend just a few days ago, there really wasn't ane ONE pack that was a MUST-GET…. with the possible exceptions based on heros.  This is assuming that you are not planning on getting every AP eventually.  If you are, then definitely go in order. 
+
+Bilbo (if playing solo), Frodo, Burning Brand, Winged Guardian (maybe), Ancient Mathom, Haldir, Gildor Inglorien, Boromir, Fast Hitch, Dain, and Mirkwood Runner are pretty much the cards I would think of as Must-haves…. and those are spread throughout all 6 AP's…   (I avoid the songs like the plague, and there's quite a lot of "filler" from these AP's).  This is all just personal opinion/play-style of course.. so take it with a grain of salt.
+
+Unless you want to run an Eagle deck… in which case you're pretty much stuck buying them all (which I have done, so I wouldn't criticize if that's the approach). 
+
+If you are only looking for a few, then quite honestly, the Dwarrodelf AP's give you more "bang for your buck"… I'm not as hot on the first two AP's (mostly because the hero's are kinda tied together for any real potency), but even they have solid non-hero additions:  Timely Aid (not a must-have, but above average), Rivendell Blade, Lure of Moria, Hail of Stones, Bofur are all fairly solid cards.  The next 4 AP's pretty much out-do anything previously released to that point.  The Watcher in the Water AP alone offers:  Aragorn, Sword that was Broken, Rivendell Bow, Arwen Undomiel, Elrond's Counsel, Legacy of Durin, and to a lesser extant Resourceful as VERY viable playable cards.  That single pack has almost as many cards in my various decks as the entire Mirkwood cycle does put together.  Then of course, you get to the later AP's with Elrond, Vilya, Glorfindel, Asfaloth , Light of Valinr, etc… and it's really hard to not think that Dwarrodelf holds better options for people looking to pick up just one or two AP's…
+
+Again, just my opinion.  That and a dollar won't even get you a decent cup of joe anywhere, though… so take it for what it is….
+
+## 5 [Mr Coffee on October 22, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=713408)
+
+But I also missed the OP's mentioning you already have the first three AP's.  So if you were interested in an Eagle deck, then yes, the rest of the Mirkwood cycle are a must.
+
+## 6 [alpha5099 on October 22, 2012](https://community.fantasyflightgames.com/topic/73044-returning-to-the-game/?do=findComment&comment=713561)
+
+Thanks for the great advice everyone. I've played a couple games the last couple days, and I've been playing them with two decks, as opposed to the single deck games I was playing before. I've been having a blast, and I think it helps circumvent something that cut short my time with the game last time: when I just have one deck, there's too many cards that just seem absolutely necessary, which greatly restricts my options. You have much more freedom with two decks; the Tactics sphere is finally getting some love, and Ranged and Sentinel have meaning, and I can spread out the "necessary" cards a little bit more and make more choices with the heroes I use.
+
+I think I'll hold off on picking up exactly where I left off in the adventure packs. For one thing, the next adventure pack for me is The Hills of Emyn Muil, which seems to be out of stock most places I've checked online. And yeah, as benhanses noted, the cards in that cycle just don't look all that exciting (another factor that contributed to setting aside the game last time; not being excited about new cards to buy's a pretty big negative). What I've seen of what has come out since then, on the other hand, looks much cooler (IMO, of course). Definitely looking forward to playing through the Dwarrowdelf cycle.
+
+Right now, I think I'm gonna splurge and pick up Khazad-Dum and Over Hill and Under Hill in the next week or so; I'll probably also pick up Return to Mirkwood, as I'll soon be drowning in Dwarf heroes and I should have Dain to give 'em all a boost. Later on, I'll start working my way through the rest of the adventure packs.
+
+(I will never get used to remembering names in this game. I'm not especially well-versed in Tolkien, so I'm constantly having to look up cards and expansion names; writing this I had to double check the spelling of Dwarrowdelf, Khazad-Dum (can never remember if it's Dum or Dun), and Dain's name.)
+

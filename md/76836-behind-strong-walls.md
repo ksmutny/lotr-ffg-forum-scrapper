@@ -323,3 +323,260 @@ Edited February 5, 2018 by sappidus
 That's the problem .. Flame of Arnor has the additional costs which makes the "to" important. And so your Istari character has to be exhausted.
 I think, i will link Caleb this thread, so he can read it.. and decide.
 
+## 26 [Wandalf the Gizzard on February 5, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3200203)
+
+Maybe all of these confusing effects could be read as "choose and ready." That way "that character" refers to the chosen character, readied or not.
+
+## 27 [JanB on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3202862)
+
+> On 5.2.2018 at 3:06 PM, JanB said:
+> 
+> That's the problem .. Flame of Arnor has the additional costs which makes the "to" important. And so your Istari character has to be exhausted.
+> I think, i will link Caleb this thread, so he can read it.. and decide.
+
+So .. here is my follow up conversation with Caleb:
+
+> Quote
+> Hi Jan,
+> You mention in the thread that you’re waiting for my reply, but I don’t see a question in your email. Please let me know what it is you would like me to clarify.
+> Cheers,
+> Caleb
+
+ 
+
+> Quote
+> 
+> Dear Caleb,
+> 
+> i'm sorry for that.
+> I hoped that the discussion makes clear that some of the people think about Flame of Arnor should be revised, too. 
+> In one of my comments i pointed out that the 'to' in Flame of Arnor came from the additional costs you have to pay. Otherwise it would be worded like BSW.
+> For me .. your revision of BSW is not what i expected. I thought the intention of this card was to ready a defending Gondor character. Playing this card on a ready character seems odd.
+> But it's your game, you make the rules. :-)
+> Regards,
+> Jan
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> A good number of the rules questions that I get have to do with the intention of a card vs its actual language. I agree with you that the intention of BSW is that you ready the defending character, that is why my initial answer was that the defending character must be exhausted to be a legal target. However, as I examined the language closer with my coworkers, it became clear that the language on the card does not target an ‘exhausted’ defending Gondor character - just a defending Gondor character. Therefore, it is not a requirement that they be exhausted.
+> It’s not a surprise to me that I made a past ruling for Flame of Anor that conflicts with my current BSW ruling because it was only after the recent conversation I mentioned that I realized these events do not explicitly target exhausted characters. So I must reverse my FoA ruling as well to say that you can play it on a ready Istari character. 
+> Cheers,
+> Caleb
+
+ 
+
+> Quote
+> 
+> Hi Caleb,
+> glad that you are thinking about another revision.
+> But i hoped our conversation goes into the other direction. 
+> That it is mandatory to ready a character if an event or attachment  (like Amored Destrier) tell you to ready one. 
+> Regards, 
+> Jan 
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> Armored Destrier uses the word ‘then’ in its structure, so you have to ready the attached character in order to discard the shadow card. But BSW and FoA don’t use the word ‘then', so readying the target character is not a condition that must be fulfilled in order to trigger the second part of the effect.
+> Cheers,
+> Caleb
+
+ 
+
+## 28 [GrandSpleen on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203183)
+
+Well, ok then.
+
+Here are some things you can do with this, that i thought you couldn't do (maybe other people thought otherwise?):
+
+ * "Ready" Boromir every phase to get to Valour
+ * Use Gimli (leadership)'s ability to give Legolas +1 even if he's not exhausted
+ * Same for Legolas (Spirit) for boosting Gimli's willpower, although that has less utility
+ * Discard a card every phase if Glorfindel ally is in play (trigger Galdor, power up Eregion Survivor, put the right type of card on the top of your discard pile for Sailor of Lune, get repeated uses out of Elven-light)
+ * Discard Cram for no effect (this will combo with the upcoming Brand Leadership card for a free 'deck thinning' option, like putting 'We Are Not Idle' in non-dwarf decks)
+ * Use Narya to give combat boosts to allies that were already ready
+ * Exhaust Spare Hood & Cloak + attached character for no effect (the cloak won't even pass because the following sentence uses 'then').  I don't see much utility here. Only thing I can think of is ensuring that a Silvan elf will heal every round while a Silvan Tracker is in play.
+ * Use Boomed & Trumpeted for its attack boost on a ready Ent character.  You could combo Song of Mocking or take undefended attacks to satisfy the damage part.
+ * Use Common Cause to exhaust a character for no effect (again, poor utility, but legal)
+ * Use Tale of Tinuviel and target a character that is already ready
+ * Get the attack boost from Taste it Again on a character who is already ready
+
+Some are significant upgrades.  There were times I couldn't apply Narya before because my ally wasn't exhausted, I'm sure of that. And I've definitely sent tactics Legolas questing, thinking I needed him to be exhausted.  So this alters tactical decisions.  Some of the effects of this ruling are pretty meaningless though (like Spare Hood & Cloak, weird but no big deal).  In general it gives more utility to every card affected. I don't see anything broken, but still.  Kind of surprised here.
+
+## 29 [GrandSpleen on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203191)
+
+If we get a Dale ally with a general action that returns him to your hand, you have an interesting combo.  Put the two recently spoiled heroes in: Brand (Leadership) and Bard son of Brand and get Cram into play.
+
+-Play Cram on Dale ally, draw a card (per King Brand)
+
+-Return ally to hand
+
+-Get Cram back in your hand (per Bard's effect)
+
+-Play Dale ally
+
+-Play Cram (draw a card)
+
+ 
+
+So if hypothetical ally costs 1, you get "spend 1 resource to draw 1 card," on par with Elven-light but you don't have to find a way to discard it, like you need to do with Elven-light.  If that ally costs 2, you get "spend 2 resources to draw 1 card," which is expensive and on par with Rod of the Steward.  
+
+If it that ally costs 0, you have a broken combo that draws your whole deck, so-- minor limiting of design space, I guess.  
+
+Edited February 7, 2018 by GrandSpleen
+
+## 30 [JanB on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203210)
+
+> 56 minutes ago, GrandSpleen said:
+> 
+> If we get a Dale ally with a general action that returns him to your hand, you have an interesting combo.  Put the two recently spoiled heroes in: Brand (Leadership) and Bard son of Brand and get Cram into play.
+> 
+> -Play Cram on Dale ally, draw a card (per King Brand)
+> 
+> -Return ally to hand
+> 
+> -Get Cram back in your hand (per Bard's effect)
+> 
+> -Play Dale ally
+> 
+> -Play Cram (draw a card)
+> 
+>  
+> 
+> So if hypothetical ally costs 1, you get "spend 1 resource to draw 1 card," on par with Elven-light but you don't have to find a way to discard it, like you need to do with Elven-light.  If that ally costs 2, you get "spend 2 resources to draw 1 card," which is expensive and on par with Rod of the Steward.  
+> 
+> If it that ally costs 0, you have a broken combo that draws your whole deck, so-- minor limiting of design space, I guess.  
+
+You can not play Cram on an ally ;-)
+
+## 31 [dalestephenson on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203327)
+
+Born Aloft is probably the card you want, 0-cost attachment that returns an ally to hand.  So if you have Bard, Brand II, and King of Dale with another attachment, you could play Long Lake Trader for free every turn, drawing a card in the process and still using him for his ability -- as long as you don't want to use King of Dale for some better ally.  That's pretty cool.
+
+If you had an inherently 0-cost Dale ally you could get two cards each turn out of it.  In planning phase, play the ally, play Born Aloft on it (get a card), use Born Aloft, getting it back (Bard), play it again, and play Born Aloft on it again for another card.  Alas, the drawing ends there because Bard's ability is once per phase.  Pretty cool and powerful, but not draw-your-deck broken.
+
+## 32 [Rouxxor on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203368)
+
+> 1 hour ago, dalestephenson said:
+> 
+> Born Aloft is probably the card you want, 0-cost attachment that returns an ally to hand.  So if you have Bard, Brand II, and King of Dale with another attachment, you could play Long Lake Trader for free every turn, drawing a card in the process and still using him for his ability -- as long as you don't want to use King of Dale for some better ally.  That's pretty cool.
+> 
+> If you had an inherently 0-cost Dale ally you could get two cards each turn out of it.  In planning phase, play the ally, play Born Aloft on it (get a card), use Born Aloft, getting it back (Bard), play it again, and play Born Aloft on it again for another card.  Alas, the drawing ends there because Bard's ability is once per phase.  Pretty cool and powerful, but not draw-your-deck broken.
+
+If you discard born aloft to get back the ally you will not return born aloft, since it is in discard pile at this moment.
+
+## 33 [dalestephenson on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203451)
+
+You're right, I thought that Bard could get back any discarded attachments (once per phase), but it's only when a character leaves play.  So no repeatable combo with Born Aloft.  Born Aloft would still be worth a card draw and +1 willpower on an arbitrary attachment-free Dale ally, but with two other 0-cost attachments that are more useful I can't see it making a Dale deck.  Pity -- I like to see new cards revive old cards.
+
+## 34 [Rouxxor on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203463)
+
+> Exhaust Spare Hood & Cloak + attached character for no effect (the cloak won't even pass because the following sentence uses 'then').  I don't see much utility here. Only thing I can think of is ensuring that a Silvan elf will heal every round while a Silvan Tracker is in play.
+
+
+
+Exhaust a character can also be useful with Arwen ally ;). In this deck with 2 spare hood & cloack we can use twice per turn the boost of Arwen :).
+
+ 
+
+## 35 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203552)
+
+> 8 hours ago, GrandSpleen said:
+> 
+> Here are some things you can do with this, that i thought you couldn't do
+
+Not all of these work. It's not that Caleb ruled that you can ready a ready character; his ruling is about targeting and the applicability of a second sentence using "that character" in compound effects.
+
+Thus, each of your examples that purely ready—e.g., Boromir, Cram, ally Glorfindel—cannot be used as you say, since they have no effect other than to ready some character. Spare Hood shouldn't be valid either, as its second sentence starts with "Then".
+
+In other words, you can't pay the costs to do something if there would be no effect OTHER than the cost payment.
+
+It would indeed be a boost to Narya, Tale of Tinuviel, Taste It Again!, and Boomed & Trumpeted compared to how I'd been playing them, though.
+
+Edited February 7, 2018 by sappidus
+
+## 36 [GrandSpleen on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203577)
+
+Caleb's explanation above just mentions that Behind Strong Walls can target a ready Gondor character because it doesn't explicitly state that the character needs to be exhausted.  He repeated that point when discussing Flame of Anor, but didn't mention a secondary effect as requisite for that point to remain true.  So currently it seems that you can do all of the things I typed above.  
+
+If your deck is empty, I wonder can you play Mithrandir's Advice?  Same idea here, paying a cost for no effect.
+
+(whoops, you're right, no Cram on allies, but Spare Hood & Cloak and Born Aloft are 0-point attachments that would also work, should we ever see a Dale ally that is returned to hand)
+
+ 
+
+## 37 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203583)
+
+> 4 minutes ago, GrandSpleen said:
+> 
+> Caleb's explanation above just mentions that Behind Strong Walls can target a ready Gondor character because it doesn't explicitly state that the character needs to be exhausted.  He repeated that point when discussing Flame of Anor, but didn't mention a secondary effect as requisite for that point to remain true.  So currently it seems that you can do all of the things I typed above.  
+
+I disagree on your interpretation of Caleb's words, but I'm sending in a specific query to see if you can ready a ready character in lieu of other effects.
+
+## 38 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203635)
+
+ 
+
+> Quote
+> 
+> My ruling regarding Behind Strong Walls and Flame of Anor was not to say that you can ready character who is already ready. The ruling I gave was that neither of those cards explicitly target an exhausted character. Both of those cards have additional effects that can be resolved even if the target character is not exhausted. BSW gives +1 DEF and Flame of Anor gives an attack boost. Therefore, both cards have the potential to affect the board even if the target character is not readied.
+> 
+> If a card’s only effect is to ready a character, then you cannot play it on a ready character because it will not affect the board. So if Boromir is ready,  you cannot raise your threat by 1 to ready him because it has no effect. Similarly, you cannot play Ever Vigilant to ready an ally who is ready because again it has no effect.
+> 
+> Cheers, Caleb
+
+ 
+
+## 39 [dalestephenson on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203708)
+
+So BSW and Flame of Anor work because it does something besides ready, but Boromir and Ever Vigiliant do not work on a ready character because all they do is ready.
+
+So Cram and Unexpected Courage and Common Cause can't ready a ready character because that's all they do.  But Boomed and Trumpeted and Tale of Tinuviel would work, because they both ready *and* boost, same as BSW.  Multiple Taste it Again! should be legal.  Narya can be used on ready allies.  I'm not sure about LeGimli/SpLegolas boosting each other, because it seems like you'd have to ready them *before* checking the "if that hero is <name>" -- however since the outcome of the check is 100% predictable, maybe it also works.  But Legolas certainly couldn't discard a card (e.g. Elven-light) to ready a non-Gimli hero who is already ready.
+
+Edited February 7, 2018 by dalestephenson
+
+## 40 [GrandSpleen on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203729)
+
+Well that clarifies things, thanks for sending the query.  
+
+My take-home from this: when triggering an effect, you are able to target a character who is only eligible for a portion of that effect.  But there does need to be some kind of eligibility (something needs to affect the board state).
+
+Sound correct?
+
+## 41 [Wandalf the Gizzard on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203831)
+
+I think that's correct. It still seems weird to me that you can ready a ready character.
+
+## 42 [dalestephenson on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203892)
+
+Technically, Caleb is NOT saying you can "ready a ready character".  He's just saying that if an action/response affecting a character *includes* readying, you can still do it to a ready character if it does something *else* that affects the character.  BSW doesn't ready a ready Gondor defender, but it still can be played to give a Gondor defender +1 defense.
+
+## 43 [sappidus on February 7, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3203926)
+
+> 8 minutes ago, dalestephenson said:
+> 
+> Technically, Caleb is NOT saying you can "ready a ready character".  He's just saying that if an action/response affecting a character *includes* readying, you can still do it to a ready character if it does something *else* that affects the character.  BSW doesn't ready a ready Gondor defender, but it still can be played to give a Gondor defender +1 defense.
+
+In fact, Caleb explicitly said If a card’s only effect is to ready a character, then you cannot play it on a ready character because it will not affect the board, which is close to saying you cannot ready a ready character.
+
+This whole set of rulings is in keeping with a previous partial-fulfillment ruling:
+
+(Please note that I am linking only the explicit ruling, not my commentary in that post [which was subsequently shown to be incorrect]. I still don't get the Daeron's Runes ruling lower in that thread and what it means for the semantics of "then", though it is irrelevant to our current discussion.)
+
+## 44 [Seastan on February 13, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3212166)
+
+I had already been using Narya on ready allies. Glad I don't have to change my ways. I think this rules issue was settled quite well.
+
+## 45 [Rouxxor on February 16, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3216140)
+
+I had a discussion about cram. Could it be discard if the attached hero is already ready? To me it can but I came here to get a confirmation.
+
+## 46 [GrandSpleen on February 16, 2018](https://community.fantasyflightgames.com/topic/76836-behind-strong-walls/?do=findComment&comment=3216324)
+
+No, you can't (Caleb's quoted ruling a few posts above this one makes it clear).
+

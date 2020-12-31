@@ -1,0 +1,32 @@
+# [There and back again](https://community.fantasyflightgames.com/topic/97497-there-and-back-again/)
+
+## 1 [servant of the secret fire on January 21, 2014](https://community.fantasyflightgames.com/topic/97497-there-and-back-again/?do=findComment&comment=960211)
+
+Hello all i have the core set of the game from the first day the game came out and i spended 3 months of game play before i quit.I realy liked the game (i am a huge Tolkien fan) but none of my friends had an interest for a coop card game and i couldn't play all the time alone so i quit too.
+
+ 
+
+After 2 years with out having a Lord game to travel in Tolkien's world i was searching for a Lord game and i saw accidentaly a review for this game and all the expansion that made me want to start play again.Having only the core set i was wondering what i must buy first from all the expansions there are until i saw the new Glorfindel hero and said to my self i must have this ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] .
+
+ 
+
+So my question to you is if i ll buy Khazad Dum and the rest adventure packs with out having the Mirkwood cycle will i have a problem or i can complete those quest with out having  the cards of the Mirkwood cycle?
+
+ 
+
+Thanks and sorry for my English.
+
+## 2 [Scroll Lock on January 21, 2014](https://community.fantasyflightgames.com/topic/97497-there-and-back-again/?do=findComment&comment=960260)
+
+No, it will be absolutely OK. Maybe it will be quite difficult to win some scenarios, but if this is not problematic for you, then do it! You can even find easy mode on the internet if you want thematic game instead of challenge.
+
+## 3 [servant of the secret fire on January 21, 2014](https://community.fantasyflightgames.com/topic/97497-there-and-back-again/?do=findComment&comment=960271)
+
+> No, it will be absolutely OK. Maybe it will be quite difficult to win some scenarios, but if this is not problematic for you, then do it! You can even find easy mode on the internet if you want thematic game instead of challenge.
+
+Thanks for your reply.
+
+ 
+
+If some scenarios are difficlut to win its not a problem.I like some challenge but if some will be impossible to win i think it will not be fun.Anyway i plan to buy all the adventure packs but for start i want to buy the Dwarrowdelf cycle and wen my wallet is full again i will start buying Mirkwood.
+

@@ -425,3 +425,164 @@ At the very bottom of the forum pages, there is a "Rules Questions" link: http:/
 
 I am still not  convinced that this ruling is logical, but be it as it be. I'm going to send my example to FFG and I'm anxious to see their explanation.
 
+## 26 [zeb on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857408)
+
+> I am still not  convinced that this ruling is logical, but be it as it be. I'm going to send my example to FFG and I'm anxious to see their explanation.
+
+ 
+
+Leptokurt, it would be interesting you submit the "loop" you mentioned above. However, I had some thoughts about it: the Responses here are optional. So if there is a loop, it is only a matter of choice. Breaking the loop is just deciding not to do it (and play "A Test of Will" all over again). The only infinite loop problem would arise only if they both had a Forced effect.
+
+ 
+
+Now such kind of games have infinite loops sometimes that break the game. And it happend in the past with LOTR:
+
+ * 
+   : that one is a voluntary one that gave infinite resources. It is a voluntary one, and was fixed by errata'ing Beravor.
+ * Thalin passive effect also was errata'ed because - in part - of an infinite loop with the Surge effect on the Eastern Crows. So making the Thalin effect prior to Surge solved the issue. A lot of players from MTG were puzzled, because of the stack system. In LOTR, there is no stack, and effects are queued instead, with priorities.
+
+If what you say is an infinite loop, it can be fixed at two levels:
+
+ * Simply by errata'ing the cards responsible for it. It is a straightforward and easy way, but indeed not a global solution
+ * Changing or rather precising the rules about timings to prevent loops. This is probably the best solution, although it may be difficult to anticipate all situations and cards, especially those that bend rules with the Golden Rule.
+
+Regarding Caleb, do not forget he is not the only one to decide on rules. He has a team with him that playtest a lot, and he has already reverted rules in the past (e.g. attaching cards to Locations that cannot be targets of player effects).
+
+ 
+
+I really think that what we need is a refined turn sequence, which would help squash these interpretations, especially at trigger points.
+
+## 27 [zeb on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857411)
+
+> And I'm not surprised, too :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] It is consistent with other LCG such as CoC.  Nice to know the official ruling, thanks Zeb!
+
+Sorry Angus, I should have mentioned you too :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 28 [Angus Lee on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857504)
+
+>  
+> 
+> > And I'm not surprised, too :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] It is consistent with other LCG such as CoC.  Nice to know the official ruling, thanks Zeb!
+> 
+> Sorry Angus, I should have mentioned you too :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+
+No need to feel sorry. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 29 [leptokurt on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857721)
+
+>  
+> 
+>  
+> 
+> I really think that what we need is a refined turn sequence, which would help squash these interpretations, especially at trigger points.
+> 
+>  
+
+I can only support this. This is not the first time where the designers make a decision regardint the timing of events that comes out of the blue (at least for me).
+
+ 
+
+Btw, I guess that drawing a card and putting it in your hand also happens at the same time?
+
+## 30 [zeb on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857751)
+
+> Btw, I guess that drawing a card and putting it in your hand also happens at the same time?
+
+I would say yes. What's your idea?
+
+## 31 [Nerdmeister on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857814)
+
+I got the feeling lepto is on a mission to prove to the world how bad an idea he considers Caleb´s answer.
+
+ 
+
+Feel free to correct me if I´m wrong ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 32 [leptokurt on September 4, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=857830)
+
+> I got the feeling lepto is on a mission to prove to the world how bad an idea he considers Caleb´s answer.
+> 
+>  
+> 
+> Feel free to correct me if I´m wrong ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Lol, to be honest Caleb's answer is mortially offending my philosophical view of the world. But this time I only try to get things right in my head.
+
+## 33 [zeb on September 6, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=859342)
+
+I am coming back to this "hot" topic with new information.
+
+ 
+
+Ellareth at BBG has pointed out that there had been a similar ruling made by Nate in early 2012 [http://boardgamegeek.com/thread/762544/question-about-the-card-valiant-sacrifice-core-set]. This time the query uses Valiant sacrifice as an example, but the timing query is exactly the same: 
+
+ 
+
+Question:
+
+ 
+
+ 
+
+Situation 1
+I have 2 Valiant Sacrifice cards in my hand. An ally of mine leaves play.
+Can i play both V.S.? Also the correct order is. Play the first one, i draw 2 cards and then play the second one.
+
+Situation 2
+I have 1 Valiant Sacrifice card in my hand. An ally of mine leaves play. I play the Valiant Sacrifice and one of the 2 cards is a new Valiant Sacrifice. Can i play the recently received Valiant Sacrifice immediately?
+
+ 
+
+Nate French:
+
+ 
+
+Response effects are resolved completely before the next response is
+played.
+
+Situation 1
+
+Play and resolve the first copy. (Draw 2 cards)
+
+Play and resolve the second copy. (Draw 2 more cards)
+
+Situation 2
+
+Yes, you can play the copy you just drew. "You could play the second one. All responses are played and resolved before moving on to the next response, so the response opportunity remains open until all players have passed the opportunity to respond."
+
+## 34 [leptokurt on September 6, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=859640)
+
+This is still silly. There is no other response. You only get the new response from the second Valiant Sacrifice as a result of another response. The other point is simply a PoV of how evebts proceeds - for me I have the following picture in mind:
+
+ 
+
+Say someone asks: "Who wants to have a pie?" Several people raise their hands. You count these people and everyone gets a pie. Everyone who comes later gets none.
+
+ 
+
+Caleb's picture is:
+
+ 
+
+Someone asks: "Who wants to have a pie?" Several people raise their hands. You count these people and everyone gets a pie. Everyone who enters later and raises their hands also gets a pie.
+
+ 
+
+So to me the logical approach is to look at one point if there are responses triggering. After that the window for triggering actions is closed. And not to travel back in time to use the trigger again. This is LoTR, not Marvel.
+
+## 35 [GrandSpleen on September 7, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=859930)
+
+Maybe it's more like "I'm now serving pie until I start serving the next thing!"  And everyone in the room who can digest pie gets a piece.  Everyone who comes in late can still get some pie, as long as there is still pie on the table.
+
+ 
+
+So I guess it comes down to the age-old question of "pie for all" vs. "pie for some."  We know where you stand, leptokurt!
+
+Edited September 7, 2013 by GrandSpleen
+
+## 36 [zeb on September 9, 2013](https://community.fantasyflightgames.com/topic/89609-after-you-travel-trigger-timing-query/?do=findComment&comment=861244)
+
+Yes, the pie is a limited, material good. A trigger is an unmaterialised event. It is only limited in time, not in quantity. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+

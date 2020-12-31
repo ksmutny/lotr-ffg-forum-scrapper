@@ -1,0 +1,22 @@
+# [Competitive mode is the single best thing that happened to this game](https://community.fantasyflightgames.com/topic/285981-competitive-mode-is-the-single-best-thing-that-happened-to-this-game/)
+
+## 1 [Zura on November 11, 2018](https://community.fantasyflightgames.com/topic/285981-competitive-mode-is-the-single-best-thing-that-happened-to-this-game/?do=findComment&comment=3531358)
+
+I'm disturbed about the lack of praise for LOTR LCG: competitive mode from Woodland Realm. I played it the day before yesterday during my Fellowship event and it was the single best LOTR LCG experience i've had so far. It manages to keep the cooperative spirit of the original game in the 2v2 setup while adding a great incentive for rivalisation and adds an addictional layer of depth to the encounter depth with its "conscience" that is other players making decisions about how to use their encounter deck in the most brutal way possible. It's incredible how good this mode is. It really makes you reevaluate what a "good" encounter deck card is.  My only complaints are that the scenario is pretty much useless for cooperative because all the "the opposing team..." cards stop making sense and it becomes weird and that you pretty much need a second copy to play it correctly. But other than that, best mode made for LOTR: LCG so far. I really hope they try to promote it more and make more scenarios than this and it won't end with Woodland and Wizard Quest. It really has a ton of potential to make this game more appealing for events. 
+
+Edited November 11, 2018 by Zura
+
+## 2 [Wandalf the Gizzard on November 11, 2018](https://community.fantasyflightgames.com/topic/285981-competitive-mode-is-the-single-best-thing-that-happened-to-this-game/?do=findComment&comment=3531573)
+
+I don’t know that there is a “lack of praise” for competitive mode. Most content creators and fans absolutely love the format.
+
+ 
+
+## 3 [Bullroarer Took on November 11, 2018](https://community.fantasyflightgames.com/topic/285981-competitive-mode-is-the-single-best-thing-that-happened-to-this-game/?do=findComment&comment=3531665)
+
+I think it's fun sometimes, but the reason I like LOTR in general is that you can play fringe decks against certain quests and still be successful.  The Wizard's Quest and The Woodland Realm weren't so hard as quests, but because it was head to head you knew you were going to have to finish in six or seven turns. That eliminates a lot of decks.  I also know of at least two contests that were decided on points after they tied on turns.  That favors certain archetypes as well.  So I think it's a fun diversion, but making LOTR LCG non-competitive was the best thing to happen to the game n my opinion.
+
+## 4 [alcuin18 on November 11, 2018](https://community.fantasyflightgames.com/topic/285981-competitive-mode-is-the-single-best-thing-that-happened-to-this-game/?do=findComment&comment=3531728)
+
+A large part of what I like about this game is that it is non-competitive. I would never play a competitive version but it's probably smart to have one added to the game as it broadens the market for sales by FFG as most people seem to prefer competitive games.
+

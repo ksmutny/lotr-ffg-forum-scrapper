@@ -1,0 +1,140 @@
+# [Ancestral Armor](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/)
+
+## 1 [Halberto on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3536989)
+
+Dears,
+
+what do you think of the new attachment Ancestral Armor? 2 def and 2 hit points is great but are 4 resources worth it?
+
+To me it's seems made for mono/heavy leadership decks featuring Le Denethor with no access to gondorian shield. Probalby a middle game card where most great attachmets tend to be early game card (If you draw them). Not a rule but happens quite frequent.
+
+I'm not sure I would use it out that kind of deck or without some kind of cost reduction (Beregond, bartering, etc...). 4 costs make also galadriel ally useles in combo with this car which is really sad.
+
+I really want to like it - the stat boost package is great - but I'm not sure how frequently it will make into my decks.
+
+At least it's not in competition with Raimemt of war as they apply to different targets.
+
+Your thought?
+
+## 2 [Wandalf the Gizzard on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537046)
+
+Four resources are definitely worth it. Especially in the leadership sphere.
+
+## 3 [GrandSpleen on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537049)
+
+I think it won't see a whole lot of use due to the cost.  Decks that intend to use it will likely use ways to reduce its cost or otherwise 'cheat' it into play, which means they will at least be partially built around it.  You probably will not see it often as a 'casual' inclusion in a deck.
+
+It might work well on Gloin.  His 1 defense makes him risky to use as a defender, and this would boost his defense level to where he could still defend and take damage, but also have enough HP to be taking that damage and defending regularly, as long as a "typical" level of healing is present.  Still, it's quite expensive, so it would take a few attacks to pay for itself, so... maybe I'm way off base.  In other words, this attachment would allow you to play Gloin as a defender without doing the super healing Gloin specialist deck.
+
+Edited November 15, 2018 by GrandSpleen
+
+## 4 [Halberto on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537079)
+
+> 18 minutes ago, Wandalf the Gizzard said:
+> 
+> Four resources are definitely worth it. Especially in the leadership sphere.
+
+I totally agree it's worth the money, no question. Just wondering how often it will make its way into decks.
+
+Leadership is rich but still there are limits to how many expensive cards you can fill your deck with.
+
+As GrandSpleen said it fits mainly in decks able to reduce its cost or cheat in play. It will be huge in a vilya deck using Elrond as main defender for example.
+
+Edited November 15, 2018 by Halberto
+
+## 5 [Seastan on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537094)
+
+I personally don't think it's worth it. I think it should cost 3 (so should Citadel Plate). Any deck I play it in will probably try to cheat it into play.
+
+I think Erkenbrand is a great target for it.
+
+## 6 [Halberto on November 15, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537108)
+
+> 6 minutes ago, Seastan said:
+> 
+> I personally don't think it's worth it. I think it should cost 3 (so should Citadel Plate). Any deck I play it in will probably try to cheat it into play.
+> 
+> I think Erkenbrand is a great target for it.
+
+Yes, It could make Erkenbrand more relevant and easy to play. It boosts his two main stats fixing his native stats (I think he miss 1 native point of stat on def or hit point to be a great hero). On him 4 resources are worth, I think. 
+
+At 3 costs and not unique it will be very very powerful since it goes on all leadership allies too.
+
+## 7 [player1683311 on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537293)
+
+Yeah it is a frustrating cost. I've used it in a couple decks so far and it is a powerhouse. As mentioned Denethor is a great target, popping that and armored destrier on makes him a solid 5 defense 5 hit point defender.
+
+ 
+
+It has sat in my hand due to cost in other decks.  Well equipped would put it on the new Dain for free, making him an absolute powerhouse. 
+
+ 
+
+I like it. Find it useful. The cost is prohibitive 
+
+## 8 [dalestephenson on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537562)
+
+I like it better than Citadel Plate, since (except on TaGimli) I'd much rather have +2 def/+2 hp than +4 hp, and 4 leadership resources are easier to come by than 4 tactics resource.  However, I don't use Citadel Plate outside a TaGimli deck, so I expect this expensive card to be little-used as well.  I see the best target for this card to be Redwater Sentry in a Dale deck (as first attachment, cost 3 for +3def/+2hp/sentinel/card draw).  It'd be a great card on TaBeregond for two cost, might be fun making him a noble to give him this along with Gondorian Shield and the Day's Rising/Heir of Mardil combo.
+
+## 9 [Halberto on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537578)
+
+> 18 minutes ago, dalestephenson said:
+> 
+> I like it better than Citadel Plate, since (except on TaGimli) I'd much rather have +2 def/+2 hp than +4 hp, and 4 leadership resources are easier to come by than 4 tactics resource.  However, I don't use Citadel Plate outside a TaGimli deck, so I expect this expensive card to be little-used as well.  I see the best target for this card to be Redwater Sentry in a Dale deck (as first attachment, cost 3 for +3def/+2hp/sentinel/card draw).  It'd be a great card on TaBeregond for two cost, might be fun making him a noble to give him this along with Gondorian Shield and the Day's Rising/Heir of Mardil combo.
+
+A lot of set up but making  Beregond a  wall is great from a pure fun factor perspective.  
+
+Redwater Sentry is one of the best ally target and 3 cost on him make it more palatable. However other cheaper attachments like hauberk of mail, squire elm and raiment of war are probably better alternatives to spead up his set up.
+
+But I do WANT to like this card if only I can find a way to consistenly play it without making my decks worse...
+
+ 
+
+## 10 [dalestephenson on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537633)
+
+No argument about Hauberk of Mail -- I love that card, but on Redwater Sentry it's especially good value. As a first attachment in a Dale deck it's free, with card draw, +2 def/+2hp/sentinel for instant 4/5 defense with no restricted spots taken.  Ridiculously good.  Next to that Squire of the Helm looks pathetic -- it's equally free, but takes a restricted spot to create a 3/5 defender.  Free is nice, especially early, but I want higher defense than that on a primary defender and Ancestral Armor fits the bill well there.  The Raiment of War gets me to 4/5, but two tactics resources isn't really cheaper than three leadership resources in a Dale deck, and it takes both restricted spots while providing one less defense.  What I like about Raiment is that it can also be used on other allies besides the Sentry; it powers up (expensively) warrior of Dale and is useful for double-duty types like Wiglaf or Knight of Dale.
+
+So in a Dale deck I'd like Ancestral Armor better than the Helm but am iffy about it replacing Raiment.  If there were an awesome ally weapon out, I might dispense with Raiment entirely in favor of the Armor, but there's not.  Nothing is displacing Hauberk, ever.
+
+In the larger world of hero defense, there aren't many non-tactics armor at all -- Ancestral Armor for Leadership/Noble, Hauberk for Dale/Warrior, and Dwarven Mail for dwarves.  Of those three Ancestral Armor gives the largest boost, can be used twice, and applies to the largest number of eligible characters.  So if you lack tactics and want hero defense, this is the biggest bang you can get for a single card -- but the cost is a problem, so value goes to the non-armor attachment Dunedain Warning.  But I like 3x Dunedain Warning already in such decks, throwing in an armor or two to buff a hero defender before the boss fight may be reasonable, especially since it's leadership.  There's a long list of non-tactics heroes that can defend for 4+ with one of these bad boys (asterisk for 5+ or defense related ability):
+
+Leadership: *Denethor, Aragorn, *Dain, *Amarthiul, Celeborn, Elfhelm, Imrahil, *Gimli, Boromir, *Erkenbrand, Balin, Faramir, Halbarad, Kahliel, Eomer, Brand, (*Thranduil)
+
+Lore: *Elrond, *Denethor, Faramir
+
+Spirit: Arwen, Cirdan, Eleanor, *Beregond, Theoden, Bard
+
+It's not going to be a staple and I wish it were cheaper.  But I don't think it'll be a coaster for me.  I love defense.
+
+Edit: In practice Elrohir should be added to the Leadership list because he always plays with Elladan, but that also means he has tactics access for other defensive options which the list above may not.  It'd still look awesome on him.
+
+Edited November 16, 2018 by dalestephenson
+
+## 11 [Halberto on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537660)
+
+> 18 minutes ago, dalestephenson said:
+> 
+> No argument about Hauberk of Mail -- I love that card, but on Redwater Sentry it's especially good value. As a first attachment in a Dale deck it's free, with card draw, +2 def/+2hp/sentinel for instant 4/5 defense with no restricted spots taken.  Ridiculously good. 
+
+Sorry but I'm not following. Why first attachment  is free in a dale decks? On the sentry it would cost 3 instead of 4 where hauberk and helm gets free and raiment of war comes down to 1. Free attachment with built in card draw is huge but ancestral armour is not doing that, or am I missing something I shouldn't?
+
+## 12 [dalestephenson on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537675)
+
+> 7 minutes ago, Halberto said:
+> 
+> Sorry but I'm not following. Why first attachment  is free in a dale decks? On the sentry it would cost 3 instead of 4 where hauberk and helm gets free and raiment of war comes down to 1. Free attachment with built in card draw is huge but ancestral armour is not doing that, or am I missing something I shouldn't?
+
+I was talking about adding Hauberk of Mail as the first attachment on a Redwater Sentry, in a Dale deck.  Hauberk is free (Redwater Sentry -1 discount), gives card draw (LeBrand), +2 defense (+1 from Hauberk, +1 from redwater sentry), gives sentinel (Redwater Sentry text), and +2 hp (Hauberk text).  Ridiculously good, and only one point of defense worse than putting a 3-cost (after discount) Ancestral Armor.
+
+I did misremember the Raiment of War cost, so you're paying 2 more for 1 point of extra defense and an open restricted spot.  Of the four potential armor attachments, Ancestral Armor is the only one you can put two on a Sentry, which would create a 7/7 defender for 6 cost and 2 cards.  Add a Hauberk and he becomes 8/9 for three cards and 6 cost -- that'll handle most bosses comfortably.
+
+## 13 [Halberto on November 16, 2018](https://community.fantasyflightgames.com/topic/286235-ancestral-armor/?do=findComment&comment=3537687)
+
+> 6 minutes ago, dalestephenson said:
+> 
+> I was talking about adding Hauberk of Mail as the first attachment on a Redwater Sentry, in a Dale deck.  Hauberk is free (Redwater Sentry -1 discount), gives card draw (LeBrand), +2 defense (+1 from Hauberk, +1 from redwater sentry), gives sentinel (Redwater Sentry text), and +2 hp (Hauberk text).  Ridiculously good, and only one point of defense worse than putting a 3-cost (after discount) Ancestral Armor.
+> 
+> I did misremember the Raiment of War cost, so you're paying 2 more for 1 point of extra defense and an open restricted spot.  Of the four potential armor attachments, Ancestral Armor is the only one you can put two on a Sentry, which would create a 7/7 defender for 6 cost and 2 cards.  Add a Hauberk and he becomes 8/9 for three cards and 6 cost -- that'll handle most bosses comfortably.
+
+Ok thanks. I misunderstood your point. Yes, I agree that hauberk is the best attachment of the bunch for redwater sentry. 
+

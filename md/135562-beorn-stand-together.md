@@ -286,3 +286,55 @@ That's an intuitive and logical assumption, but it doesn't consider that the car
 
 Edited March 7, 2015 by leptokurt
 
+## 26 [GrandSpleen on March 8, 2015](https://community.fantasyflightgames.com/topic/135562-beorn-stand-together/?do=findComment&comment=1480867)
+
+Yeah, we're certainly only talking about semantics here... but hey, former student of linguistics here, that's what gets me going!
+
+ 
+
+Your modified wording on Blade Mastery of course makes it clear that the card is still modifying the target character's stats.  Stand Together on the other hand doesn't create a single targeted effect: you can do 5 different attacks and exhaust multiple characters for each one of those attacks, if you have the ready characters to do so.  It seems more like it is altering the game state than it is altering a character.   
+
+ 
+
+The key to understanding it to me is still the simple phrase "immune cards ignore card effects."  If I assume characters are declared as defenders simultaneously (as they are for committing to a quest), Beorn simply refuses to participate in a defense where there are multiple defenders, since that alters a core rule of the game.  It's not that Beorn has been altered by the card (I don't think he has), it's that he ignores Stand Together's effect on the player, much as Watcher in the Water from The Ring Goes South ignores the player-targeted effect from Thicket of Spears.
+
+## 27 [leptokurt on March 8, 2015](https://community.fantasyflightgames.com/topic/135562-beorn-stand-together/?do=findComment&comment=1481393)
+
+> Yeah, we're certainly only talking about semantics here... but hey, former student of linguistics here, that's what gets me going!
+> 
+>  
+> 
+> Your modified wording on Blade Mastery of course makes it clear that the card is still modifying the target character's stats.  Stand Together on the other hand doesn't create a single targeted effect: you can do 5 different attacks and exhaust multiple characters for each one of those attacks, if you have the ready characters to do so.  It seems more like it is altering the game state than it is altering a character.   
+> 
+>  
+> 
+> The key to understanding it to me is still the simple phrase "immune cards ignore card effects."  If I assume characters are declared as defenders simultaneously (as they are for committing to a quest), Beorn simply refuses to participate in a defense where there are multiple defenders, since that alters a core rule of the game.  It's not that Beorn has been altered by the card (I don't think he has), it's that he ignores Stand Together's effect on the player, much as Watcher in the Water from The Ring Goes South ignores the player-targeted effect from Thicket of Spears.
+
+Well, I am a math teacher. so i am absolutely ruled by logic.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ok, you can stop laughing now...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I think the last paragraph pretty much nails it for me. RPwise Beorn's immunity is caused by his battle rage, so he is not listening to anything his fellowship wants him to do. That's why every card that requires Beorn's "co-operation" simply doesn#t work on him.
+

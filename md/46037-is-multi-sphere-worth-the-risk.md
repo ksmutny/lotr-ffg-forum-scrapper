@@ -1,0 +1,192 @@
+# [Is multi-sphere worth the risk?](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/)
+
+## 1 [nelsonbaggins on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461431)
+
+With a hero limit of 3, doesn't it seem beyond risky to go multi-sphere?  A two sphere deck would require you to have only one matching hero for one sphere and his loss would kill half of your deck as well.  I can't even imagine using 3 spheres; 4 is an impossibility.  Does anyone anticipate having much success with multi-sphere?  What would it require, an overabundance of allies?  Excessive healing?  How effective can a multi-sphere deck be if it is primarily defensive in order to protect your heroes? 
+
+BTW, when a hero dies, do you get to keep his remaining resources or must they be thrown out?
+
+## 2 [Mestrahd on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461437)
+
+I know that personally, when I build a dual-sphere deck, I'm either getting the Steward on the loner (in a Leadership deck) or just playing on-sphere cards with a cost of 1 or 2 max of cost 3. Luckily there are a bunch of good cards at 1 and 2 cost for most spheres.
+
+## 3 [Oshio on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461443)
+
+Sadly there is no way to currently make a legal deck without going multi-sphere. I think going forward (with a better card base) single sphere decks will be much more effective in a game with 2 or more players, but when you go solo multi-sphere decks will start to shine.
+
+Right now I think a multi-sphere deck pretty much needs Leadership to be one of the spheres in order for it to be effective. Steward of Gondor just increases your efficiency by leaps and bounds, and Theodred is a low threat way to add even more resources and splash Leadership into your deck. Snowbourn Scout is (if I'm not mistaken) the only non-unique 1 cost guy and makes an awesome chump blocker, comboing well with another awesome 1 cost Leadership card, Valiant Sacrifice. Finally, we all know the incredible Sneak Attack/Gandalf combo, which Leadership adds to the ring as well. Combine all of these things (not to mention Celebrian's Stone) and it's just silly NOT to have Leadership, even if it isn't your primary sphere.
+
+So, for now, I'd say the best way to go with any dual sphere deck is your primary sphere + Theodred and the 15 staple Leadership cards. (3x Snowbourn Scout/Valiant Sacrifice/Sneak Attack/Steward of Gondor, 2xFaramir/Celebrians Stone). Add 3 Gandalf to the mix and you've only got to fill in 32 cards from your primary sphere, which allows you to cut out some of the crappier ones.
+
+## 4 [Karui_Kage on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461458)
+
+ My friend and I each made a dual-sphere deck that seems to work rather well. I took Leadership/Spirit (Aragorn, Theodred, Eowyn) with Steward and Celebrain's Stone on Aragorn to handle resources, while my friend took Lore/Tactics (Beravor, that elf that heals... and Gimli) using the Horn of Gondor on Gimli early to help with Tactics resources.
+
+So far they seem to work very well :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] We got two core sets so the chances of us getting the key cards we need is much higher.
+
+## 5 [nelsonbaggins on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461477)
+
+CAlexander said:
+
+Sadly there is no way to currently make a legal deck without going multi-sphere. I think going forward (with a better card base) single sphere decks will be much more effective in a game with 2 or more players, but when you go solo multi-sphere decks will start to shine.
+
+Right now I think a multi-sphere deck pretty much needs Leadership to be one of the spheres in order for it to be effective. Steward of Gondor just increases your efficiency by leaps and bounds, and Theodred is a low threat way to add even more resources and splash Leadership into your deck. Snowbourn Scout is (if I'm not mistaken) the only non-unique 1 cost guy and makes an awesome chump blocker, comboing well with another awesome 1 cost Leadership card, Valiant Sacrifice. Finally, we all know the incredible Sneak Attack/Gandalf combo, which Leadership adds to the ring as well. Combine all of these things (not to mention Celebrian's Stone) and it's just silly NOT to have Leadership, even if it isn't your primary sphere.
+
+So, for now, I'd say the best way to go with any dual sphere deck is your primary sphere + Theodred and the 15 staple Leadership cards. (3x Snowbourn Scout/Valiant Sacrifice/Sneak Attack/Steward of Gondor, 2xFaramir/Celebrians Stone). Add 3 Gandalf to the mix and you've only got to fill in 32 cards from your primary sphere, which allows you to cut out some of the crappier ones.
+
+
+
+Great post!  Thanks.  Only now I'm sad because I'm starting to see the necessity of buying 2 or 3 core sets. sad.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/sad.gif]
+
+## 6 [Oshio on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461484)
+
+2? Yes. Most of the 2x cards you definitely need at 3x. 3? Matter of opinion. Honestly for me the 3rd set would be for Dwarven Tomb (so good, very necessary), Beorn, Unexpected Courage & Celebrian's Stone. All are great cards that could use 3 copies. But the set online is $27.00, so that would be almost $7.00/card and I'm not ready to start paying that for this game yet. So I printed out proxies for those. Eventually, if the game fleshes out like I think it will, I'll go ahead and get the third one.
+
+## 7 [Kitsune Rei on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461488)
+
+If you truly want to play well, you do need more copies of key cards than 1 core set has.
+
+My first deck was tri-color just to try it out (Leaderhip, Spirit, Tactics- it wasn't great just because it was my first deck and I later revised it to Leadership, Lore, Spirit), and it went much better than I expected- resources really weren't any more of an issue than with the preconstructed mono decks. Leadership really ramps up your resource gain so it is great to include, but not competely necessary- you almost get a little spoiled by it. I actually made a Lore-based bi-color deck with Leadership just because I like Lore a lot, but its just too slow and expensive on its own so Leadership helped it gain resources faster and add a couple other useful abilities and other cheap cards.
+
+## 8 [Dam the Man on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461502)
+
+Dam(n) FLGS waited a day before shipping my order, didn't get it for the weekend, only able to pick it up Monday llorando.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/llorando.gif] (or worse, Tuesday). Anyway, went ahead and ordered 2x Core Set, good thing at least since they are now listing its availability as "uncertain".
+
+Having just spend 4 hours yesterday blowing up and building decks for another card game, I started thinking about decks of LotR. With 2 CS, comes to 60 cards per Sphere. Won't amount to that in mono-Sphere as far as I understand (due to 3 per limit), so first thought was to make four 2+1 dual-Sphere decks, getting all 12 Heroes into use naturally. But then, being one to like round, easy numbers, thought, hmm, maybe go with four 1+1+1 tri-Sphere decks with 20+20+20 cards, again with all 12 Heroes spread around. Or are there too many chaff (crap) cards to pull that off?
+
+## 9 [Oshio on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461517)
+
+I would be very surprised if you could pull that off. I haven't built a tri-sphere deck as I think it would be extremely fragile, but if one were built it would almost certainly require 3x Stewart of Gondor, Aragorn and Celebrian's Stone to allow for some cross-sphere purchasing.
+
+## 10 [Casamyr on April 30, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=461530)
+
+Actually, It is possible to build a 4 sphere deck-
+
+one hero from leadership/lore/tactics. One of your heroes will need to be Aragorn and give him Celebrian's Stone and viola access to all four spheres. I'm not sure that this would actually be a viable deck as it could take some time to build up resources effectively to get cards out.
+
+Granted for me this is just pure speculation as my core set has still to arrive in New Zealand. It might be something I play with though to see how it would work.
+
+## 11 [faith_star83 on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462304)
+
+Well, if you have one core set, you have one Celebrian Stone. That's 1 in 50 cards...good luck playing spirit cards gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+## 12 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462308)
+
+I think two sphere is the way to go. I built a leadership/tactics deck last night and am now putting my leadership/lore deck into sleeves. Maybe in a 4 player game I would play mono sphere but even that I am not sure about.
+
+## 13 [Dam the Man on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462339)
+
+Any thoughts on what I might look at in terms of Hero distribution for making 4 2+1 decks with all 12 Heroes represented, meaning no Hero is in two decks (from 2 CS)?
+
+## 14 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462349)
+
+I had good success with Aragorn, Theodred, and Thalin.
+
+## 15 [DerBarchen on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462377)
+
+I found with the right resource management (precentages are your friend!) a doubble and even tri-sphere deck can be Insanely powerfull. I ran a Legolas, Denethor, Eowyn deck that absolutely owned the 2nd scenario.
+
+for bi-sphere decks I would use either Aragorn, Theodred, Eowyn or Denethor, Beravor, Eowyn.
+
+## 16 [Dam the Man on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462433)
+
+Well, I sorta meant how to get 4 balanced decks that can ideally hold their own in a solo while not going into OP range when teamed up with another deck. If I were to make the two from the last two posts: "Aragorn/Theodred/Thalin and Denethor/Beravor/Eowyn", how would you distribute the remaining 6 Heroes into the other two decks? Would need to then combo Gimli+Lego with either Gloin or Glorfindel and Eleanor+Dunhere with the other one. TBH, the Three Hunters setup is appealing from a thematic POV, but 4 balanced decks is more important at this point.
+
+My second Core Set was missing 1x Lore of Imladris, guess it was a good thing I grabbed two CS, now I can work with the starter decks from CS#1 for a while (Thaadd's reply mentioned might be a week or so before she can ship out the replacement).
+
+## 17 [scottindeed on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462447)
+
+I've had a lot of success with Leadership/Spirit  - Aragorn/Theodrid/Dunhere, though I realised that I didn't actually use the Theodred/Aragorn combo that much, so thinking of replacing Theodred with Gloin for the extra point of Willpower.
+
+This deck is great on Journey Down The Anduin.  The excellent Spirit allies which put resource tokens on active or staging area locations, coupled with Dunhere sniping at enemies really helps keep things under control.  The only sticking point is the Hill Troll who can be a little tricky without a good starting hand.
+
+I've been mainly playing this deck and the plain Lore deck at the moment.  I will probably pick up an extra core set soon to further bolster the cards.
+
+## 18 [jhaelen on May 2, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462480)
+
+faith_star83 said:
+
+Well, if you have one core set, you have one Celebrian Stone. That's 1 in 50 cards...good luck playing spirit cards gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+
+
+Well, to be fair, the chance is a bit better:
+
+Your starting hand is six cards and you can mulligan once. Without having tried to calculate it, I'd say that's about a 10% chance. Compared to the chance to win scenario 3 solo that's an excellent probability gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+## 19 [Apophenia on May 3, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462832)
+
+jhaelen said:
+
+faith_star83 said:
+
+ 
+
+Well, if you have one core set, you have one Celebrian Stone. That's 1 in 50 cards...good luck playing spirit cards gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+ 
+
+Well, to be fair, the chance is a bit better:
+
+ 
+
+Your starting hand is six cards and you can mulligan once. Without having tried to calculate it, I'd say that's about a 10% chance. Compared to the chance to win scenario 3 solo that's an excellent probability gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+
+
+It is actually much higher then that. The change of getting your Celebrian's Stone on the first turn using a mulligan is 24.32%.
+
+The chance of getting it in any particular 6 card hand is 12% and the change of getting it after your first draw is 14%. That makes the chance of either starting with it or getting it in your mulligan hand is 12%+(88%*14%) which is 24.32%. If you have 2 Celebrian's Stones this improves to 43% and if you have 3 Celebrian's Stones it raises to 57%.
+
+## 20 [jhaelen on May 3, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=462992)
+
+Apophenia said:
+
+It is actually much higher then that. The change of getting your Celebrian's Stone on the first turn using a mulligan is 24.32%.
+
+The chance of getting it in any particular 6 card hand is 12% and the change of getting it after your first draw is 14%. That makes the chance of either starting with it or getting it in your mulligan hand is 12%+(88%*14%) which is 24.32%. If you have 2 Celebrian's Stones this improves to 43% and if you have 3 Celebrian's Stones it raises to 57%.
+
+
+
+You're right, it is much higher. I actually wanted to say 20% but apparently had a brainfart gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+I wouldn't have estimated the chance increased so much if you added another stone (or two), though.
+
+It's also interesting to see the effect of using a 30-card deck:
+
+The chance then increases to 38.67% if you have one copy of the stone, 63.1% for two stones and 78.25% for three stones. Not too shabby.
+
+## 21 [nelsonbaggins on May 3, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=463078)
+
+Just finished my 2nd solo game.  Combined Spirit and Lore this time and practically walked through A Passage Through Mirkwood unscathed.  I was able to score massive Willpower points with Eowyn and other cards and only fought two battles.  I got lucky and Ungoliant's Spawn was used during a battle for Shadow effect, so the 3rd Quest was easy.  So I've played twice now and the difficulty has swung wildly from impossible to impossibly easy.  I'm trying to decide if I like it or not, but I seemed to do ok with using two spheres this time.  Although, pulling one Spirit resource per turn makes me realize allies should be from the sphere with two heroes for sure.  I can't wait for neutral allies!  I think the game is too wishy-washy if not darn near broken out of the box, but once some Adventure packs start coming out I'm sure the game will start to balance out.
+
+p.s. I haven't even tried multi-player yet, my experience is based on solo only thus far. 
+
+## 22 [jhaelen on May 4, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=463223)
+
+nelsonbaggins said:
+
+I can't wait for neutral allies!
+
+sad.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/sad.gif]
+
+I really hope they'll keep the number of neutral cards low. Otherwise we'll soon end up with all decks looking the same. It's a lesson they hopefully learned from their other LCGs. I'd much rather see more ways to use cards from other spheres, similar to Celebrian's stone.
+
+## 23 [ClydeCloggie on May 4, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=463289)
+
+nelsonbaggins said:
+
+Just finished my 2nd solo game.  Combined Spirit and Lore this time and practically walked through A Passage Through Mirkwood unscathed.  I was able to score massive Willpower points with Eowyn and other cards and only fought two battles.  I got lucky and Ungoliant's Spawn was used during a battle for Shadow effect, so the 3rd Quest was easy.  So I've played twice now and the difficulty has swung wildly from impossible to impossibly easy.  I'm trying to decide if I like it or not, but I seemed to do ok with using two spheres this time.  Although, pulling one Spirit resource per turn makes me realize allies should be from the sphere with two heroes for sure.  I can't wait for neutral allies!  I think the game is too wishy-washy if not darn near broken out of the box, but once some Adventure packs start coming out I'm sure the game will start to balance out.
+
+p.s. I haven't even tried multi-player yet, my experience is based on solo only thus far. 
+
+
+
+Worrying statement, that. Unless you mean you were sent down Beorn's Path for Quest 3b and could be sure you wouldn't walk into US since it was already in the discard pile? 
+
+If you took the other 3B, the fact that US was previously used as a Shadow effect is irrelevant, and you should have killed her before claiming victory.
+
+## 24 [Titan on May 5, 2011](https://community.fantasyflightgames.com/topic/46037-is-multi-sphere-worth-the-risk/?do=findComment&comment=464211)
+
+My early experiences with multi-sphere (as in 3) have been very positive. I managed to finally defeat the Journey along the Anduin quest today on my 12th try. The heroes were Theodred, Beravor and Eowyn and the final score was 19. My biggest concern with this deck, was having cards in my hand that I could not pay for, because the right hero wouldn't have enough counters. However, with good resource drawing and management, that wasn't a problem. Almost all of the cards I used were 3 or less cost(Gandalf and maybe Stand and Fight being the only exceptions), that was also a big help. I'm probably going to try a version with tactics instead of lore, but I'm concerned about how well it will draw.
+

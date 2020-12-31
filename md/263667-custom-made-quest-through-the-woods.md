@@ -1,0 +1,16 @@
+# [Custom Made Quest: Through the Woods](https://community.fantasyflightgames.com/topic/263667-custom-made-quest-through-the-woods/)
+
+## 1 [Flrbb on November 21, 2017](https://community.fantasyflightgames.com/topic/263667-custom-made-quest-through-the-woods/?do=findComment&comment=3089830)
+
+A friend of mine complained that there are not enough quests around and that FFG should release quest packs with new quests from existing encounter cards - by just creating new main quest cards. I told him that is an easy thing, and also had a simple idea for such a mission. It does not have a very brilliant concept and is short, too. But maybe you want to try it yourself. It has only 4 new cards - just a single sheet to print.
+
+There is an upload at Boardgamegeek:
+
+https://boardgamegeek.com/filepage/155875/custom-made-quest-through-woods [https://boardgamegeek.com/filepage/155875/custom-made-quest-through-woods]
+
+Right after the release of the core set there were some custom made quests in similar style (just new quest cards), but those were limited to the encounter sets from the core set. This mission uses the core set, Khazad-Dun and Heirs of Numenor. Because even HoN is quite old now, the enemies are kind of weak. Should be a walk in the park! ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Have fun.
+
+Edited November 21, 2017 by Flrbb
+

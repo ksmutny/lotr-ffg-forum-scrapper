@@ -1,0 +1,41 @@
+# [Keen Eye Took](https://community.fantasyflightgames.com/topic/60073-keen-eye-took/)
+
+## 1 [brightknight_216 on February 6, 2012](https://community.fantasyflightgames.com/topic/60073-keen-eye-took/?do=findComment&comment=590316)
+
+Dear all,
+
+I have some questions on certain cards that I am not familiar.  Hope you guys can help me.
+
+
+Keen-Eyed Took
+
+I want to ask how Keen-Eyed Took's "response" ability can be useful other than using it with Zigil Miner from the Khazad-zum expansion.
+
+In addition, I don't understand how to use Keen-eyed Took's Action ability which states "Action: Return Keen-eyed Took to your hand to discard the top card of each player's deck.".  Why do we want to discard the top card of the player's deck and at the same time return Keen-Eyed Took to our hands?  For the latter, I can only think of situation where it can be useful when it combines with "Horn of Gondor" to gain more resources and also with Prince of Imrahil to ready it from exhausted position.  Nevertheless, if it is only to get resource, putting Keen-Eyed Took into play later again with cost of 2 does not seem to be efficient.  Can anyone shed some light how this  card can be used?
+
+Northern Tracker, Riddermark's Finest and Progress Tokens
+When we play Northern Tracker and exhaust and discard Riddermark's Finest we can place progress tokens on locations at the staging area.  What happen to the location in the staging area if it has meet the number of progress token needed by the card. 
+
+For example, I play Northern tracker during Planning phase and put one progress token on each location in the staging area.  Then exhaust and discard Riddermark's Finest to put two additional progress token on Endless Cavern.  Endless cavern has a Progress token requirement of 3.  Do I...
+- immediately discard it from play?
+
+- discard it at the end of my planning phase?
+
+- discard it at the end of my turn?
+
+- discard it at some other phases other than planning phase?
+
+Which one?
+
+## 2 [plueschi2 on February 6, 2012](https://community.fantasyflightgames.com/topic/60073-keen-eye-took/?do=findComment&comment=590333)
+
+ You already give many good situations where the Keen Eyed Took can be used, but I think there is just one thing that you are missing, which might turn your opinion (or not ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Discarding a card from the top of your deck -especially when knowing which one it is- is no detriment, it is a boon! If you are in need for a certain card and it is not on the top of your deck, just use the tooks ability and you are one card closer to the one you really want. And you can also use cards in your discard pile, with Stand and Fight for example (not that many more options atm, I admit...).
+
+ 
+
+Concerning the Northern Tracker et al.
+
+You don't place those progress tokens during the planning phase, but upon committing the tracker to the quest (so in phase 3). And once a location has enough progress it is immediately discarded.
+

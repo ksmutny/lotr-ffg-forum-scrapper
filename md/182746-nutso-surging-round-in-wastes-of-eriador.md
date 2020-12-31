@@ -1,0 +1,115 @@
+# [Nutso surging round in Wastes of Eriador](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/)
+
+## 1 [GrandSpleen on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696004)
+
+Let's see if I can recall the crazy round we just had when playing 2-player The Wastes of Eriador...
+
+ 
+
+I don't remember the order that cards came out exactly, but we saw:
+
+ 
+
+Card 1:Predatory Wolves [http://hallofbeorn.com/Cards/Details/Predatory-Wolves-TWoE] (either discard your highest cost ally, or fetch and reveal a Warg, add to staging).  We chose to both get a Warg, as the staging area was very tame at this point
+
+Card 1a: White Warg [http://hallofbeorn.com/Cards/Details/White-Warg-TWoE](fetched and revealed via Predatory Wolves, damages when you engage him)
+
+Card 1b: Northern Warg [http://hallofbeorn.com/Cards/Details/Northern-Warg-TWoE] (fetched and revealed via Predatory Wolves, +1 threat to all wargs)
+
+Card 2: Pressing Needs [http://hallofbeorn.com/Cards/Details/Pressing-Needs-TLR] (fetch a side quest and reveal)
+
+Card 2a: Make Camp [http://hallofbeorn.com/Cards/Details/Make-Camp-TLR](sidequest fetched and revealed via Pressing Needs, has Surge on it)
+
+Card 2b: Weight of Responsibility [http://hallofbeorn.com/Cards/Details/Weight-of-Responsibility-TLR] (reveal another card for each quest card in play, 2 at this point)
+
+Card 2c: Wolf of Angmar [http://hallofbeorn.com/Cards/Details/Wolf-of-Angmar-TWoE] (surges)
+
+Card 2d: another Weight of Responsibility (reveal 2 more cards)
+
+Card 2e: Hunting Pack [http://hallofbeorn.com/Cards/Details/Hunting-Pack-TWoE] (gets an engagement cost discount)
+
+Card 2f: Shrouded Hills [http://hallofbeorn.com/Cards/Details/Shrouded-Hills-TLR] (X threat, where X is number of quest cards in play)
+
+Card 2g: Eriador Wastes [http://hallofbeorn.com/Cards/Details/Eriador-Wastes-TWoE] (limit 5 progress placed on quest each round)
+
+Card 2h: North Downs [http://hallofbeorn.com/Cards/Details/North-Downs-TWoE](+2 threat if it's Night, and it is, so this is 3 threat)
+
+ 
+
+I think that's right... maybe a mistake somewhere.  We went from 2 cards in the staging area to 14, with more than 20 threat in the staging area.  The Northern Warg, who I thought would be pretty innocuous, ended up adding 5 threat.  We were going to need to raise threat by 8, but 2 Elrond's Counsels plus 4 damage on Treebeard lowered that to 2.  Still we handled this just fine (none of the cards are really that bad), but we lost the quest a round or two later when I hit 50 threat.
+
+ 
+
+Just nuts!  This level of surge potential is crazy.
+
+ 
+
+## 2 [Fingolfin Fate on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696037)
+
+I do not like the surge madness. There has been a good thread about it. I would say two or three per quest is fine but more than that and you get absurd combos. Another example why coop has become much more difficult. I think novice players might get discouraged easily, unless they really enjoy losing.
+
+ 
+
+In general, I just feel there are better ways to increase difficulty than surge.
+
+## 3 [Noccus on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696042)
+
+Man that just goes to show that surge is over used these days.
+
+It's ok to have it on a card or 2 outside of NM mode, but this is just getting silly.
+
+Easy on the number of surge cards FFG.
+
+You can surge all you want in NM imo.
+
+## 4 [Chris51261 on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696249)
+
+Weight of responsibility is such a brutal card in this quest. You can only make progress every other round, so you're more than likely gonna let side quests sit, and there's a very good chance you've got at least two thanks to Pressing Needs! I had quite a few games in a row where I thought "Okay, I've got this" and then I'm revealing 3 or 4 cards, plus the one at the end of the round when it changes to night... Blah. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 5 [Ecthelion III on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696306)
+
+> Weight of responsibility is such a brutal card in this quest. You can only make progress every other round, so you're more than likely gonna let side quests sit, and there's a very good chance you've got at least two thanks to Pressing Needs! I had quite a few games in a row where I thought "Okay, I've got this" and then I'm revealing 3 or 4 cards, plus the one at the end of the round when it changes to night... Blah. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Yeah, just because of Weight of Responsibility, I think there should be an event that reads:
+
+"Response: After a card is revealed from the encounter deck, choose a player side quest in play (other than the current quest) and put it on top of its owner's deck."
+
+## 6 [John Constantine on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696313)
+
+Surge keyword is one of the worst and most boring game design decisions of this game, in my opinion.
+
+## 7 [Bullgator on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696353)
+
+Time for a more imaginative way to bump up the difficulty.  Surge is so 2014
+
+## 8 [awp832 on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696379)
+
+while I generally agree that toning down the surge factor would be good for the game,  I think in the wastes it is done in the best possible way.   Wastes is a swarm quest, pure and simple.  The enemies individually are not that tough, but you can end up having to deal with a lot of them at once.  Sort of like Goblins in many of the Khazad-Dum quests.   You're getting attacked by a huge pack of wargs.  I get it,  and I think it's pretty cool.
+
+Beyond that,  there are numberous player choices involved in the given example, and multiple ways the chain could theoretically have been ended.   I'm not saying that necessarily in the game as it was played out that all of these were options -I don't know the details of the game- but at least that the options exist with the card pool.
+
+Predatory Wolves:  Obviously you can each just choose to sacrifice an ally.  This card doesnt actually have surge,  it just fetches more cards if you dont want your allies mauled.   Might be better to let them feast on the bodies of your fallen sometimes.
+Pressing Needs:   Possible to reveal a side quest that doesn't have surge,  such as Lost in the Wilderness.
+Make Camp:   a bit annoying, but adds no threat to the staging area.   I feel this card needs to have surge so it does not feel like a reprieve for the players.
+Weight of Responsibility:  Generally this card can be tamed by simply not letting side quests get out of control.  This is less a surge card and more akin to Massing in the Night.  This card can be cancelled via treachery cancellation.
+Wolf of Angmar:   The one real enemy in this quest with surge.  Again,  swarmed by a pack of wolves.   Don't think it's an issue.
+
+is it crazy that the OP happened to draw all of these at once?  Yes.   But thats the way the game goes sometimes.  And yes,  location lock is a real danger in this quest.   The difficulty of Wastes of Eriador is not combat,  it's questing.  Its nice to have a few quests where the solution to your problems is not just to be able to beat things down.   Tactics cant have all the glory all the time.
+ 
+
+Edited July 18, 2015 by awp832
+
+## 9 [GrandSpleen on July 18, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696420)
+
+It was a little bit my fault for letting it get as far as it did.  We made the tactical choice to pull wolves out of the deck from Predatory Wolves because I didn't think the round would get so crazy, and then bam, card after card came out.  As for the rest, it was out of my control.  We had A Test of Will but it was night, so no cancellation was possible.  Lost in the Wilderness was already in the victory display, so Pressing Needs had to pull out Make Camp, setting up the 2 crazy Weight of Responsibilities after that.  Whew!
+
+Edited July 19, 2015 by GrandSpleen
+
+## 10 [Chris51261 on July 19, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696629)
+
+Yeah, I don't think surge is Wastes biggest threat. I can only think of like two cards that even have it? The biggest issue I ran into was how questing worked, as a lot of people have mentioned. Between the treachery that removes all damaged characters from the quest, the treachery that switches or adds side quests, and all the hate that comes from having multiple side quests ON TOP OF only questing 1/2 turns (provided you don't get Sudden Darkness...). Questing was a mess in this one. It always felt like I had to commit way more characters than I wanted to (which played into yet another treachery) and was left defending a bunch of wargs and never killing them. I liked this quest though, it didn't kill you turn one most of the time, it was the fun kind of difficult.
+
+## 11 [Gizlivadi on July 19, 2015](https://community.fantasyflightgames.com/topic/182746-nutso-surging-round-in-wastes-of-eriador/?do=findComment&comment=1696779)
+
+I personally understand why surge exists, as a way to compete with the fact that players play more than 1 card each round, but many times the encounter cards are just more powerful than player cards (enemies get all actions, for example) so surge can be overpowered. I often get 2 Blocking Wargs in Into Ithilien and it's very frustrating, not only because of double surge but that card doesn't need surge in my opinion, it's powerful enough..Anyway, that's why I would propose an escalating surge limit according to the number of players.
+

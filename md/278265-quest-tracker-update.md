@@ -1,0 +1,16 @@
+# [Quest Tracker Update?](https://community.fantasyflightgames.com/topic/278265-quest-tracker-update/)
+
+## 1 [EmperorKing on June 25, 2018](https://community.fantasyflightgames.com/topic/278265-quest-tracker-update/?do=findComment&comment=3384051)
+
+Has anyone heard any news about the official quest tracker site getting updated?  Although I haven't gotten to the later quests that are missing, it's frustrating to not be able to accurately document my progress since I play with a newer hero that isn't available in the tracker. It's a nice little tool that I hope hasn't been forgotten.
+
+## 2 [Wandalf the Gizzard on June 25, 2018](https://community.fantasyflightgames.com/topic/278265-quest-tracker-update/?do=findComment&comment=3384533)
+
+It hasn't been updated in a very long time. I wouldn't expect any updates soon.
+
+## 3 [Rouxxor on June 25, 2018](https://community.fantasyflightgames.com/topic/278265-quest-tracker-update/?do=findComment&comment=3384866)
+
+It has his own section full of despaired comments: https://community.fantasyflightgames.com/forum/324-quest-log-feedback-support-forum/ [https://community.fantasyflightgames.com/forum/324-quest-log-feedback-support-forum/]
+
+Be strong ?
+

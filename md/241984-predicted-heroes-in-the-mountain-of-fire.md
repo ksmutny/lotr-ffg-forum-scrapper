@@ -1,0 +1,166 @@
+# [Predicted Heroes in &quot;The Mountain of Fire&quot;?](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/)
+
+## 1 [AstroSnail on February 6, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628214)
+
+If the announcement schedule of the last couple of years is any indication, then we should see the announcement article for the sixth saga box, "The Mountain of Fire" in the middle or end of April. Anyone else want to predict which heroes we'll see in that box?
+
+I suspect that we'll see a Leadership and a Tactics hero, along with a new Fellowship Ringbearer and Fellowship Aragorn. A Leadership and Tactics hero would round out the distribution of heroes among the four main spheres (so far in the saga boxes, we've gotten 2 Leadership heroes, 2 Tactics heroes, 3 Spirit heroes, and 3 Lore heroes). We've also gotten 1 Neutral hero, 3 copies of Fellowship Frodo, and 2 copies of Fellowship Aragorn.
+
+My guess right now is that we'll see:
+
+ * Leadership Frodo
+ * Tactics Gwaihir
+ * Fellowship Sam (Ringbearer)
+ * Fellowship Aragorn (maybe w/ Gondor trait?)
+
+Anyone else want to speculate?
+
+## 2 [Network57 on February 6, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628298)
+
+Spirit Eomer
+
+## 3 [Gizlivadi on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628354)
+
+> 3 hours ago, Network57 said:
+> 
+> Spirit Eomer
+
+That's the perfect hero for an AP.
+
+ 
+
+As for the last saga, Fellowship Sam is pretty much the only I would place a big bet on.
+
+## 4 [Calvadur on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628359)
+
+Fellowship Sam is a must in my opinion. He (briefly) was a ringbearer and that should be retained as a Card.
+
+I agree with Fellowship Aragorn, too as there would be Need for him and a Fellowship-ringbearer the way I imagine the quests.
+
+Leadership Frodo also would be a good bet in my book, if not for one Problem (see below). It fits the final parts of the Story and his other "real" hero Version is very old (and he's quite an impotant character). To stay in line with the established Hobbit mechanics (which either use threat as a ressource like Spirit pippin, faty or frodo or benefit you for staying under 20) I'd say he would cause some Kind of buff (maybe depending on the amount of other Hobbit heroes) while you are under 20 or will help you stay there.
+
+Only Problem: You probably aren't allowed to run Frodo outside of his ringbearer form (if at all) and I doubt FFG would put a hero in a box you can't use it in, so I will go with Leadership EOMER, as he becomes the new leader of Rohan.
+
+For the last hero I am really clueless. I doubt an eagle will ever be a hero and out of pure despair I go with tactics Pippin :wacko: [//content.invisioncic.com/Mfantflight/emoticons/default_wacko.png]. He was at the black gate so having him as a fighter is imaginable...
+
+## 5 [Authraw on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628402)
+
+If I were designing this saga, I'd have a burden that allows any hero to become a ring bearer, not just Sam.
+
+Eomer is the only character who seems conspicuously absent from the sagas so far, but I'm not sure that he'll be a hero in this box. Honestly I wouldn't be surprised if the heroes were none other than Frodo, Sam, and Aragorn, in some combination of colors.
+
+ 
+
+ 
+
+## 6 [JusticeLizard on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628448)
+
+I started my saga playthrou from the Black Riders release with a Sam deck.  If I have to change for the last box I am gonna feel personally slighted.  My view is that until the ring is destroyed book six of the Lord of the Rings only had two charecters.(not counting orcs and Gollum)  That is Sam and Frodo, and Frodo spends the whole time pretty much out of it.  Seeing how they both only have one normal hero version, I think it would be cool if they were the two heroes of this box.  As nice as that would be though, I can't imagine not having a fellowship hero.  I think Authraw has the right idea though.  Have a quest effect like during the breaking of the fellowship, when you temporarily lost Frodo.  Make it so one of your heroes has to hold the ring at great peril til you can rescue him.  I realize that my hopes for Sam are a long shot, but a guy can dream.
+
+Edited February 7, 2017 by JusticeLizard
+Grammer
+
+## 7 [987654321 on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628827)
+
+Or we can get the scouring of the Shire with hobbits!
+
+## 8 [JsBingley on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2628885)
+
+I hope Sam be the fellowship hero
+
+## 9 [Crabble on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629014)
+
+My guess would be a spirit-Aragorn since it's the only missing sphere for him and probably fellowship-Sam together with a new Frodo (maybe leadership?!).
+
+## 10 [Lecitadin on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629037)
+
+Yep, Spirit Aragorn also fits thematically, since he will now be king.
+
+## 11 [dalestephenson on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629287)
+
+> 15 hours ago, JusticeLizard said:
+> 
+> I started my saga playthrou from the Black Riders release with a Sam deck.  If I have to change for the last box I am gonna feel personally slighted.
+
+I started with LeAragorn, so they already made me change.  But you're on safe ground, if Sam is a fellowship hero (I hope he is!), you will certainly be able to use a previous Frodo with your deck.  Black Riders, Road Darkens, and Land of Shadow rules don't specify Frodo, but only using a hero with the Ring-bearer trait, and I can't imagine them changing those rules for the final box.  (Sadly, the other two boxes specify using the supplied Aragorn.)
+
+## 12 [Willange on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629366)
+
+I think there will be fellowship aragorn and frodo, possibly also Sam.  I would love to see an eagle hero just to do more with eagle decks again but I think it's less likely.  I think spirit aragorn is likely as well as some new version of eomer or frodo.  
+
+## 13 [Crusaderlord on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629462)
+
+Once this box is announced I suppose we are almost out of anything new coming through. The Harad cycle is almost all announced now too so maybe that's it sadly. We have been over spoilt having both saga and cycles to read and get excited by.
+
+## 14 [Kakita Shiro on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629616)
+
+Seconding Spirit Aragorn. Probably a Leadership Eomer, and hopefully a Fellowship Sam but frankly, I'd take a Burden that makes anyone the Ring-bearer.
+
+## 15 [Bunston on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629789)
+
+I think an objective ally Sam is more likely than Ringbearer Sam. Aragorn and Eomer sound like good choices, but I'm still hoping for Gwaihir. If The Scouring of the Shire makes it in, then I think Tactics Pippin could also be a possibility.
+
+ 
+
+If Spirit Aragorn makes it in, I hope his ability relates to Rohan and Gondor, a real Men of the West hero.
+
+## 16 [Calyx on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2629930)
+
+I'm hoping for a scouring of the shire box after this, with leadership Merry, tactics Pippin, and Lore Sam. 
+
+Hopefully the heroes here are some combination of Aragorn/Sam/Frodo/Eomer.
+
+## 17 [Teamjimby on February 7, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2630006)
+
+I have a strong feeling that Scouring of the Shire will be a Gen Con or Fellowship event quest this year.
+
+## 18 [JanB on February 8, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2630722)
+
+> 14 hours ago, Teamjimby said:
+> 
+> I have a strong feeling that Scouring of the Shire will be a Gen Con or Fellowship event quest this year.
+
+Sad, that we germans could not play the Fellowship 2016 yet ... very sad.
+
+## 19 [Enigma44 on February 11, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2635952)
+
+Spirit Aragorn is almost too perfect not to include. As for Fellowship Sam, that has been my hope since I first cracked open the Black Riders. Unfortunately I really just can't see it happening. Frodo really is the true ring bearer (even if Sam did carry it a little while), so Authraw seems to hit the nail on the head with the Burden or Treachery card idea. If they do include a ring bearer form of Sam, you KNOW I'm going to go through the entire Saga with him as the lead character (I always did prefer him to Frodo).
+
+Edited February 11, 2017 by Enigma44
+
+## 20 [dr00 on February 12, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2636923)
+
+> On 09/02/2017 at 1:58 AM, JanB said:
+> 
+> Sad, that we germans could not play the Fellowship 2016 yet ... very sad.
+
+at least you get to play it though!
+also one coming soon in Berlin https://www.facebook.com/events/695826430619052/ [https://www.facebook.com/events/695826430619052/]
+
+in NZ, i requested that my FLGS order the kit, and three months later the distributor told us no 'because no one plays the game in NZ', completely ignoring the fact that they were well beyond the order period anyway
+
+## 21 [Nickpes on February 12, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2637015)
+
+Fellowship Sam is a must here. Apart from this I would bet for a spirit version of either Eomer or Aragorn
+
+Hope we will have Elrohir and Elladan allies 
+
+## 22 [Authraw on February 12, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2637105)
+
+> 1 hour ago, Nickpes said:
+> 
+> Hope we will have Elrohir and Elladan allies 
+
+Oh man me too. I would love that so much.
+
+## 23 [JanB on February 13, 2017](https://community.fantasyflightgames.com/topic/241984-predicted-heroes-in-the-mountain-of-fire/?do=findComment&comment=2637679)
+
+> 13 hours ago, dr00 said:
+> 
+> at least you get to play it though!
+> also one coming soon in Berlin https://www.facebook.com/events/695826430619052/ [https://www.facebook.com/events/695826430619052/]
+> 
+> in NZ, i requested that my FLGS order the kit, and three months later the distributor told us no 'because no one plays the game in NZ', completely ignoring the fact that they were well beyond the order period anyway
+
+It is only one Event. It is with english kits. It too far away..... sad.
+

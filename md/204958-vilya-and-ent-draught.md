@@ -300,3 +300,149 @@ But on the other hand on pg 25 under Paying Costs, it says "Many cards are writt
 
  
 
+## 26 [Slothgodfather on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094761)
+
+perfect.  thanks!
+
+## 27 [Teamjimby on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094773)
+
+I got a similar response from Caleb, although I also asked about events like Strength of Arms and Ranger Summons if you don't meet the requirements.  Since Vilya counts as playing those events (you aren't putting them into play), you still need to meet the requirements.  It only lets you cheat into play attachments and allies (if there are any) because you are putting them into play.
+
+## 28 [cmabr002 on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094875)
+
+They need to release a Vilya rule book.  It would probably be bigger than the FAQ :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 29 [cmabr002 on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094919)
+
+> 4. Does Vilya ignore requirements to be able to play a card like Ent Draught (since you can "put into play" the card instead of "playing" it)?
+> 
+>  
+> > 4. Yes. The play restriction on Ent Draught is irrelevant because you are putting it into play, not playing it.
+> 
+>  
+> 
+>  
+> 
+>  
+
+ 
+
+Okay, so that means if you Vilya Forest Snare you are 100% allowed to attach it to Bert (and any of the other Trolls while Bert is in play).
+
+Edited March 10, 2016 by cmabr002
+
+## 30 [cmabr002 on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094931)
+
+> It only lets you cheat into play attachments and allies (if there are any) because you are putting them into play.
+
+ 
+
+Does this mean that you can never Vilya Ranger Spikes or are you still allowed to "play it at no cost" or must you "put it into play at no cost".  If the latter, Ranger Spikes would be "put into play" but where would you put it?  It can only go into the staging area if you "play" it right?  Regardless, wherever it is in play, it would attach to the next eligible enemy to enter the staging area.
+
+ 
+
+I hesitate to say that you are allowed to "play" allies/attachments with Vilya because then you can trigger effects on allies that happen only when you "play" them, such as Erebor Hammersmith.
+
+Edited March 10, 2016 by cmabr002
+
+## 31 [Teamjimby on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2094960)
+
+Ranger Spikes is an interesting question.  The rulebook says "when [attachments are] played, they are always attached to another card..."  This makes me think that attachments which are put into play could be unattached (although except for traps, you would never want to do that). 
+
+ 
+
+Does it matter whether or not you use Vilya during the planning phase?  Because then you could play the Ranger Spikes instead of putting it into play.
+
+ 
+
+Either way, I would just play it like normal, but it's a fun rules exercise.
+
+## 32 [Slothgodfather on March 10, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095025)
+
+I would say - if it is a character or attachment - you are only considered to "play" it if you Vilya it in during the planning phase.  But otherwise you are putting it into play to get around the play restriction of not playing attachments outside of the planning phase.
+
+## 33 [PsychoRocka on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095408)
+
+Wow so I was actually right and it eliminates ALL COSTS including "additional" ones on top of resource cost. 
+
+See I knew the card text indicated that was the case.
+
+ 
+
+> I got a similar response from Caleb, although I also asked about events like Strength of Arms and Ranger Summons if you don't meet the requirements.  Since Vilya counts as playing those events (you aren't putting them into play), you still need to meet the requirements.  It only lets you cheat into play attachments and allies (if there are any) because you are putting them into play.
+
+This makes perfect sense to me because Strength of Arms requires you to have all leadership heroes to play the card and does not mention cost in any way. Because something like Thicket of Spears specifically refers to the fact you have to pay the cost with all tactics resources Vilya gets around it but whether you are playing Strength of Arms for free or for 2 resources you still need each of your heroes to have a printed leadership icon to even use the card to begin with. 
+It isn't that it only lets you cheat attachments and allies, if you look at Seastans post you can even play cards like Thicket of Spears and Skyward Volley with Vilya, but rather only removes all cost from a card. If there are additional stipulations (like on Strength of Arms where each hero needs to have a printed leadership icon) THEN Vilya can't work around them but it definitely can cheat into play events as well...
+
+## 34 [PsychoRocka on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095412)
+
+You can most definitely Vilya Ranger spikes...... not sure why this is even a question... 
+Also I don't see why "when you play" effects on allies wouldn't trigger, you are still playing the card just at 0 cost..?
+Someone like Rumil for sure would not trigger from Vilya: "after you play rumil from your hand" but I really don't see why "after you play" or "after X enters play" effects would not trigger with Vilya when Vilya very specifically states you may play OR put into play the card you reveal.
+
+Edited March 11, 2016 by PsychoRocka
+
+## 35 [Teamjimby on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095438)
+
+I've always interpreted the "play or put into play" clause as addressing allies and attachments outside of the planning phase, since you are only allowed to play them during planning.  So if you use it during planning you play the ally, but if you use it outside of planning you put the ally into play.
+
+ 
+
+But maybe the clause is meant to give you the choice of whichever is more beneficial / doesn't break the game?
+
+## 36 [PsychoRocka on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095480)
+
+ah yeah thats a fair enough point I get where you are coming from. I've always assumed it was to give you the choice of whichever doesn't break the game/is more beneficial but it would also make sense that it is worded that way so that if it is outside of the planning phase you put the card into play rather than playing it. 
+
+ 
+
+This would mean it still would trigger enter play effects but only if used during the planning phase... if used later in the turn only enters play effects would still trigger.
+
+ 
+
+I'm really curious which is the intention now... really hope it is the first even though it wouldn't affect my play style or decks as the only card that has an enter play ability in my Vilya deck is Handmaiden who triggers simply when she enters play so it doesn't matter if she was played or put into play. 
+
+## 37 [Seastan on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2095540)
+
+I think most card effects either use "enter play" or ""when played from your hand" and I think it's clear that one of these does not work with Vilya and one of them does. Erebor Hammersmith is an interesting exception though.
+
+## 38 [cmabr002 on March 11, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2096151)
+
+> You can most definitely Vilya Ranger spikes...... not sure why this is even a question...
+
+ 
+
+It has the stipulation "Play Ranger Spikes into the staging area unattached." so if you are not playing it (and instead "putting it into play") then that stipulation is irrelevant and would have no effect.  That's why it is a question.  I do think you are supposed to be able to Vilya Ranger Spikes, but if you are indeed "putting into play" Ranger spikes and not "playing" it then it brings up the awkward situation in which you do not know where you put it into play since it is undefined. 
+
+## 39 [cmabr002 on April 23, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2183345)
+
+> I think most card effects either use "enter play" or ""when played from your hand" and I think it's clear that one of these does not work with Vilya and one of them does. Erebor Hammersmith is an interesting exception though.
+
+ 
+
+I have received a ruling from Caleb regarding this situation that, to my knowledge, had never been answered by a developer until now, though I may have overlooked it.
+
+ 
+
+> Q: If you exhaust Elrond and Vilya to reveal an ally on the top of your deck can you : 1) put him into play at no cost, 2) play him at no cost, or 3) choose to play him at no cost or put him into play?
+> 
+>  
+> 
+> A: When you use Vilya’s ability and the top card of your deck is an ally or attachment, you put it into play. The added language about “play at no cost” is there for when the top card of your deck is an event, because you don’t put events into play.
+
+## 40 [Lecitadin on May 20, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2227844)
+
+Can you play zero cost events with Vilya like Daeron's ruin with Vilya?
+
+## 41 [PocketWraith on May 20, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2227853)
+
+Yes.
+
+## 42 [Lecitadin on May 21, 2016](https://community.fantasyflightgames.com/topic/204958-vilya-and-ent-draught/?do=findComment&comment=2228758)
+
+> Yes.
+
+ 
+
+Thanks. I checked the forum before asking this (obvious) question, but there was like 76 305 entries about Vilya....
+

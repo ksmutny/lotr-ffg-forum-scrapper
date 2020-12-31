@@ -1,0 +1,238 @@
+# [Solo adventurer needs some help...](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/)
+
+## 1 [Avii on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=468987)
+
+Hey all,
+
+I am in need of some serious help. I really enjoy the game and I got it for potential co-op but mainly for the solo aspect. I am having a real hard time with this game. I feel that it is impossible to play solo. I play the rules correctly (or so I think) and after a few rounds, the game looks hopeless. My threat is 37 and I have yet to knock down the first quest. I am playing the game wrong or is it that I am making terrible choices? Or perhaps this is normal and my idea of progress in game seems to be set higher? I have two areas where I think my problem lies and maybe you can help. Keep in mind I play either the spirit or the lore decks.
+
+1) The player decks - I have the feeling that they are underpowered. I am lucky enough to get one quest token on the main quest or to the location I am traveling in. So when I see I still have 7 more tokens to go and that now the spiders have more buddies to on the way, I feel like I got no where to go but to hold off the attack. If I am single player, am I to run two decks like I was two people and maybe that would help?
+
+2) Questing - The odds in the area seem extremely stacked. As stated before I am lucky enough to get one token on the table per round. Should I maybe not care so much for my heroes health for a few rounds and throw them the quests till I get some results?
+
+So hopefully I will hear back from you guys. I know that this is a great game but I just can't get over this hump of it seeming impossible to play solo. So any help/ advice would be greatly appreciated. If you need more clarification on something feel free to ask.
+
+## 2 [AUCodeMonkey on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=468999)
+
+ What deck are you playing? I feel that Tactics is weak alone, and Lore or Spirit can be a little dicey. That has a lot to do with it. Also, I would recommend looking at the FAQ threads to ensure you're playing everything correctly... or at least as correctly as we (the munchkins, er players) understand it without an official FAQ. I honestly didn't have a problem with Leadership or Spirit soloing the initial scenario (big surprise, right?) but didn't try single sphere, single player games beyond JtM.
+
+## 3 [Avii on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469001)
+
+Well the last attempt at the game I played the lore deck. With the suggested cards as seen on page 10 in the rule book.
+
+## 4 [ricedwlit on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469004)
+
+Avii said:
+
+ If I am single player, am I to run two decks like I was two people and maybe that would help?
+
+
+
+It definitely helps to run two decks. It's not that much more difficult that playing one solo deck, and the benefits are immense. In particular, characters can take advantage of ranged and sentinal keywords. You also have more options as far as allocating heros for questing/attack/defense.  Just playing two decks with the prebuilt starter decks is a lot more fun than doing one single sphere deck, given that each sphere on it's own has advantages and disadvantages.
+
+## 5 [Casamyr on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469035)
+
+I've found this a very hard game to play solo. I have yet to play co-op simply because I've yet to find the time to tie down a mate and teach them how to play LOTR.
+
+I've had a lot of success with pure leadership and pure spirit decks, but really struggle once I start playing with and combine multi-spheres together - though I think this is almost certainly due to the fact that I have only one core set (I can't justify paying NZ$75 for another coreset where half the cards have no use)  to make decks from which severely limits the cards i can have to make a legal 50 card deck and consequently I usually end up with a hand of dross to try and play with and just end up being swamped with enemies or locations and have nothing to deal with it.
+
+I'm looking forward to the Adventure Packs so I can increase the number of cards I can play with.
+
+## 6 [KlAve on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469038)
+
+ricedwlit said:
+
+Avii said:
+
+ 
+
+ If I am single player, am I to run two decks like I was two people and maybe that would help?
+
+ 
+
+ 
+
+It definitely helps to run two decks. It's not that much more difficult that playing one solo deck, and the benefits are immense. In particular, characters can take advantage of ranged and sentinal keywords. You also have more options as far as allocating heros for questing/attack/defense.  Just playing two decks with the prebuilt starter decks is a lot more fun than doing one single sphere deck, given that each sphere on it's own has advantages and disadvantages.
+
+
+
+ 
+
+Another, and in my opinion better,  way is to delve into some light deckbuilding. I have had quite a bit of success with the two two scenarios running a three-sphere deck. Running two deck is too fiddly for my tastes. Check out www.cardgamedb.com/forum for inspiration for deckbuilding.
+
+## 7 [jhaelen on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469123)
+
+Avii said:
+
+I am lucky enough to get one quest token on the main quest or to the location I am traveling in. So when I see I still have 7 more tokens to go and that now the spiders have more buddies to on the way, I feel like I got no where to go but to hold off the attack. If I am single player, am I to run two decks like I was two people and maybe that would help?
+
+
+
+It seems like you're talking about the first scenario here. If you feel this scenario is too difficult, chances are you're playing something wrong. It should be easy to beat with any pre-built deck (except Tactics). E.g. a common beginner mistake is to continue to count the threat of enemies you have engaged in combat.
+
+For scenario 2 and 3, however, I definitely recommend to play two decks. If you feel masochistic and don't mind the randomness you can always try it with a single deck later.
+
+## 8 [Hahma on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469142)
+
+Being that I just got the game last Thursday, I'm relatively new to the game. Between that night and Sunday morning, I must have played 10 solo games and 1 co-op game (which we got trounced). I tried Leadership 4 times and only got to the third card of the first scenario once. I tried Tactics a couple times and had no luck. I haven't tried Lore yet, but I tried Spirit 4 times and got through scenario 1 twice (thanks to Gandalf for helping with Ungoliant's Spawn).
+
+Anyway, it wasn't until Sunday after I had played the last time and was looking at the rule book while exercising on the eliptical machine, that I discovered that I had been playing a few things wrong. I mean I had noticed some major mistakes after the first few games, but thought I had it down. However, after reading the rules extremely closely, I found that I must have either misinterpreted or missed a line here or there that was key in playing right, or even a single word in a line made a difference in making mistakes. 
+
+ 
+
+A couple examples of my later mistakes that were just a matter of me overlooking a line or a word here or there:
+
+ 
+
+I was counting the Threat points of engaged enemies while questing. This was extremely harmful when playing co-op, but hurt solo too obviously. This is a result of me missing something in the rules regarding counting the Threat in the Staging area only.
+
+ 
+
+I had read about only being able to attack an enemy one time, so I never combined my attacks against one enemy. This mistake was also part of reading that you can't combine defense when defending (unless a card says so), so I assumed that the same worked for attacking and also part of that was reading that an enemy can only be attacked once (my brain must have saw that as, once, as in by one character).
+
+ 
+
+So ultimately, I only now (after a fair amount of games in) think I have a handle on all the rules and can move forward and play it right and hopefully have much better luck. The only thing now would be interpreting the cards and I have used the FAQ resources extensively for this and that has helped a great deal. So anyone that is struggling, I'd suggest to re-read the rules book very carefully and maybe you'll find some subtle things that you were doing incorrectly that will make a big difference in your playing luck. happy.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/happy.gif]
+
+## 9 [Avii on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469185)
+
+Wow... I can't believe I did not think of that... It was things during the refesh stage that got me. I thought that in the refresh stage that enemies I engaged with went back to the staging area. Thus adding their threat to quest/location. Wow.... Wow... That makes things a lot easier to deal with now. Now it seems like a battle I can win.
+
+Now should I perhaps combine two spheres and run a 50 card deck or should I just run the single sphere deck?
+
+Thanks so much for the help everyone. Now I feel I can play this game with no issues!
+
+## 10 [ClydeCloggie on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469188)
+
+A couple of points that might help the OP:
+
+ 
+
+1) If you're playing Spirit and you're having trouble questing, I would defintely think your play is a touch on the conservative side. With Eowyn and some of the most powerful allies (Northern Tracker, Lorien Guide) at its disposal, Spirit is the fastest questing deck around and you should be able to make much quicker progress than the odd token. Obviously, there will be times when you need a lot of characters ready for combat, but in solo play you can take a punt on the fact that whatever's facing you before questing can only get one card worse. Often keeping one or two small allies back from the quest in case there are hungry mouths to feed during combat is enough.
+
+2) Playing with the starter decks *is* hard. I have beaten the first scenario with all starter decks except Tactics, but it's certainly not a stroll in the park. The other two scenarios are close to impossible to beat consistently with just a starter deck. Deckbuilding is where it's at.
+
+3) (I don't know if this is your first CCG/TCG/LCG or not; my apologies if I'm stating the bleeding obvious.) The most important point: games like this are not about "if faced with situation A, play card B. Repeat until win or lose." The essence of this kind iof game is that you try to find synergies between different cards that result in getting more advantage out of the situation than you would otherwise have. A very simple example from a game I played this weekend:
+
+I was playing a Three Hunters deck (Tactics/Leadership with Gimli, Legolas, Aragorn) against the first scenario.
+
+It was combat phase, and I was engaged with one enemy. With Aragorn, Legolas and two allies (including a Gondorian Spearman) ready, I was in no trouble at all. I needed to get three hit points on the enemy to kill it, and in my hand I had Swift Strike, which can deal two damage before you resolve an enemy attack. So the simple solution was to declare Gondorian Spearman as a defender (1 damage done) and then play Swift Strike to kill the enemy. Instead, I maximized my return by playing it differently: first, I played Common Cause to exhaust Aragorn and ready Gimli, then declared Gimli as a defender. The enemy's attack strength was 2 and there was no shadow effect, so no damage was done. If the shadow effect had increased the attack strength, Gimli would have taken one or more wounds, which would have increased his own attack strength for future use. After the attack resolved, I declared a few standing characters including Legolas as attackers, killed the enemy and made progress on the quest as a result. So by taking a different course of action from the 'obvious'  solution to the problem, I got more out of it: not only a dead enemy, but also progress on the quest and the possibility of increased attack strength for Gimli.
+
+It's this kind of decision making that ultimately decides how successful you are at this game.
+
+And in the interest of balance, I will happily admit to bad decision making. A lot.
+
+ 
+
+ 
+
+ 
+
+ 
+
+## 11 [lleimmoen on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469206)
+
+Avii said:
+
+Wow... I can't believe I did not think of that... It was things during the refesh stage that got me. I thought that in the refresh stage that enemies I engaged with went back to the staging area. Thus adding their threat to quest/location. Wow.... Wow... That makes things a lot easier to deal with now. Now it seems like a battle I can win.
+
+Now should I perhaps combine two spheres and run a 50 card deck or should I just run the single sphere deck?
+
+Thanks so much for the help everyone. Now I feel I can play this game with no issues!
+
+
+
+Do, indeed! For me perhaps as much fun of the game comes from deck-building as it does from playing (or perhaps more). And it is not only fun but it also the game experience much much better. The predesigned decks suck - no, they are ok but you can do much better with a little practice and trial. Still, the solo game will be harder than co-op, I believe.
+
+## 12 [Avii on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469229)
+
+@ Clyde I am actually an avid player of AGOT: LCG. So I understand the importance of synergy. It was mainly the rule understanding that held me back. I find it interesting that you ran a theme deck.
+
+So the general opinion is to deckbuild a bit before marching back into the fray of Mirkwood?
+
+## 13 [Hahma on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469325)
+
+ClydeCloggie said:
+
+ 
+
+I was playing a Three Hunters deck (Tactics/Leadership with Gimli, Legolas, Aragorn) against the first scenario.
+
+It was combat phase, and I was engaged with one enemy. With Aragorn, Legolas and two allies (including a Gondorian Spearman) ready, I was in no trouble at all. I needed to get three hit points on the enemy to kill it, and in my hand I had Swift Strike, which can deal two damage before you resolve an enemy attack. So the simple solution was to declare Gondorian Spearman as a defender (1 damage done) and then play Swift Strike to kill the enemy. Instead, I maximized my return by playing it differently: first, I played Common Cause to exhaust Aragorn and ready Gimli, then declared Gimli as a defender. The enemy's attack strength was 2 and there was no shadow effect, so no damage was done. If the shadow effect had increased the attack strength, Gimli would have taken one or more wounds, which would have increased his own attack strength for future use. After the attack resolved, I declared a few standing characters including Legolas as attackers, killed the enemy and made progress on the quest as a result. So by taking a different course of action from the 'obvious'  solution to the problem, I got more out of it: not only a dead enemy, but also progress on the quest and the possibility of increased attack strength for Gimli.
+
+It's this kind of decision making that ultimately decides how successful you are at this game.
+
+And in the interest of balance, I will happily admit to bad decision making. A lot.
+
+ 
+
+
+
+ 
+
+Yeah, that was a good play for sure to get Legolas in on the kill to make progress, as well as to give Gimli the opportunity to take wounds to boost him. That's something I would have done as well to maximize the abilities on the cards.
+
+ 
+
+One of my favorite things about games I play is synergies and decision making. I play Heroscape and Summoner Wars and those games you can build armies for Heroscape and decks for Summoner Wars. So it's cool to get it all working the right way for you in game play.
+
+## 14 [Vyron2 on May 16, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469424)
+
+ well... I got through the first two scenarios with EACH starter deck... in solo mode ofc... the third is impossible with a starter deck...
+
+ 
+
+strangely enough - when I combined some of the spheres into a 50-card deck... the second scenario actually became more difficult :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] :S
+
+ 
+
+I LOVE loosing a couple of games against the game, because it really feels like a challenge, everything is new, etc. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] EXCITING!!!!!!!!!!
+
+ 
+
+ash nazg durbatuluk :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 15 [Avii on May 17, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469647)
+
+So I have come to report that the threat in Mirkwood has been pushed back. With a lore deck in hand, and a better understanding of the rules... I was able to conquer the first scenario. I am in love with this game. I feel challenged and I really have to think. Plus me sort of narrating and dming myself through a solo game is pretty fun to. Now that my first victory is in the books I have a few lingering questions.
+
+1) What is my max hand size?
+
+2) How many multiples of single cards am I allowed to have in play? For example at one point I had 3 "Daughter of the Nimrodel" cards in my play area. Is this allowed?
+
+3) Is there a limit to how many allys one can have in their playing area? At one point I had about 8 allys and 3 heroes on the table.
+
+4) Besides spirit, how do the other decks mingle with lore? I have found that I really like the ability control things with the lore deck. Though I find that tapping most of my ally's for questing is really kind of a pain.
+
+Again thank you all so much for your help. Your advice really turned a game around for me. Well I feel good and now after a long fight I think I deserve a rest. For tomorrow I meld two of the starter decks together and go hunting for spiders once again!
+
+*dashes into bushes whilst laughing courageously*
+
+## 16 [Apophenia on May 17, 2011](https://community.fantasyflightgames.com/topic/46834-solo-adventurer-needs-some-help/?do=findComment&comment=469675)
+
+Avii said:
+
+So I have come to report that the threat in Mirkwood has been pushed back. With a lore deck in hand, and a better understanding of the rules... I was able to conquer the first scenario. I am in love with this game. I feel challenged and I really have to think. Plus me sort of narrating and dming myself through a solo game is pretty fun to. Now that my first victory is in the books I have a few lingering questions.
+
+1) What is my max hand size?
+
+2) How many multiples of single cards am I allowed to have in play? For example at one point I had 3 "Daughter of the Nimrodel" cards in my play area. Is this allowed?
+
+3) Is there a limit to how many allys one can have in their playing area? At one point I had about 8 allys and 3 heroes on the table.
+
+4) Besides spirit, how do the other decks mingle with lore? I have found that I really like the ability control things with the lore deck. Though I find that tapping most of my ally's for questing is really kind of a pain.
+
+Again thank you all so much for your help. Your advice really turned a game around for me. Well I feel good and now after a long fight I think I deserve a rest. For tomorrow I meld two of the starter decks together and go hunting for spiders once again!
+
+*dashes into bushes whilst laughing courageously*
+
+
+
+1) There isn't one.
+
+2) Three. Technically there is not limit but since you can only have three copies of any card in your deck that does generally limit how many you can have. Unique allies are the exception to this, there can only be one copy of any Unique card in play at a time.
+
+3) No, you can have as many allies as you want. 
+
+4)  I rather liked the Lore/Tactics deck that I created. Tactics added a nice punch that Lore previously didn't have. 
+

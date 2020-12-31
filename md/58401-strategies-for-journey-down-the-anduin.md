@@ -1,0 +1,168 @@
+# [Strategies for Journey Down the Anduin](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/)
+
+## 1 [lkb57 on January 4, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=574458)
+
+This is probably just a newbie issue, but I've been struggling to beat the second scenario from the Core Set, and I was wondering if you guys could give me some pointers.
+
+I've played the Journey Down the Anduin scenario three times with one other player. Twice I played the basic Tactics deck and the other guy played the basic Spirit deck. The third time I played a Tactics/Lore deck and the other guy played a Leadership/Spirit deck. All three times we lost after just a few rounds.
+
+I played the same scenario one more time, this time with two other players (so three total) and it went really well . . . challenging, but not unbeatable.
+
+When trying to beat the scenario with just two players it seemed like the card draws from the encounter deck just killed us . . . either we'd have two Hill Trolls after just two rounds, or we'd draw a series of really bad treachery cards, like Pursued by the Shadow, right off.
+
+So, I guess my question is: have I just had really bad luck so far with card draws, or is there some card combination or deck type I should be trying that I'm not?
+
+Thanks for the help! 
+
+## 2 [TragicTheBlathering on January 4, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=574469)
+
+how many copies of core are you useing? What about APs?
+
+Try to keep your start threat low... real low. So you have a few turns b4 the troll comes. Make a heavy ally deck for one player, so you have fodder to feed the monsters. Do not be scared  of multi sphere decks. You should both be running greatings and gandalfs to keep that threat low.... 
+
+## 3 [richsabre on January 4, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=574557)
+
+another strategy: get dunhere and buff him up like mad, he gets +1 attack when going it alone in the staging area, so if you get some gondolin blades/dwarven axes (not sure if you have an adventure packs but there are some excellent dunedain cards that give +1 attack/defense), get his attack stat up then start attack the troll in the staging area. of course its going to take a while to kill it, so you need low starting threat, galadhrims greetings as stated above, and also gandalfs,however i tend to deal 4 damage to the troll rather than lower threat, but i think you need to play that decision depending on whats going on, i.e. if you are 1 threat off the troll engaging obviously lower the threat, but if you are near to it dieing, kill it.
+
+ 
+
+as for the second part, i find eowyn helps you from getting over whelmed, as does thalin.....commit him to quests so it gets rid of them eastern crows before they surge
+
+ 
+
+so my deck would be Eowyn/Dunhere/Thalin
+
+ 
+
+plenty of threat reduction/ attack buffs/ and citadel plate for if things get real messy and the troll engages you. you could of course put gimli in there...if seen alot of people recommend this.....when troll attacks defend with gimli, he gets 4 hit points putting his attack up to 6! of course he's near death so again citaadel plate helps here
+
+## 4 [Captain Poe on January 4, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=574638)
+
+I just played this last night with my gal. We have played twice, once with a solid victory, and another that was much harder and eventually defeated us in the second stage.
+
+Victory: We managed a victory by playing the premade Spirit+Leadership decks. Spirit deck kept gandalf in play which greatly helped. Aragorn is a decent fighter, which helped. We kept threat low, and the one spirit guy (sorry, still new) who is on a horse, he can attack enemies in the staging area. Work very well. The horseman could clear out the lower defense enemies without having to engage, and the leader ship deck delt with the heavier combatants.
+
+We played again last night with spirit and lore. It worked ok for a while, but our fall was that we just couldn't really do the damage we needed to to clear out the enemies. We pulled two trolls in the first round, which was horrible, but actually managed to handle them without to much difficulty because of "Forest Snare", which prevents them from attacking. I think that either doing Spirit+Leadership, or Lore+ a deck that has some better attack options should be able to handle the quest without too much trouble.
+
+## 5 [Legolas of Darkwood on January 5, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=574983)
+
+lkb57 said:
+
+This is probably just a newbie issue, but I've been struggling to beat the second scenario from the Core Set,...
+
+...So, I guess my question is: have I just had really bad luck so far with card draws, or is there some card combination or deck type I should be trying that I'm not?
+
+
+
+Not a newbie issue, this one can be hard indeed.
+
+I have been playing the newer scenarios lately but returned to "Journey Down the Anduin" during the christmas holidays. I am usually playing two players, two colour sphere decks each (Lore/Tactic and Spirit/Leadership). After loosing 4 games (!) with two different partners in a row against this basic DL4 scenario I was a little affected.
+
+The problem in my case seemed to be, that I don't want to build new decks every time I play. Therefor I tried to built good all-purpose decks. However it looks like this is going to be more and more tricky with LotR. I really hope this is not going to be the way the game is developing in the future.
+
+Anyway, in my case the Lore/Tactic Deck has a starting thread of 32, resulting in Mr. Hilltroll attacking first round! With 6 attack he is hitting awfully hard and besides hoping for a feint in the starting hand there is little we could do. To make a long story short, Mr. Hilltroll either scored a first turn hero-kill or at least drew most of our resources and attention towards him.
+
+It was only on our fifth try that Aragorn finally survived the first turn block (before that we twice had bad luck with a "+1 Attack" or "defender does not count it's shields" shadow card) and a second turn Forest Snare saved the day. 
+
+So in theory I know what helps with this scenario:
+
++) The most important thing: Low starting thread, preferable 28 or lower (giving you a little time before having to deal with Mr. Hilltroll)
+
++) Thalin to deal with the Crows
+
++) Means to block/snare Mr. Hilltroll: Either a charakter with combined health and shields of 7+ (Gimli, Aragorn,... and a way to heal oc...). "Dunedain Warning" in addition may help. "Feint", "Forrest Snare",...
+
++) Something to finally deal with Mr. Hilltroll, e.g. Gimli plus "Dwarven Axe" or "Citadel Plate". Gandalf is always nice as well.
+
+I think Mr. Hilltroll is (too) strong and there are too few cards that can deal with him (actually there no card can on it's own). In addition I personally don't want to accept that I have to modify my decks for each scenario. Neither me nore my gaming partners are willing to do so.
+
+## 6 [Budgernaut on January 5, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=575342)
+
+Captain Poe said:
+
+Spirit deck kept gandalf in play which greatly helped. 
+
+
+
+This sentence intrigues me. I just played this scenario solo last night with the Spirit starter deck and got to stage three when all my heroes began to die off. I used "Stand and Fight" to bring Gandalf back after using him once during the 1st stage, but then I read that "Stand and Fight" can't bring Gandalf out of the discard pile because he does not belong to a sphere. So that's why I was wondering what you meant by saying the Spirit deck kept Gandalf in play.
+
+## 7 [TragicTheBlathering on January 6, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=575414)
+
+What is your card pool? Are you playing solo or multiplayer?
+
+ 
+
+Budgernaut said:
+
+Captain Poe said:
+
+ 
+
+Spirit deck kept gandalf in play which greatly helped. 
+
+ 
+
+ 
+
+This sentence intrigues me. I just played this scenario solo last night with the Spirit starter deck and got to stage three when all my heroes began to die off. I used "Stand and Fight" to bring Gandalf back after using him once during the 1st stage, but then I read that "Stand and Fight" can't bring Gandalf out of the discard pile because he does not belong to a sphere. So that's why I was wondering what you meant by saying the Spirit deck kept Gandalf in play.
+
+
+
+ 
+
+Stand and Fight can not be used on Neutral Allies :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+## 8 [Captain Poe on January 6, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=575523)
+
+Budgernaut said:
+
+Captain Poe said:
+
+ 
+
+Spirit deck kept gandalf in play which greatly helped. 
+
+ 
+
+So that's why I was wondering what you meant by saying the Spirit deck kept Gandalf in play.
+
+
+
+I just started playing. I apparently break the rules constantly.
+
+ 
+
+## 9 [booored on January 6, 2012](https://community.fantasyflightgames.com/topic/58401-strategies-for-journey-down-the-anduin/?do=findComment&comment=575542)
+
+Captain Poe said:
+
+Budgernaut said:
+
+ 
+
+Captain Poe said:
+
+ 
+
+Spirit deck kept gandalf in play which greatly helped. 
+
+ 
+
+So that's why I was wondering what you meant by saying the Spirit deck kept Gandalf in play.
+
+ 
+
+ 
+
+I just started playing. I apparently break the rules constantly.
+
+ 
+
+
+
+ 
+
+everyone dose... you can not turst what anyone says.. .I bet 90% of people play games and break the rules by mistake.. spesh if they play solo. It is just somthing you need to play multi-times to get better at. More plays the forgetting mistakes get lower.. but still things like the quest log is pretty meaningless as I do not think most people are playing correctly. Point is just have fun... try and get teh rules right over time but do not sweat it to much.
+
+This is also why I think compeditive play while interestign will never happen unless you have judges watching every game.
+

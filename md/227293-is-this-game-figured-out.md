@@ -1,0 +1,272 @@
+# [Is this game &quot;Figured out&quot;?](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/)
+
+## 1 [TornadoMelon on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357102)
+
+Hi, everyone. 
+
+ 
+
+I'm a huge lotr fan but I also like Lovecraft (though not as much).
+
+ 
+
+I'm brand new to LCGs and I was wondering if I should get into this game or  wait for the Arkham Horror Lcg. Background: I've played Magic the Gathering for years, but my girlfriend isn't into competitive games and so I thought I'd go for a co-op lcg. My friend plays this game a lot.  I played the game for the first time with him yesterday. He made me a deck with Elrond in it, and he played with Boromir. We played 2 different quests, not sure what they were, but both times his deck pretty much dominated the game. Honestly there was virtually no challenge at all. 
+
+ 
+
+I like co-ops to be difficult. I play Pandemic on the hard mode. I like Eldritch Horror, so I was surprised by how easy this game was. He told me the deck he plays can absolutely dominate any quest. Is he right about this? Not sure aboutt he deck list I just remember Boromir being a beast. Is there really a deck that can manhandle this game? If so, isn't the puzzle aspect of the game "solved"? Why bother building any other deck when one deck makes a joke out of most quests? 
+
+ 
+
+I like optimized strategy, so I don't see any reason I'd ever play any deck other than the one he used. 
+
+## 2 [Bullroarer Took on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357371)
+
+Elroy's with Vilya can dominate for sure. Generally the deck's big weakness is early fighting power which you covered with Boromir.
+
+That said, you don't have to play those two heroes. There are plenty of ways that the game can still challenge you. Ask him to play Ruins of Belegost or Carn Dum for example. There is also Nightmare mode which ups the degree of difficulty on any quest.
+
+To me the game can still be pretty hard.
+
+## 3 [Seastan on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357394)
+
+> Hi, everyone. 
+> 
+>  
+> 
+> I'm a huge lotr fan but I also like Lovecraft (though not as much).
+> 
+>  
+> 
+> I'm brand new to LCGs and I was wondering if I should get into this game or  wait for the Arkham Horror Lcg. Background: I've played Magic the Gathering for years, but my girlfriend isn't into competitive games and so I thought I'd go for a co-op lcg. My friend plays this game a lot.  I played the game for the first time with him yesterday. He made me a deck with Elrond in it, and he played with Boromir. We played 2 different quests, not sure what they were, but both times his deck pretty much dominated the game. Honestly there was virtually no challenge at all. 
+> 
+>  
+> 
+> I like co-ops to be difficult. I play Pandemic on the hard mode. I like Eldritch Horror, so I was surprised by how easy this game was. He told me the deck he plays can absolutely dominate any quest. Is he right about this? Not sure aboutt he deck list I just remember Boromir being a beast. Is there really a deck that can manhandle this game? If so, isn't the puzzle aspect of the game "solved"? Why bother building any other deck when one deck makes a joke out of most quests? 
+> 
+>  
+> 
+> I like optimized strategy, so I don't see any reason I'd ever play any deck other than the one he used. 
+
+ 
+
+Welcome TornadoMelon. This is a great topic and I think it will provide some interesting discussion.
+
+ 
+
+I think whether this game is "figured out" really depends on you and your playstyle. If you foresee yourself buying all the expansions and player cards in the game, then going online to find the best decks you can possibly build, then bring them up against a bunch of early, standard difficulty quests, then yeah it's going to be easy.
+
+ 
+
+Playing in progression mode (only playing against a quest with the cards that were available at the time of release) is one way to up the challenge this game can offer. For example, I've been playing this game for years, but if I go back to the core set box and try to solo the third quest with only core set cards, I'll still lose 95%+ of the time.
+
+ 
+
+Furthermore, the developers know there are people like you (and me) who love the difficult stuff, and they've released nightmare versions for each quest that involve taking out certain encounter cards and replacing them with much more brutal ones. There are plenty of nightmare quests that will give even Boromir with a full card pool a run for his money.
+
+ 
+
+If you are a Magic player then I'm guessing you probably like building decks. If that's the case, then playing the same power deck over and over against different quests will get a bit stale, and you'll find yourself wanting to try out different spheres and traits, and you might even want to build a new deck for each scenario. This is really what keeps the game alive for me - the deckbuilding. Unlike a competitive game in which you are pretty much forced into using a tiny subset of the cardpool to build one of 4 competitive archetypes, in LotR LCG any card can be used. If you want to build a deck entirely of underused cards just for fun, you can - and you can still have a satisfying challenge because of the wide range of quest difficulties.
+
+## 4 [evilidler on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357413)
+
+The early quests are almost all easier than some later cycle quests and standalone scenarios. The average difficulty increases with each cycle, then drops a little for the latest deluxe and goes up again for its cycle. It's variable, but rarely super-easy. Some scenarios just crush decks with few combat-specific cards, and others destroy you if all you can do is fight. Even some of the superdecks aimed to be great at everything are situational when it comes to the hardest scenarios.
+
+ 
+
+That deck you saw most likely used quite a lot of later cards too, so it takes a bit of a collection to get to that point. A great deck can still be screwed by shadow cards, especially if you stick to 50-card player decks and there's a surge keyword. Can't trap locations :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+As for the choice between LotR or AHLCG, it's a matter of taste and money. Do you like both flavours and have more money than sense? Get both. I would :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+They're different games, and it looks like you will really get your wish when it comes to difficulty in Arkham Horror:The Card Game. Random bag of bad, cards in your deck which actively work against you, plenty of locations like in LotR, but enemies also chase you. And all you have is a 30-card deck! Don't go in alone. You need bait.
+
+## 5 [TornadoMelon on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357421)
+
+Thanks for the replies, guys. My main fear in getting into this game is that to be challenged I'll have to feel like I'm handicapping myself. I don't want to have the feeling that I'm playing the game with one hand tied behind my back to make it a fair fight. Is Boromir the best hero in the game?   In the quests we played it didn't seem like the things my friend was doing were legal.  (the best attack I could muster with my deck was like 4, and he was attacking for like 30 or something). I can't imagine another hero being as good. And if so, with two heroes that good I can't imagine the game being a challenge. But I'll take your guy's words on this as I only have a limited number of games to base my experience on. Also, being a lotr fan I would have thought Elrond > Boromir. But I guess not. How thematic do you guys feel the game is?
+
+Edited August 10, 2016 by TornadoMelon
+
+## 6 [evilidler on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357434)
+
+I usually pick a set of heroes I like and try to make it work with those. There are subtle differences with each, and taking the big guys and their gear is definitely skewing things in your favour.(Aragorn, Elrond and Galadriel all have attachments and related allies which help them specifically more than any other heroes. Hobbits have a few tricks of their own which help against certain things. Rangers have plenty of traps, which can trivialise many opponents, but there are still boss enemies with immunity to traps and other player cards.
+
+ 
+
+The three Boromirs are all useful in different ways, but they're also very combat-focused. He's not much help in finding your way through the forest, but at least he can organise an assault on some nasty enemies ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 7 [Slothgodfather on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357446)
+
+I find in most cases the game has a very thematic feel to it.  Especially the Saga quests.  The black riders that the ford is still one of my favorite moments.  I won't explain, because you just have to see it.
+
+## 8 [zeromage on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357452)
+
+Im the opposite. I like lovecraft better than Tolkien (I still love Tolkien though). I do find the game thematic although boromir does seem to be on the power level of an Istari or an ancient noldor!
+
+There was some speculation boromir would be errata'ed but that has come to an end. Personally I think if they made steward of gondor attach to a gondor hero only, errata'ed boromir, and errata'ed gloin and warden of healing the game would be balanced far better, and would be good challenge.
+
+I will be going all in on the Arkham lcg. But I'll continue with lotr too at least for now.
+
+Edited August 10, 2016 by zeromage
+
+## 9 [cmabr002 on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357461)
+
+> Thanks for the replies, guys. My main fear in getting into this game is that to be challenged I'll have to feel like I'm handicapping myself. I don't want to have the feeling that I'm playing the game with one hand tied behind my back to make it a fair fight. Is Boromir the best hero in the game?   In the quests we played it didn't seem like the things my friend was doing were legal.  (the best attack I could muster with my deck was like 4, and he was attacking for like 30 or something). I can't imagine another hero being as good. And if so, with two heroes that good I can't imagine the game being a challenge. But I'll take your guy's words on this as I only have a limited number of games to base my experience on. Also, being a lotr fan I would have thought Elrond > Boromir. But I guess not. How thematic do you guys feel the game is?
+
+ 
+
+If you don't plan on playing progression style (if you feel that is a handicap - I don't) then you are probably better off not purchasing this game.  The vast majority of quests will be too easy if you buy the entire card pool and build a deck to trounce quests that were not designed with all your powerful options in mind. 
+
+ 
+
+Personally, I also think that the majority of quests tend to be on the easier side (even if you play progression style), but as Seastan mentioned, Nightmare gives you much more adequate challenge.  There are only a handful (maybe two handfuls) of non-Nightmare quests that are particularly brutal.
+
+ 
+
+If you play the scenarios blind, and in progression style, you definitely will lose some on your way through.  There are some scenarios that have cards that will end your game if you are ill-prepared/don't know they exist.
+
+## 10 [DukeWellington on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357495)
+
+The short answer is yes.
+
+The better answer is that people do not play this game with the same motivation with which people play a competitive game. This is a game in which the motivation to play arises from the creative, expressive, and exploratory parts of the personality. For example, I tell people all the time, you can sit down to MTG or AGOT or Netrunner and play with a deck built by somebody else and have fun, but nobody truly enjoys LOTR until they build their own deck. That makes this game different then all others. People can build crazy decks in MTG for the purposes of self expression or curiosity, but that is just part of the community. In this game, that is basically the entire community.
+
+I myself love to power deck and win competitive contests. I love a challenge, as you described. I approached this game with that mindset and eventually found it boring. Then I gave up on that. Now I build sub par weak decks just for fun, hoping to find the next broken synergy, but mostly to just see what happens. Most of my decks suck now. The game is WAY more fun for me now and I play a lot more regularly.
+
+You have to understand that there are different motivations for gaming, not always competition and challenge. This is a game for those different motivations. If you can understand that, than you will come to discover that this is one of the best games ever made. The possibilities are endless.
+
+## 11 [Supertoe on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357562)
+
+The thing about this game is: Just because you can play the strong deck doesn't mean you have to. Its cooperative, have fun, experiment!
+
+## 12 [Crabble on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357574)
+
+The "Boromirdeck" you have seen might be one of the top decks in this game simply because Boromir can have endless actions per turn if you can control your thread but even this deck will struggle against certain quests which it doesn't fit to. For example play the scenario "The Drúadan Forest" I bet your Boromir will not attack for 30 especially if you encounter cards like "Leaves of Tree [http://deckbauer.telfador.net/card.html&id=2815]". You might and probably will beat this scenario (especially if you use new released player cards) but not in the way you crush other quests with it and even then you may still bare in mind that this scenario is 3 years old and a lot of player cards have come out since that. I for myself even now play a kind of progression series along in my blog where I only use cards to beat quests which have come out up until that point. If that is what you would call "cripple yourself to have fun with this game" just think about the fact that 3 years ago nobody had other choices but to use cards that where released up until that point in time. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+On the other hand I can only encourage you to play other decks. I like to play powerful decks too but I take the most joy out of this game by building and trying out new and different decks which might not be "the one deck to rule them all" but are still fun because they have fun mechanics or are just theme-homeruns. Also you can look forward to new player cards and scenarios which come out in quite a regular basis. Each new cycle so far seems to be better then the previous one and with the new quests you get new challenges to solve!
+
+## 13 [Edheliad on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357645)
+
+I pick cards based entirely on their art. Try that if the game feels too easy.
+
+## 14 [Slothgodfather on August 10, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2357671)
+
+>  "the one deck to rule them all" 
+
+ 
+
+Also note that if he is playing Seastan's Boromir deck, it is literally called the One Deck to Rule them All because it is likely the single most powerful deck you can make.  But I agree with everyone else, if that is the strategy you go for, then yea, the game is fairly "figured out", though new encounter cards come out regularly and will often find ways of challenging the most commonly built decks and themes.  Also, progression style play - or even a more loose interpretation of allowing yourself ot use all the cards of a given cycle against all the quests within that cycle - can really increase the enjoyment.  Like other said, it isn't really a handicap if you were playing as it was released, as there were no other options at that point.   
+
+ 
+
+Lastly, FFG does make errata to this game on occasion, and I can honestly see Boromir getting taken down a notch - or several. 
+
+## 15 [Crabble on August 11, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2358973)
+
+I think (as was mentioned in the latest COTR podcast) if they errata related cards at all (which i higly doubt they will) that they will not errata Boromir himself but instead Gondorian Fire and Blood of Numenor. Maybe giving them a "for this attack" and "for this defense" witch would not make these cards useless but hinder Boromir from doing combat all alone by himself (without a massive ressource investment to these cards at least). But likely they will just not errata any of this stuff because this combo exists now for quite some time and no errata up until now has touched these cards. Especially Boromir will not recieve an errata simply because people got his alternate art card this year at the GenCon event and it would not make sense to give people an awsome alternate art card if you couldn't use it in the near future due to an errata of Boromir.
+
+## 16 [Calvadur on August 11, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2358992)
+
+Welcome to the forums!
+
+As the others said: Yes there are decks to beat pretty much every quest and that is good in my opinion. Not everyone is a great deck-builder and if they can fall back on a powerful deck if they are stuck with a hard quest this keeps them from getting frustrated.
+
+But that doesn't seem to be your problem :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] You seem to like your games difficult and to have fun at deckbuilding. Therefore I recommand to play another round or two with your friend, but this time build the deck yourself. When I introduce people to the game I never show them the most powerful combos right at the start. They pick some heroes they like and throw in cards and I adjust my deck as nesserary. In my experience it is much more rewarding for players (especially new players) to find strong combos themself instead of just getting told.
+
+So as I said build decks on your own. It looks like you can't remember which cards your friend used to make Boromir a beast so you can try and figure it out yourself or create something new from the ground and look how you do. If you don't want to burn and hour or two at your friends house deckbuilding you can ask him if there are any expansions he does not own and prepare your deck with an online deckbuilder like ringsdb.com.
+
+ 
+
+Apart from deckbuilding ask your friend if you can play against harder quests, you might even want to try nightmare mode. It cost a little extra to get the additional encounter cards, but the raise in difficulty is noticable and in some cases extreme. You most likely won't find decks that take out the nightmare version of "Escape from Dol Guldur" on a regular basis.
+
+ 
+
+Changing the number of Players can Change the difficulty of a quest too. The game is offically designed for 1-4 Players, but after playing something like return to mirkwood solo and in a multiplayer match you will see a difference.
+
+ 
+
+Lastly, you can always aim for perfection. Every deck struggles against certain quests and will have a worse score (don't now if you calculated the score in your matches) than a deck designed specific for that quest. As far as I know there is no list that lists the best deck for every quest.
+
+ 
+
+Summing it up:
+
+-build decks yourself (with no or Little help)
+
+-go for hard quests and check out nightmare (your friend most likely knows some; especially so called "print-on-demand" (PoD)/"stand alone Scenarios" have a high difficulty most of the time)
+
+-remember the difference of solo and multiplayer
+
+-you are in the great postion to know someone where you can Play the game, so test out what you want before making your final descision
+
+ 
+
+ 
+
+For me the quests are the star of the game. It is not about beating a quest once. In how many ways can you beat a quest. What Combos can you squeeze out of your Card pool to bring the encountet deck down.
+
+If you are indeed only looking to Play the commonly agreed most powerful decks to beat every quest once, because that is your Thing (nothing wrong with that), I would recommand going for the arkham Horror lcg (there will be "best decks" too ofc, but obviously nobody can have them figured out a the release of the game)
+
+## 17 [PsychoRocka on August 11, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2358998)
+
+> I think (as was mentioned in the latest COTR podcast) if they errata related cards at all (which i hiBoromirbt they will) that they will not errata Boromir himself but instead Gondorian Fire and Blood of Numenor. Maybe giving them a "for this attack" and "for this defense" witch would not make these cards useless but hinder Boromir from doing combat all alone by himself (without a massive ressource investment to these cards at least). But likely they will just not errata any of this stuff because this combo exists now for quite some time and no errata up until now has touched these cards. Especially Boromir will not recieve an errata simply because people got his alternate art card this year at the GenCon event and it would not make sense to give people an awsome alternate art card if you couldn't use it in the near future due to an errata of Boromir.
+
+I agree that it is a little too far down the track and these cards will remain as is. If there was ever to be errata though you are right and it 100% needs to be for blood and fire and not at all Boromir himself. They are extremly easy to abuse and where the issue lies.
+
+Edited August 11, 2016 by PsychoRocka
+
+## 18 [dalestephenson on August 11, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2359310)
+
+Any hero, even Spirit Pippin, can be a superhero with Steward of Gondor/Blood of Numenor/Gondorian Fire.  Boromir's big advantage is the ability to ready by threat instead of requiring one of the many other readying effects in the game -- though frankly, between Unexpected Courage and Fast Hitch, it wouldn't be hard to get enough readying for SuperSpPippin to clear the field of enemies, once your set up.
+
+ 
+
+Boromir's big advantage isn't when he's attacking for 30 at the end of the game -- it's keeping you alive at the beginning of the game by always being able to defend and always being able to counterattack.  I don't think that makes him the "best hero" in a vacuum, but I'd certainly go for most useful hero solo in a combat-heavy quest (or one that requires hero exhaustions).  This isn't all quests.  Seastan's deck to beat them all has Super Boromir for combat, but Galadriel and SpGlorfindel are no slouches and Galadriel's card draw and mirror are key to get Boromir loaded up quickly.  I think the deck might suffer more from replacing Galadriel with a random spirit hero than it would from replacing Boromir with a random 2+ def hero.
+
+ 
+
+But this is a side issue to the main point:
+
+ 
+
+"I like optimized strategy, so I don't see any reason I'd ever play any deck other than the one he used."
+
+ 
+
+"My main fear in getting into this game is that to be challenged I'll have to feel like I'm handicapping myself.  I don't want to have the feeling that I'm playing the game with one hand tied behind my back to make it a fair fight."
+
+ 
+
+For every quest, there is likely an optimal deck given the full card pool, and this optimal deck is not known (though not all will feature Boromir) -- but for almost all regular quests multiple published decks exist which can beat that quest almost every time, and I'd guess that's also true of most nightmare quests.  So if you want to be consistently challenged *and* to always play the most optimal deck in existence, this is not likely to be the game for you.  I would also be bored by that approach.
+
+ 
+
+But if you don't want to feel you're handicapping yourself, cooperative games in general are probably not for you -- handicapping yourself to alter the difficulty is a feature of the genre, though it takes a variety of forms.  In LOTR, the quests can be altered substantially with easy mode or nightmare decks, but they can also be altered also by the composition of the deck.  The varying decks also provide a fantastic way of providing variety, because different heroes and different approaches require a different approach.  Super Boromir may be "better" against most quests than a Rossiel deck, but they will play very differently, and for each deck the challenge of playing *that deck* optimally is still going to be present.
+
+ 
+
+Still, if you don't like the idea that you are handicapping yourself by *deliberately* picking inferior heroes and constructing inferior decks, have the game do it for you.  If playing by yourself, try this:
+
+ 
+
+Randomly select your heroes.  Now it's not you choosing an "inferior" hero, it's the game providing the heroes you *have* to work with.  Depending on which heroes you get, your "optimal deck" can look very different and play very differently.
+
+ 
+
+If you find that regardless of what heroes you get, you find yourself using the same approach each time (Steward/Blood/Fire work on anyone) you could give yourself one more constraint -- don't re-use *any* cards from your previous deck.  You would still have the task of constructing the "optimal deck" from the card pool you have available, but will experience much more variety.
+
+ 
+
+This game is an expensive proposition if you intend to play the same deck every time to beat each quest exactly once.  If you can't embrace the possible variety, I think it is not for you.
+
+ 
+
+Full disclosure -- I've not actually played with TaBoromir yet.  The last 28 quests I've beaten (most on the first try) have been in two-deck fellowships including Dori, widely considered one of the weakest heroes in the game.
+
+## 19 [987654321 on August 11, 2016](https://community.fantasyflightgames.com/topic/227293-is-this-game-figured-out/?do=findComment&comment=2359955)
+
+My fitst try to The Dead Marshes was a Éowyn Legolas Boromir deck were Éowyn was always questing, making the deck particularly uneffective with the scenarios' particular mechanic. IT took a lot to get the game under control, but I won. The next attent was Éowyn Beravor Glorfindel, specifically designed to beat the quest. Won in round 4. While the latter deck was more effective, the first playtrough was more fun. Conclusion: It's fun to handicap yourself.
+

@@ -281,3 +281,64 @@ If I use Sneak Attack to put Gandalf at the beginning of the quest phase, can he
 
 Edited May 5, 2017 by Hitbaz
 
+## 26 [cmabr002 on May 5, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2771129)
+
+> 4 minutes ago, Hitbaz said:
+> 
+> Another question, guys.
+> 
+> If I use Sneak Attack to put Gandalf at the beginning of the quest phase, can he participate in the Escape Test forced by stage 2b? I think so because the Escape Test forced through stage 2b does not happen at the end of the phase, but immediately after the resolution of the quest. Right? 
+> 
+> 
+> 
+> But if I lose this final Escape Test, Gandalf comes back to my hand before the regular Escape Test 
+> forced by Gollum, because this Escape Test happens at the end of the phase. Right?
+
+Yes, Gandalf can participate and yes he will go back to your hand before the Escape Test forced by Gollum if you fail the Escape test on 2B.
+
+Edited May 5, 2017 by cmabr002
+
+## 27 [Hitbaz on May 6, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2771141)
+
+Great. But I have a action window between Final Escape Test and Escape Test Forced by Gollum? 
+
+## 28 [cmabr002 on May 6, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2771145)
+
+> 2 minutes ago, Hitbaz said:
+> 
+> Great. But I have a action window between Final Escape Test and Escape Test Forced by Gollum? 
+
+Yes.  After quest resolution there is a regular action window.
+
+## 29 [Hitbaz on May 16, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2789007)
+
+Any news? 
+
+## 30 [cmabr002 on May 18, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2794070)
+
+I have updated the thread with all the answers in my other post.
+
+## 31 [Hitbaz on May 18, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2794143)
+
+ 
+
+About the Escape Test:
+
+
+In short, if you trigger Éowyn's ability at the beginning of the Quest phase, 
+the ability expires before the Escape Test (Forced by Gollum).
+
+But if you trigger Éowyn's ability in the Escape Test action window, 
+then the ability lasts until the end of the Escape Test 
+(Because the Escape Test suspends the end of the Quest).
+
+Is this right?
+
+Edited May 18, 2017 by Hitbaz
+
+## 32 [cmabr002 on May 18, 2017](https://community.fantasyflightgames.com/topic/248142-the-dead-marshes-sneak-attack/?do=findComment&comment=2794188)
+
+Yea, that's right if I understand everything correctly.
+
+Edited May 18, 2017 by cmabr002
+

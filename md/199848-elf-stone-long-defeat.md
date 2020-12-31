@@ -314,3 +314,157 @@ Without the Caleb's answer, in Cair andros, if you explore the last Cair Andros 
 
 Then Caleb's answer makes sense
 
+## 26 [GrandSpleen on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015411)
+
+So do I have this sequence right?
+
+ 
+
+1-quest succesfully
+
+2-place progress tokens.  Place them on the active location- which does NOT leave play-- then place them on the quest card.
+
+3-if you finished the quest card, advance to the next stage of the quest.  Active location is still in play.
+
+4-opportunity to trigger effects such as The Long Defeat
+
+5-active location leaves play as an explored location
+
+6-opportunity to trigger effects such as Ancient Mathom or Elf-stone
+
+ 
+
+ 
+
+Where do 'when revealed' effects on the quest card fit in?  I guess that would be after 3 but before 4?
+
+## 27 [NathanH on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015591)
+
+I think the active location leaves play at the same moment that the quest is explored, you just resolve any "you've finished the quest" effects before any "you've finished the active location" effects. My guess at the ordering would be something like
+
+ 
+
+1. Quest successfully
+
+2. Place progress tokens, discard the active location and current quest
+
+3. Advance to the next stage if appropriate
+
+4. Recalculate the game-state if passive effects have appeared/disappeared, and resolve their consequences.
+
+5. Resolve the When Revealed effect of the new stage, if appropriate, and resolve any nested consequences.
+
+6. Flip the new quest card, if appropriate. Recalculate the game-state if passive effects appear in this step.
+
+7. Resolve any When Revealed effect of this side of the card, if appropriate, and resolve any nested consequences.
+
+8. Resolve any Responses to the previous quest leaving play.
+
+9. Resolve any Responses to the active location leaving play.
+
+ 
+
+There are two more steps
+
+ 
+
+a) Resolve any Forced effects caused by the previous quest leaving play
+
+b) Resolve any Forced effects caused by the active location leaving play.
+
+ 
+
+I don't really know where to put these.
+
+## 28 [krokodiler on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015623)
+
+> I think the active location leaves play at the same moment that the quest is explored, you just resolve any "you've finished the quest" effects before any "you've finished the active location" effects. My guess at the ordering would be something like
+> 
+>  
+> 
+> 1. Quest successfully
+> 
+> ADDED 1a - Resolve any Forced effects caused by questing successfully
+> 
+> 2. Place progress tokens, discard the active location and current quest
+> 
+> 3. Advance to the next stage if appropriate
+> 
+> 4. Recalculate the game-state if passive effects have appeared/disappeared, and resolve their consequences.
+> 
+> 5. Resolve the When Revealed effect of the new stage, if appropriate, and resolve any nested consequences.
+> 
+> 6. Flip the new quest card, if appropriate. Recalculate the game-state if passive effects appear in this step.
+> 
+> 7. Resolve any When Revealed effect of this side of the card, if appropriate, and resolve any nested consequences.
+> 
+> 7a - Resolve any Forced effects caused by the previous quest leaving play
+> 
+> 7b - Resolve any Forced effects caused by the active location leaving play.
+> 
+> 8. Resolve any Responses to the previous quest leaving play.
+> 
+> 9. Resolve any Responses to the active location leaving play.
+> 
+>  
+> 
+> There are two more steps
+> 
+>  
+> 
+> a) Resolve any Forced effects caused by the previous quest leaving play
+> 
+> b) Resolve any Forced effects caused by the active location leaving play.
+> 
+>  
+> 
+> I don't really know where to put these.
+
+ I'd put these here and also add one more: 1a
+
+Edited January 27, 2016 by krokodiler
+
+## 29 [NathanH on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015630)
+
+There are also a few effects based on "when you place 1 or more progress" on a location, like Lone Lands. I wonder when they trigger.
+
+## 30 [13nrv on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015658)
+
+I agree with NathanH and krokodiler.
+
+ 
+
+Could we have a clarification on that from Caleb ? And maybe an insert in the next FAQ.
+
+## 31 [krokodiler on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2015661)
+
+> There are also a few effects based on "when you place 1 or more progress" on a location, like Lone Lands. I wonder when they trigger.
+
+ 
+
+Hm, maybe in the same 7a/7b steps :unsure: [//content.invisioncic.com/Mfantflight/emoticons/default_unsure.png] ? But if so, should they be then indeed treated as happening simultaneously - within each step 7a or 7b, respectively :unsure: [//content.invisioncic.com/Mfantflight/emoticons/default_unsure.png] ? BUT... first should go effects staring with "when" and then effects starting with "after"... O.o O.o? (@_@)
+
+Edited January 27, 2016 by krokodiler
+
+## 32 [PocketWraith on January 27, 2016](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=2016116)
+
+"When you place 1 or more progress" effects would happen during step 2, since that's when you're placing progress. It's right there in the text.
+
+## 33 [sappidus on June 19, 2018](https://community.fantasyflightgames.com/topic/199848-elf-stone-long-defeat/?do=findComment&comment=3378593)
+
+> On 1/25/2016 at 4:40 PM, sappidus said:
+> 
+> If the active location is explored and at the same time the players make enough progress to defeat the current quest, the rules require that the players immediately advance to the next stage. This rule puts priority on resolving effects tied to the current quest before resolving effects tied to the active location. As a result, players must resolve any effects that trigger from defeating the quest before resolving any effects that trigger from exploring the active location. Therefore, The Long Defeat must be resolved before Elf-stone can be resolve﻿d﻿.
+> 
+> ﻿Cheer﻿s,
+> 
+> ﻿﻿﻿﻿﻿Caleb﻿
+
+Reversed here: 
+
+ 
+
+Apparently this will be in the next FAQ. [Source: the Palantir… I mean, Caleb in the CotR Discord.]
+
+Edited June 20, 2018 by sappidus
+

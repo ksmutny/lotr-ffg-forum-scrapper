@@ -1,0 +1,189 @@
+# [Taking the Plunge](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/)
+
+## 1 [hengst2404 on August 30, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2960091)
+
+While I have been oh so patiently waiting for the Arkham Horror core set to be available for purchase, I found a copy of the core set for this game. Having loved Lords of the Rings for a long time, I have decided to pick it up and give the game a try. Not sure if I will be going solo, solo but with two hands or if I will find somebody to play with, but everything I have read suggests I will enjoy the game. I figure I will start with the core set and the first cycle of cards and see how It goes. Looks like I have a ton of content to play through if I enjoy myself.
+
+## 2 [PigsAreOurEquals on August 30, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2960097)
+
+Welcome, you won't be dissapointed as a Tolkien fan.
+
+## 3 [farealh on August 30, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2960540)
+
+> 2 hours ago, PigsAreOurEquals said:
+> 
+> Welcome, you won't be dissapointed as a Tolkien fan.
+
+QFT! :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 4 [BigKahuna on September 4, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2967825)
+
+Just a tip, one noob to another.  Lord of the Rings is brutally tough solo, in particular when you first start and have a small card pool, but in general its always super hard.  I highly recommend playing on "easy" mode until such a time that you can actually beat anything but the first Mirkwood scenario (that one is very playable/beatable in normal mode).  Else you will simply feel like all you do is lose and it can be really off putting.  Those challenges will always be waiting in the queue for you anyway and its a much nicer first run through any adventure having an actual prayer in **** of beating it.
+
+Suffice to say, even on easy mode, most LotR scenarios are brutally hard, at least at first.  Once you get going, get a few cards into your pool from outside of the core set it becomes more dooable.
+
+Also another thing I wish someone told me when I started but, don't buy things in order.
+
+It may be tempting and may even feel compelling if you have even a minor case of OCD but the reality of collecting this game is that things are NEVER available in order so you end up playing this constant waiting game (and the waits are long) held up by an expansion here and there trying to complete cycles, meanwhile as you wait for it to come into print other stuff that's next in the queue is going out of print.  It will frustrate the **** out of you.
+
+The best way to buy is to simply get what is available, in particular the Dexluxe Expansion boxes which are actually the best deal for the buck anyway since you get 3 quest in a box.  I would say the best move is to buy all the ones you can grab.  Its also always worth picking up the stand-alone expansions, those don't come into print very often so if you spot one, don't hesitate.
+
+Finally in my humble opinion the most fun way to play and enjoy the game is in campaign mode, so getting the Saga expansions should be somewhere at the top of your priority and again, don't wait for stuff to come into print, get it while its available, there will never be a time where you can buy these in order.
+
+Oh and final tip, or perhaps better to say advice to increase your enjoyment is don't spoil the game for yourself by looking online for "killer decks" or "how to beat x scenario".  The core gameplay concept here is that Lord of the Rings is a Puzzle Deck builder, aka, the quest is a puzzle, you beat it by solving the deck building puzzle (building a deck that can beat it).  This is fundamentally the core of the game and there is a deck out there for every quest that can basically walk right through it (most of them quests anyway).  Figuring it out is part of the game, looking online for the answer is like watching the Synopsis of a movie you are about to watch, its self defeating.
+
+And also Akrham Horror is awesome, in a lot of ways its actually a more advanced version of Lord of the Rings, but focused less on the deck building and more on the story/campaign and gameplay.  Its also a great choice for a game and I actually think its a much better coop experience than Lord of the Rings.  Still both games have their perks and flaws, but If you like one you will like the other and vice versus.
+
+## 5 [hengst2404 on September 4, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2968169)
+
+Wow, thanks for that. Always amazed how much nicer the board game community is versus the video game community. I will take your advice, particularly about waiting. I am a collection/completionist, but sounds like with this game, moving ahead does not mean you cannot circle back around. Very excited about Arkham which arrives this week, but may try LOTR today.
+
+## 6 [hengst2404 on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2968861)
+
+> 21 hours ago, BigKahuna said:
+> 
+> Just a tip, one noob to another.  Lord of the Rings is brutally tough solo, in particular when you first start and have a small card pool, but in general its always super hard.  I highly recommend playing on "easy" mode until such a time that you can actually beat anything but the first Mirkwood scenario (that one is very playable/beatable in normal mode).  Else you will simply feel like all you do is lose and it can be really off putting.  Those challenges will always be waiting in the queue for you anyway and its a much nicer first run through any adventure having an actual prayer in **** of beating it.
+> 
+> Suffice to say, even on easy mode, most LotR scenarios are brutally hard, at least at first.  Once you get going, get a few cards into your pool from outside of the core set it becomes more dooable.
+> 
+> Also another thing I wish someone told me when I started but, don't buy things in order.
+> 
+> It may be tempting and may even feel compelling if you have even a minor case of OCD but the reality of collecting this game is that things are NEVER available in order so you end up playing this constant waiting game (and the waits are long) held up by an expansion here and there trying to complete cycles, meanwhile as you wait for it to come into print other stuff that's next in the queue is going out of print.  It will frustrate the **** out of you.
+> 
+> The best way to buy is to simply get what is available, in particular the Dexluxe Expansion boxes which are actually the best deal for the buck anyway since you get 3 quest in a box.  I would say the best move is to buy all the ones you can grab.  Its also always worth picking up the stand-alone expansions, those don't come into print very often so if you spot one, don't hesitate.
+> 
+> Finally in my humble opinion the most fun way to play and enjoy the game is in campaign mode, so getting the Saga expansions should be somewhere at the top of your priority and again, don't wait for stuff to come into print, get it while its available, there will never be a time where you can buy these in order.
+> 
+> Oh and final tip, or perhaps better to say advice to increase your enjoyment is don't spoil the game for yourself by looking online for "killer decks" or "how to beat x scenario".  The core gameplay concept here is that Lord of the Rings is a Puzzle Deck builder, aka, the quest is a puzzle, you beat it by solving the deck building puzzle (building a deck that can beat it).  This is fundamentally the core of the game and there is a deck out there for every quest that can basically walk right through it (most of them quests anyway).  Figuring it out is part of the game, looking online for the answer is like watching the Synopsis of a movie you are about to watch, its self defeating.
+> 
+> And also Akrham Horror is awesome, in a lot of ways its actually a more advanced version of Lord of the Rings, but focused less on the deck building and more on the story/campaign and gameplay.  Its also a great choice for a game and I actually think its a much better coop experience than Lord of the Rings.  Still both games have their perks and flaws, but If you like one you will like the other and vice versus.
+
+Okay you were not joking. Sat down last night, watched the fantasy flight how to videos and played my first game. First, yep, much harder than I expected, which I am sure was do to a variety of factors, including that I had never played before. Secondly, playing by myself, with 3 heroes, the tactic one I guess of the pre-made decks was tough as I started out with a 29 threat. I also kept drawing a ton of locations and no sooner would I clear a location than more would drop. Then when things were finally manageable I start drawing the ungloiath and beast master cards in two separate quest phases. I am sure I did things wrong. but it was good to at least get started. I do have a question:
+
+ 
+
+In response to locations. I get that I don't have to travel to a location, that it mainly serves to keep the amount I need to have to work towards finishing the quest higher. However, can you quest and travel in the same turn? In other words, if I take my 3 heroes and commit to the quest, but leave an ally or two back, can those allies travel to a location? Or if left one hero back, could the other hero travel to another location? Trying to understand traveling and whether or not it is an either/or situation with questing?
+
+## 7 [Rouxxor on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2968982)
+
+We need to talk a lot about locations ;).
+
+Travel to a location is something you can only do once in a turn, after the quest phase (in the travel phase) and only if there is not already an active location . When you do you take a location out of the staging area and put it as the active location. Eventually resolve it "travel" effect but that all. You don't exhaust any one.
+
+When you resolve the quest (on the quest phase) with more willpower that threat you make a quest sucess: any additional willpower is converted into progression counter. You first put them on the active location and if there is more than the value of the location you put the rest on the quest. If you fulfill a location this way it is discarded and you can travel to another location.
+
+It is more clear?
+
+## 8 [hengst2404 on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2968989)
+
+Very much so, thanks! Of course it turns out I made life way too difficult for myself last night, because although I got the active locations issue down, I did not realize that I was still adding the threats of engaged enemies. This means I likely could have gotten through that first quest last night at the very least. What happens to everything in the staging when I flip to a new quest? I have the sinking suspicion that everything remains there to include any enemies I am engaged with. Wow, this one is a more complicated  than I realized game. Certainly tough as a solo game. One question, traveling doesn't exhaust anybody, can I still travel if exhausted?
+
+I am also guessing that for a solo game, ranged attacks are not really a thing? Seems like ranged attacks are designed to help another "player" that is engaged with an enemy, not me. Sound right?
+
+ 
+
+Edited September 5, 2017 by hengst2404
+
+## 9 [BigKahuna on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2969046)
+
+You can always travel to a location in the travel phase irregardless to any standard rule condition bar one, the fact that there is already a location you have traveled to but not cleared (cards can of course change this, but that is always the case).
+
+ 
+
+As for difficulty, it pains me to say but the first quest in the core set, is arguably about as easy as it ever gets (passage through mirkwood).  Wait until you butt heads with the other two core quests or the nefarious Conflict at the Carrock.  This game will have you scratching your head and the only hint I can give you is that there is a deck building solution to all of it.
+
+One thing I would point out is that the second and third quests are super hard, they are actually really poorly balanced for an inclusion into the core set which effectively targets new players. Though I would also argue that you will probably learn to appreciate having quests on your "can't beat list" after a while as the pure joy of solving that deck building puzzle and beating a quest you have spent months trying to figure out is absolutely fantastic.  I stick to my recommendation of playing on easy mode until you get the hang of things and don't bang your head against core set quests too long, they are tough and I mean always tough no matter how good you are or how big your card pool is, they are beasts.  The rest of the first cycle is a lot more manageable and you will find the solutions to those and more importantly you will learn a lot more from them in terms of deck building and good card play that will turn into applicable lessons to quests you get stuck on.
+
+ 
+
+## 10 [Authraw on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2969090)
+
+Sounds like you're using the Tactics starter deck. I think you'll find the other three starter decks to be more useful for solo play. 
+
+## 11 [hengst2404 on September 5, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2969385)
+
+> 2 hours ago, Authraw said:
+> 
+> Sounds like you're using the Tactics starter deck. I think you'll find the other three starter decks to be more useful for solo play. 
+
+Yeah I am going to try it with all of the starter decks, so I can least see how each element works, then I can start to figure out making my own deck to attack the challenges.
+
+## 12 [Schrodinger&#039;s Hat on September 6, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2970157)
+
+All of the starter decks "can" beat the first quest, but some will struggle more than others. The tactics (red) deck is probably the hardest, and the leadership (purple) deck is probably the easiest. Note that if you play on "easy" mode it's actually harder for the tactics deck, as it needs to kill stuff, and easy mode removes some enemies.
+
+Once you've got an idea of how it works, try building some two-colour decks; you can easily make them much stronger than a mono-colour deck with the cards you have. Even with a much bigger cardpool I seldom use mono decks.
+
+Once you've got a handle on the basic mechanics, I'd also suggest playing solo two-handed. That means you just play as though you are two players, with two decks and two hands of cards, revealing two encounter cards etc. It sounds tricky but is actually not that hard, and is my favourite way to play solo. It lets you explore the multiplayer options (like ranged and sentinel), plus you can have each deck focus on something different. For example, you could build a leadership/tactics deck which does the bulk of the fighting, and a spirit/lore deck which concentrates on questing. Those sort of focused decks tend to do better than decks which are trying to do everything.
+
+## 13 [PigsAreOurEquals on September 6, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2970625)
+
+Since you started on the first quest and nooone mentioned it yet. There is a treasure of information on how to deal with the first quests and deckbuild on Beorn's path
+
+:https://hallofbeorn.wordpress.com/beorns-path/ [https://hallofbeorn.wordpress.com/beorns-path/]
+
+I highly recommend it, with it you will find that at least the 2nd quest is beatable in solo with only the core cards.
+Now, the third quest, Escape from Dol Guldur, is even after all these years one of the hardest quests to do in solo. there was a recent poll on this forum where this was confirmed by several of even the most skilled community members.
+
+Edited September 6, 2017 by PigsAreOurEquals
+
+## 14 [hengst2404 on September 6, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2971213)
+
+I will have to bookmark it. My plan for now is not to netdeck and just figure it out as I go along. Netdecking killed Magic the Gathering for me, so I prefer playing in a figure it out as you go fashion, instead of  here is what the pros do. Having said that, some folks hat deck building, so I can appreciate having the option. Also I have not yet tried that third scenario that is supposedly very brutal with only the core cards.
+
+## 15 [PigsAreOurEquals on September 7, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2972326)
+
+> 14 hours ago, hengst2404 said:
+> 
+> I will have to bookmark it. My plan for now is not to netdeck and just figure it out as I go along. Netdecking killed Magic the Gathering for me, so I prefer playing in a figure it out as you go fashion, instead of  here is what the pros do. Having said that, some folks hat deck building, so I can appreciate having the option. Also I have not yet tried that third scenario that is supposedly very brutal with only the core cards.
+
+That's fair and admirable. I just wanted to avoid that you get dissappointed by the initial difficulty. Some new players get turnedoff he game this way. But I agree with you that deckbuilding id half the fun.
+
+## 16 [Rouxxor on September 7, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2972870)
+
+I agree that deckbuilding is part of this game. He is vast enough to enjoy this with pre-made decks (that what part of my friends do ^^) but I personally found even more pleasure to deckbuild that I enjoy do a game.
+
+That was also true in MTG. But I was also a compulsive netdecker. Netdecking and deckbuilding are not opposite since you can make a lot of changes in a deck even if you haven't invented the concept. And, in fact, most of the concept are anyway designed by the developers. Taking a list on the web is the same thing that building a deck with several hands (with friends), or arguing of a deck on the web and taking suggestions. It make even more sense for a cooperative game to build a deck with the ones who were playing with you ^^.
+
+## 17 [hengst2404 on September 8, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2973426)
+
+I hear both of you on that. For me, netdecking completely ruined magic the gathering. It went from my friends and I spending time constructing decks and the most skilled person winning, to somebody going online finding the winning deck and recreating in order to beat us. That and of course people could just go out and buy everything after a while, so that single card marketplace kind of ruined the who random purchase theme. So it became not for me, outside of sealed deck play that I would do in the online version. I played from beta all the way to at least one or two expansions past Ice age and then stopped for a few years. Tried to pick it up again during the onslaught block and was getting stomped by 10 year olds at my FLGS. At that point I decided it was over for me.
+
+I like living card games and especially a game where you are playing against the game and not others. I have netrunner for other players, although that has become tougher as online play eliminates some of the beautiful random games I used to play and enjoy. I will probably stick to this and Arkham LCG for now.
+
+ 
+
+## 18 [Kjeld on September 8, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2973448)
+
+> 28 minutes ago, hengst2404 said:
+> 
+> I played from beta all the way to at least one or two expansions past Ice age and then stopped for a few years. Tried to pick it up again during the onslaught block and was getting stomped by 10 year olds at my FLGS. At that point I decided it was over for me.
+
+So true. I also hated how the meta shifted from an open format that could support multi-player to a narrow focus on tournament-style duels. My fondest memories of the MtG are the big 5- or 6-player games my friends and I would organize every Saturday. The politics and intrigue made all sorts of oddball decks potentially viable, which really spurred creative deckbuilding (and play).
+
+## 19 [hengst2404 on September 8, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2973525)
+
+> 1 hour ago, Kjeld said:
+> 
+> So true. I also hated how the meta shifted from an open format that could support multi-player to a narrow focus on tournament-style duels. My fondest memories of the MtG are the big 5- or 6-player games my friends and I would organize every Saturday. The politics and intrigue made all sorts of oddball decks potentially viable, which really spurred creative deckbuilding (and play).
+
+Why I so loved Jyhad when Wizards of the Coast first released it. The Predator-Prey mechanic was so awesome and the politics were stellar.
+
+## 20 [Rouxxor on September 8, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2973732)
+
+This multi player casual environment never died in MTG. I do this kind of play too... and it was in 2003. And I know several groups of people who still do that. But I know also way more people who stop playing that way. Sometime it is because all their friends stop so they meet new people in event, sometime it is because they want to learn more about this game so they want to understand how professional players built decks and play against more experienced players from whom we can learn to in tournament.
+
+
+
+> It went from my friends and I spending time constructing decks and the most skilled person winning, to somebody going online finding the winning deck and recreating in order to beat us.
+
+
+
+So we were not playing at the same games. He use another tool to get brilliant decklists. If you were doing so you will be back in a mind game and skill environment. This kind of things is of course some comportment who change the face of a game because it is very hard to face someone who take competitive decklist with homemade ones. To me it is still more an opportunity than a dead end since we can gain thousands of hours of testing by taking a decklist and be able to push even more the knowledge by changing some cards and sending this back to the community. It is what keep me in the game, both for MTG and LoTR. We start at the one who netdeck and finish by being the one who get net decked.
+
+About the price of the cards it is another thing, I personally choose that I could play any card I want using a printer so I was able to test any top decks. Even WoTC tell to people to do those proxies to enjoy there game since they know we would buy cards after that to be able to play them in tournament, or just because we usually get so infected by the consumerism society that we want, at the end, to own things we like. They don't fear proxies, the won't stop you to buy all you can at MTG. The only fear that we may feel frustrated and stop playing for any reason :).
+
+## 21 [PocketWraith on September 8, 2017](https://community.fantasyflightgames.com/topic/257609-taking-the-plunge/?do=findComment&comment=2974018)
+
+While I totally respect the decision not to netdeck (I pretty much never do), I will say that it shouldn't be anything like as much of a problem in this game. Since LotR is co-operative rather than competitive, there's no pressure to always be playing the best, most optimal deck. You only need to be playing a deck good enough to beat the quest you're playing, which will always be one of many possibilities. So if you get stuck on a quest, you could consider netdecking what someone else used, and once you've taken it through the quest and seen how it works you could take inspiration from that to find a different route to the same result. So yeah, not netdecking is cool, but I wouldn't be afraid of ruining the game by doing it if you hit a block on a quest.
+

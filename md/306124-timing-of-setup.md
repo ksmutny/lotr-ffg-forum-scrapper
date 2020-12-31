@@ -255,3 +255,176 @@ I feel like the powers that be have commanded Caleb to not rest until we have t
 
 🤣... 😂 ... 😭 ... 😥 ... ☹️ ... 💀
 
+## 26 [Alonewolf87 on April 18, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3928658)
+
+> On 4/15/2020 at 6:59 PM, GrandSpleen said:
+> 
+> You can literally fix all of these problems by keeping Setup effects where they originally were and errata-ing Grey Wanderer to specify that the 1-cost attachment can't be Guarded, right?
+> Why don't we just...
+
+I am engaging in a long back and forth with Caleb about this issue, and he might consider reversing his ruling and going back to the previous handling of player Setup effects. I will keep you posted.
+
+## 27 [AllWingsStandyingBy on April 20, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3929197)
+
+> On 4/18/2020 at 3:08 AM, Alonewolf87 said:
+> 
+> I am engaging in a long back and forth with Caleb about this issue, and he might consider reversing his ruling and going back to the previous handling of player Setup effects. I will keep you posted.
+
+
+["You have MY sword" meme]
+
+## 28 [Alonewolf87 on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930567)
+
+Caleb says he will take some time to check all the rules/rulings again when he has all his material available (since right now he is not going to the office to work) and look at the whole matter again.
+
+One thing he said is that if you Grey Wanderer a Guarded attachment which get some stuff out of the encounter deck which is then put aside during the quest card setup he would imagine that the Guarded attachment is put aside with the encounter card.
+
+## 29 [RogueSeventeen on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930701)
+
+> 4 hours ago, Alonewolf87 said:
+> 
+> Caleb says he will take some time to check all the rules/rulings again when he has all his material available (since right now he is not going to the office to work) and look at the whole matter again.
+> 
+> One thing he said is that if you Grey Wanderer a Guarded attachment which get some stuff out of the encounter deck which is then put aside during the quest card setup he would imagine that the Guarded attachment is put aside with the encounter card.
+
+A grey wanderer guarded card at step 2 is still problematic.  You can easily discard some cards that don't fit the guarded requirements that the quest cards will tell you to search the encounter deck for and you've already reached a null state.  You can still "cheat" guarded cards in for free in quests like Watcher in the Water 1B where you add cards into the staging area until there is X [Threat].  I feel like they're a host of many other quest-specific problems but I can't think of them all off the top of my head.
+
+There is a ruling you can make to fix these issues, avoiding the much abhorred errata of a new card (which is way more of a taboo to designers than players) or disastrous Set-Up changes.  In step 2, when Side A instructs you to put it into play, just sit the guarded card in the staging area.  Then, at the end of step 7, when the quest is set-up and ready, deal it a guarded card.  It's a little wonky, but it fixes every problem and I think it is the truest implementation of how everything is supposed to work.
+
+ 
+
+## 30 [Alonewolf87 on April 24, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930703)
+
+> 6 minutes ago, RogueSeventeen said:
+> 
+> A grey wanderer guarded card at step 2 is still problematic.  You can easily discard some cards that don't fit the guarded requirements that the quest cards will tell you to search the encounter deck for and you've already reached a null state.  You can still "cheat" guarded cards in for free in quests like Watcher in the Water 1B where you add cards into the staging area until there is X [Threat].  I feel like they're a host of many other quest-specific problems but I can't think of them all off the top of my head.
+> 
+> There is a ruling you can make to fix these issues, avoiding the much abhorred errata of a new card (which is way more of a taboo to designers than players) or disastrous Set-Up changes.  In step 2, when Side A instructs you to put it into play, just sit the guarded card in the staging area.  Then, at the end of step 7, when the quest is set-up and ready, deal it a guarded card.  It's a little wonky, but it fixes every problem and I think it is the truest implementation of how everything is supposed to work.
+
+The easiest way, already suggested by lot of people in this forum and which I put to Caleb's attention, to avoid this problem is to put a "no Guarded" restriction to the attachment played through The Grey Wanderer.
+
+## 31 [RogueSeventeen on April 25, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930869)
+
+Yea but they're not going to errata a new card.  Besides we've most likely gotten our last FAQ in 2017.
+
+## 32 [dalestephenson on April 25, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3930924)
+
+> 17 hours ago, RogueSeventeen said:
+> 
+> A grey wanderer guarded card at step 2 is still problematic.  You can easily discard some cards that don't fit the guarded requirements that the quest cards will tell you to search the encounter deck for and you've already reached a null state.  You can still "cheat" guarded cards in for free in quests like Watcher in the Water 1B where you add cards into the staging area until there is X [Threat].  I feel like they're a host of many other quest-specific problems but I can't think of them all off the top of my head.
+> 
+> There is a ruling you can make to fix these issues, avoiding the much abhorred errata of a new card (which is way more of a taboo to designers than players) or disastrous Set-Up changes.  In step 2, when Side A instructs you to put it into play, just sit the guarded card in the staging area.  Then, at the end of step 7, when the quest is set-up and ready, deal it a guarded card.  It's a little wonky, but it fixes every problem and I think it is the truest implementation of how everything is supposed to work.
+
+I wouldn't mind deferring the Guarded effect until the end of set up, but I also think issues that arise from playing a Guarded card at step 2 are not an issue unless they *break* the quest in the player's favor.  Choosing a Guarded attachment with Grey Wanderer is a choice, and if a player choice makes it impossible for the player to win via bad interaction, that's a choice a player should not have taken and is completely avoidable -- much like putting Ungoliant's Spawn in the victory display for Passage Through Mirkwood, there's no need for errata when it's completely avoidable.  Likewise, if some quest interaction lets a Guarded card get into play free or cheaply, good for the player!  That's not game-breaking, it's just good tactics.  But if a Guarded play has the potential to neuter the entire quest (in the player's favor), then it's possible a Grey Wanderer deck could ruin a quest for a whole table by choosing a Guarded card.  Are there any quests that actually fit that description?
+
+There is an annoyance factor with step 2 guarded, though, in that in practice I don't actually shuffle the encounter deck until I *have to*, which means that if I'm searching for cards to set aside I never actually bother shuffling them into the enoucnter deck in the first place.
+
+## 33 [Catastrophic09 on July 31, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3967985)
+
+Setup for contracts should still happen in step 2, it only makes sense and changing it to step 7 messes everything up. I strongly disagree with Caleb's ruling and hope he changes it back-we can of course play how we want but this just annoys me knowing a poor ruling was made that should now be "official". As for Grey Wanderer simply say search your deck for a 1 cost attachment and set it aside, put it into play at the end of setup. There, now there is no issue with any scenario's setup or guarded cards since there wasn't a problem to begin with as there was an encounter deck by step 2.
+
+## 34 [bdavis969 on August 1, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3968320)
+
+I was building a MotK deck with Folco and a hobbit ally turned Hero on ringsDB and noticed the starting threat was 1 point higher, like it wasn’t reducing Folco’s threat for the hobbit ally turned hero. At the current state of doing contract setups in step 7, is that correct that Folco’s threat reduction isn’t recognizing the hobbit ally turned hero? If contracts went back to step 2, would that hobbit ally turned hero then be recognized by Folco?
+
+## 35 [sappidus on August 1, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3968368)
+
+> 3 hours ago, bdavis969 said:
+> 
+> I was building a MotK deck with Folco and a hobbit ally turned Hero on ringsDB and noticed the starting threat was 1 point higher, like it wasn’t reducing Folco’s threat for the hobbit ally turned hero. At the current state of doing contract setups in step 7, is that correct that Folco’s threat reduction isn’t recognizing the hobbit ally turned hero?
+
+Let's say your intended starting heroes are Folco, Gandalf, and MotK-Bilbo. With step #7 contract setup, this is the relevant sequence of events:
+
+ * At step #2, all [printed] heroes are placed simultaneously, so Folco & Gandalf hit the table. Their text is active immediately, so when you then set your starting threat to the sum of their threat costs, Folco takes the one Hobbit hero he can see—himself—into account, and you get 6+14=20
+ * At step #7, MotK's Setup fires. You fetch Bilbo and add the sum of his stats (4) to your starting threat, yielding 24. (Folco's threat cost is now 5, but it doesn't really matter, as the moment in the game where you access his threat cost already passed at step #2. In that sense, it's not much different than putting Sword-thain on a Hobbit ally later in the game.)
+
+So, RingsDB is correct in this case.
+
+ 
+
+> 3 hours ago, bdavis969 said:
+> 
+> If contracts went back to step 2, would that hobbit ally turned hero then be recognized by Folco?
+
+If contract setup were indeed back at step #2, AFAICT it's actually still a little arguable whether the interaction would allow Folco to see the additional Hobbit hero. Intuitively, of course he would, but the way that step #2 and MotK are written, there are two paths I see:
+
+ 1. MotK Setup happens after the regular events of step #2. This essentially leads to the same outcome as the current state of things—Bilbo becomes a hero too late for Folco's lowered threat cost to functionally matter.
+ 2. MotK Setup happens before the regular events of step #2. Now MotK is adding a number to an not-yet-defined starting threat. Even if you assume that "undefined" can be taken as 0, because MotK does not actually define a threat cost for Bilbo, the regular step #2 stuff will then entirely erase whatever you did beforehand, and you'll end up with a starting threat of just Folco & Gandalf, now 5+14=19. This seems incorrect.
+
+If you truly want the MotK hero to enter play at the exact same time as your printed heroes and be perceived exactly like a printed hero for something like Folco (i.e., MotK Setup happening during the regular events of step #2), you'd not only have to have step #2 contract setup, but you'd also have to write MotK differently and make reference to defining the MotK hero's threat cost (and not just adding a number to the starting threat). Or, rewrite step #2 somehow.
+
+## 36 [bdavis969 on August 1, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3968424)
+
+Sappidus, as always, thank you for the explanation.
+
+Correct me if I am wrong, but the benefit to playing MotK in step 7 (in your hero lineup example) is that you get to draw your hand and mulligan if needed before step 7 (trying to make sure you have wizard’s pipe and/or hobbit pipe in your starting hand) and then play MotK during step 7 to play ally Bilbo and use his ability to search for another pipe. So you could start with 2 or more pipes to start round 1? If you moved MotK and hero actions like Thurindir back to step 2, then technically you are drawing their setup (or coming into play) cards before actually drawing your hand?
+
+I have asked this before, but in light of setups being in step 7, could you do The One Ring setup after the MotK setup, giving you the ability to target the MotK ally turned hero with The One Ring (Bilbo in your example)?
+
+## 37 [Catastrophic09 on August 1, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3968519)
+
+It could go either way as mentioned above and Folco is a bit confusing as he doesn't say Setup- instead it's almost a passive ability. Contract rules state "choose one contract to put into play along with his heroes" you immediately then fetch your MotK ally from the contract setup and then get your starting threat which you would now have two hobbit Heroes.. This does interrupt the setup in step 2 and perhaps contract setup should occur after initial heroes are placed and threat set at the end of step 2 and then Folco wouldn't reduce by one extra threat.
+
+The One Ring rules for setup state "This is done immediately after placing starting heroes in your play area" thus you cannot put the One Ring on a MotK ally no matter how you do the contract timing since this setup specifically states to do it immediately where normally when actions happen simultaneously in this game the player chooses the order to resolve.
+
+As for other setup cards that fetch certain cards from your deck-doing it in step 7 of setup instead of 2 is almost always bad because now your MotK can whiff if you drew the ally and your Grey Wanderer can fail to play you 1 cost attachment if its in your hand and now you also have to pay for it..ugh.  Setup in step 2 is the best! Your fetched card is in your hand, no worries about whiffing and the search effects of the cards with setup are doing what they were intended to do. Then in step 5 for drawing and mulliganing ignores the one fetched card since "that player may shuffle the six cards back into his or her deck and draw another set of six cards". The set of six cards excludes the one fetched card.
+
+It all makes the most sense and Contract setup should not be in step 7 of setup!!!
+
+## 38 [MikeGracey on August 2, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3969005)
+
+Does anyone else wish guarded cards should just work with grey wanderer and not trigger guarded? Starting with 1 hero is such a disadvantage that I cant see why you couldn't just grab a 'free' guarded card and still be playing a balanced deck.
+
+Sure Necklace of Girion and Stone of Elostirion would be the most popular picks but at least there would besome competition for strider.
+
+ 
+
+## 39 [GrandSpleen on August 2, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3969013)
+
+Or just errata grey wanderer to specify the attachment can’t be guarded, I’d be happier with it that way. 
+
+## 40 [GrandSpleen on August 2, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3969016)
+
+Or add a faq entry that says if a guarded card enters play while there is no encounter deck, resolve its effect after there is an encounter deck. 
+
+## 41 [wynalazca on August 4, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3969970)
+
+There's a few options the devs could take here.
+
+1) Add a step in the setup rules that says "All setup card effects resolve" and just put it after you do your draw/mulligan - if this happens I'd really like to see MotK and possibly The Grey Wanderer errata'd to say "from deck or hand" so you can always hit your intended target, you can just get unlucky and have to play -1 card at the start of the game when you draw it in your opener.
+
+2) change all of the setup effects to be response effects like Galdor of the Havens. 
+
+As an example for Denethor: "Setup: Add 2 resources to Denethor's resource pool." could become "Response: After Denethor enters play, add 2 resources to his resource pool."
+Now there is more clarity and each card can properly resolve at a specific timing chosen by the devs.
+
+## 42 [MikeGracey on August 5, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3970675)
+
+> On 8/2/2020 at 4:13 PM, GrandSpleen said:
+> 
+> Or just errata grey wanderer to specify the attachment can’t be guarded, I’d be happier with it that way. 
+
+Why wouldn't you want guarded attachments to work for 'free' with grey wanderer?
+
+## 43 [GrandSpleen on August 5, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3970699)
+
+Well, it wouldn't be terrible. My opinion of Grey Wanderer is that its effects simply compensate for the cost of the deckbuilding restrictions, and offers very little else to you. It's just a strong Secrecy support tool. So, changing this into a contract that lets you use guarded attachments for free.... I guess that'd be OK.   
+
+## 44 [dalestephenson on August 6, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3970760)
+
+The encounter deck *does* exist at step two, though.  However, it's not obvious to me that any quest is broken *in the player's favor* by using a Guarded card while fish-out cards are still in the encounter deck, and players breaking *themselves* by choosing a Guarded card doesn't strike me as a problem that has to be solved.  (Though I've always found the "search the encounter deck" instructions on 1A cards pointless, as I never bother putting those cards in the deck in the first place.)
+
+I do think a free Guarded card for Grey Wanderer would not be broken.
+
+## 45 [MikeGracey on August 7, 2020](https://community.fantasyflightgames.com/topic/306124-timing-of-setup/?do=findComment&comment=3971287)
+
+> On 8/5/2020 at 6:53 PM, dalestephenson said:
+> 
+> The encounter deck *does* exist at step two, though.  However, it's not obvious to me that any quest is broken *in the player's favor* by using a Guarded card while fish-out cards are still in the encounter deck, and players breaking *themselves* by choosing a Guarded card doesn't strike me as a problem that has to be solved.  (Though I've always found the "search the encounter deck" instructions on 1A cards pointless, as I never bother putting those cards in the deck in the first place.)
+> 
+> I do think a free Guarded card for Grey Wanderer would not be broken.
+
+I think it would be a fun way to gain immediate access to those powerful cards. In a regular deck it needs the guarded but since the contract allows only 1 hero I think It would be fair, and fun too.
+
+Dain beginning with ring of Thror, Eomer (L) with Orcrist, Bilbo (L) with Stone od Elostirion...
+

@@ -291,3 +291,29 @@ Good question.  I don't know.  The enemy is definitely "in play," but in the i
 
 Gandalf might be able to damage such an enemy since his text simply says the enemy needs to be in play, but something like Hands Upon the Bow, for example, could not, since it specifically says the enemy needs to be in the staging area.
 
+## 26 [Glaurung on November 9, 2014](https://community.fantasyflightgames.com/topic/125830-goblin-sniper-triggers-for-itself/?do=findComment&comment=1328097)
+
+Here is a gap in the rule which bring additional unecessary difficulties… Designers need to clear that point.
+
+## 27 [Jban on November 18, 2014](https://community.fantasyflightgames.com/topic/125830-goblin-sniper-triggers-for-itself/?do=findComment&comment=1338577)
+
+I have been doing some more thinking and this is my conclusion:
+
+ 
+
+"When Revealed" effects are Forced effects that are only triggered one time (upon Revealing), while Forced effects should be triggered every time possible. So I think this would solve it and loses it's ambiguity.
+
+ 
+
+This also includes the revealing moment as one of possible moments to trigger an effect.
+
+ 
+
+Other Ideas?
+
+Edited November 18, 2014 by Jban
+
+## 28 [alogos on November 18, 2014](https://community.fantasyflightgames.com/topic/125830-goblin-sniper-triggers-for-itself/?do=findComment&comment=1338584)
+
+isn't that what is exactly written in the rules ?
+

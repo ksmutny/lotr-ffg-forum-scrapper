@@ -1,0 +1,150 @@
+# [New &quot;Baggins&quot; Sphere](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/)
+
+## 1 [John85 on August 5, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=668927)
+
+For the purposes of speculation, does anyone have thoughts as to whether the Baggins Sphere will be unique to TH: Saga or if it will carry on beyond (limited or unlimited) in the future? I could see it as a "one-shot" so to speak (it appears the designers don't intend the Baggins sphere hero, Bilbo Baggins to be used in quests outside of TH Saga expansion), or one that crops up from time to time in the future (perhaps a future "111 Birthday Quest", or something to that effect), but certainly not in every future AP.
+
+## 2 [richsabre on August 5, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=668946)
+
+ive also wondered this- same about treasure cards. i dont think id want to see more of them unless they are to become a main part of the games decks. its just wasted cards in my opinion, where we could have proper cards instead. if however we shall see them in a manner where we can use them in every deck- them im all for it
+
+rich
+
+ 
+
+## 3 [Nerdmeister on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669167)
+
+I´m not convinced it would be such a bad thing to have TH themed in these regards (Bilbo sphere, treasures), and don´t see it as a flaw that they might only be used for a few scenarios. If you look at it the mirkwood and darrowdelf cycles also have their own themed cards which we don´t see outside those cycles. It might be more obvious in TH with Bilbo sphere and treasures having an obvious impact on those scenarios, but I think that´s just a natural development. Next cycle there might not be such an obvious addition and future cycles after that might have addition at least as obvious.
+
+I´m gonna stop now before this develops into a rant cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+
+## 4 [Pharmboys2013 on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669402)
+
+ I hope i'm wrong, but from what little has been posted so far about the Hobbit box, it appears to be that the baggins sphere will be quest specific and that those cards would have no role if playing a quest from the shadows or mirkwood or darrowdelf cycle
+
+## 5 [mr.thomasschmidt on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669496)
+
+Pharmboys2013 said:
+
+ I hope i'm wrong, but from what little has been posted so far about the Hobbit box, it appears to be that the baggins sphere will be quest specific and that those cards would have no role if playing a quest from the shadows or mirkwood or darrowdelf cycle
+
+
+
+I don't think you are wrong I'm afraid. From the news review 18th of April it's stated "Players can use any of their other The Lord of the Rings cards while playing through the scenarios from The Hobbit, and most of the expansion's cards can be used in any other deck, for any scenario, but The Hobbit also introduces five unique cards specifically designed for the expansion’s scenarios. These include Bilbo Baggins [http://www.fantasyflightgames.com/ffg_content/lotr-lcg/the-hobbit/over-hill-and-under-hill/bilbo-baggins-the-hobbit.png] (The Hobbit: Over Hill and Under Hill, 1), an event with the Baggins sphere of influence, and the new treasure cards. These cards are only intended for use in The Hobbit: Over Hill and Under Hill and a second Saga Expansion, slated to arrive in late 2012, that will relate the second and final half of Bilbo’s adventures.
+
+Hm, to me it looks like its only 5 cards that can't be used outside the TH expansions. But either the Baggins sphere only contains 1 card or somethings strange here. Or? I mean, you get a Baggins sphere hero = Bilbo Baggins, but he's one of the cards that can't be used outside TH. So if there's more Baggins sphere cards, you can't really play them since he's the only hero from that sphere. But then I'd say it's a pretty lousy sphere of 1 card preocupado.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/preocupado.gif] The treasure cards, which I interpret count 3, are encounter cards, or sort of, since they have encounter card logos.
+
+Ouch! Head each here. Now I got the facts I'm just more confused :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Smeone else interpreting this different?
+
+ 
+
+ 
+
+ 
+
+## 6 [John85 on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669510)
+
+mr.thomasschmidt said:
+
+Hm, to me it looks like its only 5 cards that can't be used outside the TH expansions. But either the Baggins sphere only contains 1 card or somethings strange here. Or? I mean, you get a Baggins sphere hero = Bilbo Baggins, but he's one of the cards that can't be used outside TH. So if there's more Baggins sphere cards, you can't really play them since he's the only hero from that sphere. But then I'd say it's a pretty lousy sphere of 1 card preocupado.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/preocupado.gif] The treasure cards, which I interpret count 3, are encounter cards, or sort of, since they have encounter card logos.
+
+Ouch! Head each here. Now I got the facts I'm just more confused :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Smeone else interpreting this different?
+
+
+
+That's how I read it Thomas
+
+## 7 [mr.thomasschmidt on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669516)
+
+John85 said:
+
+mr.thomasschmidt said:
+
+ 
+
+Hm, to me it looks like its only 5 cards that can't be used outside the TH expansions. But either the Baggins sphere only contains 1 card or somethings strange here. Or? I mean, you get a Baggins sphere hero = Bilbo Baggins, but he's one of the cards that can't be used outside TH. So if there's more Baggins sphere cards, you can't really play them since he's the only hero from that sphere. But then I'd say it's a pretty lousy sphere of 1 card preocupado.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/preocupado.gif] The treasure cards, which I interpret count 3, are encounter cards, or sort of, since they have encounter card logos.
+
+Ouch! Head each here. Now I got the facts I'm just more confused :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Smeone else interpreting this different?
+
+ 
+
+ 
+
+That's how I read it Thomas
+
+
+
+So the Baggins sphere is either a lousy 1 card sphere or a sphere with more cards that just can't be played outside TH due to the lack of a right sphere hero. That sounds like a bommer to me. Surely that can't be it???
+
+## 8 [John85 on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669527)
+
+mr.thomasschmidt said:
+
+ 
+
+So the Baggins sphere is either a lousy 1 card sphere or a sphere with more cards that just can't be played outside TH due to the lack of a right sphere hero. That sounds like a bommer to me. Surely that can't be it???
+
+
+
+That's why I hypothesized whether the sphere might pop in and out of future APs without the cards being playable in other quests. Of course without real organized play, I suppose we could play with whatever we wanted (I wouldn't, not in the spirit of the game…)
+
+## 9 [Cunir on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669532)
+
+i suppose eventually we will entire the main story of Lord of the Rings, and they can use the Bilbo sphere again with Frodo. It could even have the same mechanic (if he dies, we lose). and i suppose we might even be able to use the same treasures from the hobbit box as well, because didnt Bilbo pass them on to Frodo before he set off?
+
+## 10 [Mr Coffee on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669586)
+
+Cunir said:
+
+i suppose eventually we will entire the main story of Lord of the Rings, and they can use the Bilbo sphere again with Frodo. It could even have the same mechanic (if he dies, we lose). and i suppose we might even be able to use the same treasures from the hobbit box as well, because didnt Bilbo pass them on to Frodo before he set off?
+
+
+
+ 
+
+This sounds like a solidly logical idea, and I wouldn't mind if they want to devote a few cards for specific ecounters/scenarios/sets…  Yes, it appears the new Baggins Sphere will not be "exportable" to outside quests, but I'm okay with that.  First, it doesn't appear that it's a huge number of cards, just a handful.  And though it seems that would mean you don't do much with the Baggins Sphere, I believe they indicated that the resources generated in the Baggins Sphere will have alternate ways of spending them (based off encounter/quest cards I assume) other than "buying" player cards outright…  While "losing" cards to outside play is disappointing, I can handle a few of them, and actually LOOK FORWARD to seeing what uniques mechanics for spending resources they develop…  New twists to gameply are always welcome (as long as they aren't lame… lol)
+
+## 11 [Nerdmeister on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669621)
+
+I´m sticking with my statement that it´s more than fine for those cards to be TH specific. It makes does scenarios special in that regard.
+
+I´ll choose versatile scenario play over "having" to add powerful cards to my permanent deck building possibilities gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+## 12 [mr.thomasschmidt on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669707)
+
+ I'm actually fine with cards only usable in the TH expansion quests. My reaction was more out of that the Baggins sphere seemed to be a one card sphere rather than a real sphere. One card is badly a sphere IMO. Yes we might get others BUT they would be utterly useless without the Baggins hero and thus invalidate the statement that only 5 cards are unique to the TH quest. But I think I'll stop pondering and just waits and see what turns up in the expansion.
+
+## 13 [Dain Ironfoot on August 6, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669719)
+
+mr.thomasschmidt said:
+
+ I'm actually fine with cards only usable in the TH expansion quests. My reaction was more out of that the Baggins sphere seemed to be a one card sphere rather than a real sphere. One card is badly a sphere IMO. Yes we might get others BUT they would be utterly useless without the Baggins hero and thus invalidate the statement that only 5 cards are unique to the TH quest. But I think I'll stop pondering and just waits and see what turns up in the expansion.
+
+
+
+i'm sure we'll be getting more baggins cards in the second saga expansion, but who really knows? since only bilbo can create baggins resources, it would be silly, i think, to have *too* many baggins cards, as he, by himself (IIRC, you cannot add resources to him via card effects), would never be able to pay for them all.
+
+## 14 [Nerdmeister on August 7, 2012](https://community.fantasyflightgames.com/topic/68606-new-baggins-sphere/?do=findComment&comment=669866)
+
+mr.thomasschmidt said:
+
+ I'm actually fine with cards only usable in the TH expansion quests. My reaction was more out of that the Baggins sphere seemed to be a one card sphere rather than a real sphere. One card is badly a sphere IMO. Yes we might get others BUT they would be utterly useless without the Baggins hero and thus invalidate the statement that only 5 cards are unique to the TH quest. But I think I'll stop pondering and just waits and see what turns up in the expansion.
+
+
+
+From the lotr news archive:
+
+--------------------------------------------------------
+
+Because Bilbo can’t gain resources from player card effects, players will need to make judicious use of these valuable resource tokens.
+
+--------------------------------------------------------
+
+Seems to be all part of ze plan. Unless something goes awry, I´ll have faith in FFG´s handling of this. cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+

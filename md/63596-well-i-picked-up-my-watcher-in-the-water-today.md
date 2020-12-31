@@ -1,0 +1,197 @@
+# [Well, I picked up my Watcher in the Water today! :)](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/)
+
+## 1 [DurinIII on April 25, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=621932)
+
+So, I have no qualms typing up some of the cards and sharing them with you guys, though I don not have a scanner and therefore won't be able to load up any pictures.  Overall, I am really happy with this set!  The Scenario has 2 Quest Cards and is difficulty 5.  The only actual enemy in the deck besides random Tentacles with varying abilities is the Watcher himself.  This is a very thematic scenario!  I am excited to play this one later tonight! 
+
+## 2 [Cotillion37 on April 25, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=621964)
+
+Just went in to my local store, they don't have it in yet :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+What are the Tactics cards in this AP?
+
+## 3 [DurinIII on April 25, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622002)
+
+Rivendell Bow: cost 1. Item. Weapon. Attach to a Noldor or Silvan character, or to Aragorn. Limit 1 per character. Attached character gains ranged. If attached character has a printed ranged keyword, it gets +1 during a ranged attack.  
+
+Watcher of the Bruinen: cost 2. Noldor. Warrior. Wp 1, Att 1, Def 2 HP 2. Sentinel. Watcher of the Bruinen does not exhaust to defend. Forced: After Watcher of the Bruinen defends, either discard it from play or discard 1 card from your hand. 
+
+## 4 [Jekzer on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622115)
+
+What about the Watcher card itself? What stats/actions does it have?
+
+Oh and don't hesitate to make a short report when you play, I'd love to read about experiences/ real difficulty / thematical fitting ! happy.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/happy.gif]
+
+## 5 [DurinIII on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622198)
+
+I have yet to beat this scenario with my primary deck (which by the way has a high win ratio), and I have played 5 games now.  As usual, the Treachery cards in this quest are brutal.  The Watcher is by far the nastiest card in the game. HIs threat is 4, attack 5, defense 7, and Hp 9!  If another tentacle card is in play, he cannot be optionally engaged.  The worst effect he has is this: if the watcher is in the staging area at the end of the combat phase, deal 3 damage to a single character you control.  Overall, as far as solo is concerned, this is one of those badly scaled quests for consistent victory.  I love the theme of it however and will continue to play until I am victorious! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  
+
+## 6 [Bullroarer Took on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622225)
+
+ What kinda of a deck are you playing?  (Spheres etc.)
+
+My copy is in and I'll pick it up later today.
+
+## 7 [DurinIII on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622229)
+
+Right now my primary deck is a Lore/Spirit deck that specializes in low threat.
+
+## 8 [lleimmoen on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622250)
+
+I really wonder why the designers have been talking so much about secrecy in conjuction to this quest. I do not have the pack yet but from what I hear here it does not seem like having super low threat is that much of an advantage as you must fear having the Watcher in the staging area. Does low threat help with the Doors?
+
+## 9 [DurinIII on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622264)
+
+I think the low threat idea is mainly due to how nasty some of the Treachery cards are.  For instance there's this one Treachery card that simple says: doomed 5.  Yikes! That hurts to draw during a Questing phase, I would know! ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]  Enemies tend to stack up quick in this quest as well with rather high contributing threat levels, so the potential to fail Questing phases is higher.  Anyway, these are just a few of my thoughts! 
+
+## 10 [Titan on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622281)
+
+Sounds like this could a job for Tactics. Wonder what I should pair them with when my pack arrives.
+
+## 11 [Bullroarer Took on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622295)
+
+ I just picked up the pack and went through the cards, and I have a hunch that my Three Hunter's/Eagles deck - which can battle like nobody's business - might struggle here.  The tentacle enemies have low engagement values and nasty effects.  For example:
+
+Striking Tentacle "Forced:  When Striking Tentacle attacks, discard the top card of the encounter deck.  If that card has a shadow effect or is a Tentacle enemy, this attack is considered undefended."  Striking Tentacle has a 4 attack value, and there are a lot of tentacles in the encounter deck…
+
+ 
+
+ 
+
+## 12 [DurinIII on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622344)
+
+Yeah guys, this quest is brutal as heck if you don't have either a lot of cards with titles that begin with letters that Encounter cards do (for Durin's Door effect to trigger), or if you don't have a high amount of attack power to deal with the Watcher himself.  These are the only two ways to win the scenario because they are the only 2 cards in the set to have victory points printed on them, and you need 3 victory points to win the last stage.  I don't know if I will beat this one solo for a while.  
+
+## 13 [Bullroarer Took on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622378)
+
+ Thinking about it more, the best way to beat this one with my deck might be to save up my Descendants and have a Gandalf ready for a single turn blitz of the Watcher.  He's got 9 hit points, but regenerates 2 per turn.
+
+## 14 [DurinIII on April 26, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622453)
+
+The Gandalf/Eagle smackdown you mention just might work.  Yeah, 9 hp with 2 regeneration a turn is disgusting!  Plus the added effect of him throwing 3 damage a turn at you while you are trying to avoid him by leaving him in the staging area! This thing is nasty! 
+
+## 15 [Bullroarer Took on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622492)
+
+My strategy worked.  I got both lucky and unlucky with my cards draws, but a Winged Guardian managed to beat a few tentacle attacks off for me while I took the early part of the quest easy trying to build up my cards.  I managed to get all of my Sneak Attacks, but no Gandalf or Descendants.  Then I was at the Doors and there were no tentacles so I engaged the Watcher.  My Guardian gave up the ghost defending, and then Gimli, Legolas and Aragorn attacked, and Gimli had 4 damage on him so I dealt 7 damage.  After regeneration he had 5.  I drew Descendant during the resource phase and so I was able to Sneak Attack my Descendant in for the remaining damage.
+
+So with the right deck this is doable.
+
+## 16 [Angus Lee on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622521)
+
+Bullroarer Took said:
+
+My strategy worked.  I got both lucky and unlucky with my cards draws, but a Winged Guardian managed to beat a few tentacle attacks off for me while I took the early part of the quest easy trying to build up my cards.  I managed to get all of my Sneak Attacks, but no Gandalf or Descendants.  Then I was at the Doors and there were no tentacles so I engaged the Watcher.  My Guardian gave up the ghost defending, and then Gimli, Legolas and Aragorn attacked, and Gimli had 4 damage on him so I dealt 7 damage.  After regeneration he had 5.  I drew Descendant during the resource phase and so I was able to Sneak Attack my Descendant in for the remaining damage.
+
+So with the right deck this is doable.
+
+
+
+If my memory serves, Descendant only deals damage to an enemy in the staging area.  Since you have already engaged the Watcher in the previous turn, unless the Watcher would return to the staging area, Descendant cannot hurt it by its ability.
+
+## 17 [lleimmoen on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622572)
+
+True. Descendant only deals with the staging area. The card is getting much better still with every new quest showing enemies with lower hp - usually 2 or 3.
+
+Anyway, one way to do this would be a Henamarth-Gildor combo, right?
+
+## 18 [Ninjawa2 on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622578)
+
+Unless I have something wrong, it looks like hail of stones could be huge.  How about first turn, play a one cost ally (erk or scout), sneak attack gandalf (for 4 damage) and hail of stones exhausting everyone for a total of 5 more.  I know it requires a lucky card draw in hand but it should work….right?
+
+I was paying flight from moria earlier with beekeepers, descendant of thorndor and gandalf and started to think about just killing the nameless fear because i was getting sick of putting 3 progress on the winning quest card and then getting it swapped or progress removed.  So compared to 27hp, 9 doesn't seem so bad.
+
+## 19 [peterstepon on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622580)
+
+By the sounds of how powerful the watcher is, this scenario sounds hard.  How did it only get a 5 rating?
+
+In addition, did anyone try the "stealth" deck which was highlighted for this pack?  The one using the new strider which will use secrecy through the whole scenario.
+
+## 20 [Bullroarer Took on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622658)
+
+1. Yeah I screwed up playing Descendant there. I still think I would have won, but it depends on what the card draw during the encounter phase was. (I had A Test of Will in my pocket too).
+
+ 
+
+2. I was thinking about the Henemarth/Gildor combo last night and it should work fine.
+
+3. I'm still not getting Secrecy in general, and I've tried to embrace it because I like the Elladan/Elrohir combo. But I just don't think it works yet. The best Secrecy deck I've seen is still Xanalor's which he built before Secrecy cards were even available. (You can find it at BGG, look for "Keep it Secret, Keep it Safe".) Now with regards to this quest, it's really going to struggle because there are SO many tentacle enemies with engagement levels of 12 and 18. They're coming at you and you have to be able to fight them. I haven't tried the posted Loragon deck against this quest though.
+ 
+
+## 21 [The_Fallen_Arises on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622868)
+
+ Yeah…I just looked at the quest and it made me shiver…this one looks like a tough nut to crack ! I guess direct damage is the way to go, especially for some tentacles that have nasty effects if you attack them and reveal a Tentacle encounter card. Even a good Tactics deck could get destroyed by those effects….Direct damage would at least bypass those. A Light In the Dark could also be useful against tentacles if you want to combo with Descendant of Thorondor the following turn.
+
+## 22 [gatharion on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622869)
+
+ Doomed 5 treachery cards and really low threat tentacle enemies seem to make Watcher in the Water a really bad quest to try out secrecy with. Road to Rivendell seems like a much better one to try it with.
+
+## 23 [Bohemond2 on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=622872)
+
+I concur.  Watcher seems built to chew up stealth decks. 8 enemies engage at 12 threat, another 4 engage at 18.  The watcher damages you from the staging area.  Disturbed Waters and Stagnant Creek and both add five to your threat.  And if Ill  Purpose every resolves against a stealth deck it will probably end your game in a turn. 
+
+ 
+
+That being said, I look forward to trying my stealth deck against it tonight.
+
+## 24 [DurinIII on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623003)
+
+I love the enthusiasm Bohemond! ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] 
+
+## 25 [Bohemond2 on April 27, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623012)
+
+It may be misplaced.  My women of Middle Earth deck did not fair well against the tentacled monstrosity.
+
+## 26 [Dwnhmcntryboy on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623029)
+
+ Starting at 27 Threat and gaining 10 and failing to quest by 4. was not a good start.  Failed the first game. Barely won the second. Felt like I did something wrong the second game but cannot put my finger on it.
+
+## 27 [Dam the Man on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623077)
+
+Bohemond said:
+
+It may be misplaced.  My women of Middle Earth deck did not fair well against the tentacled monstrosity.
+
+
+
+This is why anime is bad gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif] .
+
+## 28 [DurinIII on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623122)
+
+It finally occurred to me that you can Forest Snare the Watcher (as long as you are able to engage him for a turn), however this only slightly helps the situation…you still have to kill him once he's snared. 
+
+## 29 [Bullroarer Took on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623220)
+
+Just beat the quest using my Descendant/Gandalf Strategy.  I think that the DF5 is about right.  There are NO surge cards in the entire deck and Questing/Threat management isn't really a problem except for "Disturbed Waters" (Doomed 5).  The tentacles ARE nasty and I actually did more damage to myself this game trying to get rid of a Thrashing Tentacle - three straight tentacle card draws! - than the quest did to me directly.  The other thing is, if you are playing solo you are only revealing at most one enemy per turn (remember, no surges) and so having no tentacles in play isn't that big a deal.
+
+So in conclusion, it's a fun quest, but not particularly difficult.  Managing threat isn't that difficult and there are fairly easy and direct strategies for dealing with The Watcher or The Doors of Durin.  Some great player cards in this expansion too.
+
+## 30 [Glaurung on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623254)
+
+Sure is easy. Every quest lower then 6 or 7 most of the time walk in the park.
+
+But one think i notice about new cycle: solo game now is more easy then 2 player game. RHG is very good example. So maybe WIW also more difficult with more players????
+
+ 
+
+## 31 [guciomir on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623258)
+
+This one is a ***** for solo players, but at the same time is very entertaining. Number 5 does not mean anything (just like 3 for seventh level).
+
+ 
+
+You really need to play tactics sphere so you get access to feint, quick strike and most importantly, hail of stones. Other notable combos that may help you are sneak attack + descendant and sneak attack + gandalf. If you do not play Tactic, you must have Frodo or 5 hit points heroes or otherwise you will be defeated in a couple of turns.
+
+Quest has 2 major areas you need to cover. Firstly, there are a lot of tentacles that you don't want to see engaged with you. The real nightmare is the tentacle that deals 4 undefended damage. Tactic sphere comes very handy here, as well as 5 hit points heroes or Frodo. Then you have tentacles that kill you when you attack them , so direct damage is really helpful here, or once again Frodo. However, if you use Frodo too much,  cards with doomed 5 become an issue.
+
+The second area that must be covered, is to have a plan for an endgame. When Watcher comes into staging area, it is true that for solo player, usually there are no tentacles in play at that point, so watcher can be engaged. However, with 7 defense and 9 hit points (and regenerate 2), it is very hard to take it down in a fair fight. The best weapon you can think of is either one big hail of stones or multiple gandalfs / descendants. Both tactics play very well, assuming you have needed cards. And I believe, a lot of decks will not have them. You can't keep Watcher in staging area too long because it kills 1 character every turn.
+
+## 32 [Bullroarer Took on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623334)
+
+I think we're coming from the same place.  Since I have been stubbornly playing a tactics/eagles deck all this time this one feels easy, but another way to look at it is that, coincidentally, I finally have the right deck.  Also, if you are not a tactics player remember that Lore can handle the end game quite well. This quest most directly compares to Carrock except that you want to be set up to finish either the Doors or the Watcher in a single turn
+
+Regarding the DL, they are always deck and player number dependant.  I still think that this one might be easier solo.
+
+## 33 [Bohemond2 on April 28, 2012](https://community.fantasyflightgames.com/topic/63596-well-i-picked-up-my-watcher-in-the-water-today/?do=findComment&comment=623363)
+
+Shadows of the Past is a colorless card that potentially lets you end stage two in a single turn.
+

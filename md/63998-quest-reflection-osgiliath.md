@@ -1,0 +1,34 @@
+# [Quest Reflection (Osgiliath)](https://community.fantasyflightgames.com/topic/63998-quest-reflection-osgiliath/)
+
+## 1 [lleimmoen on May 3, 2012](https://community.fantasyflightgames.com/topic/63998-quest-reflection-osgiliath/?do=findComment&comment=625518)
+
+Massing at Osgiliath is a special scenario, and not exactly because it is POD. It has a special feel to it. What players that revel in both solo and coop play shall experience is, that unlike many other quests (Dol Guldur or Return to Mirkwood for instance), Osgiliath scales much in favour of the solo play. Not only it is easier to keep the threat level of one player low enough in the beginning (and thus omit the ominous Wolves), with each other player the important Rangers of Ithilien ecounter cards will prove less of an assistance.
+
+Just as scaling is often an issue, the importance of the first round is again a great factor in this quest, just as luck of an opening draw (and first round revelation). Some heroes and cards can solve the opening trouble. Such as Boromir who is best for dealing with multiple enemies. And Blade Mastery is the one card players should seek to have in their opening hand when playing Boromir. To give 2 player game as an example, with Boromir in the line-up it is likely the two Wolves of Mordor shall engage on round 1. Make sure that both engage the Boromir player, play Blade Mastery on Boromir and see him defend and destroy both, taking 2 dagame if you're lucky not having a nasty shadow effect.
+
+Dúnhere is another combatant who can be in his prime at Osgiliath where many enemies engage at high threat values. And making Dúnhere stronger is constantly getting easier with new cards broadening the players' pool.
+
+Osgiliath is not one-sided into fighting by any means. Beside the Witch-king most enemies are neither very strong nor too sturdy. It is the questing odds that often need to be overcome. The initial threat is 4 times the number of players and "doomed" and "surge" effects swarm the encounter cards; and cancelling "when revealed" will be of little help against either. It is not to say that A Test of Will will be of no use, but more often than not, it shall not be a definite answer to treachery cards.
+
+The following fact is what makes Osgiliath most special among the current scenarios. It is that the encounter and shadow effects vary considerably in their potency throughout the game. In some quests, there are few deadly cards to always fear. Here a card which is most dreadful at the start can be most welcome later. Just to give a few examples, Dark Pursuit is often devastating on round 1 but more than pleasant in the end-game. Wolves of Mordor and Captured Watch-tower's shadow effects are easy when taking undefended attack from Snaga Scouts but can ruin the game when defending against the Witch-king. The poisonous location is no matter during the staging but can kill a number of Rohan forces after being revealed as a shadow effect (West Road Traveller is a proper answer to this one - but it is hard to have her handy especially with Cut Off! about).
+
+As for a few prominent strategies, scouting with Denethor and Henamarth Riversong may be very useful (especially in avoiding disastrous shadow effects and anticipating varied outcomes of the staging in order not to exhaust too many characters for questing, or not to become too rushed with progress before the Rangers come to aid the party). And so shall the Dwarven synergies boosting both willpower and attack.
+
+Further to the benefit of the design of Massing at Osgiliath, the finale is often exciting, especially in solo play where it is not easy to quest hard enough and at the same time fend off the Witch-king repeatedly. With more players, the road to stage four shall be more bumpy but the retreat to Minas Tirith less risky.
+
+ 
+
+## 2 [DurinIII on May 3, 2012](https://community.fantasyflightgames.com/topic/63998-quest-reflection-osgiliath/?do=findComment&comment=625789)
+
+Some cool thoughts and descriptions there man!  I enjoy hearing of other people's Quest experiences. I haven't played Osgiliath solo except for a few times, and I lost every game.  I find it to be the most difficult Quest so far for solo play but I do not regret buying it at all!  I freaking love the art on every card, and the simple prospect of eventually beating it one day is a happy thought. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] 
+
+## 3 [lleimmoen on May 4, 2012](https://community.fantasyflightgames.com/topic/63998-quest-reflection-osgiliath/?do=findComment&comment=625826)
+
+I can give a more specific tip for a deck that should do well, which in this case is perhaps 33% winning rate, I would guess. Denethor and the Hobbits work well. The initial questing is a big problem; when this gets going however, it is a walk.
+
+Here for the hints (very personal, surely one of many but proven over many games): look for Bofur in the opening hand, play him for one resource on round one during the quest phase - but before staging to avoid Cut Off! The dilemma goes on though, you do not want to quest successfuly but you must not fall much behind so your threat does not reach 27 immediately. Erebor Hammersmith is the other dwarf to use in this deck to recycle Good Meal (as talked about much elsewhere). The locations will often be a problem as they are hard to travel to. Lore-Spirit has many answers though, use Strider's Path for Ruins of Osgiliath before crossing, and for Captured Watch Tower later. West Road Traveller allows to activate an otherwise illegal location. Northern Tracker and the Riddermark's Finest can both get rid of locations without travelling. Henamarth Riversong is a must-have in this deck. So is the Galadhrim's Greeting which should help you avoid many a fight. For combat though, use Mirkwood Runner and A Burning Brand for Denethor; put every copy of Unexpected Courage on Denethor so he can scout repeatedly and defend occasionaly. The second copy of A Burning Brand may go to Bilbo but you may as well keep it for the Protector of Lórien - another must-have to boost questing. This deck is slow but when it survives the opening, it shall be able to keep the threat low over many rounds and draw many cards.
+
+As for my results with this deck, I lose often in the opening rounds, I think that is hard to avoid unless your set up hand is very good. And even then a really unlucky staging or the shadow card for Snaga - who you shall probably let undefended - can kill you. The best opening is probably Henamarth, Bofur, Strider's Path, Galadhrim's Greeting, so check for those in your hand. If you can play both Bofur and Henamarth and quest only with Frodo and Bofur, Bilbo and Henamarth can kill the Snaga. You just must not reach 27 by then so the Wolves don't jump upon you. Well, that's about it for now.
+
+Thanks for reading!
+

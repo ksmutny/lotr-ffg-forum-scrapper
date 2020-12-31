@@ -1,0 +1,16 @@
+# [Canon in LCG](https://community.fantasyflightgames.com/topic/311608-canon-in-lcg/)
+
+## 1 [CEOWolf on October 1, 2020](https://community.fantasyflightgames.com/topic/311608-canon-in-lcg/?do=findComment&comment=3996070)
+
+So been playing digital adaption and I seen campaigns for the rl game and now by canon I'm talking about if the card game 'higher' then the books? Cuz I never read books but I get the impression undead weren't running around yet Sauron is dubbed The Necromancer in Hobbit and a few campaigns have you fight ghosties and zombies.
+
+## 2 [Fredmans74 on October 1, 2020](https://community.fantasyflightgames.com/topic/311608-canon-in-lcg/?do=findComment&comment=3996239)
+
+It is quite safe to say that the whole modern D&D/RPG concept of Necromancy and Undead was not in Tolkien's mind when he wrote his books. Yet there is undeniably a quite widespread use of undead spirits.
+
+If we stick to the LotR, there is as soon as we leave The Shire the Barrow-downs which are home to the barrow-wraiths. There are of course the Ring-wraiths. Then there are The Dead Marshes with its corpse-lights. And finally, we have the whole Army of the Dead business. I guess the Undead spirits go well with the overarching "spirit" discourse set by Tolkien. Maiar, both good and evil, are often described in spirit terms themselves, as is the whole soul/spirit - body construct. The temporal body/eternal soul dynamic seems to fit the living/undead theme.
+
+As to the Hobbit, it was written before even the concept of Sauron and the Second and Third Age was fleshed out. I doubt that the nature of The Necromancer was known even to Tolkien at that time. When The Necromancer in Mirkwood was revisited during the writing of LotR, it became Sauron and took on a different character.
+
+Finally, you should give the books a try.
+

@@ -1,0 +1,770 @@
+# [New Dunedain cards... suck!!!](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/)
+
+## 1 [leptokurt on August 24, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752851)
+
+So, am I the only one who is pretty much underwhelmed by the new Dunedain cards? I'm talking about TLR and the first two adveture set, but the the other spoilered cards don't make me feel much better about the Dunedain trait. The whole concept of getting benefits from being engaged with enemies sounds cool, but does it work? IMO it doesn't, slaying an enemy or totally avoiding him is (almost) always the better approach (especially when you get a scenario that totally mocks this brand new concept - yes, I'm looking at you, Wastes of Eriador!).
+
+ 
+
+I don't see a chance of playing any of these new cards in solo mode. Perhaps the concept works better in multiplayer? Also, I ask myself why they're building this concept around lore and leadership instead of tactics. I mean. Isn't tactics the sphere that should get benefits from fighting enemies? And why are most of these cards so expensive? There are only a couple of allies that cost less than 3. That makes building a themed deck almost impossible.
+
+ 
+
+Another problem is that the concepts for Rangers and Dunedain have no synergies. They even contradict each other, ao the player cannot build a deck around both traits. Either it is traps, or it is keeping your enemies engaged (but ok, Forest Trap, you're a good boy!).
+
+ 
+
+I am disappointed, I already thought that the old Faramir hero was a low point in card design, but these new cards seem to follow that trend, too. It doesn't help that we get crazy powerful cards for other traits in each pack.
+
+## 2 [John Constantine on August 24, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752859)
+
+I would like to discuss that with you. Can you provide some specific analysis to a couple of cards you find most underwhelming?
+
+## 3 [Bullroarer Took on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752873)
+
+When they gave us a bunch of cards together with obvious synergy people complained that FFG was building decks for us.  So now it looks like they are spreading the cards out and letting us think we are discovering the synergies they built into the set.  Don't judge until the set is finished.  At this time I agree that the Dunedain trait seems week so far.
+
+## 4 [Lecitadin on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752879)
+
+Yeah, Dunedain is a work of progress. I hope that one day it will be as 'completed' as Dwarves, Outlands or Eagles or even Ents. 
+
+Also, it may be frustrating to wait for Dunedain, because Aragorn is of that trait, and he is often used by players (I think).
+
+Edited August 24, 2015 by Lecitadin
+
+## 5 [Teamjimby on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752884)
+
+I agree with you that it feels underdeveloped at the moment, but I'd recommend waiting until the whole cycle is out before casting judgement.  So far my best Dunedain deck has been Halbarad, Sam, and Pippin where you can take advantage of engaging multiple enemies by pumping up Sam and drawing extra cards.  But like you said, this isn't particularly effective in solo and other than the expensive Forest Snare, it's punishing to remain engaged with enemies.
+
+ 
+
+As for some of the specific cards:
+
+ * Halbarad I think is the key to Dunedain decks right now.  He's leadership and allows you to engage several enemies at once.
+ * Dunedain Hunter is great, especially if you are using Mablung, Halbarad, or Pippin. 
+ * I love playing Ranger Summons.  Sometimes it's a wasted card and it's value is minimal in solo, but it's so much fun.  Can be effective in decks with scrying.
+ * Weather Hills Watchman, Sarn Ford Sentry, East Road Ranger, and Warden of Annuminas are currently too expensive.  If they release more cards that function like Forest Snare, these guys might become affordable via Heir of Valandil.
+ * Ranger of Cardolan is decent.  I'm not sure about his ambush ability (like a worse version of feint), but at least he is neutral so his cost is more manageable.
+ * Descendants of Kings has the potential to be very strong.  Even if you are only readying 2 characters, that can be really strong especially if you have some signals on Halbarad.
+
+Long story short, I'm hoping there are unspoiled cards in the remaining 4 APs that help you remain engaged with enemies.  At that point Dunedain could be strong in multiplayer and at least average in solo.
+
+## 6 [Pharmboys2013 on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752918)
+
+I know what you mean.  I'm telling myself I dont want to fully judge the trait until the whole cycle is released, but my very initial concern when we got news about lost realm and the dunedain was if the goal is to keep all these enemies engaged with us, how are we going to safely and consistently defend all of them? That answer still hasnt really revealed itself. (although the new event descendant of kings is a step in the right direction for this).  I think the bigger issue isnt so much how dunedain cards "suck" (which i dont believe they do) but that theres a discrepancy between how that archeytpe revolves and how we're equipped to handle it
+
+ 
+
+And by discrepancy and what we're equipped for, i mean I personally feel that between Willpower, Attack, and Defense...Defense is the most rare.  Since I dont have anything better to do tonight, after i wrote that last sentence I went on our friendly neighborhood hall of beorn search engine and totaled the stats of every hero we have so far (making a few presumptions like the stat bonuses for Elladan and Elrohir and counting tactics Merry as 1 attack since thats the least possible he could have despite having a 0 printed). The totals were as follows:
+
+Willpower: 114
+
+Attack: 125
+
+Defense: 112
+
+So Defense is literally is the rarest stat (among heroes) tho not by much...unlike willpower and attack however, Defense is only used by one character at a time against a single enemy.  I know this is an obvious point for anyone who has played the game even once, but to drive the point home,  a willpower of 2 on a hero isnt considered a bad stat since it can be part of a cumulative total of all the characters contributing to the 1 quest.  Attack of 2 is ok once again since you can have several characters gang up to ensure you can kill that 1 nasty enemy.  A defense of 2 however is really not that great.  No other characters can help that character defend (unless you use that core tactics event no one ever plays) and between the strong enemies we have now, terrible shadow cards, and all the other direct damage effects the encounter deck deals between treacheries and archery, that character can probably only take 1 or 2 hits before dying.  Going back to all our heroes, there are only 8 of our 62 heroes who have a defense of 3 or higher (22 with with attack of 3 or higher and also 8 with willpower of 3 or higher).  
+
+ 
+
+I think Dunedain also looks bad in comparison to the other traits that has gotten some more fleshing out recently like Ents which are just absolutely amazing, some Rohan with the last two saga expansions, and even the victory display mechanic which Rossiel has seemingly turned into an interesting and viable gameplay option.
+
+ 
+
+Lastly I dont mind that the Dunedain dont feel all there (yet...hopefully) because I truly appreciate that the designers have created archetypes and factions that provide unique and different ways of playing instead of just straight powercreep (Ents are trying to prove me wrong on that point tho)
+
+Edited August 24, 2015 by Pharmboys2013
+
+## 7 [John Constantine on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752928)
+
+> When they gave us a bunch of cards together with obvious synergy people complained that FFG was building decks for us.  So now it looks like they are spreading the cards out and letting us think we are discovering the synergies they built into the set.  Don't judge until the set is finished.  At this time I agree that the Dunedain trait seems week so far.
+
+I wouldn't go that far to call myself "the people", and I didn't complained, I merely stated that I did not liked that approach.
+
+ 
+
+And I am currently pretty happy with the Dunedain stuff we were getting. I can see the potential, and there is definetely something going on already. 
+
+## 8 [Gizlivadi on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752932)
+
+I agree that the Dúnedain archetype is not quite there yet, at least for solo, but I'm hopeful it will be after this cycle is complete. In Battle of Carn Dum we'll get a new Dunadan hero and in Dread Realm we'll get that Leadership weapon.
+
+## 9 [PocketWraith on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752976)
+
+>  * Weather Hills Watchman, Sarn Ford Sentry, East Road Ranger, and Warden of Annuminas are currently too expensive.  If they release more cards that function like Forest Snare, these guys might become affordable via Heir of Valandil.
+>  * Ranger of Cardolan is decent.  I'm not sure about his ambush ability (like a worse version of feint), but at least he is neutral so his cost is more manageable.
+
+Ranger and Warden are debatable, but the Watchman and Sentry are definitely not too expensive. The Watchman is a pretty standard statline for 2 Ld resources and a potentially useful ability, while the Sentry is good cost-to-willpower for Lore and also has a potentially useful ability.
+
+And in what way is Range of Cardolan's ability like Feint? :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+
+## 10 [Iron Lung on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1752988)
+
+Wholeheartedly agree. I love the dunedain theme and their strategy makes sense with the lore. They just don't have what it takes to defend all those enemies they're supposed to be engaging. If anything the ithilien rangers look like they'll be the ones to play with damrod releasing.
+
+Edited August 24, 2015 by Iron Lung
+
+## 11 [Teamjimby on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753005)
+
+>  
+> 
+> >  * Weather Hills Watchman, Sarn Ford Sentry, East Road Ranger, and Warden of Annuminas are currently too expensive.  If they release more cards that function like Forest Snare, these guys might become affordable via Heir of Valandil.
+> >  * Ranger of Cardolan is decent.  I'm not sure about his ambush ability (like a worse version of feint), but at least he is neutral so his cost is more manageable.
+> 
+> Ranger and Warden are debatable, but the Watchman and Sentry are definitely not too expensive. The Watchman is a pretty standard statline for 2 Ld resources and a potentially useful ability, while the Sentry is good cost-to-willpower for Lore and also has a potentially useful ability.
+> 
+> And in what way is Range of Cardolan's ability like Feint? :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+
+I think the Sentry seems too expensive because I'm always using my lore resources for the Forest Snares.  Watchman isn't too bad, but he's more or less a Guard of the Citadel which is never played anymore.
+
+ 
+
+Ranger of Cardolan is like a feint because you pay one resource, have him block an attack, then he goes away.  So you are paying one card and one resource to block an attack.  You could use him to attack (or possibly both with Descendants of Kings), but I think most of the time he would be blocking.  It's worse than feint because you still have to deal with attacking effects and shadow cards and you can only use it to block enemies engaged with you.
+
+## 12 [Seastan on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753041)
+
+>  
+> 
+> >  
+> > 
+> > >  * Weather Hills Watchman, Sarn Ford Sentry, East Road Ranger, and Warden of Annuminas are currently too expensive.  If they release more cards that function like Forest Snare, these guys might become affordable via Heir of Valandil.
+> > >  * Ranger of Cardolan is decent.  I'm not sure about his ambush ability (like a worse version of feint), but at least he is neutral so his cost is more manageable.
+> > 
+> > Ranger and Warden are debatable, but the Watchman and Sentry are definitely not too expensive. The Watchman is a pretty standard statline for 2 Ld resources and a potentially useful ability, while the Sentry is good cost-to-willpower for Lore and also has a potentially useful ability.
+> > 
+> > And in what way is Range of Cardolan's ability like Feint? :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+> 
+> I think the Sentry seems too expensive because I'm always using my lore resources for the Forest Snares.  Watchman isn't too bad, but he's more or less a Guard of the Citadel which is never played anymore.
+> 
+>  
+> 
+> Ranger of Cardolan is like a feint because you pay one resource, have him block an attack, then he goes away.  So you are paying one card and one resource to block an attack.  You could use him to attack (or possibly both with Descendants of Kings), but I think most of the time he would be blocking.  It's worse than feint because you still have to deal with attacking effects and shadow cards and you can only use it to block enemies engaged with you.
+> 
+>  
+
+ 
+
+You can make him better than feint in the right deck though. This guys has done wonders for decks involving A Very Good Tale.
+
+ 
+
+1. Engage an enemy
+
+2. Put down 2 Rangers of Cardolan for 2 resources
+
+3. Block/attack with them
+
+4. Ready them in the refresh phase and use them for A Very Good Tale before they come back to your hand
+
+ 
+
+You block 2 attacks and get up to 8 resources worth of allies for the cost of 2. It actually works well in Dunedain decks with their high cost allies. 
+
+Edited August 25, 2015 by Seastan
+
+## 13 [Teamjimby on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753072)
+
+Sure, you can use them for a Very Good Tale (assuming they don't die while blocking).  I was just giving a 1 sentence opinion and didn't get into every possible use.  It would be nice if they returned to hand instead of getting shuffled into the deck.
+
+## 14 [Bullroarer Took on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753096)
+
+> > When they gave us a bunch of cards together with obvious synergy people complained that FFG was building decks for us.  So now it looks like they are spreading the cards out and letting us think we are discovering the synergies they built into the set.  Don't judge until the set is finished.  At this time I agree that the Dunedain trait seems week so far.
+> 
+> I wouldn't go that far to call myself "the people", and I didn't complained, I merely stated that I did not liked that approach.
+> 
+>  
+> 
+> And I am currently pretty happy with the Dunedain stuff we were getting. I can see the potential, and there is definetely something going on already.
+
+Well you can take all the credit if you want, but there were a number of people who didn't like it and we're pretty explicit about it.
+
+## 15 [PsychoRocka on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753109)
+
+I agree that the Watchman is not overcosted, the Sentry isn't really too bad either. Warden is for sure and Ranger is not expensive but simply too vanilla without his ability (which isn't the best either, if he went back to hand it would be far stronger, having him shuffled back into your deck makes this ability eh).
+
+ 
+
+I think that because you will more or less definitely have Heir of Valandil in a Dunedain deck and it can reduce the cost of an ally up to 3 or more if you have a handful of engaged enemies (usually this won't be more than one or two though I think) they are making all dunedain allies carefully with this attachment in mind which is unfortunate because it means they can't be too cheap or Heir will make them even cheaper and a bit too strong so instead we are seeing allies that are potentially overcosted (or at the least definitely not cheap/undercosted) without Heir but very playable if Heir reduces their cost even just by a single point. 
+
+ 
+
+I actually really dislike the card Heirs of Valandil as instead of just reducing cost by 1 (for one ally a turn) like O Lorien it can reduce cost by 3 or 4 and make an ally free which means their cost when not using Heir of Valandil needs to be far more carefully looked at and decided upon. In a way they need to be overcosted so Heir will not make them way too cheap.
+
+Just my two cents. I agree that dunedain are fairly weak (except for certain cards which shine, Dunedain Hunter, Descendants of Kings, Halbarad to an extent) as they are now but they will still be getting a handful of cards and could shape up nicely. 
+It is definitely nice to have more trait mechanics and a new deck type that is slowly emerging even if it is a little weak so far.
+
+Look at ents, we got Booming Ent and Wandering Ent way back and as good as they can be people were divided, now ents are ridiculously strong. 
+
+## 16 [Seastan on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753268)
+
+I do agree that the Dunedain playstyle seems counter intuitive to success (you want your enemies dead, not sticking around), but so did Silvans early on (you want your allies in play not in your hand).
+
+ 
+
+We are only at 2/6 APs for the cycle. To put that in the perspective of the Ringmaker cycle, it'd be like building a Silvan deck without Haldir, O Lorien, Galadriel, and many other allies/events. Maybe we just need to be patient.
+
+## 17 [PocketWraith on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753593)
+
+>  
+> 
+> >  
+> > 
+> > >  * Weather Hills Watchman, Sarn Ford Sentry, East Road Ranger, and Warden of Annuminas are currently too expensive.  If they release more cards that function like Forest Snare, these guys might become affordable via Heir of Valandil.
+> > >  * Ranger of Cardolan is decent.  I'm not sure about his ambush ability (like a worse version of feint), but at least he is neutral so his cost is more manageable.
+> > 
+> > Ranger and Warden are debatable, but the Watchman and Sentry are definitely not too expensive. The Watchman is a pretty standard statline for 2 Ld resources and a potentially useful ability, while the Sentry is good cost-to-willpower for Lore and also has a potentially useful ability.
+> > 
+> > And in what way is Range of Cardolan's ability like Feint? :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+> 
+> I think the Sentry seems too expensive because I'm always using my lore resources for the Forest Snares.  Watchman isn't too bad, but he's more or less a Guard of the Citadel which is never played anymore.
+> 
+>  
+> 
+> Ranger of Cardolan is like a feint because you pay one resource, have him block an attack, then he goes away.  So you are paying one card and one resource to block an attack.  You could use him to attack (or possibly both with Descendants of Kings), but I think most of the time he would be blocking.  It's worse than feint because you still have to deal with attacking effects and shadow cards and you can only use it to block enemies engaged with you.
+> 
+>  
+
+The reason Guard of the Citadel is never played any more is because he has no ability. Add an ability to that statline and you get the Naith Guide, who gets played a lot (and has one less hit point, which can be quite relevant now). The Watchman's ability has less general use than the Guide, but if you build a deck somewhat around signals, it's great. As to the Sentry, if I'm intending to Forest Snare my enemies, I'll make sure to have plenty of Lore resources, quite possibly putting Steward on a Lore hero. If I don't have that many Lore resources, I won't use the Snares, but might well still keep the Sentry.
+
+ 
+
+But that's a gross oversimplification of the ability, especially given that we have quite a few ways of engaging enemies outside of the encounter phase to give him even more flexibility to go with his well-balanced stats.
+
+ 
+
+ 
+
+The Warden of Annuminas, on the other hand, has two big issues from my perspective. One is that he has to compete with the Northern Tracker - same cost, comparable stats, much easier ability to make use of. The other is that his big thing is supposed to be gaining willpower, but he starts at 0. I have the same difficulty with the Harbour Master - it means you really need to focus very hard on triggering that boost to get good use out of it and ensure you wouldn't be better off just using the other, non-variable, stats. If the Warden had a base willpower of 2, he could be great, and actually provide more credible competition for the Tracker when you want straight up willpower rather than location control. But as it is, given the 3 card limit, without help from other decks you can get 3 safe snared enemies, and you need that full 3 just to make the Warden's ability more worthwhile than his combat stats.
+
+## 18 [John Constantine on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753621)
+
+Guard of the Citadel can be easily played in a Gondor deck. He will be staple there, even. With Leadership Boromir and Visionary Leadership, he is 2/2/0/2, which is a good deal for 2 resources.
+
+## 19 [leptokurt on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753622)
+
+> I would like to discuss that with you. Can you provide some specific analysis to a couple of cards you find most underwhelming?
+
+Well, I don't sit in a lab, so you won't get a deeper analysis. However, I played a couple of games in which these new cards didn't work out that well.
+
+ 
+
+Halbarad is a hero that I actually like. He can solve a lot of the problems by attacing one or two Dunedain Warnings.
+
+ 
+
+Tactics Aragorn is built to destroy enemies, not to keep them around. Besides he is the weakest version of Aragorn published so far.
+
+ 
+
+Weatherhills Watchman ain't too bad, but he's not very useful either. Especially when you want to pay Sword that was Broken or Faramir first.
+
+ 
+
+Heir of Valandil isn't worth the money. Not sure why it is a two cost card?
+
+ 
+
+Sarn Ford Sentry is ok, but expensive. However, he is one of the few allies that offers 2 WP, so including him is a must.
+
+ 
+
+East Road Ranger is just mediocre, her special ability isn't worth the price.
+
+ 
+
+Ranger of Cardolan is one of the cooler cards, as his special ability indeed fuels the Dunedain trait.
+
+ 
+
+Descendant of Kings is an ok card, but we already have a lot of readying effects available.
+
+ 
+
+Ranger of the North is too dependant on luck and more useful for multiplayer or small encounter decks.
+
+ 
+
+Gimli is an ally who fits nicely into the theme. Unfortunatly he is not Dunedain...
+
+ 
+
+ 
+
+And so on...
+
+ 
+
+ 
+
+The problem to me is that the new cards are not good enough to handle the enemies engaged with you. If you use your heroes to block, you loose too much WP - the allies don't offer a lot in this department. What I miss is some cheap chump blockers. The other problem is that it takes too much time to build your forces. Forest Snare is a killer in this deck, but it already costs 3 resources. That way you are stalling your progress even more.
+
+## 20 [Olorin93 on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1753688)
+
+I don't think there's much point in bashing a trait that hasn't been fully developed. Silvan didn't become viable until the whole cycle was out, and now it's one of the strongest archetypes around. We haven't exactly seen much Noldor so far, for a cycle that promises to make that playable. I'm expecting lots of elf goodness in the latter half of the cycle. For comparison: there are 16 Silvan allies including Legolas, but only 13 Noldor (and two of them are Elrond and Galadriel, who I vastly prefer as heroes) and 12 Dúnedain allies.
+
+ 
+
+> Tactics Aragorn is built to destroy enemies, not to keep them around. Besides he is the weakest version of Aragorn published so far.
+
+Disagree. Tactics Aragorn is phenomenal in a combat-focused deck. I think Loragorn is the most powerful version, followed by Tactics.
+
+## 21 [John Constantine on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754069)
+
+Well, OK, let's compare our notes on those cards then:
+
+ 
+
+Halbarad is cool indeed. Action advantage and innate synergy with all the Dunedain stuff.
+
+ 
+
+Tactics Aragorn works fine with the Dunedain syngery from my standpoint. You swap out enemies, keeping roughly the same counter of them in your engagement. I don't quite get why you consider him the weakest, he seems pretty strong to me.
+
+ 
+
+Weatherhill Watchman is pretty good. He can make Ranger Summons happen sooner, he also can fetch some Warnings and stuff, if you're running any. And his stat block is regular for a 2-cost Leadership ally. Certainly not bad.
+
+ 
+
+Heir of Valandil is not worth the money if you can't consistently keep enemies engaged. If you can, however, then it worth every bit spent on it.
+
+ 
+
+Sarn Ford Sentry is super cute <3 She's also a decent quester and gives you cards if you happen to have some friends around :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] What's not to like?
+
+ 
+
+East Road Ranger is funny, because her title says ranger, but she's actually a scout. Seriously, she has a decent stats for her cost, plus you get a buttload of willpower if you get involved in any sidequests. Which are a lot in this new cycle, plus you can play them yourself, which is not to be overlooked either.
+
+ 
+
+Ranger of Cardolan is amazing. He has extremely good stats for his cost and being neutral, and to top it off, he has extremely useful ability.
+
+ 
+
+Descendants of Kings is an amazing card an is unrivaled by anything currently in the game. If you're using it, you'll probably have at least 2 Dunedain heroes around. All Dunedain heroes have from decent to strong stats, which is a key point here. Plus, you're paying only 1 resource for this. 
+
+ 
+
+Yeah, Ranger Summons is a gamble. I advise including Shadow of the Past to make is less of a gamble.
+
+ 
+
+Yeah, Gimli is not Dunedain, but I can't see how including 1-2 copies of him would hurt your Dunedain deck :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 22 [Mndela on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754213)
+
+> Yeah, Dunedain is a work of progress. I hope that one day it will be as 'completed' as Dwarves, Outlands or Eagles or even Ents. 
+> 
+> Also, it may be frustrating to wait for Dunedain, because Aragorn is of that trait, and he is often used by players (I think).
+
+ 
+
+Your avatar is very ugly, man
+
+## 23 [Authraw on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754449)
+
+I'm finding that I enjoy including some of the Dunedain cards in my other decks. They work especially well with the Gondor Rangers, actually, especially Mablung and Damrod. Hobbits, too.
+
+Even if the trait isn't ready yet for just sticking all the Dunedain cards together in a single deck, I'm finding them to be a useful "splash trait".
+
+## 24 [Mndela on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754582)
+
+I don't mind to wait still more dunedain cards making the trait more convincent. We waited for silvan trait around 3 years.
+
+ 
+
+PD: i love when a useless cards become usefull cards when new ones with same trait foment old ones making them better. For example, Tracker Silvan, Son of Arnor...
+
+Edited August 25, 2015 by Mndela
+
+## 25 [Bullroarer Took on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754846)
+
+Today's announcement answers many questions in my mind. The pace we have been receiving cards for both the Noldor and Dunedain hasn't really been high enough to fully develop those traits. We have been receiving a lot of cards that probably should have gone into the ToS box, but wouldn't fit. So now we learn we are staying north and with the Dunedain & Noldor themes. It might take a while, but we're going to get there.
+
+## 26 [Eu8L1ch on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1754974)
+
+In my opnion, right now Dunedain, intended as a trait-based mechanic, are not good, not even for multiplayer.
+
+However, an effect like Descendant of Kings is exactly what they need to be effective, since it does not just trigger off engaging enemies, it helps a deck actually dealing with the engaged enemies and does so scaling with the number you have engaged.
+
+I say let's wait before judging Dunedain: a few cards like Descendant of Kings and they might well become a poweful trait.
+
+Edited August 25, 2015 by Eu8L1ch
+
+## 27 [FetaCheese on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1755342)
+
+We need a strong dunedain defender or some other similarly defensive option. Modern quests have enemies that can really mess up with you fast, even if you have engaged only one so taking more than that is very dangerous, and more than 2 is suicide. They are very splashable however.
+
+## 28 [Glowwyrm on August 25, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1755384)
+
+So they don't suck, but they do need some more development.
+
+Sadly, I don't ever think they'll be great solo, just because there won't be enough enemies to go around and they take some time to build up.  I've experimented with loads of different Dunedain solo builds, and while they can hold their own against some of the older quests where you can take your time, they get killed on quests that force you to ramp up quickly.
+
+In multiplayer, though, they can be very good.  You really need three to four engaged with you to reach their potential, and they have to be the right kind of enemies.  You want to pull down all the wienie orcs in the encounter set and leave them with you. With three or four enemies, you're dumping allies into play left and right, drawing tons of cards with the Sarn Ford Sentry and questing for a bunch with the Warden of Anumenas.  Halbarad can be built up into a decent defender, and your big allies with two defense and three hit points can all take a few attacks as well.  It's not the most powerful deck, but it really ramps up mid to late game and can carry everyone home from there.
+
+It's not the most powerful deck, but it's still receiving support and I think it will get there.  I remember feeling the same way about Gondor during the Against the Shadow cycle, and now there are lots of solid Gondor builds.
+
+## 29 [Seastan on August 26, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1755443)
+
+One dunedain solo deck I've tried out involves using Gandalf+Word of command or Galadriel+Mirror to find Path of Need. Then you use Henamarth to scry and make sure you commit just enough to never complete the location. Then you can have one hero (in my case Beravor), preferably with high defence (I used Defender of Lorien or Blood of Numenor) and burning brand, defend all the enemies and never kill them. You can get 10+ enemies engaged with you with no danger at all. Then you take your sweet time, getting a free Dunedain every round with Heir of Valandil, have each Warden of Annuminas questing for 10+ if needed, Sarn Ford Sentries drawing your whole deck, and Trackers clearing out locations in the staging area.
+
+ 
+
+Then, once you build up an army of dunedain you can kill off all the enemies and quest to victory. (Or keep them all engaged and keep Path of Need around using West Road Traveller).
+
+ 
+
+
+
+I've tested this deck out against several quests, and while it's perhaps not a top tier deck it is a very strong solo deck with a Dunedain theme.
+
+
+## 30 [tricil on August 26, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1755566)
+
+If you give Seastan a Jigsaw puzzle with 500 pieces, he will find a way to arrange them such that the resulting picture is even better than the intended solution. The amazing thing is that he doesn't break any rules or pieces. He just fills up the center with border tiles and leaves some holes around the edges.
+
+Edited August 25, 2015 by tricil
+
+## 31 [Seastan on August 26, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1755920)
+
+Haha thanks Tricil
+
+## 32 [leptokurt on August 27, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1758277)
+
+I realized that mablung is a great help for a Dunedain deck. He's gathering emough resources to pay for some of the allies. Would be cool if they had swapped Halbarad's and Mablung's abilities though, as there are no expensive tactics Dunedain cards atm.
+
+ 
+
+I did run a Dunedain/Ent deck that had some success (but more because of the Ents ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] ) with halbarad, Sam and Mablung as my heroes. Now I'm testing a tri-sphere deck, with Halbarad, Loragorn and Mablung. Major complaint here is that the new scenarios (WoE + EfMC) are not a good design for this deck. Perhaps I'm going to tackle the TLR scenatios instead.
+
+ 
+
+> Well, OK, let's compare our notes on those cards then:
+> 
+>  
+> 
+> Halbarad is cool indeed. Action advantage and innate synergy with all the Dunedain stuff.
+> 
+>  
+> 
+> Tactics Aragorn works fine with the Dunedain syngery from my standpoint. You swap out enemies, keeping roughly the same counter of them in your engagement. I don't quite get why you consider him the weakest, he seems pretty strong to me.
+> 
+>  
+> 
+> Weatherhill Watchman is pretty good. He can make Ranger Summons happen sooner, he also can fetch some Warnings and stuff, if you're running any. And his stat block is regular for a 2-cost Leadership ally. Certainly not bad.
+> 
+>  
+> 
+> Heir of Valandil is not worth the money if you can't consistently keep enemies engaged. If you can, however, then it worth every bit spent on it.
+> 
+>  
+> 
+> Sarn Ford Sentry is super cute <3 She's also a decent quester and gives you cards if you happen to have some friends around :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] What's not to like?
+> 
+>  
+> 
+> East Road Ranger is funny, because her title says ranger, but she's actually a scout. Seriously, she has a decent stats for her cost, plus you get a buttload of willpower if you get involved in any sidequests. Which are a lot in this new cycle, plus you can play them yourself, which is not to be overlooked either.
+> 
+>  
+> 
+> Ranger of Cardolan is amazing. He has extremely good stats for his cost and being neutral, and to top it off, he has extremely useful ability.
+> 
+>  
+> 
+> Descendants of Kings is an amazing card an is unrivaled by anything currently in the game. If you're using it, you'll probably have at least 2 Dunedain heroes around. All Dunedain heroes have from decent to strong stats, which is a key point here. Plus, you're paying only 1 resource for this. 
+> 
+>  
+> 
+> Yeah, Ranger Summons is a gamble. I advise including Shadow of the Past to make is less of a gamble.
+> 
+>  
+> 
+> Yeah, Gimli is not Dunedain, but I can't see how including 1-2 copies of him would hurt your Dunedain deck :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+I see how tactics Aragorn works for multiplayer, but for solo play he is a sucker.
+
+ 
+
+And yes, I changed my mind about Descendant of Kings. Probably the best of the new Dunedain cards, saved my life multiple times.
+ 
+
+## 33 [Olorin93 on August 27, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1758331)
+
+Since the Dreamchaser cycle is going to take us to the "ruins of Númenor", I think we can rest assured this cycle is not the end of new Dúnedain support. All we can discuss is how the trait is being developed so far - we have no idea how the archetype will function once fully fleshed out.
+
+Edited August 27, 2015 by Olorin93
+
+## 34 [DunedainLoreKeeper on September 1, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1767693)
+
+I find this topic to be one of 'different tastes for different people'.
+
+ 
+
+As a deckbuilder I don't like how many of the traits 'auto-build' themselves. Outlands is of course the most infamous example, but when it comes to Dwarves/Gondor/Silvan/Ents throwing together all cards with the traits' name in it gives you a reasonable competent deck. Just add some fluff and you're done. Worst of all are cards that are worthless in non-trait-themed decks but superpowerful in trait-themed decks. There's just no deckbuilding fun in those kind of cards.
+
+ 
+
+Dùnedain on the other hand offer bonuses based on a game mechanic, engaging enemies, without forcing players how to deal with that. This makes deckbuilding more fun, as there are multiple solutions to effectively using Dúnedain cards without them automatically synergyzing with each other. Power is definately not the issue here, as the Aragorn-Hobbit deck we've seen a while back caused some players to argue in favor of errata. I could also argue most Dúnedain cards are very good in the right deck. It's just a Dúnedain only deck that seems weak compared to other traits.
+
+ 
+
+So we have two different wants that seemingly clash with each other: the ability to build a trait-themed-deck that doesn't compromise the theme and is still playable vs the deckbuilding challenge of finding ways of using new cards without auto-synergy included in the traits themselves. It could be that we get more Dúnedain cards that will rock your socks. But right now it seems Dúnedain are more intended for players like me, who value discovery though deckbuilding, while Ents for example are more intended for players like you, who want a trait-themed deck that doesn't compromise theme and is still playable. Do you agree?
+
+## 35 [awp832 on September 2, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1768296)
+
+Well, let me preface by agreeing with some other posters that it's really too early to tell.  Perhaps in a few packs we will get some answers to the current problems of Dunedain.  
+
+However, I thin you're missing the point a little.  Most of the recent Dunedain cards trigger not only when you have an enemy engaged (like Halbarad)  but rather based on the number of enemies you have engaged.  Now,  if it was the first way,  I could see splashing in a Forest Snare or two, or just keeping a strong defender around and not killing a weak enemy.  But that isn't good enough,  you have to have a lot of enemies engaged to really make Dunedain potential start coming into play, which leaves you exceedingly vulnerable to being overwhelmed and killed.  Even if you survive,  committing that many characters to defense simply might not be worth the bonuses I get from Dunedain.   Take Warden as a perfect example.  For every point of Willpower he gains, I essentially have to keep 1 character back for blocking.   Since most characters have at least 1 WP,  it's almost impossible to come out ahead here.  It's not a matter of deck building.   Unless everyone is missing it,  there isn't an answer to this problem yet.
+
+I don't like this one bit.  The trait seems to be all about engaging weak enemies and not killing them.   This doesn't seem to fit the theme of the valorous descendants of Arnor.  
+
+Speculating,  what I think we may see, what I would like to see, is the other "half" of this combo.  Lots of Dunedain who get bonuses for defeating the enemy,  like (T)Arargorn does.   Then you're set up to engage the enemy, get your bonuses, slay the enemy, and get a different set of bonuses.   If you happen to bite off more than you can chew,  you're going to get bonuses again the next round for each enemy you still have engaged.   Now that sounds fun, and thematic in my opinion.  Would love to see it.
+
+## 36 [FetaCheese on September 2, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1768325)
+
+Disagree. Traits do not necessarily limit deck building and OP's claim that the dunedain are on the weak side does not mean that this weakness leads to more deck building options, quite the opposite, it's mostly the stronger cards like say Glorfindel or Quickbeam that unlock more  variety. Also the Dunedain are most certainly intended to allow for thematic decks, calling them auto-build decks is kinda unfair btw. 
+
+The truth is that the Dunedain are very risky and we will have to wait for the conclusion of this cycle before we can rate their power level correctly.
+
+## 37 [leptokurt on September 2, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1768960)
+
+I am trying to build Dunedain decks atm to see if they can stand their own. It is like DunedainLoreKeeper said, you need some assistment by other traits to make it work. In my case I chose the good old Bilbo-Defense-Machine (Burning Brand + Dunedain Warnings + Fast Hitchs + card draw) which enabled me to build a deck wih mostly Dunedain cards in it. And it worked pretty well, with Halbarad and Mablung as my Dunedain heroes I could cover three spheres and got bonus cards and resources by Bilbo and Mablung.
+
+ 
+
+Thne I built a pure Dunedain deck (with some cards like Steward of Gondor and Warden of Healing splashed in) with Halbarad, Loragorn and Idraen as my heroes. It works, but I loose more often than I win. My main complain so far is that Cold from Angmar makes it very hard to play this deck, because when you defend a lot you risk some damage, and if you don't have any healing, you're pretty much screwed. This is of course a problem for every deck, but more so for Dunedain.
+
+ 
+
+After playing a lot recently with these cards, I am still not convinced that this trait can compete with others, but it's possible to build decent decks. There are some cards that I never play (Descendant of Valandil is hard to get to use) and some that I start liking (Star Brooch is a nice little gem). So, uhm yeah, I wouldn't say anymore that these cards suck, but that they're somewhat disappointing, especially as I somewhat expected synergies with the Ranger trait before.
+
+Edited September 2, 2015 by leptokurt
+
+## 38 [Nickpes on September 2, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1769006)
+
+I have to say I agree with those who wrote that it is too early. Apart from a card or two on each cycle, Angmar was the first that Dunedain cards appeared and they are going to continue on the next one. Thus we have to be patient.
+
+ 
+
+Apart from this, I played all three quests of TLR with pure Dunedain decks. I won all three quests eventually, though apart from the first, which I won easily, it took a lot of deck changes to win them. It was always close but ...
+
+ 
+
+I used Halbarad, Aragorn (Lore) and Beravor. One of the most important things was to attach Sword that was broken on Aragorn, and then STeward of Gondor. Thus I have two Lore and "two" Leadership heroes generating 5 resources per turn. Turn by turn i was building my dunedain deck. Burning Brand and the song attachment help a lot for attack and defend, as well as some Lore events for encounter deck manipulation.
+
+ 
+
+The only non thematic card I used (apart from Steward of Gondor) was Hennemarth Riversong who could be used with the scout attachment which readies a hero after naming the encounter card that will reveal correctly. Used this to beravor who could quest for 3 (+1 from sword that was Broken) and then ready her either to Defend ot to draw extra cards
+
+Edited September 2, 2015 by Nickpes
+
+## 39 [DunedainLoreKeeper on September 3, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1772179)
+
+> Disagree. Traits do not necessarily limit deck building and OP's claim that the dunedain are on the weak side does not mean that this weakness leads to more deck building options, quite the opposite, it's mostly the stronger cards like say Glorfindel or Quickbeam that unlock more  variety. Also the Dunedain are most certainly intended to allow for thematic decks, calling them auto-build decks is kinda unfair btw. 
+> 
+> The truth is that the Dunedain are very risky and we will have to wait for the conclusion of this cycle before we can rate their power level correctly.
+
+Good point! I hadn't considered that powercards like Glorfindel and Quickbeam can increase deckbuilding by giving breathing space. I was thinking of deckbuilding 'weaker' cards that work because of some synergy you discover, not deckbuilding with cards despite their weakness.
+
+ 
+
+Auto-build decks is a bit more of a loaded term then I wanted to use. Still, I like how Dùnedain give obvious bonusses but also present you with a deckbuilding challenge you have to overcome. Compared to the Ents, who basically have a card for each thing their respective sphere does. But Ents are cool because unlike, say Outlands, most of them don't need to go all-or-nothing with them to still be powerful.  But I prefer cards like the Palantir because of the challenge (yet amazing possible reward) it presents. I also like how the Dùnedain Hunter is can be amazing or 'meh' depending on the deck you build. And he's not ONLY good with Dùnedain. This is true for many Dùnedain cards, which is why I like them so much. In contrast I feel that most Silvans where kinda underpowered outside a silvan deck.
+
+ 
+
+awp832 also makes a good point: Dùnedain get rewarded for keeping a zoo, not so much destroying enemies, which is kinda silly.
+
+## 40 [PocketWraith on September 4, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1772819)
+
+>  
+> 
+> > Disagree. Traits do not necessarily limit deck building and OP's claim that the dunedain are on the weak side does not mean that this weakness leads to more deck building options, quite the opposite, it's mostly the stronger cards like say Glorfindel or Quickbeam that unlock more  variety. Also the Dunedain are most certainly intended to allow for thematic decks, calling them auto-build decks is kinda unfair btw. 
+> > 
+> > The truth is that the Dunedain are very risky and we will have to wait for the conclusion of this cycle before we can rate their power level correctly.
+> 
+> Good point! I hadn't considered that powercards like Glorfindel and Quickbeam can increase deckbuilding by giving breathing space. I was thinking of deckbuilding 'weaker' cards that work because of some synergy you discover, not deckbuilding with cards despite their weakness.
+> 
+>  
+> 
+> Auto-build decks is a bit more of a loaded term then I wanted to use. Still, I like how Dùnedain give obvious bonusses but also present you with a deckbuilding challenge you have to overcome. Compared to the Ents, who basically have a card for each thing their respective sphere does. But Ents are cool because unlike, say Outlands, most of them don't need to go all-or-nothing with them to still be powerful.  But I prefer cards like the Palantir because of the challenge (yet amazing possible reward) it presents. I also like how the Dùnedain Hunter is can be amazing or 'meh' depending on the deck you build. And he's not ONLY good with Dùnedain. This is true for many Dùnedain cards, which is why I like them so much. In contrast I feel that most Silvans where kinda underpowered outside a silvan deck.
+> 
+>  
+> 
+> awp832 also makes a good point: Dùnedain get rewarded for keeping a zoo, not so much destroying enemies, which is kinda silly.
+
+I'd disagree on the Silvans. Galadhrim Minstrel is maybe not so great in a non-Silvan context, but Naith Guide, Galadhon Archer and Galadriel's Handmaiden are pretty much my go-to 2 cost allies in their respective spheres now.
+
+It is nice that Dunedain have that versatility though.
+
+## 41 [PsychoRocka on September 4, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1772957)
+
+wait what? Galadhrim Minstrel is not so great in non silvan context? Could not disagree more. Fantastic ally in any deck that has lots of events. The amount of times the Minstrel has fetched A Test of Will, Gildors Counsel, Elronds Council or Galadhrims Greeting for me on a turn that without said card I would have suffered greatly (awful treachery that is a perfect target for test of will appears or I am close to threating out) is beyond count. I get that she is obviously intended to fetch the silvan event cards but honestly she is an amazing ally in any deck that is event heavy. 
+
+ 
+
+Totally agree re Naith Guide and Handmaiden however. Naith Guide is easily my favourite silvan ally and probably my favourite low cost leadership ally full stop, that sweet sweet action advantage...
+
+## 42 [Gizlivadi on September 4, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1773075)
+
+The 2 cost silvans are awesome, I find myself using all but the Tactics one in many of my decks. Galadhon Archer is good and well-balanced, but her ability sucks against toughness. I wonder if we're ever gonna see toughness again though, seeing it was mainly a feature of Saruman's orcs and uruks. But maybe in Mordor it is plausible.
+
+Edited September 4, 2015 by Gizlivadi
+
+## 43 [Pharmboys2013 on September 4, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1773567)
+
+Back to the Dunedain cards briefly, played a few quests with my friend for some two player action and used Aragorn (tactics), Halbarad, and Faramir (leadership).  I was really pleased the way the heroes worked together.  Play dunedain hunter, grab an enemy, quest with halbarad for free (and ready up an ally if one needs readying), engage an enemy normally, ready a questing ally, kill the enemy, engage another enemy in staging or with other player with aragorn, ready another ally, either kill it or leave it engaged so i can quest without exhausting with Halbarad again.  And lots of other little combos with that.  Its too bad we cant play with 4 heroes, because those 3 with tactics Mablung would be crazy.  I want to try and iteration with him but not sure who i'd want to take out; probably Halbarad.
+
+## 44 [DunedainLoreKeeper on September 6, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1778429)
+
+Most powerful Dùnedain decks right now seem to revolve around tactics Aragorn grabbing enemies and killing them preferably by grabbing them right from the staging area. But most Dùnedain cards seem to want enemies engaged with them during the planning phase. Forest snare seems to be the only alternative for that.
+
+ 
+
+So I want to know from you guys: should the Dùnedain get more defensive cards to make it easier to have lot's of enemies engaged fairly harmlessly or are the current options good enough? The Dùnedain seem like half-finished by not having enough defensive options so far, but I've found this lack of an obvious answer to be one of the things that draws me to Dùnedain. We can certainly fill up the space with defensive Ents, Defenders of Ramas, traps etc. But should there be the full-thematic option with some powerful Dùnedain defensive cards?
+
+ 
+
+Alternatively, should they get more reward-for-killing cards like the secret vigil. A horn of gondor that triggers on killing enemies for example? Regardless, Dùnedain will always be a fun archetype with their risk-and-reward for engaging enemies.
+
+Edited September 6, 2015 by DunedainLoreKeeper
+
+## 45 [Nickpes on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1779065)
+
+Thats something I thought of.
+
+ 
+
+Played Wastes of Eriador on Saturday with a pure Dunedain deck. Loragorn, Beravor and Halbarad. All my allies were Dunedain apart from warden of healing. The signal defending attachment that player can switch between heroes work well in my opinion if you can have your heroes ready on combat phase. In most quests that can easily happen with Halbarad (not on Wastes were each day enemies return back on stage), especially with forest snare. Three coppies can keep up to three enemies in front of you giving the advantage you need. Wingfoot with Hennemarth or other cards that help you check the encounter deck is another option. 
+
+ 
+
+Yet again the most you can get out of it is a +3 on a hero and need three resources to give it on another. (one for each attachment). On quests with strong enemies this would not be enough. I guess an ally or signal attachment with and ability that raises defence according to the number of engaged enemies would be nice. If that could be used on allies (like Ranger from Cardolan who is great), even better
+
+Edited September 7, 2015 by Nickpes
+
+## 46 [C2K on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1779128)
+
+How viable do you think a Signal deck would be? 
+
+## 47 [PocketWraith on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1779549)
+
+I don't think a 'Signal deck' is really a thing... You can build a deck that makes good use of Signals, and then the Weather Hills Watchman becomes incredibly useful to fetch them for you, but it's not really a thing you completely focus a deck on, just one part of it.
+
+## 48 [John Constantine on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1779551)
+
+Unless they add some new signals :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 49 [Noccus on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1779907)
+
+> I don't think a 'Signal deck' is really a thing... You can build a deck that makes good use of Signals, and then the Weather Hills Watchman becomes incredibly useful to fetch them for you, but it's not really a thing you completely focus a deck on, just one part of it.
+
+I agree.
+
+Signals, and it's new triggers, are great in support decks when playing multi player.
+
+Think digging up a Gathering Information with the new Dunadan Message.
+
+All players get to fish a card out of their decks. Very strong effect.
+
+Add some Ranger provisions, Ancient Mathom & Elf stone and so on and all your buddies will love you.
+
+## 50 [RebelX on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1780116)
+
+Anybody else feels that Tactics Aragon would have been fitted better into the Dunedain theme if he would have given -1 Attack instead of defense to engaged enemies?
+
+## 51 [Bullroarer Took on September 7, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1780199)
+
+> Anybody else feels that Tactics Aragon would have been fitted better into the Dunedain theme if he would have given -1 Attack instead of defense to engaged enemies?
+
+That's a good point.
+
+## 52 [PsychoRocka on September 8, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1780676)
+
+Yeah that would have definitely meshed with the Dunedain trait and mechanic a LOT better. You could much more easily keep multiple enemies engaged that way...
+
+## 53 [Jban on September 23, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1813292)
+
+I'm pretty convinced the Dunedains are already pretty strong as they are. Just 100% Dunedain isn't viable in my opinion for a really power-deck. On the other hand if you allow yourself to match them to the Hobbit trait (Which storywise isn't that strange, since due to all efforts of the Dunedain the Hobbits are kept safe) you already get incredible powerful decks.
+
+ 
+
+Currently I have 2 decks that are incredibly strong (personal opinion). I won't share all the content but the deck are both aiming for 3/4p games and using a lot of hobbit/dunedain synergy.
+
+ 
+
+Deck 1: Pippin (Lo) - Merry (Ta) - Aragorn (Ta)
+
+ 
+
+Aims for killing with cards like the Dunedain Hunter, Take No Notice, ...
+
+ 
+
+Deck 2: Pippin (Lo) - Frodo (Sp) - Halbarad (Le)
+
+ 
+
+Aims for all aspects except healing. Dunedain cards in there: Northern Tracker, Warden of Annuminas, Sarn Ford Sentry, Heir of Valandil,...
+
+ 
+
+Both decks tend to give a very high win-ratio if we aren't going for the hardest quests released.
+
+## 54 [Bullroarer Took on September 23, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1813362)
+
+We really need to see some solid Dunedain cards in the last two packs to make them viable. I love me some Noldor, but this was supposed to be the Dunedain cycle primarily I thought.
+
+## 55 [Gizlivadi on September 23, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1813397)
+
+Considering the way they've been distributing the themes across the cycles lately, with cards for each theme spread across the packs but focused mainly on one pack (along with its hero), I think that judging by the announcement article, Battle of Carn Dum will be to Dúnedain what Treachery of Rhudaur was for Noldor and Mount Gram to victory display stuff.
+
+## 56 [Cemetery Man on September 23, 2015](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=1813420)
+
+We already know that we will get a new Leadership Dunedain hero in Battle of Carn Dûm and a new Tactic Dunedain ally in The Dread Realm (spoiled in the announcement article). If they release 2 or 3 other Dunedain card in either of those pack, the archetype will really start to become interesting. But it will probably take another cycle for the Dunedain to become a powerhouse. 
+
+Edited September 23, 2015 by Cemetery Man
+
+## 57 [Bullroarer Took on September 14, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3785067)
+
+Four years later and the Dunedain are still scattered, divided and leaderless.  I thought they would get there but I was clearly wrong.  Yes, they can be good multi-player decks, but they are really weak in solo.
+
+Edit: sp.
+
+Edited September 14, 2019 by Bullroarer Took
+
+## 58 [player3351457 on September 14, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3785155)
+
+> 3 hours ago, Bullroarer Took said:
+> 
+> Four years later and the Dunedain are still scattered, divided and leaderless.  I thought they would get there but I was clearly wrong.  Yes, they can be good multi-player decks, but they are really week in solo.
+
+I suppose that's a good point (non solo), mostly because they can't carry their weight in questing. But let me tell you from someone who plays multiplayer... you want a friend to run dunedain. It frees you up to take care of all sorts of business. My buddy ran a dunedain deck when I ran noldor... my focus was questing, location and threat control and his was taking combat control. It was a great balance and the best duo decks I've ever played with.
+
+## 59 [General_Grievous on September 14, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3785163)
+
+There is still that mysterious preview that possibly references the grey company contract.
+
+## 60 [Nickpes on September 14, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3785193)
+
+Well, the game might be dead but this topic resurrected 🤣
+
+I had a Dunedain deck made a couple of years back that was quite viable in solo. Used it on many quests
+
+## 61 [Trialus on September 16, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3785977)
+
+> On 9/14/2019 at 1:52 AM, Nickpes said:
+> 
+> Well, the game might be dead but this topic resurrected 🤣
+> 
+> I had a Dunedain deck made a couple of years back that was quite viable in solo. Used it on many quests
+
+Agreed.  Seastan's Dunedain Trapper deck might be my most played deck and we've gotten a few cards that are useful updates to it as well.
+
+## 62 [OlorinCZ on September 16, 2019](https://community.fantasyflightgames.com/topic/186049-new-dunedain-cards-suck/?do=findComment&comment=3786112)
+
+I have two-player/two-handed Dunedain decks, which are one of the strongest decks I run (actually only second to Noldor) ;). 
+

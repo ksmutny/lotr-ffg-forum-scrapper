@@ -216,3 +216,79 @@ man, i loved this thread if for nothing else than the sheer audacity of it. :) [
 
 Edited May 22, 2015 by Dain Ironfoot
 
+## 26 [Lecitadin on May 24, 2015](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=1634403)
+
+If I may offer one constructive criticism about the game (that I LOVE, no other offers me such a solid solo experience), it's those "immune to player cards effects" cards... that prevent you from using cards that you bought to play a... card game. Maybe they should instead replace those with a tricky game mechanic.
+
+## 27 [Ecthelion III on May 24, 2015](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=1634436)
+
+The most difficult enemies/bosses that aren't immune are the Mumak/Mumak Elite and Nazgul of Minas Morgul. The Nazgul in particular is really fun to fight because you have to think of *player cards* that will work best against him unless you want to be fighting him for 5 rounds (Dwarrowdelf Axe, Infighting, etc.) Bottom line: The best bosses are the ones that make you use your player cards instead of keep you from using them.
+
+## 28 [GrandSpleen on May 24, 2015](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=1634593)
+
+There is a cool article [https://dorcuarthol.wordpress.com/2015/05/23/when-the-going-gets-tough/] up on the Dor Cuarthol blog about this topic.  I really like the way that the Nazgul was handled, and I could see that being a keyword-- reduce all damage to 1.  Appearing only on bosses or exceptionally tough enemies, but I like the way that it encourages a lot of different direct damage cards effects, which don't often shine in the spotlight.
+
+## 29 [Lecitadin on May 25, 2015](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=1635076)
+
+Nice article! I think that the recent "Toughness" keyword is a nice alternative to "Immune to player card effects".
+
+## 30 [RichardPlunkett on May 10, 2018](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=3325532)
+
+So, I have a question for this quest I couldn't solve elsewhere.
+
+What happens if I am playing the campaign and I chose hero to be captured for the log who I then don't use in my deck for this adventure? (while not always penalty-free you can change heroes between quests)
+
+> Quote
+> 
+> From Breaking of the Fellowship:: Resolution: ... Each player chooses 1 hero he controls (other than the Ring-bearer or Aragorn) to be taken captive. Record the name of each "captive" in the Notes section of the Campaign Log.
+> 
+> From this quest stage 1A: Each player chooses 1 non-Fellowship hero he controls to be a Captive and places it faceup underneath to Isengard! (If playing campaign mode, choose each "captive" from the Campaign Log instead).
+> 
+>  
+
+If the campaign log listed captured hero isn't in my deck what happens? Here are some options I have thought of:
+
+1) the campaign-mode 'instead' fizzles so I must choose one of my active heroes as the captive, like a non-campaign person. (btw I think this is broadly fair, but it doesn't feel rules-consistent).
+
+2) the 'instead' resolves, but the campaign-mode 'choose' fizzles, so there is no captive from me and I get to play in full control of whichever heroes I am using (noting that I auto-lose if solo but it might be interesting in other cases).
+
+3) everything resolves, and I put a hero I didn't even have in my deck into play as a captive.
+
+ 
+
+## 31 [GrandSpleen on May 10, 2018](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=3326131)
+
+From this quest stage 1A: Each player chooses 1 non-Fellowship hero he controls to be a Captive and places it faceup underneath to Isengard! (If playing campaign mode, choose each "captive" from the Campaign Log instead).
+
+Here is one idea. It is about which part of the first clause gets replaced by which part of the “instead” clause. What if the phrase “each captive from the campaign log” replaces the phrase “1 non-Fellowship hero” but NOT 1 non-Fellowship hero he controls?”  This would leave the “he controls” phrase untouched, which would read like this:
+
+From this quest stage 1A: Each player chooses each “captive” from the Campaign Log he controls to be a Captive and places it faceup underneath to Isengard! 
+
+This would mean you can’t satisfy the setup instructions unless you choose the captive, since you need to control it. In my mind that means any other setup would be invalid so you’d have to choose the captive for one of your starting heroes.
+
+ 
+
+## 32 [RichardPlunkett on May 13, 2018](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=3329358)
+
+So, your suggesting an unsatisfiable setup instruction means I can't play? rather than just playing without doing that step?
+
+I guess that solves the problem, but it doesn't feel very rules consistent to me, don't we usually just ignore impossible instructions and keep playing?
+
+## 33 [GrandSpleen on May 13, 2018](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=3329444)
+
+There are quests in the Against the Shadow cycle that use a Faramir objective, and the rules inserts say you can’t put Faramir in your deck because of that.
+
+But hey, the rules aren’t active until you start the game right? So go ahead and put him in there, all’s fair.
+
+If you’re looking for someone to sanction playing the quest with a full complement of 3 heroes and nothing sacrified to be a captive, just do it.  You know for sure a rules query to the developers would result in a ruling that makes you play with only 2 heroes (plus Aragorn). The scenario is balanced with that in mind and there’s no possible way they would rule otherwise.
+
+As if often said, it’s a coop game so play how you like. But no, I don’t think you found an exploit or loophole.
+
+Edited May 13, 2018 by GrandSpleen
+
+## 34 [Tisroero on May 18, 2018](https://community.fantasyflightgames.com/topic/176723-treason-of-saurman-scenario-the-uruk-hai-captive-rule/?do=findComment&comment=3336625)
+
+I sometimes forget there are folks like this.
+
+What an unpleasant reminder.
+

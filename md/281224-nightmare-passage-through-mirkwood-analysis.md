@@ -1,0 +1,10 @@
+# [Nightmare Passage through Mirkwood Analysis](https://community.fantasyflightgames.com/topic/281224-nightmare-passage-through-mirkwood-analysis/)
+
+## 1 [Durins_Father on August 18, 2018](https://community.fantasyflightgames.com/topic/281224-nightmare-passage-through-mirkwood-analysis/?do=findComment&comment=3444677)
+
+With the blog ever expanding, it became time to handle the first of the Nightmare scenarios. NM Passage through Mirkwood added some teeth to the scenario, but it is still easy enough to use as a moderate difficulty testing quest. https://visionofthepalantir.com/…/nightmare-passage-throug…/ [https://l.facebook.com/l.php?u=https%3A%2F%2Fvisionofthepalantir.com%2F2018%2F08%2F18%2Fnightmare-passage-through-mirkwood%2F&h=AT2lkCwkxlLS6ukTt0A_esdRjgIVlYFiSqkAn2epA3FAsGL0kp8wTrT0drOSNVb4q0e5llJlZPJyNkTlOPphr1Cz98JrwePGmRjRtS7uyNd7kwZuE_oqFx5YZnaOmRFQuH12y7TlhPB9umsLM3YXTB8Ks1IIQ4MG7BHRyrvrU_xDLAbvsCqhmp8xpIXZbHOq6jOUKY-i-MUzzWpe9zKiPsXyk18CwU5UuG7hBe-BYQe0e1LK7ARa6zA8LnINX1EeI_Rf1nmc5th_EtU1mIb8ipYd9T4eC2dzWritJge-M3SyRZLFIY1KZy9s6u43J-QV-KSLNbpW7XVvwI14rmP50wCACsiiWC6_jVaPgTe8]
+
+I will be doing a couple more of these NM articles on scenarios I own and have played, but I don't have many yet. So if you would like to do the write up for an NM version of a quest I already covered in Normal mode, I will gladly take it. In the meantime, I will get started on the Angmar Awakened cycle.
+
+This article was made possible thanks to my Patreon supporters. If you want to support the blog as well and still want to be in the runnings for exclusive VotP swag, you can pledge here until the end of September to earn it for yourself: https://www.patreon.com/vision_of_the_palantir [https://www.patreon.com/vision_of_the_palantir]
+

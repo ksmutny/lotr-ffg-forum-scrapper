@@ -213,3 +213,11 @@ I'd agree with the consensus - Erkenbrand's text always struck me as a bit vague
 
 And on the defender for Wolf Rider - a new attack needs a new defender, or it's undefended.
 
+## 26 [gpd924 on March 2, 2018](https://community.fantasyflightgames.com/topic/188018-erkenbrand-and-wolf-rider/?do=findComment&comment=3234294)
+
+> 23 hours ago, Onidsen said:
+> 
+> Fair enough.
+
+I got a response from FFG and the verdict is in.  You do have to exhaust a separate character or declare the attack undefended.  They acknowledged the fact that it was unclear and it's going in a future FAQ/errata.  So for now, I'm treating the scenario I beat (Journey Along the Anduin from the Core set) as a win, which is great because I remember that one of my heros would have died from this attack.
+

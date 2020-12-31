@@ -1,0 +1,74 @@
+# [Question mainly to those who have tried the game](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/)
+
+## 1 [arisgl on December 2, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=391860)
+
+Hello, first of all I would like to make clear that I am a fun of lord of the rings and I love the fact that we will be able to play a new card game developed by FFG.
+
+But there is one thing about this game that makes me worry. If this game was a board game I could understand how the cooperation between players could work, but this is a living card game. Let me make myself clear, in ccg(and lliving card games) players always try to make their decks better. For example if you usually play with a friend and you usually lose you have the motive of changing and optimizing your deck. Then at the point that you start to win, your friend will also perform changes at his decks in order to make them better. In ccgs one part of the fun is making your deck and the second one is playing with it.
+
+Now a cooperative board game has a meaning since the deck equivalent part is fixed (you can only choose your faction/character for example but not design a new one from different parts, like the cards of the ccg) and you can try different strategies (which is equivalent to playing with your deck).
+
+But now I see the first cooperative card game and it is something completely new to what I am used to. So my question is what is your motive in this game to improve your deck if you are not playing against someone that is also improving? This in not an attack against the concept of the game, I just try to get feedback from the ones who tried it, since I am sure that there is something more that it is not clear in these abstract descriptions of the game on the site.
+
+## 2 [Tiziano2 on December 2, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=391943)
+
+Well, as I see it,  there is the thrill of tackling new quests in different regions of Middle Earth and fine-tuning one's deck according to these new challenges and/or favorite themes in the books (my wife is hitching to build a Rohirrim deck, for instance).
+
+## 3 [Narsil0420 on December 2, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=392178)
+
+I think we'll buy the expansions for the same reason that we buy expansions for other Board Games (i.e. Race for the Galaxy or Arkham Horror) which is because we want a more varied and new playing experience. I think we people in Western Civilization are so raised on competition that we forget there is any other way of doing things. There are a lot of psychological benefits for playing cooperative games, especially with younger children! (I'm in grad school, so I had to add that note  (ha ha...).  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 4 [jhaelen on December 3, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=392304)
+
+Well, first of all I think, there'll be the challenge of tuning your deck to work well with your co-players. This will probably be similar to the character optimization going on in roleplaying games, i.e. you'll try to create a party that will be more powerful as a team than their individual parts. If you're playing in several teams with different players and decks, you'll do some deck-tuning before every new game day.
+
+If every new AP includes a new quest card, you'll have reasons to adjust your deck after each new AP to deal with it. If you're playing in a campaign mode, stringing all of the quests together, you'll have to try to create decks that can deal with all of the available quests.
+
+Finally, there's a scoring system that will allow you to compare how well you did with a particular band of heroes against a particular quest or campaign. Trying to improve your score will certainly be something that motivates some players to try different combinations of decks.
+
+All of these aspects of the game should keep you busy for a while I should think.
+
+Myself, I'd probably mostly play in a semi-random fashion, similar to a draft game, so I can never pick from all available cards to meet the current challenge, thus keeping things fresh.
+
+## 5 [Spirit Juggler on December 8, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=394221)
+
+There's also the possibility of improving the shadow deck to make it more difficult if you're finding it too easy with what you're playing. It's not just about building your fellowship deck.  
+
+## 6 [dvang on December 15, 2010](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=396596)
+
+In addition, you (and your team) are "competing" against the game itself.  You won't always win, or win very well (See above comment about scoring).  So, players will be tweaking their decks in order to win more consistently, or score higher points, etc.
+
+## 7 [CrowOfPyke on January 17, 2011](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=409826)
+
+I like the cooperative play.  You bounce ideas off your partner.  You help each other against unexpected challenges.  You share in the fun instead of trying to pull it out of someone else.
+
+What is the challenge of this game instead of playing against someone else?  How about optimizing the number moves you must make before hitting the win condition.  Take the least amount of damage?  How well do you control the board with your partner?  How optimized is your draw compared the challenge you will be facing for that game?
+
+There are lots and lots of ways to "compete" in a cooperative game if that is what you want.
+
+## 8 [Slipstream on January 17, 2011](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=409890)
+
+CrowOfPyke said:
+
+I like the cooperative play.  You bounce ideas off your partner.  You help each other against unexpected challenges.  You share in the fun instead of trying to pull it out of someone else.
+
+.....
+
+
+
+This is what I'm most excited about and could actually draw more non-gamers into trying the game out. The fact you are right there with them helping them is a pretty awesome premise. You don't feel alone and can table talk as much as necessary without holding up your opponents.
+
+## 9 [Rashley on January 23, 2011](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=412869)
+
+I too had my doubts about lcg games working as a cooperation game.  However, the solo play aspect is very appealing.  Spare time on your own, then randomise some heroes, a quest etc., and see what happens.  Good practice and a learning device to see what can and cannot work together well.  In multi-player mode, I can see the points system helping players natural competative natures.  We won/lost, but I did better/worse.  However, what I would like to know is how the game balances its difficulty from 1 to multi-player?  Are the Quests seeded with more hazards from the start for more players, or is it just reliant on cards that naturally get nastier for more players or Heroes?  Cheers!
+
+## 10 [jhaelen on January 24, 2011](https://community.fantasyflightgames.com/topic/39086-question-mainly-to-those-who-have-tried-the-game/?do=findComment&comment=413174)
+
+Rashley said:
+
+However, what I would like to know is how the game balances its difficulty from 1 to multi-player?  Are the Quests seeded with more hazards from the start for more players, or is it just reliant on cards that naturally get nastier for more players or Heroes?  Cheers!
+
+
+
+Well, one thing that is known is that you draw one card per player from the encounter deck each round. So at least that part of the game scales.
+

@@ -248,3 +248,7 @@ It was a game changer for me.  
 
 Then just to be sure I hadn't missed anything I came looking here for clarification. 
 
+## 26 [GrandSpleen on July 13, 2018](https://community.fantasyflightgames.com/topic/219926-partially-fulfilling-card-effects/?do=findComment&comment=3404345)
+
+I’m not sure I understand ... why does the defender need 5 defense right off the bat? Why not exhaust him with 4 defense, then use Narya so that he has 5 defense while resolving the attack, AND he gets readied with +1 attack so he can participate in attacking?
+

@@ -1,0 +1,217 @@
+# [How many of us actually play the story?](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/)
+
+## 1 [richsabre on November 13, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723045)
+
+regulars here know me for my love of everything tolkien, so it comes as no surprise that i love reading the little bits of text on the quest cards whilst playing, but recently i have noticed i 'rush' through quests, not taking any notice of the setting and so on, so from now on i am going slow through quests and taking in the atmosphere
+
+what about others? do you tend to rush through, or do you take time and soak in the atmoshpere?
+
+(on a related note i hope they keep the settings text, if not have more)
+
+rich
+
+## 2 [GrandSpleen on November 13, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723075)
+
+ I read the card text aloud for my wife and I on a first playthrough.  I also try to play the quest blind, with no knowledge of the quest cards or encounter deck, to make it more exciting. 
+
+On subsequent playthroughs I always have the setting in mind, or at the very least I'll have the objective in mind, like "we have to find some sign of Gollum."  But that's about it.  It's hard for me to get into the story any deeper than that, since my party will likely be composed of characters who are wildly out of place (yes, Bilbo forgot to tell Frodo about the time he stormed the Necromancer's tower to save his good friend Hama from torment and death!).  
+
+On the other hand, because the story and gameplay cards are as a rule not complementary, I don't mind it as much as some people seem to when we get characters invented by FFG.  Thalin?  No problem--- must be brother of Balin!  Makes way more sense than seeing Dain summit Caradhras with Arwen in tow!
+
+## 3 [Gizlivadi on November 13, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723077)
+
+ I do read them, not really because of how exciting the story is, as it's not exactly Tolkien, but because I want to know what I'm playing, so to speak. It's interesting to play and take part in untold adventures in far corners of Middle-earth, event though those adventures may not be so interesting and may seem kinda "forced", like they were the first thing they came up with when they thought of something happening in Moria or near Rivendell or the Drúadan Forest (with the exception of SOM; I loved each of those quests). I hope they come up with more creative stories in the future, though as I've already said before, I hope we begin with the trilogy saga expansions as soon as possible, so the game can do justice to it's name, and since it's supposed to be narrative, so it can actually make sense to see cool stuff like Isengard orcs and Andúril and so on.
+
+ 
+
+ 
+
+## 4 [Gizlivadi on November 13, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723080)
+
+GrandSpleen said:
+
+On the other hand, because the story and gameplay cards are as a rule not complementary, I don't mind it as much as some people seem to when we get characters invented by FFG.  Thalin?  No problem--- must be brother of Balin!  Makes way more sense than seeing Dain summit Caradhras with Arwen in tow!
+
+
+
+I agree completely to this! Original characters are amazing for this game.
+
+## 5 [Angus Lee on November 13, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723087)
+
+I like to read the flavor texts on the quest cards and in the product inserts.  They provide the background of the adventure and I really feel that I am in the story when I'm playing the game.
+
+## 6 [Cmdrindie on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723190)
+
+ My playgroup has me read aloud the quests as we go, treating it more like a Dungeon Master-esque situation rather than an encounter deck that plays itself. It also allows us to play out a lot of our impulses to contextualize our "who would win in a fight between…" questions. We still talk about "That One Time That Gimli One-shot a Nazgul" and "Attercop Has Nothing on the Eagles!"
+
+So yeah, we love the quest texts here XD. 
+
+## 7 [monkeyrama on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723213)
+
+ At first I really tried to get into the narrative, but the early quests, I felt, lacked any kind of narrative drive to them. It might just be the form of the quest cards, but certainly for the early quests I found it very hard to get into the story. Things have improved, and I really like Foundations of Stone both in terms of its narrative, and the way the narrative was put into the quest cards. I'm hoping that the next cycle really builds on this, since FFG have been saying there's a stronger narrative focus, and it does improve quests when there is.
+
+## 8 [player1761766 on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723237)
+
+Oh, I am all about the story! I always read the quest cards to get into it, and then as I play cards there's always something along the lines of "Elrohir noticed the Dunedain warning, and steeled himself for what was to come next" or whatever going around in my head. I also go into each quest "blind" at first, not looking at what will come, making it more unexpected and allowing me to focus on a true story. The extent to which I play this game, particularly recently, though, has allowed me to forget a lot of what is in each encounter deck, so even the old quests still feel fairly new.
+
+It would be nice to see, as I'm sure has been discussed around here a while ago, a little bit of flavour text added to the final stage, to round the quest out. I'm also all for "new" stuff, too - there's plenty of Tolkien's own work to use first, of course, but I have no real issue with more creations for the world, as Middle Earth is sufficiently massive that it makes sense there are people we haven't seen through the course of Tolkien's own work.
+
+## 9 [richsabre on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723242)
+
+yes i would like to see end of quest text also. i also didnt know this until after it came out, but the text on rehorn gate (the signs of fire and 'how many have perished etc') refers to our quest to moria in the khazad dum pack
+
+i though that rather nice!
+
+rich
+
+## 10 [mr.thomasschmidt on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723474)
+
+ I too play the game with reading the text and enjoying the atmospher. In fact, I often put on either the music or the movies (please don't hit me Rich ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] ) to get even more into the atmospher. I don't really like to just rush through. Only if I have failed a couple of times and really wanna nail the quest, then I won't pay too much attention to the atmospher ^^
+
+## 11 [richsabre on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723494)
+
+mr.thomasschmidt said:
+
+ I too play the game with reading the text and enjoying the atmospher. In fact, I often put on either the music or the movies (please don't hit me Rich ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] ) to get even more into the atmospher. I don't really like to just rush through. Only if I have failed a couple of times and really wanna nail the quest, then I won't pay too much attention to the atmospher ^^
+
+
+
+dont worry i wont haha….but seriously thats a great idea, i have all the soundtracks but have never tried playing the game to them
+
+rich
+
+## 12 [GrandSpleen on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723519)
+
+Sometimes we listen to the soundtracks as we play, as well. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 13 [CJMatos on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723526)
+
+ I always read the story and try to immerse on it….
+
+## 14 [cordeirooo on November 14, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723549)
+
+Good to know! I'll put more effort into my custom quest's stories.
+
+
+Even indirectly, I always get some info from Rich's topics. :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 15 [Brownmantle on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723965)
+
+The above has been my experience (mostly)…
+
+  I have exposed to this game to several pals and have found that the gam's sense of atmosphere has been important to their experience. I always read the text to my fellow questers & they look forward to playing "The Card Game" when I have a game night. When I ask them why they would choose to play this one over many of the board games available, they state that it "feels" like your having the adventure described.  I have spent alot on this game, much of it has been on things to enhance the story (table clothes, game mats, card sleeves, token cups, ect.) all to offer a little more immersion in the story. As a fan of all things Middle-Earth (and Inklings, for that matter) I have to say, this has been the most enjoyable and accessible of my J.R.R.T. obsessions. Enjoyable in that it is replayable, accessible in that it is enticing to the passing gammer and "Tolkienista"* alike. I attribute this to phenom to the stoy aspect as much as the gameplay and art…perhaps more. enfadado.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/enfadado.gif]** I am embarassed to admit that, until the other day, I was blissfully ignorant of the fact that the 17 year time line*** had been abandoned. I posted a somewhat condensending comment and was graciously corrected by a fellow gamer. The liberality FFG has taken with the timeline hasn't ruined the game for me and I feel the story aspect is not "breaking" anything for me…I'm rambling…crap…I hate it when I do this…I'm terrible at forums BTW…
+
+ 
+
+ 
+
+*I just may have made this word up
+
+ 
+
+**This emoticon has nothing to do with my point
+
+ 
+
+***The Core Set & first cycle of expansions took place during the 17 years between Bilbo's 111th Birthday and Frodo's departure
+
+## 16 [richsabre on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=723967)
+
+Brownmantle said:
+
+The above has been my experience (mostly)…
+
+  I have exposed to this game to several pals and have found that the gam's sense of atmosphere has been important to their experience. I always read the text to my fellow questers & they look forward to playing "The Card Game" when I have a game night. When I ask them why they would choose to play this one over many of the board games available, they state that it "feels" like your having the adventure described.  I have spent alot on this game, much of it has been on things to enhance the story (table clothes, game mats, card sleeves, token cups, ect.) all to offer a little more immersion in the story. As a fan of all things Middle-Earth (and Inklings, for that matter) I have to say, this has been the most enjoyable and accessible of my J.R.R.T. obsessions. Enjoyable in that it is replayable, accessible in that it is enticing to the passing gammer and "Tolkienista"* alike. I attribute this to phenom to the stoy aspect as much as the gameplay and art…perhaps more. enfadado.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/enfadado.gif]** I am embarassed to admit that, until the other day, I was blissfully ignorant of the fact that the 17 year time line*** had been abandoned. I posted a somewhat condensending comment and was graciously corrected by a fellow gamer. The liberality FFG has taken with the timeline hasn't ruined the game for me and I feel the story aspect is not "breaking" anything for me…I'm rambling…crap…I hate it when I do this…I'm terrible at forums BTW…
+
+ 
+
+ 
+
+*I just may have made this word up
+
+ 
+
+**This emoticon has nothing to do with my point
+
+ 
+
+***The Core Set & first cycle of expansions took place during the 17 years between Bilbo's 111th Birthday and Frodo's departure
+
+
+
+i always enjoy reading your posts brownmantle happy.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/happy.gif]…though im curious as to the angry emoticon?
+
+rich
+
+## 17 [Brownmantle on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=724023)
+
+Meh…no reason. I just wanted to use an an emoticon. I had never used one before. to bad you live in England, old chap. If your ever in Washington drop me a line. Benhanses knows where all the good American beer is kept. Glad you don't hate my posts…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I kind of do…
+
+ 
+
+## 18 [richsabre on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=724026)
+
+Brownmantle said:
+
+Meh…no reason. I just wanted to use an an emoticon. I had never used one before. to bad you live in England, old chap. If your ever in Washington drop me a line. Benhanses knows where all the good American beer is kept. Glad you don't hate my posts…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I kind of do…
+
+ 
+
+
+
+thanks!….ill keep that in mind, beer+gaming is always good happy.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/happy.gif]
+
+## 19 [Mr Coffee on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=724066)
+
+Brownmantle said:
+
+…. Benhanses knows where all the good American beer is kept. Glad you don't hate my posts…
+
+ 
+
+ 
+
+HEY NOW!   None of that…  It's a wealth of knowledge that I've labored hard to build up (at the expense of my liver perhaps), and I can't just have my mastery of a thing just tossed out there carelessly…
+
+"Keep it safe, and keep it secret!"
+
+ 
+
+As to the original question, I should hope that nearly anyone playing this game takes the time to enjoy the text and atmosphere of the game…  There are some games (various board-games, etc) that I can just sit down and play.  But this is a game that really is positioned well to not only play on a little Tolkien-lore, but to really develop an interest in even a casual player!  Since there is many references to the various locations, events, and people of Middle-earth, this game could esaily be used as a vehicle to drive interest in the non-LOTR aspects of Tolkien (History of Middle Earth, Silmarillian, etc)…
+
+In a similar fashion, I have trolled around FFG's A Game of Throne's websites to pick up glimpses of what to expect in that storyline…  I am new to Martin's books, and have just started reading them.  The storyline is pretty heavy at first, and you think he just has it in for all the "good" characters…  so it's been fun to "spoil" some of the elements of the story for myself by peaking at some of the card-game's characters and plots, giving me a glimpse at what to expect in his books as I read them.
+
+And now that I've openly admitted to wantonly spoiling a fantasy storyline for myself in open forum, I'll quietly take myself off to gamer purgatory for an appropriate amount of time…
+
+## 20 [richsabre on November 15, 2012](https://community.fantasyflightgames.com/topic/74252-how-many-of-us-actually-play-the-story/?do=findComment&comment=724070)
+
+haha that reminds me of the first time i read the fellowship….what did my brother go and do? flick through the two towers and spoil the whole gandalf thing for me ….evil demonio.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/demonio.gif]
+

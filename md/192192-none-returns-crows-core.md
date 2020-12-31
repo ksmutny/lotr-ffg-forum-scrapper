@@ -236,3 +236,103 @@ I'm with all the others, here, I'll play it like you can't get Eastern Crows out
 
 If you want, you can imagine closer exemple with some other cards than sneak gandalf... just think about Beorn ally ability whith Sneak Attack... it was already discussed and seems to be the exact same problem, but where we got another answer
 
+## 26 [Teamjimby on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880347)
+
+Sneak Attack specifically says "if that ally is still in play," which is why it wouldn't return Gandalf or Beorn.
+
+## 27 [alogos on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880355)
+
+Ah, well, there is still plenty of other cards with effect like that. I did try to do the job, so, now, you'll have to think of other possibility for me :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 28 [Lecitadin on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880365)
+
+One thing is sure, those crows... they suck!  :rolleyes: [//content.invisioncic.com/Mfantflight/emoticons/default_rolleyes.gif]
+
+## 29 [alogos on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880385)
+
+Well, coming back for a working exemple (that was faster than I tough) : Born Aloft on Beorn Ally.
+
+## 30 [Teamjimby on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880397)
+
+I'm trying to understand the point you are making.  Are you saying that based on this ruling, you would have to shuffle Beorn back in even if you used Born Aloft before the end of phase?
+
+## 31 [cmabr002 on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1880485)
+
+> Disagree with this ruling. Once Eastern Crows reaches the encounter deck it is not in play. None Returns does not specify that it may interact with out-of-play cards.
+> 
+>  
+> 
+> Edit: Actually, I suppose that all responses based around cards leaving play must implicitly interact with out-of-play cards: None Returns typically will be targeting cards in the Discard Pile anyway. Disagreement withdrawn.
+
+ 
+
+Technically there is some ambiguity here which may allow your original argument to stand.  None Return doesn't specify that it interacts with out-of-play cards and the rules on an enemy being defeated states:
+
+ 
+
+>  
+> 
+> Any time one of these cards has 0 hit points, it is immediately defeated. Defeated characters are placed in their owner’s discard pile, and defeated enemies are placed in the encounter discard pile.
+
+ 
+
+Even though it says "immediately defeated" and later states what you are supposed to do with defeated enemies, it may mean that there is actually a response window in between the enemy being defeated and it actually leaving play to the discard pile.  This would allow both the effect on None Return and Eastern Crows to trigger before it actually left play so I think you could still make your argument as long as you focus on the ambiguity of when exactly a defeated enemy leaves play.
+
+ 
+
+With that said, if we say that None Return cannot target out of play enemies (despite Caleb's ruling) but can target a defeated enemy immediately before it is placed in the discard pile, then Eastern Crows' forced effect would necessarily trigger first and cause it to go to an out-of-play state.  Thus, None Return could no longer interact with it. 
+
+ 
+
+Now, I'm not sure if this argument would cause more problems than it solves (I haven't reviewed the impact it may have on other cards), but it seems that in this case it would make more sense.  I do agree with those that find the ruling awkward.  It really causes some issues where you cannot know if you are resolving the play legally or not.
+
+ 
+
+Edit: Also, the terms "defeated" and "destroyed" seem to be entirely synonymous but is there actually a difference?  None Return uses destroyed and Eastern Crows uses defeated.  The rulebook alternates between the two it seems.
+
+Edited November 5, 2015 by cmabr002
+
+## 32 [DukeWellington on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1881039)
+
+I agree with the last post. I think Caleb made an error with his ruling. The reason none return works should be that it's effect resolves after the enemy is defeated but before it leaves play. If that had been the ruling then other things continue to make sense in consistent fashion. His ruling just makes things confusing and lame.
+
+## 33 [NathanH on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1881172)
+
+Actually, given that Rallying Cry says "After an ally leaves play, add it to its owner’s hand instead of placing it in the discard pile", it does appear that Responses to entities leaving play are played before the entities reach an out-of-play zone (otherwise Rallying Cry would say "return it from your discard pile to your hand). In that case, I return to the conclusion that None Returns doesn't explicitly or implicitly interact with out-of-play cards, and therefore has no ability to target the out-of-play Crows after the Forced effect resolves. So the steps would, to me, be
+
+ 
+
+1) Crows are defeated
+
+2) Forced effect triggers off the "enemy leaves play" prerequisite. Crows are shuffled into the encounter deck.
+
+3) None Returns can be played off the "enemy leaves play" prerequisite. None Returns fails to interact with the out-of-play Crows (or None Returns cannot be played because although its trigger exists, it has nothing to do; it isn't clear to me which).
+
+ 
+
+On the other hand, Landroval says "After a hero card is destroyed, return Landroval to his owner's hand to put that hero back into play", so it appears that entities that are destroyed live in an out-of-play zone of some description between their destruction and the resolution of any Responses that trigger off their destruction.
+
+ 
+
+Or maybe it's just that the rules are not well-defined and we should basically just do whatever we feel like...
+
+Edited November 5, 2015 by NathanH
+
+## 34 [cmabr002 on November 5, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1881270)
+
+Good point regarding Landroval...makes things confusing ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 35 [DukeWellington on November 6, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1881407)
+
+Well, what if Landroval said "return Landroval to your hand to play the hero again as if from your hand." Even though the ally is still in play the text would still work. The way Landroval is written allows you to put the hero back into play as though it is a new version at full health. You could argue that the hero is not in an out of play zone until the effect on Landroval resolves. At that point it goes out of play just so it can be put back into play again.
+
+Or... this is getting silly.
+
+## 36 [alogos on November 6, 2015](https://community.fantasyflightgames.com/topic/192192-none-returns-crows-core/?do=findComment&comment=1882017)
+
+> I'm trying to understand the point you are making.  Are you saying that based on this ruling, you would have to shuffle Beorn back in even if you used Born Aloft before the end of phase?
+
+ 
+
+Yup.
+

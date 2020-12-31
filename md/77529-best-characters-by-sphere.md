@@ -1,0 +1,367 @@
+# [Best Characters by Sphere](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/)
+
+## 1 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748413)
+
+I'd like to start a discussion gleaning people's opinion of the two best characters for each sphere.  I chose 2 because it can often be too clear on the single best character for the sphere, although there still would probably not be consensus.  Also, although this is written with a solo player bias I tried to consider multi-player as well.
+
+(In no particular order)
+
+Leadership: Dain, Theodred.  Dain is a king indeed for dwarven decks.  The impact he has on them cannot be overstated, particularly in giving utility (willpower) to all cheap allies, which is a great boon to tactics.  Also, Dain is a supreme defender (or attacker, or both with Unexpected Courage, which Dain is a prime candidate for).  Theodred is in many ways Dain's opposite, good in any deck where Dain only excels in certain ones.  It's good to boost Theodred's will (Celebrian's Stone, Dunedain's Quest, Favor of the Lady) as he will probably quest every turn.  Theodred doesn't have great stats, but his low threat and utility put him in the top two of Leadership.  Honorable Mention: Aragorn (Core)
+
+Spirit: Glorfindel, Eowyn.  Glorfindel is Spirit's only high attack hero.  In addition to being a great quester with Light of Valinor, Glorfindel races through locations with Asfaloth.  He's a superhero with just those two cards, letting him quest and attack on the same turn, and his rock bottom threat of 5 is of course terrific.  Eowyn is stellar at questing or other will-related tasks (ie Gollum's escape tests) with the highest will for a hero, and is a handy sink for dead cards and therefore can change the make up of your deck (making it better to include those 3 copies of Steward of Gondor).  To me, there really aren't any attachments that beg to be put on Eowyn.  (Side note, Spirit has the least amount of heroes, at 7--other spheres have 8).  Honorable Mention: Frodo
+
+Lore: Elrond, Beravor.  (I really wanted to include Strider here, but ultimately thought Beravor edged him out because Strider needs a deck built around him slightly more and Beravor has lower threat).  Elrond even without Vilya is a strong hero, able to amass a multi-sphere army of allies.  Besides his Elven Ring of Power, other terrific cards with Elrond are: Warden of Healing, Light of Valinor, Imladris Stargazer, Gildor Inglorion, Unexpected Courage.  Beravor is the quintessential hero that's good any deck.  Solid 2W, 2A, 2D, 4HP stats, and a great card draw ability.  Even though you can't use Unexpected Courage to draw more cards, it's still a good attachment for her to be able to utilize her other stats.  I've especially found her good as a defender with Burning Brand.  Honorable Mention: Aragorn (tWitW)
+
+Tactics: Legolas, Boromir.  Tactics was, for me, the most difficult sphere to determine, with no clear winners or losers.  First, the dwarven heroes (Gimli, Thalin) would most-likely have higher stats courtesy of Dain, which could affect their standing.  However, I considered the characters separately to get these ranks.  Also, I haven't played Hama yet and feel that he could be one of the better Tactics heroes if played well in a deck that highlighted his event ability.  I have found Legolas to be a strong and reliable character in that he prevents you from getting bogged down.  Blades (of Gondolin, Rivendell) are good on him, as are other attack boosters and Hands Upon The Bow, of course.  You will get a lot of milage out of Boromir, who (even more than Legolas) benefits from W/A/D boosts such as the Dunedain cards.  Even more, you will have to reduce threat for Boromir, who comes with a hefty 11 threat and will raise it even higher with his readying ability.  Also consider ways to heal Boromir because he could be taking a lot of attacks.  I like Boromir because he can be a one man army.   Honorable Mention: Beregond.
+
+I believe one of the strengths of this game is that none of the heroes are really chaff cards, even Elanor, who is probably the worst hero.  She still has many points going in her favor (she is from a very strong sphere, low threat, ability can be very good in certain circumstances).
+
+What are your thoughts?  Have your play experiences been different?  Weight in!
+
+## 2 [Captain Poe on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748452)
+
+I think it really depends on play style. For example, i am a solo player, and characters who can gain extra actions or fill multiple roles each round are the most useful for me. So, Spirit glorfindel, who can get the Light is a good quester and attacker, and can do both without sacrafice. Likewise, boromir is extremely useful, despite the threat he generates, as he can get multiple actions each round. For this exact reason, I would place Leadership Aragorn above Theodred. While Theordred does help with his resource generation, he is stuck questing to be of any use, and is not a useful quester without some serious boosts. Having only one copy of the core means the CS is unreliable  to draw, and so you're stuck paying for +1 will dunedain attachment, which is an excpensive replacement. I agree that legolas is good… but the deck has to be enemy heavy… and usually needs to be orc heavy (gondolin bladed) for me to use him over other heroes. 
+
+ 
+
+If i had to say the BEST, my personal order is:
+
+Lore: Elrond, seconded by Bifur. Elrond is sort of broken, and bifur is a must if you're playing multi sphere decks. His ability to play higher cost lore cards really opens up multi-sphere options. Combind with Dain, he's a decent quester too. Bilbo gets an honorable mention. I prefer bilbo over Beravor… as in single player, he guarantees an extra card each round without having to waste and action, and is further useful with fast hitch.
+
+Spirit: What you said.
+
+Leadership: Dain, Aragorn. As I said, i find aragorns ability to quest and then attack/defend to be more useful then the resources generated by theo.
+
+Tactics: boromir, legolas.
+
+## 3 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748461)
+
+I used the following basic criteria to determine whom I thought were the two best heroes for each sphere:
+
+-Questing.
+
+-How well it destroys enemies.
+
+-How well it defend attacks.
+
+-How well it generate resources (tokens, and card draw)
+
+-How it interacts with threat (starting threat, does it increase/decrease threat etc).
+
+-How it effects allies.
+
+-How it effects locations.
+
+-Vulnerablity (to treacheries, shadow effects, etc).
+
+-How much it relies on other cards to be effective.
+
+PS--I recognise that in my post above I say Unexpected Courage is a good card on many heroes.  UC: 1) Is just a good card (news to no one), and 2) Is good at helping make the most out of some characters.  UC is NOT a great, or even good, choice for some heroes, such as hobbits (Fast Hitch), Tactics Boromir (since he already has the ability), and Eowyn (the dedicated quester).
+
+## 4 [Pickles on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748469)
+
+I think you are pretty much right. 
+
+Glorfindel is pretty overpowered - has to be to  outshine Eowyn. & is the best hero in the game.
+
+For Lore Bifur is is also very good & Ori with dwarfs. I am not sure about Elrond as his ability is slowish & he has huge threat. I feel he is better in multiplayer than solo.
+
+Tactics as a good number of decent heroes without any feeling dominant like Dain/Glrofindel. Hama is good too as well as the two you mentioned. I am not impressed by Beregond. 
+
+## 5 [Captain Poe on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748486)
+
+I really like beregond. He's a beast for defense, as he can get citadel for 2 resources, or a spear for free. My problem with him as a solo player is that he's hard to pick over other heroes like boromir or frodo who are easier to set up for multiple blocks. When you factor in how affortable defendor of rammas is, its hard to give up a hero spot for him.
+
+## 6 [Mr Coffee on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748525)
+
+jc1138 said:
+
+I'd like to start a discussion gleaning people's opinion of the two best characters for each sphere.  I chose 2 because it can often be too clear on the single best character for the sphere, although there still would probably not be consensus.  Also, although this is written with a solo player bias I tried to consider multi-player as well.
+
+
+
+My comments will be more directed to solo players than multiplayer (but I will include a few comments for them as well, since I play that way occasionally).  To be blunt, even though your stated intention was that you were directed more to solo play, it seems that some of your ideas are more suited to multiplayer (Eowyn).
+
+jc1138 said:
+
+Leadership: Dain, Theodred.  Dain is a king indeed for dwarven decks.  The impact he has on them cannot be overstated, particularly in giving utility (willpower) to all cheap allies, which is a great boon to tactics.  Also, Dain is a supreme defender (or attacker, or both with Unexpected Courage, which Dain is a prime candidate for).  Theodred is in many ways Dain's opposite, good in any deck where Dain only excels in certain ones.  It's good to boost Theodred's will (Celebrian's Stone, Dunedain's Quest, Favor of the Lady) as he will probably quest every turn.  Theodred doesn't have great stats, but his low threat and utility put him in the top two of Leadership.  Honorable Mention: Aragorn (Core)
+
+
+
+Definitely won't argue with these choices.  Although right off the bat, we see the beauty of diversity in this game.  Dain gets my "rockstar" vote, but obviously is pretty limited to running a dedicated dwarven deck for him to truly shine.  But with the race being the strongest in the game right now, he pretty much HAS to be one of the best Heroes from this sphere.  Honestly, I use Theodred a LOT.  As much as I love Aragorn (either version), I can't seem to break my Theodred resource addiction.  Caveat:  Aragorn is a much more "versatile" hero.  Better all around stats, built in readying ability, and specialized attachments that make him ridiculously good, and a monster in multiplayer games.  It really is a toss-up between him and Theodred for my second choice.  Theodred, on the other hand, is great in solo play, since you don't have the option of relying on any other players to throw resources your way from their decks.  Downside is that he pretty much becomes a dedicated quester with low willpower, but that can be oversome with some attachments inf needs be.  And in a pinch, you can always use him for something other than questing.
+
+My choices:  Dain and Theodred, for pretty much the reasons you stated.
+
+jc1138 said:
+
+Spirit: Glorfindel, Eowyn.  Glorfindel is Spirit's only high attack hero.  In addition to being a great quester with Light of Valinor, Glorfindel races through locations with Asfaloth.  He's a superhero with just those two cards, letting him quest and attack on the same turn, and his rock bottom threat of 5 is of course terrific.  Eowyn is stellar at questing or other will-related tasks (ie Gollum's escape tests) with the highest will for a hero, and is a handy sink for dead cards and therefore can change the make up of your deck (making it better to include those 3 copies of Steward of Gondor).  To me, there really aren't any attachments that beg to be put on Eowyn.  (Side note, Spirit has the least amount of heroes, at 7--other spheres have 8).  Honorable Mention: Frodo
+
+
+
+Glorfindel is a no-brainer here.  From the get-go, he jumped over Aragorn to become the hero with the best "bling" (attachments).  Outside of defending, there's not much he can't do well.
+
+But Eowyn is going to be my first major split from where your comments lead.  I will admit to being like every other fresh player when I started… I ran her in EVERY deck, she's just too easy to put in there for questing.  But after that, her abilities are just….. absent.  About the only thing that can be said for her is that she can burn unwanted cards out of your hand.  Let's think about that statement…  If you have that many cards to just burn for willpower, you may need to retool your deck.  While she clearly has the best willpower for heroes, this game now has TOO many options for generating willpower in other ways to hamstring your fellowship by relying on a hero that can only do ONE thing.  Success in this game has proven to be solidly tied to "action potential" - gaining extra questing, defending, attacking, text abilities, etc from your heros.  Glorfindel, Aragorn, Boromir are example of these built in.  And you can use them in multiple phases successfully because of their abilities AND stats.  Let's say we ready Eowyn once she quests.  Then what?  Is she really the hero yo plan on defending or attacking with??  Now with that all being said, she does add extra value in multiplayer BECAUSE of her "card burn".  Even though I poo-pooed it a moment ago, there is a difference between using her in solo games, where she is very limited in what a solo player can do with her, as opposed to in a multiplayer game where she can "quest tank" in the place of two different heros.  The ability for, say, three people to potentially push her willpoer to a value of 7, for example, means that another player has the potential for saving one of their heros from needing to quest.  That's about the only way that she can generate extra "action potential".  So even though I have tried to break my friends that I play with from their Eowyn addictions, I really don't mind when they plunk her down in a game (one less hero slot they might use to conflict with any of my chosen heros as well…. lol).
+
+The hard part is to choose who else from this sphere would I choose instead of her.  Well, it really is situational.  I use to run Dwalin a lot in my dwarven deck to try and get some threat reduction.  But realistically, I found that I rarely got to trigger his response… and with the release of the first Hobbit saga, the dwarves now have some better "sidekcicks" to Dain (Ori/Nori) that provide more consistant effects in a dwarven deck.  Eleanor is actually a great pick in multiplayer (not so much for solo) where she becomes a great CYA for a game where you have to pull more encounter cards (thus potentailly more treachery cards)… cuz not every deck is going to be running the Spirit cancel cards.  But I think my second pick is going to have to be Dunhere, because while his ability is pretty direct and up-front, he provides you a very unique ability that is nearly impossible to replicate in the game.  Being able to attack an enemy before it can even engage you (negating any engagement triggers AND preventing the shadow card draw) is HUGE.  I actually don't use him that often (since I tend to run dwarves or Glorfindel), so perhaps this choice is a bit hypocritical.  But for all around usability that isn't tied to dependancy on a dwarven keyward, he's my pick
+
+My Choices:  Glorfindel, Dunhere
+
+jc1138 said:
+
+Lore: Elrond, Beravor.  (I really wanted to include Strider here, but ultimately thought Beravor edged him out because Strider needs a deck built around him slightly more and Beravor has lower threat).  Elrond even without Vilya is a strong hero, able to amass a multi-sphere army of allies.  Besides his Elven Ring of Power, other terrific cards with Elrond are: Warden of Healing, Light of Valinor, Imladris Stargazer, Gildor Inglorion, Unexpected Courage.  Beravor is the quintessential hero that's good any deck.  Solid 2W, 2A, 2D, 4HP stats, and a great card draw ability.  Even though you can't use Unexpected Courage to draw more cards, it's still a good attachment for her to be able to utilize her other stats.  I've especially found her good as a defender with Burning Brand.  Honorable Mention: Aragorn (tWitW)
+
+
+
+Easily the hardest sphere to choose from for me, because it's probably the one that I use the widest range of heroes from:  Beravor, Bilbo, Elrond, Loragorn, Bifur.
+
+And you won't hear any major disagreement from me with your choices or reasons for them.  This sphere is really the "workhorse" or "handyman" in this game so far…  Elrond is a beast.  Even with his high threat cost, his abilities to build and heal a multi-sphere army are insane.  Add a ring and ally or two, and the game gets crazy stupid real quick.  After that it becomes VERY situational.  Bilbo is great for single player (extra card draw every turn?  Yes, please…) but pretty limited in use (still think that only one willpower for him is just dumb…), and loses potency the more players you have.  Loragorn will be a mainstay in any secrecy deck (assuming they finally flesh out that mechanic to make it worth it).  Berevor is just crazy good.  Even being nerfed, she just gives you a wealth of options with stats and abilities (putting UC on her can almost guarantee you a chance at victory).  My unsung hero is Bifur, who I find I use in more deck than any other hero (Theodred is pretty close).  While his stats aren't the best and he doesn't "do a lot", his low threat cost and ability to move and pay for expensive/powerful lore cards has made him pretty much the only dwarf I use regularly, let alone outside of a dwarven deck.  So while Elrond is by far the "beast" of this sphere, my picks for general all-around play and non-situational usage are…
+
+My Choices:  Beravor, Bifur
+
+jc1138 said:
+
+ 
+
+Tactics: Legolas, Boromir.  Tactics was, for me, the most difficult sphere to determine, with no clear winners or losers.  First, the dwarven heroes (Gimli, Thalin) would most-likely have higher stats courtesy of Dain, which could affect their standing.  However, I considered the characters separately to get these ranks.  Also, I haven't played Hama yet and feel that he could be one of the better Tactics heroes if played well in a deck that highlighted his event ability.  I have found Legolas to be a strong and reliable character in that he prevents you from getting bogged down.  Blades (of Gondolin, Rivendell) are good on him, as are other attack boosters and Hands Upon The Bow, of course.  You will get a lot of milage out of Boromir, who (even more than Legolas) benefits from W/A/D boosts such as the Dunedain cards.  Even more, you will have to reduce threat for Boromir, who comes with a hefty 11 threat and will raise it even higher with his readying ability.  Also consider ways to heal Boromir because he could be taking a lot of attacks.  I like Boromir because he can be a one man army.   Honorable Mention: Beregond.
+
+
+
+Hardest one for me to use, since I don't run them very often.  I've now started using Thalin in place of Dwalin in my dwarven deck, but he's kind of a "Theodred-lite" character.  Not really who you WANT to quest with, but in a dwarven deck his ability kind of puts you in a "have to" situation…  Boromir has pretty much been the top-dog in this sphere for his action potential ability that is difficult to match elsewhere (now that there are more threat-reduction options in the game).  I like Legolas and Brand, but I can't really consider them at the top since their abilities are pretty much limited to great success within Multiplayer games (especially Brand, which is too bad…).  Gimli is great, of course, but I hardly even use him in my dwarven decks…  I think that two of the more recent heroes are great for this sphere, Hama and Beregond.  Hama makes it viable to run a tactics-lite deck with other spheres just for the ability to keep pulling those great events back into the hand.  And Beregond is gonna be amazing for all those new siege locations and ability to reduce the need for resources in a Tactics-heavy deck.
+
+My Choices:  Boromir, Hama
+
+## 7 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748526)
+
+Captain Poe said:
+
+ 
+
+Lore: Elrond, seconded by Bifur. Elrond is sort of broken, and bifur is a must if you're playing multi sphere decks. His ability to play higher cost lore cards really opens up multi-sphere options. Combind with Dain, he's a decent quester too. Bilbo gets an honorable mention. I prefer bilbo over Beravor… as in single player, he guarantees an extra card each round without having to waste and action, and is further useful with fast hitch.
+
+Leadership: Dain, Aragorn. As I said, i find aragorns ability to quest and then attack/defend to be more useful then the resources generated by theo.
+
+ 
+
+ 
+
+I also play solo, and see your point about getting the most out of your heroes!  Bifur is quite good, as he will be questing for 3 with Dain.  I put card draw just a hair above smoothing out resource curve (as you mention), but know mileage may vary.  To me, good card draw options are few and far between and there are more ways to reliably round out resources.  I actually prefer Bilbo over Beravor too, but think he needs a little more card support to make him reliable.  Bilbo's a great a defender, but you first need stuff like Burning Brand, Ring Mail, etc on him for many quests because he has only the 2 HP, whereas Beravor can also quest and attack (or at least contribute) meaningfully with no attachments.  Of course, Bilbo does have lower starting threat…  A compelling case can be made for Bilbo over Beravor, espcieally with Beravor's errata.  Anyhow, I hope Bilbo will be the winner once the hobbit trait gets more support.
+
+(PS-one more point I forgot to mention was traits, although only a few such as "dwarf" really effect how good I value a hero for now).
+
+## 8 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748545)
+
+Wow, thanks benhanses for the in-depth reply!  Im glad to hear more perspectives on heroes. 
+
+Beregond is an interesting hero.  There are (roughly) five roles for heroes: 1) quest 2) attack 3) defend 4) resources and 5) support/other, and Beregond is the master of number 3, defense.  Any deck needs to consider each element, but defense is not paramount.  A defended enemy will come back next turn, it's almost always better to destroy it than to defend it.  A good defending hero will bring something else to the table.  Gimli and Boromir are two such heroes from the Tactics sphere.  They may have 2 lower defense than Beregond, but not only is Boromir is able to do multiple actions per turn, and Gimli able to turn the damage into higher attack, but both have higher attack and willpower (they are, however, both one more starting threat).  Of course, like all heroes, Beregond is better in some quests than others (he's a star at siege). 
+
+Perhaps I didn't give Bifur his due.  He is great at only 7 threat…
+
+## 9 [GrandSpleen on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748560)
+
+There are lots of primarily solo players on this forum, and we're seeing that in this thread -- I'll chime in as someone who players almost exclusively 2-player.
+
+Many of the heroes chosen for solo play are also strong in multiplayer.  Some heroes get stronger with more players (Dain, Brand) and there are a few who lose some potency (Bilbo, Denethor).  Here are my choices, in no particular order:
+ 
+
+Leadership: 1) Dain, for all the reasons stated above.  Great defense, excellent target for character-readying abilities.  Global bonus to all players using dwarves -- wow!  He turns our many 0-willpower dwarf friends into quest contributors if they aren't needed elsewhere.  You can thank Dain for at least 10 willpower in the mid-game when using 2 dwarf decks.  2) Elrohir, but he does need support.  Elladan obviously needs to be in play, and he's not at full power until he has a way to generate resources (good target for Steward of Gondor) and gets a Song of Wisdom + Burning Brand combo.  I won't hold that card committment against him, however, as once he is in "super hyper" mode, you can pretty much forget about defending for the rest of the game -- he's got it covered.
+
+Spirit: 1) Glorfindel, hard not to say so.  Even without Light of Valinor, you can justify questing on several turns thanks to his low starting threat and 3 willpower.  Since I tend to play Spirit/Tactics decks, I rely on Spirit for willpower, and he's got it.  The 3 attack is a welcome addition once you've got the Light on him, but slightly less game-altering than it would be if you played him in a pure Spirit deck where there are not a lot of solid attackers.  2) Eowyn.  I find that the Spirit slot in my decks (I usually play with 1 Spirit hero) is more situational -- Eleanor if I anticipate mean Treachery, Frodo if I need to manage damage.  Eowyn fills her own role, though, and can contribute as much as 6 willpower during questing in a 2-player game.  She's a one-trick pony, to be sure, but putting her in your deck means you are free to choose other heroes with lower willpower if you need to, and that's an invisible ability that should also be appreciated.
+
+Lore: Everyone appears to be saying Elrond, but I don't own his card yet so I have to exclude him from consideration.  1) Aragorn.  His threat-lowering ability, while affecting only 1 player and only once during the game, has benefits that are not immediately obvious.  When the encounter deck is spitting out Doomed cards or otherwise raising your threat, the player with Aragorn is well-insured.  The value of The Galadhrim's Greeting increases, certain encounter deck decisions are more easily made (guarding Gollum in RtK, who's going to fight that Hill Troll or Marsh Adder, who can avoid Evil Storms and therefore take the Clue in THfG), and he combos very well with Frodo Baggins or Boromir if you're using them.  Solid stats and The Sword that was Broken make him a very valuable hero.  2) Ori, as we often play with dwarves these days and card draw is king.  We used to use Bilbo a lot, but he contributes so little other than his passive.  Ori's bonus is concentrated on one player, meaning the Lore player can get other useful cards out sooner, including Gleowine who is then free to bless another player with card draw.  Ori quests well with Dain present, so his presence is appreciated.
+
+Tactics: This is hard -- Tactics is my favorite sphere.  1) Boromir, whose self-ready makes him a viable choice for any scenario.  Since I tend to pair Spirit and Tactics, I always have options for lowering threat.  Boromir has great stats with the exception of willpower, making him fairly well-rounded, too.  When the encounter deck spits out 3 enemies in a single turn, and you already have a couple engaged with each player, Boromir is there is save you!  To date I have never used his self-discard ability -- the cost is severe, and there is only one option to return him (Fortune or Fate), which I never like to include in my decks.  2) Gimli, one of my favorite heroes.  He is the other well-rounded hero in Tactics, beating out Boromir in raw potential for a single action.  He can have 6 attack without any card modifications, the highest of any hero to date.  Power him up with Dain, Citadel Plate etc., and you have *the* powerhouse.  Ironically, I usually bring him as a quester!  He quests for 3 with Dain present, with brings a lot to a Tactics deck.  He is also a legal target for Dwarrowdelf Axe or a great choice for Dwarven Axe.  In We Must Away Ere Break of Day he is the Tom-breaker, and once Tom is gone the game is nearly won.
+
+ 
+
+ 
+
+## 10 [GrandSpleen on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748564)
+
+jc1138 said:
+
+ it's almost always better to destroy it than to defend it.  A good defending hero will bring something else to the table.  
+
+
+
+Gotta defend it before you can destroy it, in most cases!  I do like Beregond, but mostly for quests with high-attack enemies like those silly Mountain Wargs that always seem to swarm me in Dwarrowdelf quests.  Beregond, like Eowyn, specializes.  A poor choice for The Redhorn Gate!  He brings Sentinel, and while there are several heroes who have that trait, there are none other than Beregond who can block attacks more than a couple of times without healing.  Beregond can be your stand-in if you didn't bring healing along, or simply haven't gotten any on the table.
+
+## 11 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748633)
+
+GrandSpleen said:
+
+jc1138 said:
+
+ 
+
+ it's almost always better to destroy it than to defend it.  A good defending hero will bring something else to the table.  
+
+ 
+
+ 
+
+Gotta defend it before you can destroy it, in most cases! 
+
+
+
+I should have been more clear and was speaking in general terms.  Yes, during a round you will first need a hero to defend because an enemy will attack before you.  However, you want to get rid of that enemy rather than just defending it turn after turn, which is what I was trying to say.
+
+## 12 [GrandSpleen on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748681)
+
+I know, I know.. I meant that Beregond's role is to take that attack so someone else can smack down the enemy.  I don't use him to "cancel" an enemy indefinitely.  I hate leaving attacks undefended, and in many scenarios doing so can end your game (Return to Mirkwood, A Journey to Rhosgobel).  He's got his place, that's al!
+
+## 13 [jc1138 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748700)
+
+Leaving attacks undefended has ended my games pretty quick in some recent Massing at Osgiliath plays (solo), thats for sure! 
+
+## 14 [Raven1015 on January 16, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748731)
+
+Spirit: Glorfindel, Frodo
+
+Lore: Bifur, Aragorn
+
+Tactics: Gimli, Boromir
+
+Leadership: Dain Ironfoot, Prince Imrahil
+
+## 15 [DurinIII on January 17, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=748913)
+
+To a simplified question, I will give a simplified answer:
+
+Lore: Bifur and Bilbo
+
+Spirit: Eowyn and Glorifindel 
+
+Leadership: Dain and Theodred
+
+Tactics: Gimli and Beorn
+
+## 16 [DevastazioneH88 on January 17, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749082)
+
+Leadership : Dain Ironfoot, Theodred
+
+Tactics : Legolas, Boromir
+
+Spirit : Glorfindel, Frodo Baggins
+
+Lore : Elrond, Bifur
+
+ 
+
+Reasons : 
+
+Dain : No explanations necessary I guess
+
+Theodred : Most of your three sphere decks will need him if you want them to play faster and easier
+
+Legolas : The unique card (not hero, not character but card) capable of dealing with locations (plus 9 threat and 3 attack are the best stats for me in tactics)
+
+Boromir : Again, no explanations necessary
+
+Glorfindel : …almost broken
+
+Frodo Baggins : His low threat and his 2 defense (plus his ability and his "hobbitness") give him the second spot (instead of Eowyn who can only shine once)
+
+Elrond : Strongest hero in the game
+
+Bifur : A dwarf version of Frodo, with a (possibly) better ability (and 1 more hp)
+
+## 17 [Pickles on January 18, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749621)
+
+benhanses said:
+
+But Eowyn is going to be my first major split from where your comments lead.  I will admit to being like every other fresh player when I started… I ran her in EVERY deck, she's just too easy to put in there for questing.  But after that, her abilities are just….. absent.  About the only thing that can be said for her is that she can burn unwanted cards out of your hand.  Let's think about that statement…  If you have that many cards to just burn for willpower, you may need to retool your deck.  While she clearly has the best willpower for heroes, this game now has TOO many options for generating willpower in other ways to hamstring your fellowship by relying on a hero that can only do ONE thing.  Success in this game has proven to be solidly tied to "action potential" - gaining extra questing, defending, attacking, text abilities, etc from your heros.  Glorfindel, Aragorn, Boromir are example of these built in.  And you can use them in multiple phases successfully because of their abilities AND stats.  Let's say we ready Eowyn once she quests.  Then what?  Is she really the hero yo plan on defending or attacking with??  Now with that all being said, she does add extra value in multiplayer BECAUSE of her "card burn".  Even though I poo-pooed it a moment ago, there is a difference between using her in solo games, where she is very limited in what a solo player can do with her, as opposed to in a multiplayer game where she can "quest tank" in the place of two different heros.  The ability for, say, three people to potentially push her willpoer to a value of 7, for example, means that another player has the potential for saving one of their heros from needing to quest.  That's about the only way that she can generate extra "action potential".  So even though I have tried to break my friends that I play with from their Eowyn addictions, I really don't mind when they plunk her down in a game (one less hero slot they might use to conflict with any of my chosen heros as well…. lol).
+
+
+
+Interesting analysis of Eowyn. I see your point but even at her super focused state I think she is very strong even in solo play. She quests as well as 11/2 other heros so she gets that pseudo action advantage & 11/2 heroes is conservative as she can be boosted & has quite low threat for her 4 points so to get the same willpower you need about double her threat (Glorfindel & Dain boosted dwarfs excepted as they are an issu in themselves)
+
+Why she is so much better than Beregond especially solo is that you need to quest pretty much every turn to keep you threat low even if  you do not want to progress the quest. Attacking & defending are activities you only need to do when a monster appears. This will not be every turn in solo play & even in multi you can make a deck that rarely has to actually attack the enemies - just fend off the odd one. This gives her much more versatility than Boromir - even though he can attack repeatedly for loads afer defending 4 times if all you have are locations then he is a 1 point quester who gives no action advantage.  It's a subtle strength of Beravor that she has something to do if her solid atack will power & questing are not needed, assumiong you do not just go for her more overt strength & draw cards in planning. 
+
+Occasionally 4 points of questing can be a problem if you really do not want to progress a quest stage but it is an abundance of riches you can live with.
+
+## 18 [CJMatos on January 18, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749630)
+
+DevastazioneH88 said:
+
+ 
+
+ 
+
+Legolas : The unique card (not hero, not character but card) capable of dealing with locations (plus 9 threat and 3 attack are the best stats for me in tactics)
+
+ 
+
+
+
+ 
+
+And what about Northern Tracker and Lorien Guide, just for character cards in the Core?
+
+ 
+
+Ancestral Knowledge (KD), Asfaloth (FoS), Ravenhill Scout (TRG) (indirectly), Ride to Ruin (THoEM), Strengh of Will (Core), The Riddermark's Finest (THoEM)
+
+## 19 [jc1138 on January 18, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749660)
+
+DurinIII said:
+
+Tactics: Gimli and Beorn
+
+
+
+I'm like Gimli, but haven't been much impressed by Beorn.  Besides his high starting threat (the highest in Tactics) I'm hung up on how you can't play effects on him (I know you can use stuff like Fortune or Fate on him).  He seems like just a dedicated attacker, since there's not way to get wounds off him, and some attacks will be hitting for quite a bit, especially with shadow effects so his 10 HP's really won't hold up to many attacks since he only ever will have the one defense.  it doesn't take much to get GImli to 5 attack even with no attachments, and he can still quest, have attachements, use Quick Stike and so on.  If I'm missing something with Beorn please fill me in!  Maybe there is a scenario that Beorn really shines in, but I can't off the top of my head think which one.
+
+Also, in starting this thread, I wanted to get discussion going about the heroes people think are the best for the respective spheres, but I really like to use, and would encourage others to use, all of the heroes, even the ones that don't necessarily vie for top placings.  It can be even more fun to win games with "lesser" heroes, for example Lore Glorfindel.  It often gives you added appreciation, and you say: "I thought this hero was bad? he's really pretty good."  I especially like to do this on some of the easier scenarios, and the harder ones after I've gotten a good feel for their encounter deck. 
+
+## 20 [Pickles on January 18, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749696)
+
+CJMatos said:
+
+Legolas : The unique card (not hero, not character but card) capable of dealing with locations (plus 9 threat and 3 attack are the best stats for me in tactics)
+
+ 
+
+And what about Northern Tracker and Lorien Guide, just for character cards in the Core?
+
+ 
+
+Ancestral Knowledge (KD), Asfaloth (FoS), Ravenhill Scout (TRG) (indirectly), Ride to Ruin (THoEM), Strengh of Will (Core), The Riddermark's Finest (THoEM)
+
+
+
+Not tactics cards. I am not sure it helps enough as tactics is really bad at questing but on form Legolas is gives pseudo action efficiency as he get 2 points of questing on top of attacking & can att those points even if you are gummed up struggling to oivercome the threat in staging. Or he can just watch as more & more locations pile up…
+
+ 
+
+ 
+
+## 21 [Mr Coffee on January 18, 2013](https://community.fantasyflightgames.com/topic/77529-best-characters-by-sphere/?do=findComment&comment=749799)
+
+Pickles said:
+
+benhanses said:
+
+ 
+
+But Eowyn is going to be my first major split from where your comments lead.  I will admit to being like every other fresh player when I started… I ran her in EVERY deck, she's just too easy to put in there for questing.  But after that, her abilities are just….. absent.  About the only thing that can be said for her is that she can burn unwanted cards out of your hand.  Let's think about that statement…  If you have that many cards to just burn for willpower, you may need to retool your deck.  While she clearly has the best willpower for heroes, this game now has TOO many options for generating willpower in other ways to hamstring your fellowship by relying on a hero that can only do ONE thing.  Success in this game has proven to be solidly tied to "action potential" - gaining extra questing, defending, attacking, text abilities, etc from your heros.  Glorfindel, Aragorn, Boromir are example of these built in.  And you can use them in multiple phases successfully because of their abilities AND stats.  Let's say we ready Eowyn once she quests.  Then what?  Is she really the hero yo plan on defending or attacking with??  Now with that all being said, she does add extra value in multiplayer BECAUSE of her "card burn".  Even though I poo-pooed it a moment ago, there is a difference between using her in solo games, where she is very limited in what a solo player can do with her, as opposed to in a multiplayer game where she can "quest tank" in the place of two different heros.  The ability for, say, three people to potentially push her willpoer to a value of 7, for example, means that another player has the potential for saving one of their heros from needing to quest.  That's about the only way that she can generate extra "action potential".  So even though I have tried to break my friends that I play with from their Eowyn addictions, I really don't mind when they plunk her down in a game (one less hero slot they might use to conflict with any of my chosen heros as well…. lol).
+
+ 
+
+ 
+
+Interesting analysis of Eowyn. I see your point but even at her super focused state I think she is very strong even in solo play. She quests as well as 11/2 other heros so she gets that pseudo action advantage & 11/2 heroes is conservative as she can be boosted & has quite low threat for her 4 points so to get the same willpower you need about double her threat (Glorfindel & Dain boosted dwarfs excepted as they are an issu in themselves)
+
+Why she is so much better than Beregond especially solo is that you need to quest pretty much every turn to keep you threat low even if  you do not want to progress the quest. Attacking & defending are activities you only need to do when a monster appears. This will not be every turn in solo play & even in multi you can make a deck that rarely has to actually attack the enemies - just fend off the odd one. This gives her much more versatility than Boromir - even though he can attack repeatedly for loads afer defending 4 times if all you have are locations then he is a 1 point quester who gives no action advantage.  It's a subtle strength of Beravor that she has something to do if her solid atack will power & questing are not needed, assumiong you do not just go for her more overt strength & draw cards in planning. 
+
+Occasionally 4 points of questing can be a problem if you really do not want to progress a quest stage but it is an abundance of riches you can live with.
+
+
+
+ 
+
+Can't recal comparing Eowyn to Beregond.  I was trying to stay within the spheres each character comes from.  Be that as it may, I stick with my assesment.  There are just too many decent options for generating willpower in the game now to hamper your deck by selecting a hero that only does that one thing.  Like I said, she has her uses, but I couldn't see myself using her in a solo game anymore.  Glorfindel has only one less willpower, much better attack, and a host of other options (LoV, Asfaloth) that more than make up for the single willpower you give up.  I could only see using her in a multiplayer game if someone else was already plunking down Glorfindel.  And I still might prefer to use other spirit heros instead of her.  Either of the Spirit dwarves if I have them paired with Dain (who then boosts their willpower to close that gap), Eleanor (hate on her if you will) or Dunhere depending on what encounter we are playing (to counter treachery or enemies generated by the larger number of encounter draws).  Or Frodo if I know we are going up against some larger enemies that we need to absorb damage from.
+
+To compare her to the Tactics heroes is a bit misleading, since your deck build would be COMPLETELY different.  It's not like I would take a similar deck and just replace her with Beregond, Boromir, or Legolas.  And outside of Tactics, there's just plenty of ally and event cards to cover the willpower difference.  I'm not going to delve into every strategy here, of course, but some of them should be obvious (Dain, Faramir, etc).  For just willpower purposes, there are plenty of low-costing allies that can add up to match her 4 willpower quickly, leaving your heros to use other abilities.
+
+I'm not going to chide anyone for using her.  If they can build up a decent strategy around her, then by all means…  All I'm saying is that as an early and frequent user of Eowyn, once I finally freed myself of the NEED to use her, I found that it really freed up my deck-building to form lots of fun other strategies…
+

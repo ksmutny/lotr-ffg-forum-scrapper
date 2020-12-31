@@ -1,0 +1,114 @@
+# [Dwarf heros without Dain?](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/)
+
+## 1 [mewmartigan on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921128)
+
+I am still relatively new to game and stink at deckbuilding. I tried to build a dwarf deck for Khazad Dum, which I just recently got. The heros were Gimli, Thalin and Dwalin.  I only have the first 3 APs of Mirkwood..waiting on reprint for the other 3. I also have Watcher in Water/Foundations of Stone/Shadow and Flame.
+
+ 
+
+Regardless of what cards I had in my deck, it seems like without Dain's ability, hero dwarves just don't have enough willpower.  
+
+ 
+
+During the "into the pit" setup, I had to add an enemy with 3 threat. In round 1, the card revealed during the quest phase was another 3 threat enemy.   So 6 threat and exhausting all 3 dwarves still only got me 4 willpower. So I essentially lost right away as there was no way to recover from that. It might take another round or two to get out an ally with any questing power and since you can't engage enemies in the first location, there is no way to reduce the threat in the staging area (as far as enemies go). It just kept climbing and my threat kept rising. I was able to use cave torch successfully a few times but each time an enemy card was revealed that I couldn't engage, it brought me closer to the end. I think I stopped after round 4 or so with 45 threat on my dial and zero progress on the first location (east gate?).
+
+ 
+
+I did have a few cards in the deck to boost willpower but by the time I got them in my hand or had the resources to play them, they weren't going to make a dent, haha.
+
+ 
+
+ 
+
+## 2 [koriakin97 on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921160)
+
+It is possible to play dwarves without dain, but it requieres more cards- most important pack is the first hobbit saga, as it gives you Thorin and Ori (who get better when you have dwarf allies) plus plenty of allies. Generally you try to flood the board with allies with (mostly) low stats. But until you get more allies it can be hard. Try mixing dwarves with Eowin or playing two handed, as gimli and dwalin are meant for fighting, not questing, and Thalin is a poor quester too.
+
+## 3 [mewmartigan on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921164)
+
+Thanks for the suggestions. I know Thalin is poor at questing but I was hoping his ability would help out there by dealing damage to enemies. That first portion of Into the Pit though was a killer. Although part of the fun is going through the quest for the first time not knowing what is coming, haha.
+
+## 4 [Mndela on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921585)
+
+I think that thematecally dwarves always go together. So dwarf trait is thematic in lotr-game: dwarves always go with their king.
+
+## 5 [jjohnson111 on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921637)
+
+I have been flirting with Oakenshield instead of Dain.  Trying to move away from him not because he is underpowered or weak or anything, but just want a greater challenge.  I have greatly loved Ori (lore, @5 dwarves +1 extra card during refresh) and Oin (@5 dwarves +1 dmg and tactics icon), and lately have been making great use of Nori since he can lower my threat in a deck that is designed to play only Dwarf allies.  
+
+The Over Hill... and On the Doorstep sagas will give you lots of power for your dwarves.  Until then though, Dain might be your strongest bet to power your dwarves through most quests.  I do miss blocking with him since I haven't been running him lately.  
+
+Edited December 6, 2015 by jjohnson111
+
+## 6 [mewmartigan on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921671)
+
+I wonder where the mirkwood reprint is. On the boat since early October puts it way past the 4 to 6 week estimate...
+
+Will look into the hobbit saga for more dwarves. I want to pace my buying or I will end up with everything but only having tried a few early quests, haha.
+
+## 7 [jjohnson111 on December 6, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1921678)
+
+I ended up jumping in with KD, the Dwarrowdelf Cycle, and the Hobbit sagas and never regretted me buying it as a recently new player myself.  Gives me a lot of flexibility with what I build, and lots of choices since I have been running a 4 sphere set up with minimal issues.  Also, I can slot into many different roles for multiplayer games, which makes it easy to fit in to any group.  The only thing my dwarves generally lack is treachery or shadow cancellation, but generally I have so many of them that losing one or two of them here or there isn't game-ending.
+
+ 
+
+Also, depending on where you are some stores might have the 1st cycle still on their shelves.  I found most of the 1st cycle just by plugging the stores a little bit outside of my normal gaming radius:
+
+http://thehauntedgamecafe.crystalcommerce.com/catalog/living_card_games-lord_of_the_rings_lgc/828 [http://thehauntedgamecafe.crystalcommerce.com/catalog/living_card_games-lord_of_the_rings_lgc/828] (these guys have return to mirkwood in stock!)
+
+Edited December 6, 2015 by jjohnson111
+
+## 8 [PigsAreOurEquals on December 8, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1924026)
+
+Hi Mewmatrigan,
+
+I started out with a similar setup core set+ Khazad dum. so without Dain and the dwarves in the hobbit expansion.
+
+I found that I could do quite well by addin Eowyn for quest power.
+But also gloin+bifur (lore dwarf hero) worked very well. Gloin creates a ton of resources and Bifur can move them around and gives you acces to the healing to keep gloin running and  the Erebor record keeper to quest and ready again.
+
+In the end my problem always was that I didn't have enough dwarf allies to make a full thematic dwarf deck.
+Best of luck with the quests, I liked them quitte well the Moria setting is one of my favourites..
+
+## 9 [mewmartigan on December 9, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1925529)
+
+Thanks for the tips, I like the Moria setting but it seems I just don't have enough dwarves (or the right dwarf heroes) to make a viable thematic deck yet.
+
+ 
+
+I replaced Dwalin with Spirit Glorfindel...3 willpower and a lower starting threat? sign me up! So I tried into the pit again and lost 3 times in a row without ever getting past the East Gate.
+
+ 
+
+The first time, I made a bit of progress (4 of 7 on East Gate) before I was overwhelmed. Several 3 threat enemies and locations that the cave torch couldn't clear. A treachery that killed all my zigil miners (one damage to each) hurt also as that was 2 willpower removed. That was round 6 and I quit after that.
+
+ 
+
+2nd try, reveal a 3 threat card during setup, exhaust all my heroes and the card draw for the quest phase was Sudden Pitfall. So that game ended pretty quick.
+
+ 
+
+Game 3, reveal a 2 threat during setup, card revealed during quest phase was "watchful eyes" since apparently I wasn't having a hard enough time with cards in the staging area. Got 4 progress on the East Gate. Next round, a 5 threat location popped up and that was the end of that game.
+
+ 
+
+It seems the first time you fail to quest successfully in this scenario the game is over because you'll never get an ally out the next round with more willpower than threat you will draw (plus making up the deficit from the round before). Even if you manage a card to boost willpower, it only helps for one round. Not being able to reduce threat in the staging area is crazy hard.
+
+## 10 [TwiceBorn on December 12, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1931471)
+
+Including cards like Blade of Gondolin and the Riddermark's finest (I know, not exactly thematic for dwarves in Moria) in your deck might help you clear locations even when you're short on willpower?
+
+Edited December 12, 2015 by TwiceBornh
+
+## 11 [mewmartigan on December 14, 2015](https://community.fantasyflightgames.com/topic/195111-dwarf-heros-without-dain/?do=findComment&comment=1934645)
+
+I will have to see if I had Blade of Gondolin in the deck.
+
+ 
+
+I was actually able to get past Into the Pit on my 5th or 6th try...I got Gandalf early and had to put him out and use his 4 questing power to get over the East Gate hump. Once I could engage enemies it became easier.
+
+ 
+
+I also got lucky on the last step because I didn't read the quest cards ahead of time and didn't realize you couldn't collect resources for the last stage. I had zero resources currently in play but had enough allies out to get through.
+

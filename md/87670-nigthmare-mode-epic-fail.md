@@ -1,0 +1,594 @@
+# [Nigthmare Mode Epic Fail](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/)
+
+## 1 [DevastazioneH88 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829329)
+
+7 dollars for 20 cards ? I really thought we'd see these nightmare mode packs as a single POD (released together), so we'd be able to get it for about 15 dollars (or less from some retailers)...Now we should spend 21 dollars ! I mean... that's almost the price of an expansion box (and we don't get elrohir's poster or the khazad dum collector's box)...really disappointed...
+
+## 2 [mr.thomasschmidt on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829334)
+
+Well, it's only pointed for the elite few that needs it to keep the game interesting. If you don't like it no one forces you to buy it. Don't mean to be rude but I'm getting tired of all the complaining all the time. The games too hard! The games too easy! Why do we have to wait so long for the NM editions? And now the price is wrong to?!? Man, some are never satisfied.
+
+## 3 [rekath16 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829337)
+
+> 7 dollars for 20 cards ? I really thought we'd see these nightmare mode packs as a single POD (released together), so we'd be able to get it for about 15 dollars (or less from some retailers)...Now we should spend 21 dollars ! I mean... that's almost the price of an expansion box (and we don't get elrohir's poster or the khazad dum collector's box)...really disappointed...
+
+ 
+
+We, in Germany, have to pay incredible prices for POD-articles. For example the Battle of Laketown costs 15€ which is almost exactly 20$!!!!!!!! Imagine that!!! Thats the reason why I havent bought it yet, cause I think its robbery.
+
+## 4 [OnkelZorni on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829366)
+
+> Well, it's only pointed for the elite few that needs it to keep the game interesting. If you don't like it no one forces you to buy it. Don't mean to be rude but I'm getting tired of all the complaining all the time. The games too hard! The games too easy! Why do we have to wait so long for the NM editions? And now the price is wrong to?!? Man, some are never satisfied.
+
+ 
+
+Man, you read my mind. That's exactly what I thought during the last couples of weeks.
+
+## 5 [asfaloth on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829381)
+
+As the german fellow says is even worse in Europe. Pod cost 15€. That makes 20$ more or less. Nightmare will be 7€, that's 10$ maybe?
+
+ 
+
+And in Germany at least they have better standard of living and more money to spend than in Spain :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+
+ 
+
+Anyway it's up to you to buy them or not. I think the core and Mirkwood quests need power to make them interesting again. I'll wait some preview about the NM and after that I'll make a decision.
+
+## 6 [Glaurung on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829422)
+
+> Well, it's only pointed for the elite few that needs it to keep the game interesting. If you don't like it no one forces you to buy it. Don't mean to be rude but I'm getting tired of all the complaining all the time. The games too hard! The games too easy! Why do we have to wait so long for the NM editions? And now the price is wrong to?!? Man, some are never satisfied.
+
+I dont care about price... But i wont to have certain challenge.
+
+Abut complain: people always complain is normal. Otherwise no progess
+
+## 7 [DevastazioneH88 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829426)
+
+Actually I almost never complain. I'm one of the few people around here who agreed with FFGs marketing (how you have to buy more core sets and so on) and I bought them because I love this game. If I'm not allowed to complain on an issue that I think is pretty bad handled than you tell me why I can't. I bought everything that came out and you're telling me I can't be disappointed if I expected FFG to reward some of their best followers with a market friendly article ? I think we still have freedom of speech and of thought. That said I'll buy them anyway because I want to try them. If I didn't care about buying them I wouldn't have complained in the first place, don't you think ? You seriously think it's a fair way to sell these nightmare packs though ? 20 cards per pack ?...well if you do I accept your opinion just like you should accept mine. By the way, I'm from Italy and I only get my LCG stuff because of internet retailers (in english) cause if I wanted to get anything from a shop it would cost about twice the regular price (plus in Italy translated stuff sucks). Also, for those who claimed their situation is bad in Germany they ought to take a trip a few hundreds miles south to see where things are REALLY bad. And I'm sorry if I feel bad about about this issue but unlike you guys in the US, I can't go to game nights and get free copies of everything that comes out, since here in Italy it's already lucky if we have anything like a "game store"...and in these stores people only play silly games like magic, yugioh and stuff, and don't even know about FFG.
+
+Edited August 2, 2013 by DevastazioneH88
+
+## 8 [Pharmboys2013 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829435)
+
+I was actually kind of surprised they were ONLY 7 bucks. Most lunches cost like $7, I could stomach (no pun intended) paying $21 for an additional challenge for a game I love. The nightmare packs are a "luxury" item you don't need or require them, and FFG is still running a business. I'm sure they care a lot more about their bottom line than being fair or rewarding us (tho one can argue that our reward is playing an awesome game faithful to the stories we adore)
+
+## 9 [klaymen_sk on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829452)
+
+> As the german fellow says is even worse in Europe. Pod cost 15€. That makes 20$ more or less. Nightmare will be 7€, that's 10$ maybe?
+> 
+> And in Germany at least they have better standard of living and more money to spend than in Spain :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+
+Living standard is a scapegoat for companies to jack up prices, not an excuse for having higher prices. Here in Slovakia we have lower living standards and lower salaries, yet the prices are high thanks to the European Union fascists under the guise of "competition pricing". Heck, even you in Spain are rich in comparison to us (or at least you were before the financial crisis ****).
+
+Also I agree with DevastazioneH88. Guys, walk a mile in our shoes before slammng us because we dare to complain about something.
+
+All right, this smelly peasant goes back to his shithole before you give him a scorn.
+
+## 10 [Cricco on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829484)
+
+im italian too, completly agee with devestazione... i live in a little city near rome, here most of us, know only Magic, and i have to buy FFG games online. Pretty sad
+
+## 11 [rekath16 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829536)
+
+>  
+> 
+> > As the german fellow says is even worse in Europe. Pod cost 15€. That makes 20$ more or less. Nightmare will be 7€, that's 10$ maybe?
+> > 
+> > And in Germany at least they have better standard of living and more money to spend than in Spain :huh: [//content.invisioncic.com/Mfantflight/emoticons/default_huh.png]
+> 
+> Living standard is a scapegoat for companies to jack up prices, not an excuse for having higher prices. Here in Slovakia we have lower living standards and lower salaries, yet the prices are high thanks to the European Union fascists under the guise of "competition pricing". Heck, even you in Spain are rich in comparison to us (or at least you were before the financial crisis ****).
+> 
+> Also I agree with DevastazioneH88. Guys, walk a mile in our shoes before slammng us because we dare to complain about something.
+> 
+> All right, this smelly peasant goes back to his shithole before you give him a scorn.
+> 
+>  
+
+ 
+
+I dont accept that you are calling me as a part of EU and supporter of european union-process a fascist. If you complain, complain about your own government and the fact that they wanted to join us. In fact, its the German citizen who is paying for all of you and your poor economy.
+
+## 12 [richsabre on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829553)
+
+ok, as an englishman, may i ask that we keep away from this topic, i dont want a forum war sparking up over things which have nothing to do with the game.... :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] (and no im not a moderator.....so feel free to ignore me/ call me an interfering snob)
+
+rich
+
+Edited August 2, 2013 by richsabre
+
+## 13 [klaymen_sk on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829562)
+
+We were forced to raise prices to meet European standards. The salaries changed just a little. Let that sink for a moment. I earn something over 500€ per month as a QA, I have responsibility over my part of the production(in a German company, no less) and many people here earn less, how much do you earn? How much do people earn in Germany on a job like mine? We work for *your* economy for peanuts compared to you.
+
+Also I didn't want to call the EU supporters fascists, just the EU politicians. Poor wording on my side, I apologize.
+
+EDIT: Rich, you're right. I just got carried away.
+
+Edited August 2, 2013 by klaymen_sk
+
+## 14 [leptokurt on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829618)
+
+> We were forced to raise prices to meet European standards. The salaries changed just a little. Let that sink for a moment. I earn something over 500€ per month as a QA, I have responsibility over my part of the production(in a German company, no less) and many people here earn less, how much do you earn? How much do people earn in Germany on a job like mine? We work for *your* economy for peanuts compared to you.
+> 
+> Also I didn't want to call the EU supporters fascists, just the EU politicians. Poor wording on my side, I apologize.
+> 
+> EDIT: Rich, you're right. I just got carried away.
+
+And I thought this was all because of 40 years of communist dictatorship who ruined your beautiful country (everyone should visit the Tatra)? And that tiny bit of corruption? ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] At least that's what my Slovak friends are telling me.
+
+ 
+
+7 bucks for 20 cards is still expensive though (and fridges should indeed be cheaper in Slovakia than in Germany).
+
+## 15 [rekath16 on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829635)
+
+> Also I didn't want to call the EU supporters fascists, just the EU politicians. Poor wording on my side, I apologize.
+> 
+>  
+
+Apologize accepted...
+
+## 16 [mr.thomasschmidt on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829658)
+
+> Actually I almost never complain. I'm one of the few people around here who agreed with FFGs marketing (how you have to buy more core sets and so on) and I bought them because I love this game. If I'm not allowed to complain on an issue that I think is pretty bad handled than you tell me why I can't. I bought everything that came out and you're telling me I can't be disappointed if I expected FFG to reward some of their best followers with a market friendly article ? I think we still have freedom of speech and of thought. That said I'll buy them anyway because I want to try them. If I didn't care about buying them I wouldn't have complained in the first place, don't you think ? You seriously think it's a fair way to sell these nightmare packs though ? 20 cards per pack ?...well if you do I accept your opinion just like you should accept mine. By the way, I'm from Italy and I only get my LCG stuff because of internet retailers (in english) cause if I wanted to get anything from a shop it would cost about twice the regular price (plus in Italy translated stuff sucks). Also, for those who claimed their situation is bad in Germany they ought to take a trip a few hundreds miles south to see where things are REALLY bad. And I'm sorry if I feel bad about about this issue but unlike you guys in the US, I can't go to game nights and get free copies of everything that comes out, since here in Italy it's already lucky if we have anything like a "game store"...and in these stores people only play silly games like magic, yugioh and stuff, and don't even know about FFG.
+
+No, $7 for each quest isn't expensive for something that's purely luxury as Pharmboys2013 politely stated. I think most other people at this forum was expecting exactly this. On NM pack PoD, each quest sold seperately for around $7 each. Which actually is the only way to do it (no offense meant here) I don't wanna Escape from Dol Guldur to be more challenging but I'd like Anduin and Passage to be. So if they release them in bundles a la expansion packs I'd have to pay for quests I don't want. Thus making the ones in the bundle more expansive. Same goes for making a bundle pack gathering all six AP's from a cycle.
+
+And I apologize if you where offended. I didn't mean to do that. I just wanted to make a statement that people should stop complaining about everything all the time, stop up and be a satisfied with SOMETHING instead :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] I learned long time ago that disappointments are mostly our own faults. Caused by setting to high expectations. In this case FFG really did the best ting for the most. And as always a few unlucky get caught in the middle.
+
+Happy gaming
+
+## 17 [CaffeineAddict on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829715)
+
+with shipping to the UK and exchange rates then the nightmare packs become pretty expensive....but...I want them. So...ordered. Dammit.
+
+## 18 [Ellareth on August 2, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829881)
+
+> If you don't like it no one forces you to buy it. Don't mean to be rude but I'm getting tired of all the complaining all the time. The games too hard! The games too easy! Why do we have to wait so long for the NM editions? And now the price is wrong to?!? Man, some are never satisfied.
+
+ 
+
+I know you didin't meant it to be rude or offensive and is just expressing your opinion here, but I too am getting tired of people who are complaining about people who are complaining.
+
+ 
+
+Enough with 'shut up and enjoy what is given' comments already.
+
+It's impossible to satisfy everyone with everything with a product,
+
+and when people purchase the product and are loyal enough to be on forums, I'd say they are entitled to one or two complaints here and there.
+
+ 
+
+It's not like there is one person complaining about everything all the time,
+
+it's large number of people who occasionally point out one or two things they find flawed in otherwise very quality game in hope that if enough people point it out, maybe it will get improved over time.
+
+ 
+
+Without these complaints, we would not have had errata on some of the 'broken' cards such as Zigil Miner, difficulty would've still been hell for solo gamers and easy peasy for 4-players.
+
+ 
+
+Some call it complains, I call it feedback.
+
+ 
+
+And just like how people can choose not to buy / not use certain cards / use variants, you can also choose not to finish reading the comment once you realize it is yet another 'complaint' or simply choose not to respond to them.... guess the last bit goes same for me but since I like expressing myself I went bit hypocritical all the same.
+
+## 19 [DevastazioneH88 on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=829977)
+
+>  
+> 
+> > If you don't like it no one forces you to buy it. Don't mean to be rude but I'm getting tired of all the complaining all the time. The games too hard! The games too easy! Why do we have to wait so long for the NM editions? And now the price is wrong to?!? Man, some are never satisfied.
+> 
+>  
+> 
+> I know you didin't meant it to be rude or offensive and is just expressing your opinion here, but I too am getting tired of people who are complaining about people who are complaining.
+> 
+>  
+> 
+> Enough with 'shut up and enjoy what is given' comments already.
+> 
+> It's impossible to satisfy everyone with everything with a product,
+> 
+> and when people purchase the product and are loyal enough to be on forums, I'd say they are entitled to one or two complaints here and there.
+> 
+>  
+> 
+> It's not like there is one person complaining about everything all the time,
+> 
+> it's large number of people who occasionally point out one or two things they find flawed in otherwise very quality game in hope that if enough people point it out, maybe it will get improved over time.
+> 
+>  
+> 
+> Without these complaints, we would not have had errata on some of the 'broken' cards such as Zigil Miner, difficulty would've still been hell for solo gamers and easy peasy for 4-players.
+> 
+>  
+> 
+> Some call it complains, I call it feedback.
+> 
+>  
+> 
+> And just like how people can choose not to buy / not use certain cards / use variants, you can also choose not to finish reading the comment once you realize it is yet another 'complaint' or simply choose not to respond to them.... guess the last bit goes same for me but since I like expressing myself I went bit hypocritical all the same.
+> 
+>  
+
+ 
+
+Exactly
+
+## 20 [Pharmboys2013 on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830010)
+
+The examples listed are things that were improved via feedback because they were gameplay issues. This is about price. There isn't a single consumer who wouldn't want the things they purchase to be cheaper (no sane ones anyway). Additionally the developers that take the time to address our concerns are likely not even remotely involved in pricing issues. And again the bottom line still becomes that FFG is a business. They need to manufacture the PODs and sell less of them because of the limited requested quantities. If they can't turn a profit from the effort there's no reason to make one in the first place.
+
+Going to try to avoid posting in this thread again. Im disappointed this issue has been dominating the boards today rather than the cool cards which were spoiled yesterday
+
+## 21 [Glaurung on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830045)
+
+> Actually I almost never complain. I'm one of the few people around here who agreed with FFGs marketing (how you have to buy more core sets and so on) and I bought them because I love this game. If I'm not allowed to complain on an issue that I think is pretty bad handled than you tell me why I can't. I bought everything that came out and you're telling me I can't be disappointed if I expected FFG to reward some of their best followers with a market friendly article ? I think we still have freedom of speech and of thought. That said I'll buy them anyway because I want to try them. If I didn't care about buying them I wouldn't have complained in the first place, don't you think ? You seriously think it's a fair way to sell these nightmare packs though ? 20 cards per pack ?...well if you do I accept your opinion just like you should accept mine. By the way, I'm from Italy and I only get my LCG stuff because of internet retailers (in english) cause if I wanted to get anything from a shop it would cost about twice the regular price (plus in Italy translated stuff sucks). Also, for those who claimed their situation is bad in Germany they ought to take a trip a few hundreds miles south to see where things are REALLY bad. And I'm sorry if I feel bad about about this issue but unlike you guys in the US, I can't go to game nights and get free copies of everything that comes out, since here in Italy it's already lucky if we have anything like a "game store"...and in these stores people only play silly games like magic, yugioh and stuff, and don't even know about FFG.
+
+5+
+
+## 22 [booored on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830111)
+
+The PoD pricing is high, that is not in doubt.. but the question is really about if this is bad or not. These are not mas produced (so they say) and anyone that has custom printed there own cards can attest that cost is a factor. Also you can not ***** about postage. FFG has absolutely NO SAY in postage cost. They set a price so they can make a profit and pay everyone and add whatever is needed to post to far off places like Australia.
+
+ 
+
+A PoD with postage to Au is 21.xx bucks US = nearly 24AU.
+
+3 PoDs = 42.xx USD = 47au
+
+ 
+
+So it is basically double the price.
+
+ 
+
+Bad, I guess... but NOT FFGs fault.
+
+ 
+
+Your best bet is to get the PoDs from a large internet store like FunAgain or CoolStuff or Lotusvault or w/e These places stock all the FFG PoDs. is it cheaper? no.. but you can stack your order with a ton of other stuff. The more you order in a single go the less it costs.. not all poaces .. but FunAgain ahs fixed shipping.. this can be bad.. but if you order large.. then it is in fact cheaper.. and even with shipping coolstuff, lotusvault and funaagin is cheaper than local and a TON cheaper than FFG.
+
+ 
+
+So in short. . if you are so broke you can not afford 20 bucks, then do not buy it.. What is the big deal. Just wait for the spoilers to get posted and make your own set at PrintStudios or ArtsCow. Or just use the sleeve method and colour print, then slip into the front of a real card. Then BUY it when you can afford it.
+
+ 
+
+I mean even broke ass losoers that can not hold down a job can save 20 bucks over a few weeks. Just buy 1 less bear at the pub for a few times. When you go to the supermarket.. just don't by that chocolate bar. ****** hell... 20 bucks... this bitching is just pathetic.
+
+## 23 [leptokurt on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830180)
+
+Booored, you should understand that 20 bucks isn't 20 bucks. In Slovakia food is cheap, but fridges, cars and gas cost the same or sometimes even more than here in Germany while people only have about 30 percent of our loans. Here, for 20 bucks I can go out and have a dinner alone. In Slovakia I can have a dinner with a date and a taxi driving us home. And a Slovak can have a good dinner for 6 bucks in his country, but in Germany he would only get fast food. That has nothing to do with "brokeass loosers". It's called purchsasing power. 20 bucks for you or me are feeling like 60 bucks for someone from Eastern Middle or Southern Europe.
+
+Edited August 3, 2013 by leptokurt
+
+## 24 [booored on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830181)
+
+so what? You expect FFG to sell it for what... 50 cents or something? They have to price it in there market. They have to pay American wages, pay American taxes and American postage. They will not and shouldn't consider how much it costs elsewhere, and as I said above, they have no control on shipping costs.. and they are only charging 6 bucks as it is.
+
+## 25 [DevastazioneH88 on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830235)
+
+Everyone has his own opinion about everything, but some people (and I mean boored) don't know how to express it politely (not even remotely). What are you ? Earl of badassland or something ?...just pathetic...
+
+## 26 [booored on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830238)
+
+yeah when logic fails go for the personal attacks.. good call mate :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 27 [iznax on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830247)
+
+>  
+> 
+> 
+> 
+>  
+> 
+>  its the German citizen who is paying for all of you and your poor economy.
+
+What a nice fairy tale. History has only bad things to tell about Germany and history never lie.
+
+## 28 [rekath16 on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830293)
+
+>  
+> 
+> >  
+> > 
+> > 
+> > 
+> >  
+> > 
+> >  its the German citizen who is paying for all of you and your poor economy.
+> 
+> What a nice fairy tale. History has only bad things to tell about Germany and history never lie.
+> 
+>  
+
+History is History. Now is Now. I am not surprised that of all people its a Greek who responds that way. Burning our flag and calling our government nazis does not hide your financial desaster which started the european financial crisis. Without our money Greece would already be bankrupt since 2010.
+
+## 29 [Glaurung on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830307)
+
+Hey guys you come to far his time. I love it. At least a bit not baby talk here as usual do. 
+
+Anyway i think they should to sell us nightmare mode in the adventure pack straight away. 
+
+## 30 [mr.thomasschmidt on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830314)
+
+> Hey guys you come to far his time. I love it. At least a bit not baby talk here as usual do. 
+> 
+> Anyway i think they should to sell us nightmare mode in the adventure pack straight away.
+
+Only if it won't rise the prices too much. I could afford it but no need to pay too much for something you might not need.
+
+And please gentlemen. Let's behaive :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 31 [Cricco on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830351)
+
+politic fight or ffg forum? bah.... BTW berlusconi is guilty  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 32 [richsabre on August 3, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830592)
+
+never said this before, but i think its time the mods closed this one
+
+## 33 [Corrinmana on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830762)
+
+If I had pictures of the cards I could make them myself for 45 cents. Let's say for the sake of argument that FFG's POD costs are 1$ packaging included (which would surprise me if it was that high). They MSRP for 7 meaning that stores should be able to buy them for about $3.50 (Its $3.61). That means they would be making a 250% profit and working on a 72% profit margin which is 32% higher than the retail stores run on.
+
+ 
+
+You're right though, people can just vote with dollars and not buy them.
+
+Edited August 4, 2013 by Corrinmana
+
+## 34 [booored on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830773)
+
+what about renting the office, wages for employees, development time, taxes etc etc etc. I mean it is pretty naive thinking to say cause you can print some sh*tty single run for X cost that they should be.... really naive.
+
+## 35 [leptokurt on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830800)
+
+> never said this before, but i think its time the mods closed this one
+
+Yep, the concept of fraternité gets more and more forgotten these times. But if Elves and Dwarves could get their **** together... :mellow: [//content.invisioncic.com/Mfantflight/emoticons/default_mellow.png]
+
+ 
+
+ 
+
+(though I don't rememeber 25 percent of the dwarves being jobless)
+
+ 
+
+ 
+
+Edit:
+
+ 
+
+Woah, this forum has an auto censor mode?
+
+ 
+
+**** **** **** ****
+
+ 
+
+booored, how do you manage that your oposts don't get censored?
+
+Edited August 4, 2013 by leptokurt
+
+## 36 [booored on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830804)
+
+it's s fine line.
+
+## 37 [leptokurt on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830878)
+
+**** ****
+
+ 
+
+Edit:
+
+ 
+
+****
+
+ 
+
+Edit 2:
+
+ 
+
+**** works
+
+ 
+
+**** and **** doesn't
+
+Edited August 4, 2013 by leptokurt
+
+## 38 [booored on August 4, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=830882)
+
+lol, fumy thing is that the email post is not censored and you only revive the first post no edits.
+
+## 39 [Rapier1 on August 5, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=831448)
+
+I would have preferred them to package the three nightmare quests into one pack personally. Then it would cost about the same as the previous PoD expansions - instead of costing about half again as much for the same number of cards.
+
+## 40 [Spurries on August 5, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=831493)
+
+For once I commmpletely agree with Booooored.  an American company cant sell its products at completely different prices based on another countries purchasing power.  Just goes against basic economics and business.  They wouldn't have the resources to analyze each country's purchasing power and adjust accordingly.  Should they sell to African countries at 1 cent? No.  They still make their margins and such, and for Mr. 72% margin there, PoD packs I can guarantee have slimmer margins than Adventure Packs.
+
+ 
+
+Also, how has no one commented on this post being called 'Epic Fail' with the OP spelling 'Nightmare' incorrectly?  Perfect
+
+## 41 [Runix on August 6, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=832754)
+
+(Skipping the flame war . . . )
+
+ 
+
+The purpose of the Nightmare Mode expansions, as I see it, is to pacify the players who are constantly complaining that the game is too easy.  A secondary reason may be to quietly assess the level of interest for very hard scenarios; if they sell very few of the Nightmare Mode expansions (as I think likely), then they'll know how many players are interested in that difficulty level.
+
+ 
+
+At the risk of being cynical, I don't think it will shut down the complaints.  Every relatively easy quest that is released - every single one - they complain, as if they expect every single quest to be Difficulty 11.  The idea that that may not be what all players want completely escapes them.
+
+ 
+
+But at least now there is a reasonable response:  think the recent quest is too easy?  Have you beat Escape from Dol Guldur in Nightmare Mode with your solo deck yet?  No?  If what you want is difficulty, then why are you playing recent quests that you know will be less difficult than the Nightmare Mode quests?
+
+Edited August 6, 2013 by Runix
+
+## 42 [Dain Ironfoot on August 6, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=832807)
+
+> (Skipping the flame war . . . )
+> 
+>  
+> 
+> The purpose of the Nightmare Mode expansions, as I see it, is to pacify the players who are constantly complaining that the game is too easy.  A secondary reason may be to quietly assess the level of interest for very hard scenarios; if they sell very few of the Nightmare Mode expansions (as I think likely), then they'll know how many players are interested in that difficulty level.
+> 
+>  
+> 
+> At the risk of being cynical, I don't think it will shut down the complaints.  Every relatively easy quest that is released - every single one - they complain, as if they expect every single quest to be Difficulty 11.  The idea that that may not be what all players want completely escapes them.
+> 
+>  
+> 
+> But at least now there is a reasonable response:  think the recent quest is too easy?  Have you beat Escape from Dol Guldur in Nightmare Mode with your solo deck yet?  No?  If what you want is difficulty, then why are you playing recent quests that you know will be less difficult than the Nightmare Mode quests?
+
+ 
+
+i also think that nightmare decks keeps older quests relevant. with an ever expanding player card pool, the encounter deck has to be able to keep up, as every card game has power creep (just compare the new ithilien archer's stats and cost to the core set's silverlode archer or horseback archer, for example).
+
+ 
+
+if new decks are so good they just stomp old quests - that's not fun - even if you aren't "power decking" - and it limits the quests available to really provide a good time.
+
+ 
+
+at the same time, i don't think i am one that *always* complains about easy quests - but when i literally slap a sub-par deck together in 1 minute and play a quest and beat it before it begins (i'm looking at you, Amon Din) - that's a big let down and you almost feel like you wasted $15 bucks on the AP. games are supposed to present some sort of challenge or fun factor - if everything is too easy - or too ridiculously difficult - then the game isn't worth playing (for me. theme can never override whether i had to "work" for victory. this isn't an RPG).
+
+ 
+
+i like to figure out the "puzzle" of the quest - what sort of deck to i need? what hero combination would work best? etc. easy quests just don't pose the same mental engagement as the moderate to difficult quests.
+
+ 
+
+and i certainly think it's a balancing act that FFG has to play here. quests can't be so hard that new players can't jump in at any point but also different/unique/challenging enough that players from the beginning aren't bored and stop playing.
+
+ 
+
+i don't envy FFGs task at all... ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Edited August 6, 2013 by Dain Ironfoot
+
+## 43 [Pharmboys2013 on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=832997)
+
+on a side note, got my nightmare decks in today. beat passage through mirkwood (not easily) and lost journey down the anduin, didnt even attempt dol guldur.  used an outlands deck too.
+
+ 
+
+some of the art on the new encounter cards is just gruesome and awesome. the crazed prisoner and forest flies in particular are great.  the new ungoliant's spawn looks far more vicious now too
+
+## 44 [Glaurung on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833079)
+
+> on a side note, got my nightmare decks in today. beat passage through mirkwood (not easily) and lost journey down the anduin, didnt even attempt dol guldur.  used an outlands deck too.
+> 
+>  
+> 
+> some of the art on the new encounter cards is just gruesome and awesome. the crazed prisoner and forest flies in particular are great.  the new ungoliant's spawn looks far more vicious now too
+
+Try PTM again. Outlands can suffer there a lot with new US.
+
+JDTA is cool and hard but you will find the way how to beat it. But you never know chance to win or lose 50/50 even with powerful Outlands...
+
+ 
+
+Dol-Guldor solo for now is impossible.....This is most difficult quest in the game now.
+
+We beat it twice in  2 players, really hard one but also very interesting.
+
+## 45 [booored on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833086)
+
+The new art is really cool. I always hated the original Spawn art
+
+Edited August 7, 2013 by booored
+
+## 46 [Pharmboys2013 on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833087)
+
+>  
+> 
+> > on a side note, got my nightmare decks in today. beat passage through mirkwood (not easily) and lost journey down the anduin, didnt even attempt dol guldur.  used an outlands deck too.
+> > 
+> >  
+> > 
+> > some of the art on the new encounter cards is just gruesome and awesome. the crazed prisoner and forest flies in particular are great.  the new ungoliant's spawn looks far more vicious now too
+> 
+> Try PTM again. Outlands can suffer there a lot with new US.
+> 
+> JDTA is cool and hard but you will find the way how to beat it. But you never know chance to win or lose 50/50 even with powerful Outlands...
+> 
+>  
+> 
+> Dol-Guldor solo for now is impossible.....This is most difficult quest in the game now.
+> 
+> We beat it twice in  2 players, really hard one but also very interesting.
+> 
+>  
+> 
+> i'll try mirkwood again tomorrow. its likely i could have gotten lucky on it as i only encountered a few nightmare cards.  JDTA i likely would have lost even if it wasnt nightmare since i staged into cheiftan uruk and marsh adder on turns 1 and 2; went mostly downhill from there
+
+## 47 [Glaurung on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833120)
+
+> The new art is really cool. I always hated the original Spawn art
+
+Actully i like the Art of old one
+
+## 48 [booored on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833121)
+
+>  
+> 
+> > The new art is really cool. I always hated the original Spawn art
+> 
+> Actully i like the Art of old one
+> 
+>  
+
+pffft... no accounting for taste :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+pic1734810.png [http://cf.geekdo-images.com/images/pic1734810.png]
+
+ 
+
+These cards have BAD ASS art!
+
+Edited August 7, 2013 by booored
+
+## 49 [Glaurung on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833133)
+
+> > > The new art is really cool. I always hated the original Spawn art
+> > 
+> > Actully i like the Art of old one
+> 
+> pffft... no accounting for taste :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+> 
+>  
+> 
+> pic1734810.png [http://cf.geekdo-images.com/images/pic1734810.png]
+> 
+>  
+> 
+> These cards have BAD ASS art!
+
+Yes sure. I mean old Ungoliant spawn
+
+## 50 [Pharmboys2013 on August 7, 2013](https://community.fantasyflightgames.com/topic/87670-nigthmare-mode-epic-fail/?do=findComment&comment=833434)
+
+played nightmare PTM again with outlands, one again but my victory was even narrower than before.  all three copies of "the spiders web" showed up which led to theodreds death pretty early on.  Balin was 1 HP away from dying.  revealed beorn's path for stage 3B which helped me avoid Ungoliants Spawn, if i had "dont leave the path" instead i likely would have lost.  The turn i even won on was a big risk.  needed all 10 progress on beorn's path with a necromancer's path in the staging area (contributing 3 threat points).  I quested every character for 15 knowing my chances were slim but revealed Ungonliant's Brood during staging which only contributes 2 threat points so i had just enough to pass and win
+

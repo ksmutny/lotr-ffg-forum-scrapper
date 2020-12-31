@@ -1,0 +1,45 @@
+# [How Many 1 ofs in One Core Set](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/)
+
+## 1 [Markspinner on October 2, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3797379)
+
+How many total 1 of cards are there in a single core set and are they worth the extra two cores?
+
+## 2 [stimpaksam on October 2, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3797411)
+
+There about 13 one of cards in the core set with only one of them being worth a third core set IMO: Unexpected Courage. But really I think a second core set is really all you need. Yes it would be nice to have three Unexpected Courages but you can just save you money and use an unused Hero card as a proxy instead.
+
+## 3 [Wandalf the Gizzard on October 2, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3797631)
+
+I’d say at least a second core is definitely worth it, if not immediately. Henamarth Riversong, Horn of Gondor, Unexpected Courage, etc. are too good to only have one copy of. You don’t really need a third core until a dozen adventure packs in.
+
+Edited October 2, 2019 by Wandalf the Gizzard
+-
+
+## 4 [General_Grievous on October 2, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3797695)
+
+Or if they ever drop the price on the collectors edition it's nice because it has two copies of each of those one offs
+
+## 5 [mttrchrds on October 2, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3797749)
+
+I always assumed that there were only 1-2 copy-ies of certain card in the core set because they were so powerful (e.g. Unexpected Courage). I get that they're not unique, but still...
+
+## 6 [AllWingsStandyingBy on October 3, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3798288)
+
+Honestly, while there is a lot of value in having 3x Unexpected Courage (and to a lesser extent 3x Horn of Gondor or Riversong), the biggest value of triple Core Sets probably comes from having double playsets (6x) some of the staple cards.  Pretty much any deck with one Tactics character wants 3x Feint, just as any deck with a Spirit character likely wants 3x Hasty Stroke or 3x Test of Will, while many decks with Leadership can find room for 3x Sneak Attack and certainly wants 3x Steward of Gondor and maybe 3x Celebrain's Stone (sorry Core Set Lore sphere...).  Having six of each of these cards means a player could build two decks with full triplets of these staple cards available.  This would allow for two decks in either Co-Op or 2-Handed Solo to make use of these cards at the same time, or allows for a player to have two decks using Feint without having to pull them out of Deck A to put them into Deck B.  I suppose, to that same end, three Core Sets would yield twelve Gandalfs, which means a player could build four decks with Gandalf triplets, if desired.
+
+Is that worth it...?  Really depends on the player and what they want out of their collection, but their is some utility beyond simply having a full set of Unexpected Courage.  Probably, though, that ~$40 would be best spent on three new Adventure Packs.
+
+## 7 [Felswrath on October 3, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3798752)
+
+I am quite happy with 2 cores. Sure, more Unexpected Courages would be nice, but I'm happy with my 2. The ability to play with 3-4 players is huge as well! The game can't host more than that (in normal quests), so then the 3rd Core set is solely useful for player cards and storage.
+
+## 8 [dalestephenson on October 5, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3800180)
+
+With two cores all I missed was a 3rd unexpected courage -- and if I had the Collector's Edition I wouldn't have bothered with a second core.
+
+For adventure packs I can think of two things that might be useful in duplicate if supporting 2+ players -- 3x Daeron's Runes (Foundations of Stone)is useful in any lore deck, so if you're supporting two lore-using decks it would be handy.  The other would be a second copy of  Steward's Fear -- have one deck that discards Outlands cards, and the true Outlands Deck recycles Stand and Fight to borrow them.  Because Outlands isn't powerful enough as-is.
+
+## 9 [Amicus Draconis on October 5, 2019](https://community.fantasyflightgames.com/topic/300684-how-many-1-ofs-in-one-core-set/?do=findComment&comment=3800270)
+
+The Long Dark with extra Wardens of Healing would also be a good idea in that case.
+

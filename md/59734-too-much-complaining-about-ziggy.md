@@ -1,0 +1,22 @@
+# [Too much complaining about Ziggy!](https://community.fantasyflightgames.com/topic/59734-too-much-complaining-about-ziggy/)
+
+## 1 [Bonus Card on January 30, 2012](https://community.fantasyflightgames.com/topic/59734-too-much-complaining-about-ziggy/?do=findComment&comment=586903)
+
+Everyone is complaining about Zigil Miner. Why? Look where we started. Core level was hard as hell when we just had the core cards. Then moving onto Mirkwood it got easier. Why? Well, thematically Mirkwood Forest is not that bad of a place to journey through, not as bad as Dol Guldur, or even the Mines.
+
+But why are the Mines so easy, well if you just attempted them without Dwarves they would be somewhat difficult. Again, thematically Dwarves make the Mines easier. Now, back to Dol Guldur, and other somewhat difficult scenarios, well once there is some sort of fellowship, combining the best of the strengths of Men, Dwarves, Hobbits, and Elves makes them easier to accomplish.
+
+I think in due time, you will see a correction of balance, and not because the game is flawed, but because thematically the world of Middle Earth becomes more difficult to face. Some places might be easy to dwarves, but wait until the dwarves have to face a snowy scenario, or maybe wade through waters, thematically these areas would make it impossible for Zigil Miners to mine, and perhaps there will be a reflection of that within the cards.
+
+I agree, that the introduction of Zigil Miners has given us LOTRLCG players a cakewalk for the time being, but I think there is much to anticipate in future sets.
+
+Just be patient!
+
+## 2 [booored on January 30, 2012](https://community.fantasyflightgames.com/topic/59734-too-much-complaining-about-ziggy/?do=findComment&comment=586913)
+
+why not post in teh ziggy thread instead of makign a new one that will die in about 2 seconds and your opinions will be lost in tie and space... [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=201&efcid=4&efidt=606230]
+
+## 3 [Bonus Card on January 30, 2012](https://community.fantasyflightgames.com/topic/59734-too-much-complaining-about-ziggy/?do=findComment&comment=586916)
+
+You are right, hopefully, I can edit and change. How very inconsiderate of me.
+

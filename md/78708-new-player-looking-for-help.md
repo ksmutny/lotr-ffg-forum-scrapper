@@ -1,0 +1,36 @@
+# [new player, looking for help](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/)
+
+## 1 [RGone on February 4, 2013](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/?do=findComment&comment=758276)
+
+Im new to LOTR LCG and was wondering if I need more then one core set, or do the other sets and packs make it not worthwhile.
+
+Thanks.
+
+## 2 [Nick Demus on February 4, 2013](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/?do=findComment&comment=758293)
+
+I´m not sure I read your question right, so I will give you two answers.
+
+Basically you can play for a rather long time by just trying out the four different basic decks included in the set, and then later on experimenting with combining heroes from different spheres. If you want to up the game after a while, you can also play by shuffling heroes and deck cards randomly or designing your own adventures. You can have a lot of fun from the core set alone. But I guess when you like the game enough to try out every variation the core set has to offer, you might feel more than ready to spend a couple of bucks for a set of brandnew cards anyway after a while.
+
+If you just want to know whether you need a second core game, I´d say it would give you some more options in deck building, plus getting two more counters is always nice (but not necessarily needed, since you should be perfectly capable to just write down the changing levels on paper). If you´re the only player in your group who has a core set I would say, yes, a 2nd set might help, but if you just play with one or two players most of the time, I´d say no.
+
+## 3 [richsabre on February 4, 2013](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/?do=findComment&comment=758355)
+
+yes, as nick says, you certainly do not need 2 to play this game…i have only one and have enjoyed the game since core release….however many players certainly feel that a 2nd set is worth it for the extra copies of certain powerful cards….some even go for a 3rd but i feel that is rather too much of a waste with the other cards
+
+…still if you want to go for it, then who is to stop you :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 4 [ianhancock1985 on February 5, 2013](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/?do=findComment&comment=758749)
+
+As a player who owns 2 core sets and has pretty much everything printed (and quite a bit of fan made material too I confess I'll throw my hat in)
+
+When the game first came out and all of us where suffering because of the delays to the first adventure cycle, having two core sets was very worthwhile. It fleshed out a lot of your decks, you could run single sphere with a moderate amount of success in everything except tactics.
+
+However, as the card pool has increased over time, I'm finding that that second core set has been diminishing in value. For example, early on playing 4 dual sphere decks having six Daughters of Nimrodel was amazing. Now with cards like Healing Herbs, Elrond and Warden of Healing, they aren't so useful.
+
+I would suggest the following. Play your backside off with the core set, basically run yourself into the ground until you can't stand the sight of it anymore. Go buy the first adventure cycle (Mirkwood one) and do the same. If you then fins yourself sitting there going, "Gee it would be nice to have another Horn of Gondor, Celebrian Stone,whatever" and you are still crazy about the game- then go grab another Core Set and remorgage your house
+
+## 5 [Gunny_J on February 5, 2013](https://community.fantasyflightgames.com/topic/78708-new-player-looking-for-help/?do=findComment&comment=758982)
+
+I just wanted to add one more reason (excuse) to buy a second core set.  I like having a second core set, so I can have a second copy of the quests and encounter cards.  That way, I can take everything with me when I just want to play a solo game during my lunch hour at work, for example.  That way, I don't have to disrupt my main core set and any quest/encounter setups I have going on.  Also, I have two different player decks I use.  One I have designed for solo play, and the other I designed for synergy with my partner for 2-player games.  Hopefully, this helps you…
+

@@ -304,3 +304,25 @@ I still think his ruling is somewhat contradictory to the Event chaining with Va
 
 Edited January 4, 2016 by cmabr002
 
+## 26 [NathanH on January 5, 2016](https://community.fantasyflightgames.com/topic/187963-when-is-overcome-by-grief-first-triggered/?do=findComment&comment=1971619)
+
+I deliberately didn't check whether this overrides that previous ruling, because I don't want him to take our toys away!
+
+## 27 [shosuko on January 5, 2016](https://community.fantasyflightgames.com/topic/187963-when-is-overcome-by-grief-first-triggered/?do=findComment&comment=1971849)
+
+So what I gather is:
+
+ 
+
+There are cards which need to be in play for their abilities to be in effect.  This covers heroes, allies, and attachments, as well as enemies, locations, and objectives.  It makes sense.  However event cards such as Valiant Sacrifice don't need to be in play (or rather can't really be in play) for their effect to be used.
+
+ 
+
+I could see that logic following that if there was a treachery card had a similar type of effect that it would work this way.  The reason events can work as they do is that they sit in your hand, out of play but revealed to a player.
+
+ 
+
+Now if there was a encounter deck that had a "hand" like side deck of exposed cards with forced effects waiting to happen, then I'd agree they could chain in the same manor as Valiant Sacrifice.  If there were a "quest hand" with "forced: when an ally takes damage place this card in the encounter discard, deal that character another point of damage and draw another card into the quest deck's hand" that the newly drawn card could still trigger off of that ally taking damage.
+
+Edited January 5, 2016 by shosuko
+

@@ -1,0 +1,14 @@
+# [G.I.L.F. Deck (Updated version)](https://community.fantasyflightgames.com/topic/285224-gilf-deck-updated-version/)
+
+## 1 [zeromage on October 27, 2018](https://community.fantasyflightgames.com/topic/285224-gilf-deck-updated-version/?do=findComment&comment=3516513)
+
+Hi, guys,
+
+I made a version of this deck a while ago, but I've recently gotten back into the game and I wanted to update my favorite original deck that I made myself. I absolutely love the Galadriel hero. I use her so much that when I'm not using her I sometimes forget to move my threat up. She's so good in fact that she works well in this two hero deck I made (Grandmother and granddaughter).  It's not optimized at all. I wanted to try to utilize cards with Galadriel art on them as much as possible, so I went with a little bit of a victory display theme. Even still I've defeated quite a few nightmare decks with this deck. I hope you guys like it. 
+
+ 
+
+https://ringsdb.com/decklist/view/10224/the-g-i-l-f-deck-2.0 [https://ringsdb.com/decklist/view/10224/the-g-i-l-f-deck-2.0]
+
+Edited October 27, 2018 by zeromage
+

@@ -1,0 +1,84 @@
+# [Orc Hunting - Fanmade (Official Imprimible Version)](https://community.fantasyflightgames.com/topic/96745-orc-hunting-fanmade-official-imprimible-version/)
+
+## 1 [Mndela on January 12, 2014](https://community.fantasyflightgames.com/topic/96745-orc-hunting-fanmade-official-imprimible-version/?do=findComment&comment=952484)
+
+I'm happy releasing the Final Official and Imprimible version of my fanmade: Orc Hunting. I worked and tested it about lots of days (you can see the beta version posted here [https://community.fantasyflightgames.com/index.php?/topic/94572-orc-hunting-fanmade/] days ago).
+
+ 
+
+Finally the work is finished, last update is definitive, tested alone and with 4 players, several times...
+
+ 
+
+There is also avalaible in octgn, or you can print (for example, by printerstudio)... 100 cards! Wow, more than 80mb the file, lol... hard job --> this is the link: Orc Hunting Printerstudio [http://www.mediafire.com/download/2dcs5e1c3de63j1/Orc%20Hunting%20-%20printerstudio.zip]. All cards and files ready to be printed (the templates have been got from GeckoTH [http://www.boardgamegeek.com/user/GeckoTH]-thanks Geck!-).
+
+ 
+
+Then, a few spoilers you can find in the zip file:
+
+ 
+
+ 
+
+8dk4.jpg [http://imagizer.imageshack.us/v2/800x600q90/13/8dk4.jpg]  
+
+ 
+
+6b1c.jpg [http://imagizer.imageshack.us/v2/800x600q90/829/6b1c.jpg]  
+
+ 
+
+4frs.jpg [http://imagizer.imageshack.us/v2/800x600q90/194/4frs.jpg]  
+
+ 
+
+0zc7.jpg [http://imagizer.imageshack.us/v2/800x600q90/22/0zc7.jpg]  
+
+ 
+
+sfgr.jpg [http://imagizer.imageshack.us/v2/800x600q90/812/sfgr.jpg]  
+
+ 
+
+39la.jpg [http://imagizer.imageshack.us/v2/800x600q90/268/39la.jpg]  
+
+ 
+
+qms6.jpg [http://imagizer.imageshack.us/v2/800x600q90/28/qms6.jpg]  
+
+ 
+
+674t.jpg [http://imagizer.imageshack.us/v2/800x600q90/849/674t.jpg]  
+
+ 
+
+uvsi.jpg [http://imagizer.imageshack.us/v2/800x600q90/809/uvsi.jpg]  
+
+ 
+
+vhx0.jpg [http://imagizer.imageshack.us/v2/800x600q90/855/vhx0.jpg]
+
+ 
+
+The game is really really funny. You suffer until the last round of the game. Sure.
+
+Maybe because you can't play allies, or better: allies must be discarded at the end of the round. So you never can get any powered-deck in any moment. (ah: outlarnders and megadwarfs are useless here :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png].
+
+The idea is that the heroes are alone and they must be strong and survive with their own habilities. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Could you win the game? Could your heroes win fame? Tactic Boromir of course, but..., could you play other heroes and display their power? .... :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+It is not impossible, but maybe you must make any change in your deck (for example, include ready habilities...)
+
+ 
+
+In fact, lots of cards that have forest thematic are good here (for example, dunedain leadership attahcments..., noldor twins heroes...), and useless cards, here are important (Common Cause [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler/_/core/common-cause-core], Cloak [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler/_/the-hobbit/over-hill-and-under-hill/spare-hood-and-cloak-ohauh], Favour of the Lady [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler/_/core/the-favor-of-the-lady-core], Rear Guard [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler/_/shadows-of-mirkwood/the-hills-of-emyn-muil/rear-guard-thoem]...even Short Cut [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler/_/dwarrowdelf/the-watcher-in-the-water/short-cut-twitw]!!!)
+
+Edited January 12, 2014 by Mndela
+
+## 2 [soldat7 on January 13, 2014](https://community.fantasyflightgames.com/topic/96745-orc-hunting-fanmade-official-imprimible-version/?do=findComment&comment=952856)
+
+Great job matching art to the cards. They look quite official.
+

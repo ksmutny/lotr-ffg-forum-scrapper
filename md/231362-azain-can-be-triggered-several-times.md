@@ -346,3 +346,7 @@ Caleb"
 
 So the second enemy being destroyed in the original hypothetical situation of Azain with Firefoot trying to use his ability twice is not destroyed by Azain let alone the attack but is destroyed by Firefoot itself.
 
+## 26 [Seastan on October 14, 2016](https://community.fantasyflightgames.com/topic/231362-azain-can-be-triggered-several-times/?do=findComment&comment=2456168)
+
+Well thanks for asking. I think if I had asked the question I would have preceded it with a question about the Bodyguard to try to obtain a different ruling  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] .
+

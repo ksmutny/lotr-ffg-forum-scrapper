@@ -1,0 +1,314 @@
+# [Your most EPIC win!](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/)
+
+## 1 [mr.thomasschmidt on July 23, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=819778)
+
+Now we have TOP 5, FLOP 5 and most epic loss. How about your best win? Share a game you won where you totally crushed the quest.
+
+## 2 [richsabre on July 23, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=819842)
+
+nice thread. my top 2
+
+ 
+
+1. me and a friend took a secrecy deck against ithillien a couple of weeks ago. we didnt count the rounds but the old scoreing system gave a score of -3. we destroyed it. it was my first win against it which, given that i had myself been getting destroyed, it was so much better.
+
+ 
+
+2.i took a defense power deck (beregond, legolas, hama with defender of the rammas, winged guardian, gondorian shield etc.) and killed cair andros in a few turns. the key was to not over quest during 1b as 2b would kill a deck with little willpower. once i got to 5b legolas and hama came in to finish it off. i finished with only 1 card in the staging area as hama and legolas had been busy feinting and killing the enemies
+
+rich
+
+Edited July 23, 2013 by richsabre
+
+## 3 [Mndela on July 23, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=819864)
+
+My top 5:
+
+ 
+
+1. Cair Andros, just yesterday, in 3 players. I had a very good tactic deck to this quest: Gimli, Legolas and Hama. The idea was play Thicket of Spears and return with Hama. But i didn't need. Feint, Hands upon the Bow, etc., did the job. Other player had also 3 tactic heroes and he took care about "questing" the 1b by shield. One of these heroes was... Beregond with his shield attachment.
+
+...the epic win was because last round, when we go to 5b, were revealed also 3 enemies more. Total 7 in staging! And all engage with us. I had 7 resources: 2, 2, 3. And i had 2 Thicket of Spears and one Feint in hand. So we were "immune", lol, that combat phase. So next round we can quest without problems and win the game. 182 points of score in 3 players!
+
+2. Cair Andros, in 4 players. I had Aragorn lore, attached by: A burning brand (most important, to ignore shadow effects, that are brutal this adventure!), Mark Dunedain (to increase defense), Arwen also was increasing my defense, 2 unexpected courage, Self Preservation..., lol, and i dont remember if another more! Certainly, other players helped Aragorn to attach all this. Aragorn was the defender boy of all attack, and other heroes could do other important things to win the game.
+
+3. Flight to Moria. With Abandoned Tools attached to Boromir at the first round :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+4. 1rs of Hobbit, the adventure of 3 trolls. Powered-dwarf deck with a lot of dwarfs in play and Master of Erebor Master Battle. In only one round, he only could kill all 3 trolls. He was ready by 2 Erebor record keeper.
+
+5. Stewars Fear, with a deck constructed by cards as: Ravenhill Scout, Asfaloth, Ravens of the Mountain, Strider's Path, Ancestral Knowledge, and, very important: Thror's Map.
+
+...my deck was lore; other player was spirit: Strengh of Will, Woman Rider, etc...
+
+We win in a very few rounds because 2 or 3 locations were explored from active location in the same round. Only 5 rounds in total!!!
+
+Edited July 23, 2013 by Mndela
+
+## 4 [rekath16 on July 23, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=819876)
+
+> My top 5:
+> 
+>  
+> 
+> 1. Cair Andros, just yesterday, in 3 players. I had a very good tactic deck to this quest: Gimli, Legolas and Hama. The idea was play Thicket of Spears and return with Hama. But i didn't need. Feint, Hands upon the Bow, etc., did the job. Other player had also 3 tactic heroes and he took care about "questing" the 1b by shield. One of these heroes was... Beregond with his shield attachment.
+> 
+> ...the epic win was because last round, when we go to 5b, were revealed also 3 enemies more. Total 7 in staging! And all engage with us. I had 7 resources: 2, 2, 3. And i had 2 Thicket of Spears and one Feint in hand. So we were "immune", lol, that combat phase. So next round we can quest without problems and win the game. 182 points of score in 3 players!
+> 
+> 2. Cair Andros, in 4 players. I had Aragorn lore, attached by: A burning brand (most important, to ignore shadow effects, that are brutal this adventure!), Mark Dunedain (to increase defense), Arwen also was increasing my defense, 2 unexpected courage, Self Preservation..., lol, and i dont remember if another more! Certainly, other players helped Aragorn to attach all this. Aragorn was the defender boy of all attack, and other heroes could do other important things to win the game.
+> 
+> 3. Flight to Moria. With Abandoned Tools attached to Boromir at the first round :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+> 
+> 4. 1rs of Hobbit, the adventure of 3 trolls. Powered-dwarf deck with a lot of dwarfs in play and Master of Erebor Master Battle. In only one round, he only could kill all 3 trolls. He was ready by 2 Erebor record keeper.
+> 
+> 5. Stewars Fear, with a deck constructed by cards as: Ravenhill Scout, Asfaloth, Ravens of the Mountain, Strider's Path, Ancestral Knowledge, and, very important: Thror's Map.
+> 
+> ...my deck was lore; other player was spirit: Strengh of Will, Woman Rider, etc...
+> 
+> We win in a very few rounds because 2 or 3 locations were explored from active location in the same round. Only 5 rounds in total!!!
+
+ 
+
+To 1: Yes we did a very good job, dont forget that we even lost a hero in the first (?) round. My heavy-siege-quest-deck created the fundament, you killed th nasty enemies, often even before engaging and nebur ... gave you a courage! :-P
+
+## 5 [Mndela on July 23, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=819883)
+
+Yes, we lost a hero because was revealed Elite Harad, with his immediate attack, and we haven't none in this just moment to block his attack. I said to you not exhaust one of your defender centinel eagles, and nebur wasn't cancel the treachery that decrease our attack and defense by 2. So Elite killed the first hero they saw...
+
+ 
+
+Maybe the game was more funny after this :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+PD: in fact, we don't need the lost hero, lol
+
+Edited July 23, 2013 by Mndela
+
+## 6 [Alex6222 on July 24, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=820318)
+
+1. Against The Seventh Level (okay not one of the most difficult quests) i was playing 2-handed and since the beginnig i felt nothing could harm me.
+
+ 
+
+2. Against Dol-Guldur, i didn't thrash it but it was such a win. I used my beloved Elven Alliance deck (Spirit Glorfindel, Elrond, Mirlonde) one of the guarded encounters was Caught in a Web wich i putten on Mirlonde then she was taken prisoner. But on round 2 the encounter deck revealed the 2nd copy of Caught in a Web so i put it in Glorfindel and i had to fight the rest of the quest with 1 1/2 heroes. I faced kine spiders, orcs, guardians, i think i even killed the Chieftan. I almost lost Mirlonde due to wounds but it was such a sweet victory when Mirkwood Runner single-handedly slew the 2 remaining hit points of the nazgul. 
+
+## 7 [GrandSpleen on July 24, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=820362)
+
+We won Flight from Moria during the first turn.  2-player game.  During staging, Abandoned Tools was the first card revealed.  The quest card ended up being Hasty Council, which revealed the following 2 quest cards.  These were both of the possible exit cards.  We chose Escape from Darkness (obviously).  Boromir was in the game, and claimed the tools.  Then during the Refresh phase, he used his ability repeatedly and we plunked down 4 progress tokens on that card and were outta there.
+
+ 
+
+Definitely a cheap victory, but I don't think it is possible to "crush" a quest any more thoroughly than that.  We didn't play Flight from Moria again for nearly a year after that.  The next time we won, we had a much more satisfying game that lasted nearly two hours, and both players drew almost their entire deck.
+
+## 8 [richsabre on July 24, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=820370)
+
+yeah boromir is the guy with that pick axe!
+
+## 9 [-nebur- on July 25, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=821666)
+
+> Yes, we lost a hero because was revealed Elite Harad, with his immediate attack, and we haven't none in this just moment to block his attack. I said to you not exhaust one of your defender centinel eagles, and nebur wasn't cancel the treachery that decrease our attack and defense by 2. So Elite killed the first hero they saw...
+> 
+>  
+> 
+> Maybe the game was more funny after this :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+> 
+> PD: in fact, we don't need the lost hero, lol
+
+hm...sounds like i didn´t do anything...you´re so cruel to me :-(
+
+I played some things to you, let you draw and canceled sometimes...
+
+To keep the treachery was right in my eyes...the Harad Elite was the only card which could be bad at this moment.
+
+Just unlucky...
+
+ 
+
+P.S.: I love to play with you!!!^^
+
+## 10 [Mndela on July 26, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=822584)
+
+WOW!!!
+
+ 
+
+The most most most epic win it was... today!
+
+ 
+
+3 players in Battle of Laketown.
+
+ 
+
+Most epic win than others i wrote:
+
+ 
+
+http://community.fantasyflightgames.com/index.php?/topic/86890-your-most-epic-win/?p=819864 [https://community.fantasyflightgames.com/index.php?/topic/86890-your-most-epic-win/?p=819864]
+
+ 
+
+Maybe because this adventure was the most epic fail
+
+ 
+
+http://community.fantasyflightgames.com/index.php?/topic/86511-your-top-5-epic-fail-quests/?p=818436 [https://community.fantasyflightgames.com/index.php?/topic/86511-your-top-5-epic-fail-quests/?p=818436]
+
+ 
+
+Well, today i won in 3 players mode! And we all 3 suffer a lot through 10 rounds. At finish we got 164 points of score. Nothing bad, 54 victory points.
+
+ 
+
+Epic win. Events as: i played with only 2 heroes! Denethor and Beravor. This was good deck (it could be better, i didn't have the all lucky i wanted): Gildor Counsil, Resourcefull, and all secrecy lore cards..., i played a lot of these cards. Asfaloth, and events to "manipulate" active location..., and Denethor, good Denethor to see top card and change if you want.
+
+Balin, by other player, helped and save the game a lot of times. Eleanor also. And Frodo if one attack of Smaug was without defneders.
+
+And the mots epic event this game: the third player, who kill smaug, at the first without any damage, with only Aragorn leadership and Glorfinder spirit characters in play we could say. In quest phase he plays Beorn with Sneak Attack, then play 2 more sneak playing beorn and Gandalf in combat phase. Between, he played 2 Grave Cairn over Aragorn or Glorfinder (with the 8 attack of Beorn). In total 8 -first Cairn- + 3 glorfinder + 8 -second Cairn- + 3 Aragorn + 4 Gandalf + 3 other Beorn in hand: total 29, just to kill Smaug (that had "immediatley attack").
+
+ 
+
+All the game suffering! But canceling shadows, treachures, and manipulating encounter deck and active locations..., we could!!!
+
+ 
+
+PD: the 3rd player was Nebur (see last post)
+
+PD2: i will name Nebur as "The killer of Smaugs"
+
+ 
+
+PD3: very difficult the locations that become immunes all other locations. At finish, we "explore" all these. lol. In fact, we explored almost all locations in encounter deck (only one not). Lol. Encounter deck only had treachures the last round.
+
+Edited July 25, 2013 by Mndela
+
+## 11 [rekath16 on July 26, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=822597)
+
+>  
+> 
+> > Yes, we lost a hero because was revealed Elite Harad, with his immediate attack, and we haven't none in this just moment to block his attack. I said to you not exhaust one of your defender centinel eagles, and nebur wasn't cancel the treachery that decrease our attack and defense by 2. So Elite killed the first hero they saw...
+> > 
+> >  
+> > 
+> > Maybe the game was more funny after this :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> > 
+> >  
+> > 
+> > PD: in fact, we don't need the lost hero, lol
+> 
+> hm...sounds like i didn´t do anything...you´re so cruel to me :-(
+> 
+> I played some things to you, let you draw and canceled sometimes...
+> 
+> To keep the treachery was right in my eyes...the Harad Elite was the only card which could be bad at this moment.
+> 
+> Just unlucky...
+> 
+>  
+> 
+> P.S.: I love to play with you!!!^^
+> 
+>  
+
+lol! I knew, you would defend yourself here! Bet won!
+
+## 12 [rekath16 on July 26, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=822600)
+
+> WOW!!!
+> 
+>  
+> 
+> The most most most epic win it was... today!
+> 
+>  
+> 
+> 3 players in Battle of Laketown.
+> 
+>  
+> 
+> Most epic win than others i wrote:
+> 
+>  
+> 
+> http://community.fantasyflightgames.com/index.php?/topic/86890-your-most-epic-win/?p=819864 [https://community.fantasyflightgames.com/index.php?/topic/86890-your-most-epic-win/?p=819864]
+> 
+>  
+> 
+> Maybe because this adventure was the most epic fail
+> 
+>  
+> 
+> http://community.fantasyflightgames.com/index.php?/topic/86511-your-top-5-epic-fail-quests/?p=818436 [https://community.fantasyflightgames.com/index.php?/topic/86511-your-top-5-epic-fail-quests/?p=818436]
+> 
+>  
+> 
+> Well, today i won in 3 players mode! And we all 3 suffer a lot through 10 rounds. At finish we got 164 points of score. Nothing bad, 54 victory points.
+> 
+>  
+> 
+> Epic win. Events as: i played with only 2 heroes! Denethor and Beravor. This was good deck (it could be better, i didn't have the all lucky i wanted): Gildor Counsil, Resourcefull, and all secrecy lore cards..., i played a lot of these cards. Asfaloth, and events to "manipulate" active location..., and Denethor, good Denethor to see top card and change if you want.
+> 
+> Balin, by other player, helped and save the game a lot of times. Eleanor also. And Frodo if one attack of Smaug was without defneders.
+> 
+> And the mots epic event this game: the third player, who kill smaug, at the first without any damage, with only Aragorn leadership and Glorfinder spirit characters in play we could say. In quest phase he plays Beorn with Sneak Attack, then play 2 more sneak playing beorn and Gandalf in combat phase. Between, he played 2 Grave Cairn over Aragorn or Glorfinder (with the 8 attack of Beorn). In total 8 -first Cairn- + 3 glorfinder + 8 -second Cairn- + 3 Aragorn + 4 Gandalf + 3 other Beorn in hand: total 29, just to kill Smaug (that had "immediatley attack").
+> 
+>  
+> 
+> All the game suffering! But canceling shadows, treachures, and manipulating encounter deck and active locations..., we could!!!
+> 
+>  
+> 
+> PD: the 3rd player was Nebur (see last post)
+> 
+> PD2: i will name Nebur as "The killer of Smaugs"
+> 
+>  
+> 
+> PD3: very difficult the locations that become immunes all other locations. At finish, we "explore" all these. lol. In fact, we explored almost all locations in encounter deck (only one not). Lol. Encounter deck only had treachures the last round.
+
+You can also point out, that the second player was me! :-P In addition this was our third and last try as we had determined before. It was a tight and tense game tonight... I cant bear such games every day, I tell you, this was the last time! ;-)
+
+Edit: As this wasnt enaugh suffer, we had more than 7 rounds the Old Thrush in staging area, noone claimed it, cause it wasnt clear at no point who could do the final attacks since noone of us had any mentionable attack strenght. So in the end Smaugh needed to be slaughtered without that nice objective.
+
+Edited July 25, 2013 by rekath16
+
+## 13 [-nebur- on July 26, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=822806)
+
+Thanks for the game...and the nice title ;-)
+
+## 14 [CaffeineAddict on July 26, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=823258)
+
+Just played a Solo game with an Outlands deck against Laketown. By the end of the game, I had an army of Outlanders, and finished up killing Smaug with 21 Victory points from locations and no burn damage on laketown at all. An epic feeling of having saved the whole town.
+
+## 15 [Shtanky on July 29, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=825705)
+
+Well to me Epic means the tightest victory. Steamrolling doesn't feel very epic, so here is mine!
+
+ 
+
+Playing 2p against Into The Pit, Difficulty 5, of all quests. I can't remember if we were experimenting with Dwarves or something of that nature, but we completed the mission with my teammate at 50 Threat (dead), and with me at 49, moments before I would have received my 50th. 
+
+ 
+
+Once in a thousand!
+
+## 16 [Pharmboys2013 on July 31, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=827300)
+
+i'm glad i havent previously posted in this thread, because i just completed the most "epic" win i think i'll ever be able to...or at least the quickest win.  Was playing Flight from Moria with the mono-leadership outlands deck i have posted in the deck list thread.  My opening hand had some pretty good cards including Steward of Gondor, King Under the Mountain, and Ethir Swordsman.  My first stage 2A was "Blocked by Shadow" where as soon as its revealed u can either discard the top card of the encounter deck and if its a treachery you are eliminated, or you place the quest stage at the bottom of the quest deck.  I figured i would risk the encounter discard since it was so early and i would mulligan if i lost but the discarded card was a location.  On my second turn i drew Faramir and played him along with an Anfalas herdsman and quested to victory as staging revealed the Dark and Dreadful treachery, which with Anfalas herdsman in play, i lost no outland allies (i only had 2 anyway)
+
+ 
+
+rounds - 2
+
+threat - 26
+
+ 
+
+had 3 damage on my heroes from the last treachery but otherwise couldnt believe it
+
+## 17 [mr.thomasschmidt on August 5, 2013](https://community.fantasyflightgames.com/topic/86890-your-most-epic-win/?do=findComment&comment=831463)
+
+I don't know if it's all that epic but it was sure nice when it happened. Just played Conflict at the Carrock. I was up against the last unique trolls and when I attacked him I turned out 1 attack point short of killing him and win the game. Oh well, turns over and I hope to draw an ally to block with. And not only do I draw an ally, but I draw Gondorian Spearman. All I had to do was play him, quest successfully and then declare him as an attacker. BAM!!! One damage to Louis and I won the game :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] not epic but sertanly one I'll remember :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+

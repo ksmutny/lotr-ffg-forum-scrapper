@@ -298,3 +298,226 @@ But why should it prevents the crows from procing their Forced effect ? The forc
 
 And thus we are back to square one: it is all conjecture
 
+## 26 [booored on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980178)
+
+> I personally believe Thalin´s effect is a passive ability.
+
+ 
+
+> Because then eastern crows will not activate their forced effect.
+
+ 
+
+ 
+
+it is passive, there is no keyword, so it exists outside the timing structure like all the other passive effects in the game. It is "always on".
+
+Edited February 10, 2014 by booored
+
+## 27 [Nerdmeister on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980186)
+
+>  
+> 
+> it is passive, there is no keyword, so it exists outside the timing structure like all the other passive effects in the game. It is "always on".
+> 
+>  
+
+Well it is "always on" inside of the time-frame given by the card itself, from you exhaust Thalin for the quest till the end of the quest phase.
+
+But in principle, yes that is the way I see it.
+
+## 28 [alogos on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980200)
+
+> And thus we are back to square one: it is all conjecture
+
+ 
+
+Not following you...
+
+ 
+
+Thalin effect is a passive (p23 of rulebook), it occures before keyword (p2 of the faq), that's why surge is not happening.
+
+Forced effect is trigger when crow dies. Be it while being revealed or already in the staging area, it is, in both cases, in play. It's forced effect don't occures when he is revealed, knowing if it should proc before or after Thalin's effect has no importance. (but from p.7 of the faq, you now know that constant happen before Forced when relevant...)
+
+ 
+
+Don't understand what you are missing.
+
+ 
+
+And I search the rulebook for you: p23 
+
+>  
+> 
+>  
+> 
+> Constant Effects
+> 
+> Constant effects continually affect the game state as
+> 
+> long as the card is in play and any other specified
+> 
+> conditions are met. These effects have no bold trigger,
+> 
+> as they are always active.
+
+They say constant instead of passive, but it's all the same.
+
+ 
+
+Please explain clearly what you think is conjecture.
+
+## 29 [GrandSpleen on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980366)
+
+I'm surprised there is so much debate.  Forced effects are active when the card is in play.  It'll have to trigger.
+
+ 
+
+As for this "draw / reveal" distinction, the word "draw" is never used in reference to the encounter deck as far as I can tell.  You can "reveal" a card from the encounter deck, "look at" or "search" it and then "add" cards to the staging area... but I don't recall ever seeing a card, or language in the FAQ or manual, that indicates cards are "drawn" from the encounter deck.  Language is used very purposefully when rules are written, so I wouldn't go introducing vocabulary where it isn't specifically used.
+
+Edited February 10, 2014 by GrandSpleen
+
+## 30 [Noccus on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980376)
+
+I'm with GrandSpleen on this one.
+
+If a card is drawn/taken/revealed or whatever; it is in play.
+
+Thalin does damage before any text on the cards proc as his ability is passive.
+
+So you place a damage token on the cards IN PLAY, before their abilities proc.
+
+Thus the crows are damaged/destroyed/killed or whatever, and THEN it's forced ability procs.
+
+Which means shuffeling it back into the encouter deck.
+
+But that's just how I see the logical steps.
+
+Maybe it's better to clarify by asking for a ruling on it, as I'd like to know.
+
+Edited February 10, 2014 by Noccus
+
+## 31 [Mndela on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980486)
+
+In addition, if you use this event:
+
+ 
+
+ffg_expecting-mischief-ohauh.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_expecting-mischief-ohauh.jpg]
+
+ 
+
+And the first revealed enemy is:
+
+ 
+
+ffg_cavern-guardian-core.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_cavern-guardian-core.jpg]
+
+ 
+
+you dont raise your threat level by 1,
+
+ 
+
+neither:
+
+ 
+
+ffg_black-forest-bats-core.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_black-forest-bats-core.jpg]
+
+ 
+
+you havent to trigger the 'when revealed' text.
+
+## 32 [Noccus on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980567)
+
+True, no question there.
+
+The point on the crows card is different though, as it's forced ability procs after it is destroyed.
+
+## 33 [Nerdmeister on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980909)
+
+Seem to recall a very old ruling stating that the crow does not get shuffled back but seems that is outdated now. Anyways I asked Caleb so we can get closure on it:
+
+----------------------------------------------------------------------------------------------------------------
+
+If Thalin destroys Eastern Crows after it is revealed from the encounter deck, it will trigger its Forced effect and get shuffled back into the encounter deck. If it was the last card in the encounter deck, then it will be placed back as the only card in the encounter deck.
+Cheers,
+Caleb
+
+## 34 [GrandSpleen on February 10, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980926)
+
+Thanks for asking Nerdmeister.
+
+## 35 [booored on February 11, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=980990)
+
+I got a reply form Caleb.. witch is the EXACT opposite form the one I got from Nate a few years ago. This is the 4th rule that they have completely reversed on me. Not even the designers know what the hell they are talkign about.
+
+ 
+
+Rule Question:
+Thalin + Eastern Crows..
+
+In the FAQ it says that the card is destroyed before the keywords (like surge) resolve.
+
+Doesn't this also mean the response text can not resolve either and when a crow is killed by Thalin during the staging step of the ques phase it is not shuffled into the encounter deck, but instead goes into the discard pile?
+
+Thanks.
+
+ 
+
+ 
+
+Hi,
+The text on the Eastern Crow will still resolve after Thalin destroys it, which will shuffle it back into the encounter deck.
+Cheers,
+Caleb
+
+ 
+
+> ffg_expecting-mischief-ohauh.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_expecting-mischief-ohauh.jpg]
+>  
+
+ 
+
+I also put in a question about this card, as logic has nothing to do with this game.. who the **** knows?
+
+ 
+
+ 
+
+> Seem to recall a very old ruling stating that the crow does not get shuffled back but seems that is outdated now. Anyways I asked Caleb so we can get closure on it:
+
+ 
+
+Yeah.. Old Hands like us still use the Nate ruling.
+
+Edited February 11, 2014 by booored
+
+## 36 [alogos on February 11, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=981035)
+
+Ahah, this one (expecting mischief) is a pure exemple of b**s** ruling : Thalin is an errata, and the explanation given (because there is an official answer for it) is that expecting mischieve having the same wording as Thalin (and it is an action but that create a constant effect during the whole phase) it should be working the same.
+
+ 
+
+A card, written like another who have been errated, should work as if it were also errated...
+
+ 
+
+Works for me as I'm very tolerant. But I don't use pure logic when trying to understand some of their rules...
+
+## 37 [GrandSpleen on February 11, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=981157)
+
+I don't know, plenty of people in this thread have arrived at the correct play sequence using very logical explanations.
+
+ 
+
+Thalin is in the "errata" section of the FAQ, but his card text was never changed, so it's hard to say that the card was actually errata'd.  It looks misplaced in the FAQ, really it should be in the question-answer section.
+
+Edited February 11, 2014 by GrandSpleen
+
+## 38 [booored on February 11, 2014](https://community.fantasyflightgames.com/topic/98758-infinite-loop/?do=findComment&comment=981172)
+
+That is because the designers changed from Nate to Caleb.. and Caleb has ruled a different 3ay to the way it was originally rulled.
+

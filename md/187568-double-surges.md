@@ -250,3 +250,101 @@ Sentinel. It will never stack. "Gains sentinel" gives it to you. You have it or 
 
  
 
+## 26 [Teamjimby on September 29, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1825458)
+
+You can dissent and house rule if you want to, but that goes against the official ruling.
+
+## 27 [ppsantos on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1826595)
+
+I don't consider it "official" ruling unless it is included in the rule book or the Official FAQ.  If it's not in the Official FAQ, then it's 'unofficial' ruling, as far as I'm concerned, even if it came from Caleb, or any other FFG persona.
+
+Edited September 30, 2015 by ppsantos
+
+## 28 [GrandSpleen on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1826840)
+
+Well, everybody's got an opinion.
+
+## 29 [PocketWraith on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1826985)
+
+Well, that's just sticking your head in the proverbial sand and flagrantly disregarding the generally accepted definition of an official ruling.
+
+## 30 [NathanH on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1827022)
+
+I agree with ppsantos. Unless it's in the official game documentation the game designers' comments are just opinions that we can use as guidelines if we want.
+
+ 
+
+Frankly, after seeing the "FAQ" entry for Stand and Fight, I don't feel obliged to pay attention to anything in the non-errata section of the FAQ either, if I think it's badly reasoned.
+
+ 
+
+ 
+
+In this particular example, though, the rules as they stand don't give any indication of what should happen when a card with surge gains surge. I see no compelling logical reason to reject the designer's comments on this question.
+
+## 31 [sappidus on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1827076)
+
+> Frankly, after seeing the "FAQ" entry for Stand and Fight, I don't feel obliged to pay attention to anything in the non-errata section of the FAQ either, if I think it's badly reasoned.
+
+I don't mean to start up that firestorm again, but I never quite understood the issue here. This happened so soon after the game's release that it's as clear as day that Stand and Fight was never intended to be able to resurrect core Gandalf. That Nate French elected to enforce this idea via concentrating on grammar issues rather than errata'ing the card text itself is something of a separate point, no?
+
+As for stacking Surges, I find it a little odd, but hey, there are a lot of oddities about this game. While I am sympathetic to ppsantos' viewpoint that things should be consistent as possible, I'm willing to cut them plenty of slack for having made this inherently complicated game as lovely as it is.
+
+Edited September 30, 2015 by sappidus
+
+## 32 [Teamjimby on September 30, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1827180)
+
+Stacking surge is a little odd because it's a non-numeric keyword, but it makes more sense than writing "Surge 1" on every card with surge just to keep open the possibility for quest mechanics to add extra surges.
+
+## 33 [NathanH on October 1, 2015](https://community.fantasyflightgames.com/topic/187568-double-surges/?do=findComment&comment=1828478)
+
+>  
+> 
+> > Frankly, after seeing the "FAQ" entry for Stand and Fight, I don't feel obliged to pay attention to anything in the non-errata section of the FAQ either, if I think it's badly reasoned.
+> 
+> I don't mean to start up that firestorm again, but I never quite understood the issue here. This happened so soon after the game's release that it's as clear as day that Stand and Fight was never intended to be able to resurrect core Gandalf. That Nate French elected to enforce this idea via concentrating on grammar issues rather than errata'ing the card text itself is something of a separate point, no?
+> 
+>  
+
+If you want to change how a card works, either change the card through (proper---see below!) errata or change the rules framework through errata and maintain these standards throughout the game.
+
+ 
+
+Thus, the FAQ entry to Stand and Fight should either read:
+
+ 
+
+"Stand and Fight
+
+Should read: '..., but it must belong to a sphere)"
+
+ 
+
+or
+
+"The word 'May'
+
+ 
+
+If a card effect specifies that the target of the effect 'may be X' then the target must be X"
+
+ 
+
+The better approach in this case is the first approach, because creating a rules framework where words have significantly different meanings than in normal English is a bad idea.
+
+ 
+
+Similarly for Surge, what we need is a rules framework errata on the exact meaning of "gains" with respect to keywords, not case-by-case rules "clarifications".
+
+ 
+
+ 
+
+I just noticed that the Stand And Fight entry is actually in "Errata". This is even more ridiculous---the Stand And Fight entry is a (wrong) FAQ entry, not errata!
+
+ 
+
+Edit: As you might guess, we got Warhammer: Conquest yesterday and were really pleased with the careful rules framework, and now I want LOTR to have a similar one!
+
+Edited October 1, 2015 by NathanH
+

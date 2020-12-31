@@ -229,3 +229,61 @@ Feint is not the only cards that could «feint»
 
 You definitely can't use feint because you'd have to play that before you even choose an attacker, right?  Otherwise they are already attacking and it's too late.  That would be like saying you could use feint after you've revealed the shadow card if it turns out to be a nasty one.
 
+## 26 [alogos on May 7, 2015](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=1610353)
+
+... I got confused.
+
+ 
+
+Well, after a good re-reading, I just messed up with the fact that step 1 is to choose an engaged attacking enemy, but there is only one to choose from, which isn't even engaged, but yeah, I would not have time to play a «feint» before the begining of its attack.
+
+ 
+
+I stand corrected.
+
+ 
+
+Still, step 1 is really weird in this case.
+
+## 27 [Rajam on September 21, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2423570)
+
+Bump! I have a question regarding immediate attacks: can you attack back, or do you still need to wait until combat phase?
+
+## 28 [Kakita Shiro on September 21, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2423651)
+
+> Bump! I have a question regarding immediate attacks: can you attack back, or do you still need to wait until combat phase?
+
+Barring an effect like Roheryn, Anduril, or Quick Strike, you'll have to wait your turn.
+
+## 29 [Boromore on October 27, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2477268)
+
+I suspect this has been asked before, but I can't find an answer...if I play Quick Strike in an action window during an enemy attack, which takes precedence? The original enemy attack, or the Quick Strike?
+
+## 30 [Kakita Shiro on October 27, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2477281)
+
+Fairly certain it is Quick Strike; if the enemy is dead, there's no enemy attack to resolve.
+
+## 31 [shosuko on October 27, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2477490)
+
+> I suspect this has been asked before, but I can't find an answer...if I play Quick Strike in an action window during an enemy attack, which takes precedence? The original enemy attack, or the Quick Strike?
+
+The Quick Strike is an action - when you have an action window you can play the card and fully complete it's effects.  This means you can use it to attack before an enemy does.  If you destroy an enemy before it attacks, then it never gets a chance to attack itself and will be discarded.
+
+ 
+
+Also note that Quick Strike is an action, so you can do it during any phase action window.  This means, if an enemy is engaged with you at the beginning of your turn during preparation phase you can even do the attack then.
+
+## 32 [rsdockery on October 27, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2477833)
+
+Ooh, what if Na'asiyah is defending, you trigger her action, and then you play Quick Strike? Her bonuses last "for this attack"; since the enemy's initial attack hasn't resolved, does she still have the attack bonus during her own attack?
+
+## 33 [sappidus on October 28, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2478012)
+
+> Ooh, what if Na'asiyah is defending, you trigger her action, and then you play Quick Strike? Her bonuses last "for this attack"; since the enemy's initial attack hasn't resolved, does she still have the attack bonus during her own attack?
+
+Without drilling too much into the precise wording, Na'asiyah's ability says to give her +2 ATK or +2 DEF for each trigger of the action (not and), so how would you parlay any putative timing shenanigans into an advantage?
+
+## 34 [shosuko on October 28, 2016](https://community.fantasyflightgames.com/topic/124614-immediate-attack/?do=findComment&comment=2478360)
+
+Na'asiyah's ability would only apply to the attack during which you activated her action.  So if you go into an attack, and during the action window play a Quick Attack, the Quick Attack would not gain the bonus since it isn't "This Attack" the ability was activated with.
+

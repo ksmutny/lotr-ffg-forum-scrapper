@@ -1,0 +1,18 @@
+# [Dwarrowdelf print history](https://community.fantasyflightgames.com/topic/281069-dwarrowdelf-print-history/)
+
+## 1 [Tyrion Gru on August 15, 2018](https://community.fantasyflightgames.com/topic/281069-dwarrowdelf-print-history/?do=findComment&comment=3441879)
+
+As one of the uncounted players patiently waiting on the Dwarrowdelf Cycle reprint, I was wondering when this Cycle last saw the light of day. I've been watching since before last Christmas for four of the APs, and check regularly on availability. If I'm remembering correctly, it's been "Waiting for Reprint" for quite some time now.
+
+Just curious about how much longer I should reasonably expect to wait. These four APs, plus the "On the Doorstep" Saga expansion, are all I need to become a completest (whoo hoo!) and it seems FF and Co. have an anxious community waiting for this product. Can you say, "printing money?"
+
+ 
+
+## 2 [Wandalf the Gizzard on August 15, 2018](https://community.fantasyflightgames.com/topic/281069-dwarrowdelf-print-history/?do=findComment&comment=3441920)
+
+Shadow and Flame has been out of print since October, while Road to Rivendell recently went out of print in March. The other packs fall in between.
+
+You should expect to wait for a very long time, and be sure to gobble them up the minute they re-surface, because they'll be gone in a flash.
+
+Yes, I can, but ANA can't. -_- [//content.invisioncic.com/Mfantflight/emoticons/default_sleep.png]
+

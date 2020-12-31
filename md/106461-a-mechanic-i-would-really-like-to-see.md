@@ -1,0 +1,268 @@
+# [A mechanic I would really like to see](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/)
+
+## 1 [Gizlivadi on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1087645)
+
+I recently posted in this thread http://community.fantasyflightgames.com/index.php?/topic/106418-cool-idea-for-the-next-cycle/ [https://community.fantasyflightgames.com/index.php?/topic/106418-cool-idea-for-the-next-cycle/] a comment about how I would like to see more of the "good" sites in Middle earth like Rivendell, Lorien, Edoras, etc While there are present in the story, we never are really there in the game. And I know some will say that "what why would you like to visit Rivendell, it's so boring" and yeah you won't find any combat there but I believe that in the Lord of the Rings story and all that, the good "capitals" of the free peoples are as important as the dangerous places the encounter deck throws at us. They are places of information, counsel and healing, among other things.
+
+ 
+
+So if you guys would be interested of seeing this in the game, I designed a little mechanic about it; it just occured to me so I don't know whether I like it or not yet, but here it goes: Being able to play an "alternate company" in a static place outside the reach of enemies, a Refuge, like say, Rivendell. And you place those allies there, are still affected by treacheries and by other effects (or maybe they become immune to player card effects), but do not combat (and do not also quest? hmmm) and you can use their activated abilities, but nothing more. So here you basically play allies like Imladris Stargazer, yeah you can't use her for chumpblocking if she's in Rivendell, but at least you can use her ability as many times you want. Maybe even Faramir, so you can use his ability yet doesnt participate in combat. Zigil Miner for those "Aule" decks. I don't know, it seems like it opens plenty of options. I'd be willing to create a house rule based on it to test it.
+
+ 
+
+I think the restrictions I mentioned above (cannot quest, immune to player cards) are dependant on the site they're played on (so in Lorien for example they can quest but cannot use their abilities). Also, there should be a limit of how many characters you can put in the refuge. I guess Rivendell would be the highest, at 5? the rest between 2 or 3.
+
+ 
+
+Btw only one refuge can be in play under the control of one player. Should one be able to play allies in other player's refuge? hmm
+
+ 
+
+Anyway what do you think?
+
+## 2 [ZanzibarLand on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088069)
+
+I've got a decent idea for a quest sort of like this.
+
+You send messengers or emissaries, whichever term you prefer to one of these refuges to gather troops or relay intel etc. They commit their willpower to the task and slowly put progress on the location or separate staging area. I haven't thought any further than this. They could have their own treachery deck; unimpressed official, chain of command, to slow them down, and have other hiccups and random events.
+
+I really liked the Trouble in Pelagir quest because of the theme and interesting treacheries. Like getting lost in town or finding a clue too late. Is this the kind of feel you like?
+
+## 3 [Narsil0420 on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088083)
+
+I like the idea of having locations that are hard to get to but then provide positive bonuses once you explore them.
+Letting allies "stay there" is an interesting idea but I don't know if there's enough there to make it really that beneficial to the players
+
+Overall, I really would like to see a quest "like" Emyn Muil where the locations are the primary focus of the quest but done in a way that works. The Huron's hinder keyword is the perfect companion for this kind of quest.
+
+Edited May 17, 2014 by Narsil0420
+
+## 4 [Gizlivadi on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088127)
+
+Okay, so I thought it further a bit. These cards are NOT locations, they are not placed in the encounter deck and you do not have to explore them or find them. They are "Havens" and they are player cards, but do not form part of your deck, like the heroes. You start the game with your haven in play, below the deck as a second row of allies below the ones that are in the quest. Then, you can choose to play allies next to the Haven, indicating that they are in the Haven.You can use their activated abilities but do not participate in combat or questing, They represent people far away that are aware of your quest and try to help with information and counsel. You can only have one Haven in your deck and in play. So for example, you can choose to play Erestor with your main company, and he provides his willpower and combat, but at the same time he is affected by treacheries and counts towards the number of characters in play (like in Low on Provisions). If you play him in your haven, he can't quest, attack or defend, but he doesn't exist for effects like Low on Provisions, and I'm thinking you can still exhaust him for A Very Good Tale. You can, of course, use his ability for as long as he remains in the Haven. 
+
+ 
+
+I like this idea because it's not quest specific. You can have a company in a Haven helping you wherever you go. It presents a lot of balance problems, though. Should characters in havens be affected by player cards? The idea is that, in general, there should be a power balance between playing characters in the company or in the Haven, so it does not become obvious whether to play them in either of them.
+
+Edited May 17, 2014 by Gizlivadi
+
+## 5 [MyNeighbourTrololo on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088140)
+
+A location keyword. Something like "Landing".
+
+ 
+
+Those locations have special text which reads:"While Landed: X", where X is effect.
+
+ 
+
+Now, how it works. After a location with Landing keyword leaves play as an explored location while being active location, players may add it to victory display, discarding any other location with Landing there.
+
+ 
+
+While Landed text is only active while Landing location is in the victory display.
+
+ 
+
+ 
+
+Example of such location:
+
+ 
+
+Wall of Thorns
+
+Threat: 3
+
+Quest Points: 4
+
+Forest.
+
+Ladning.
+
+Forced: After players travel to the Wall of Thorns, each questing hero takes 1 damage.
+
+While Landed: After a player optionally engages an enemy, deal 1 damage to that enemy.
+
+## 6 [Gizlivadi on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088148)
+
+Interesting, Trololo, but that idea kinda defeats the purpose of what I had in mind. The idea is for these cards not to be quest specific, or else they just become part of the encounter deck and nothing really is changed. They are supposed to be the "Bastions of the Free Peoples", you don't really have to find them by chance and explore them. They are already available to you.
+
+ 
+
+So I thought about a card that would make use of the Haven card type:
+
+ 
+
+Saruman
+
+Ally
+
+cost 3
+
+2 willpower
+
+4 attack
+
+3 defense
+
+3 hit points.
+
+ 
+
+Doomed 2. Saruman can only be played in a Haven. Action: Exhaust Saruman to look at the top 2 cards in the encounter deck (limit 1 per round).
+
+ 
+
+And suddenly, Palantir becomes playable. You are literally communicating via Palantir with Saruman while he is in Orthanc. Can you say thematic?
+
+## 7 [Raven1015 on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088164)
+
+It's a really interesting idea and i would like to see Havens included somehow (really hearkens back to MECCG). I think Havens should limit who can be placed there as a balance. Like Erebor, for example, would be limited to Dwarves, Grey Havens to Elves. Etc. The main issue is that if they start in setup, there needs to be some kind of cost, perhaps an added threat cost to your starting threat.
+
+## 8 [Gizlivadi on May 17, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088168)
+
+You nailed it, I was of course thinking of MECCG when creating this. About the trait restrictions, it's a good point, but I don't think every Haven should have such restriction. Didn't Rivendell welcome people from all races in Middle Earth? Perhaps Lorien, Erebor and Minas Tirith should have the restriction, but I don't think it as strictly necessary. Remember that the average Haven will have a character limit of 3 anyway, so it's not like you'll be playing lots of allies there. As for the last point, yeah, it's definately the most important one. What cost should Havens have for starting in play? Perhaps it depends on the Haven. Maybe Orthanc will raise your threat a bit, while Eodras might have another cost. It's time to brainstorm.
+
+## 9 [Gizlivadi on May 18, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088505)
+
+If anyone's still reading this thread, what about this: Havens have "cost" based on heroes. Now that opens a lot of possibilities. The haven could just have a sphere icon and to have that means that in order to use this haven, you must control a hero that matches that sphere. Or they could INSTEAD have a restriction based on trait, in that you must control a Gondor/Rohan/Dwarf/Ranger/Noble/whatever hero in order to use this Haven. Some could have both. For "easier" havens, only a sphere match must be had, but other, more specific havens you need a sphere and a trait (can be in different heroes). What o you think? Should that be all? 
+
+ 
+
+I've also thought of special abilities for each of them, like this:
+
+ 
+
+Grey Havens
+
+ 
+
+Haven, character limit: 3
+
+ 
+
+In order to control Grey Havens, a player must control a Noldor or Silvan hero. 
+
+ 
+
+Restricted to Noldor and Silvan
+
+ 
+
+Action: Discard an ally played here to add it's willpower to one hero a player controls. (Limit once per round.) 
+
+ 
+
+ 
+
+Does that sound good? the restrcited to noldor and silvan means that only noldor and silvan allies can be played here. The ability of discarding allies helps with willpower and it frees a character slot for when you may want to play another one in that haven.
+
+Edited May 18, 2014 by Gizlivadi
+
+## 10 [Kerstoid on May 18, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1088558)
+
+This seems like an idea that could be quite a fun thematic and mechanic twist.  Creative ideas like this prove there is still quite a bit of design space left in this game!
+
+## 11 [Rapier1 on May 19, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1089511)
+
+I like the idea of playing cards onto the haven (and I like the idea of it starting in play to represent where the heroes came from).
+
+I don't think you can have it be that you can play Imraldis stargazer onto the haven and have it still be semi-usable though.
+
+I think this would be a problem because basically the allies that are only ever used for there other effects (like Stargazer) would always be better at the haven.
+
+The cost of losing their ability to attack/defend/quest is more than made up for by the benefit of them being safe at the haven for the cards that have powerful effects but are weak. 
+
+On the other hand playing a powerful card at the havens would always be a rubbish idea.
+
+I would change it to.
+
+When you pay for an ally you can either play it at the haven or into play normally.
+If you play a card to the haven put the card face down under the haven. Add resource tokens to the haven equal to the resource cost of the card.
+
+Then give the haven cards effects when they have X resources on them, or effects that let you spend the resources off the card for various effects. This way they're essentially converting good cards into good effects on a cost basis (and cost is generally the measure of a cards value).
+
+It would be a way of helping you to mitigate bad card draw or helping to solidify a style of play (I picked a haven that helps with questing for the tactics solo deck for instance). 
+
+Then you just need to add a threat cost to the haven to balance the extra power it gives you and there you go - a new mechanic to make the old decks fresh, with a new card type (that we could then have player cards and treacheries and so on to interact with - making it valuable to extent the game life).
+
+## 12 [Gizlivadi on May 19, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1089599)
+
+Interesting ideas there Rapier. I hadn't seen this post before so I'm gonna reply here. The cards I made haven't been playtested yet, but I believe it wouldn't be too bad if characters in Havens coulds till use their actions and abilities. While it might seem obvious at first to play the Stargazer or the Ithilien Tracker in a Haven so you can still use their abilities, they're still one body less from the table, and you might be regretting playing the ally in the Haven later in the game. That's why I think these open a lot of strategic possibilities. Keep in mind that there are actually very few allies that are ONLY usable for their special ability. Pretty much every ally can be of use for their stats. Even the Erebor record keeper is basically a quester for 2 in most Dwarf decks, and Erestor has 2 willpower.  
+
+ 
+
+I've been convincing myself more and more though that they should NOT be able to be targeted by events such as A Very Good Tale, We are Not Idle, etc. They basically become immune to player card effects (except their own).
+
+ 
+
+Also, I do not think a threat cost is the way to go, since it would totally go against secrecy decks that want to use a Haven.
+
+ 
+
+I DO like your idea of playing allies and addinf token to the Haven according to their cost, so players can make use of their high costed allies that otherwise wouldn't be put in the Haven.
+
+Edited May 19, 2014 by Gizlivadi
+
+## 13 [Rapier1 on May 19, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1089858)
+
+For secrecy - I would argue that you can have some havens that are balanced differently. You could even have a haven that lowers your starting threat (The shire for instance was unaware of the shadow completely and was tranquil and ideal - likewise Lorien, Rivendell and the Old Forest were all protected from the shadow and might have reduced starting threat).
+
+Having seen some of your ideas for cards I definitely think you want the allies to be face up - so you can have effects based on their sphere, or their stats because that's much better than having them face down.
+
+I would argue that you need a cost (threat is the most obvious but you could have others) besides just losing access to the allies - since the allies are going ot be powering some other effect - and that other effect needs to be balanced vs the allies or people won't play it.
+
+However you should pay for the extra value of having a haven. Especially if the encounter deck is incapable of effecting the bonuses the haven provides. (If havens were part of the game and the encounter deck occasionally made them not work with treacheries or attacked the characters there - then I would say it didn't need a cost, but that would be harder to add to the game).
+
+Edited May 19, 2014 by Rapier
+
+## 14 [ana4 on May 19, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1090012)
+
+How about a compromise. Instead of placing them face-down, you can just treat their text as blank, and they could (via the particular Haven or other means) still contribute their stats to the game. I agree that having their ability at hand would be too good.
+
+Overall, what a nice idea. I always wanted to have stuff like that, Havens, cities, strongholds.
+
+Edited May 19, 2014 by Ana
+
+## 15 [ana4 on May 20, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1091221)
+
+I would also add: cannot effect other characters, for it makes no sense for Faramir to be giving willpower from Minas Tirith (or Henneth Annun even). Although Galadriel does just the thing from the safety of Caras Galadhon but that's why she's a hero, haha.
+
+Edited May 20, 2014 by Ana
+
+## 16 [shoreless on May 20, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1091283)
+
+Okay, I dig this idea as a house rule but I'm wondering how to implement it into the game as it stands. First, forgive me if anything is redundant. Full disclosure -- I skimmed most of your posts. I'm sorry.
+
+ 
+
+Maybe these cards could go in your deck as usual but are played into the staging areas as Player-Locations. Many other LCGs have 'support' cards that are locales, but if we start throwing them around in the player area it threatens the basics of LOTR LCG. But, these player-ocations have a threat cost attached to them so as not to be too imba, and quest points so that they can be explored and have travel effects. They would also have a 'Haven X' keyword.
+
+ 
+
+The Rules would read something like this: "Player-locations with the Haven X keyword receive X Haven tokens when they enter play. When a Haven token is placed on a character that character is treated as out of play -- it is immune to all card effects and cannot quest, attack, or defend -- but it may still use any ability from its text. Players may only have three copies of one unique Haven card in their decks." You get the idea.
+
+ 
+
+So Rivendell would be, maybe: (2 threat, 3 quest points) Haven 3. At the start of each Travel phase the first player may move one Haven token from Rivendell to a character he controls. When Rivendell leaves play as an explored location, heal all damage from one Hero each payer controls and remove all Haven tokens associated with it.
+
+ 
+
+That way it could just go into your deck, rather than having to be played at setup or whatever. And I completely agree with your racial/spherical limitations from the other thread. Nice idea!
+
+Edited May 20, 2014 by shipwreck
+
+## 17 [Gizlivadi on May 20, 2014](https://community.fantasyflightgames.com/topic/106461-a-mechanic-i-would-really-like-to-see/?do=findComment&comment=1091991)
+
+Thanks for the suggestions shipwreck, but I'll have to be honest. They're too complicated. First, the idea of Haven X and the haven tokens is a bit too much IMO. And why would Havens contribute threat and have to be explored? To me it just sounds like an unnecesary, over-complicated version of location cards, although balanced. The idea is for this to be a completely new player card type, where you can keep allies and use their abilities. Nothing more.
+
+ 
+
+Why would having them in the player area threaten the basics of the game? They are unaffected by anything, as well as the allies inside. 
+
+ 
+
+@Ana: You'll have to stretch your thematic mind a bit to get it. While it's not obvious that it makes sense for Faramir to boost willpower from Minas Tirith, it does work when you think he was in a position of power and all his people loved him, whether he was present or not, and thus their willpower is boosted. Maybe I'm sounding a bit like Caleb in the last second breakfast article, but never doubt that is was an idea I had from the start, and one of my main goals, to be able to make Faramir boost willpower from the Haven, just like Zigil Miner mining in Erebor, Erestor giving counsel, etc. Also, I wrote in the haven thread a new restriction. You can use the special ability of only one ally in a Haven per turn.
+

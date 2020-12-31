@@ -1,0 +1,154 @@
+# [How much content do you get in each expansion?](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/)
+
+## 1 [FrogTrigger on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2342951)
+
+Hi friends, now that we're buddys I have a question to ask you. I am looking at getting into this game but am confused about the content of each expansion.
+
+ 
+
+Core game gets you XXXX hours of replayable value, great. Then you buy the Shadows of Mirkwood cycle to go with the core? And you go through each of these decks in order of release.  Then you grab a deluxe expansion and buy the cycle for that specific expansion as well in order of release and so forth.
+
+ 
+
+But what I am confused about is how much content is in each pack. The cycles say they come with 60 cards and one scenerio but this means nothing to me having never played the game.  How many hours of play for one play through would you say there is in each deluxe expansion and each individual cycle pack? Is this something a friend and I are going to go through in a hour, or a full nights worth with possible different play throughs? I am not trying to get complicated here just a really rough ball park. I am trying to figure out how much play time I get for $20 Canadian per cycle pack to gauge if this game falls inside my budget.
+
+ 
+
+Thanks in advance.
+
+Edited August 4, 2016 by FrogTrigger
+
+## 2 [John Constantine on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343026)
+
+That's entirely up to you. If you enjoy the quest, you might be playing it for decades. If you don't, you might ditch it after the first couple plays. Also note that each AP comes with a new hero and a bunch of player cards, which expand your deckbuilding options and introduce new ways to play the game = replayability. As for hours, it's also kinda of complicated, because it is heavily dependant on quest, number of players, and the way you play.
+
+## 3 [FrogTrigger on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343048)
+
+OK so each cycle pack comes with a scenerio, that is like a main quest right? And then the objectives for that scenerio are included in the pack, then you have heroes and extra items to flesh out your deck building?  So for a single player, playing two decks instead of one as I have read this is easier, one play through of a cycle pack at a medium pace would basically last you 30-60ish minutes?  That is what I am curious about. Just tryng to understand what the different words like scenario and objective even mean, as an outside player looking in this is all gibberish.
+
+## 4 [John Constantine on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343056)
+
+Objectives, if present, are part of the scenario itself, they're not something sovereign.
+
+ 
+
+Playing two decks instead of one will give you much more flexibility at the deckbuilding, because while playing solo - you'll need to build a deck which is good at everything (well, most of the things) if you want to succeed, while with two decks you can specialize. And 30-60 minutes sounds like not the time you're gonna be spending per session (at least if you don't lose on your first turn) until you get really familiar with the game and it's components in general. 
+
+## 5 [evilidler on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343060)
+
+It depends on the scenario. The cycles also rely on encounter cards from the core and its preceding deluxe box, so some quests can take a long time to play through once. Some quests add more variations, so you may pick different paths in a quest.
+
+ 
+
+You can play it many ways too. Play campaign style and don't replace heroes who fall, or replace them between scenarios/cycles. Play one-handed, play two-handed, play dumb to handicap yourself. Try different hero combinations, try secrecy decks (avoiding combat as much as possible). Add Nightmare decks for a greater challenge. Play with only hobbits. Don't use more than one of each unique card, no matter what the deck limit actually is.
+
+ 
+
+Actual contents:
+
+The typical card distribution is 32 quest+encounter cards (some quests have 3 quest parts, others have more, the rest are encounter cards) and 28 player cards (1 hero and 9 new cards x3). Each quest may use one or more encounter sets (I think I've seen four other sets at most) from the core/deluxe, and those encounter sets can be something like 9 cards, or over 30.
+
+ 
+
+You get a few new toys with each pack, helping you beat harder scenarios which come before or after. Deluxe boxes come with many encounter cards among its 150-165 cards, and the quests are typically a bit more epic in terms of length.
+
+## 6 [Slothgodfather on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343061)
+
+Each pack in the cycle is a single adventure.  It comes with quest cards and their encounter cards.  Like the core-set, quest cards will have additional symbols that indicate which addition encounter cards need to be added to play that scenario.  Which is why you need the deluxe before you buy any of the cycle.  Those additional encounter cards come in that.
+
+ 
+
+As for time frame.  A friend and I tend to play a good portion of time on Saturdays, and when a new box comes out we spend a few hours looking through the player cards and potentially changing our decks.  Then we play through the quests.  It depends entirely upon luck, speed of play, difficulty of quest, etc.. but typically we manage to get through a 2 of the 3 quests within a few hours.  Then we typically call it a day and play the third quest the week after.
+
+ 
+
+Each cycle quest, again depends upon a lot of factors, but I'd say you can safely allot an hour or so to each new quest.   Win or lose, you can always get additional play through just to see what kind of variance your decks have and the encounter deck has.  You can also try the quest with different decks entirely.  Some scenarios I've played countless times because I like the mechanics of it and have tried to find multiple decks to beat them with.
+
+## 7 [evilidler on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343078)
+
+CGDB [http://www.cardgamedb.com/index.php/lotr/lord-of-the-rings-card-spoiler] has a list of both encounter cards and player cards, with counts (if whoever enters them remembers). Great for seeing the entire contents of each expansion.
+
+ 
+
+RingsDB [http://ringsdb.com] is superior for building decks.
+
+## 8 [FrogTrigger on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343080)
+
+Awesome, thanks so much for the information. This is a great community here, a real gem of a resource compared to some of the others. I currently play IA and love it, but it doesn't have solo app (yet) and my group can only meet every so often.. except one member who wants to play more!  So I've been looking for a good one to two player co op game, this seems to fit the bill especially since I love LOTR.
+
+ 
+
+For IA they have blister packs that come with a figure to use in the core/expansion boxes, some additional cards for the Imperial player and some skirmish cards.  The value is OK but mostly you are paying for the figure... which some argue is good or bad value. I was just curious if the value of $20 a pack (taxes in) was fair and I think based on the replayability factor alone it will help me get a lot out of my dollar.
+
+## 9 [evilidler on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343090)
+
+Yeah, IA would be at least 120% more awesome with a solo app. I've avoided it because there is so much to lug around. I always prefer card games :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+(The Arkham Horror LCG will probably be another interesting solo game to check out. Gameplay videos are going to show up soon.)
+
+## 10 [987654321 on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343229)
+
+A few things I want you to know before you decide to buy it:
+
+1-This game is based on the books, not the movies, so I warn you you will find a brown-haired Legolas in the box.
+
+2-This game is designed so that you buy all the expansions. The core set is relatively complete in its player cards and its scenarios are good enough to keep going, but if you really want more game then you must go and buy something.
+
+3-The game consists in the players competing against a randomized deck. The different scenarios can get from insanely easy to insanely hard. Most players consider this game to be fairly hard, so don't give up if you lose a couple of times.
+
+4-Everybody makes mistakes with the rules. If you have a doubt, you can usk us!
+
+## 11 [FrogTrigger on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343237)
+
+Thanks for the tips, I've read a lot of Tolkiens work, my favourite is actually Sir Gawain and the Green Knight, but I will never claim to have read them all.  I have however read this particular series and the Hobbit many times through. So I am actually counting on them staying true to the books over the movies :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+ 
+
+And also it is a FFG product, so I fully expect it to be a money sink.. but I have found that different games have a different variant of how much money has to be sunk to reach a certain level of play. The replayability of this game I think puts it above a few, also being co-op helps further separate it.
+
+## 12 [Noccus on August 4, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2343311)
+
+> Awesome, thanks so much for the information. This is a great community here, a real gem of a resource compared to some of the others. 
+> 
+>  
+
+ 
+
+Would you look at that!
+
+ 
+
+That's right, you heard it here first. 
+
+## 13 [Edheliad on August 5, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2344704)
+
+> Thanks for the tips, I've read a lot of Tolkiens work, my favourite is actually Sir Gawain and the Green Knight, but I will never claim to have read them all.  I have however read this particular series and the Hobbit many times through. So I am actually counting on them staying true to the books over the movies :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+ 
+
+ 
+
+There's a lot of movie influence on the game, especially in the art. It's not a 100% faithful rendition by a long shot.
+
+ 
+
+And we spend more time battling hulking WoW/Skyrim-style orcs than Tolkien ones.
+
+## 14 [tripecac on August 5, 2016](https://community.fantasyflightgames.com/topic/226664-how-much-content-do-you-get-in-each-expansion/?do=findComment&comment=2345761)
+
+I think the key idea is replayable.  Each scenario you get (1 per quest pack, 3 per deluxe expansion, etc.) can be replayed multiple times, each with a different "feel" or "plot".  Yes, the core objectives of each scenario are the same each time you play it (get from point A to B, or defeat Boss X) but the locations and enemies (and sometimes allies) you meet on the way can vary from playthrough to playthrough.
+
+ 
+
+So, in computer game terms, LotR LCG feels much more akin to a roguelike (with lots of random maps and encounters) than a traditional point-and-click adventure.
+
+ 
+
+I recommend you buy 1 core set.  Then play through the scenarios solo, so that you can experience first hand how the game feels.  If you like it, then buy a 2nd core set (so that you have a better distribution of cards and/or can play with someone) and then start buying the packs in order of release, either buying in bulk (useful for combined shipping) or buying one pack every week (or month) or so. 
+
+ 
+
+Don't think about the price of buying everything at once, because it is wayyyyyyyyyyyyyyyyy too expensive.  And overwhelming in terms of the sheer number of options.  Just keep it simple for starters.
+

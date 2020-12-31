@@ -1,0 +1,498 @@
+# [Your top 5 favorite quests](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/)
+
+## 1 [iznax on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815137)
+
+I had posted the same topic a few months ago, now that the game has ''grown'' some more i'll like to see your choises once more :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+So heres mine
+
+ 
+
+1. The Massing At Osgiliath. Its in my first place for many reasons, great theme, just the right amount of difficalty, very limited luck fuctor, scales very good with the number of players and so many more.
+
+ 
+
+2. The Seventh Level. You are in moria fighting a tone of goblins ! just great ! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+3. The Battle Of Five Armies. Great theme and some very cool strategic options.
+
+ 
+
+4. The Druadan Forest. My favorite of this cycle so far.
+
+ 
+
+5. Conflict At The Carroc. Great battle mechanic.
+
+ 
+
+PS. sory for my english :/
+
+PS 2. I should have made this a top 10 :/
+
+## 2 [Pharmboys2013 on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815210)
+
+1. Massing at Osgiliath (not copying i swear!) - its challenging but not overtly difficult, cool mechanics, doesnt need constructed so its easy to pick up and play
+
+ 
+
+2. Foundations of Stone - very cool deck design, unique enemies with the nameless thing, fun multiplayer element
+
+ 
+
+3. Encounter at Amon Din - maybe only on this list cause its the newest and i've been playing it a lot, but theres something to be said for a fun quick scenario one can get a few games out of in not a lot of time.  
+
+ 
+
+4. The Redhorn Gate- really like how you feel like you really are battling the mountain and trying to brave a blizzard particularly on the last stage.  Good challenge too
+
+ 
+
+5. Peril in Pelagrir - I enjoy the theme and challenge of this one.  Just a well made scenario IMO
+
+## 3 [Khamul The Easterling on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815219)
+
+The best question in the game I think.  The quests are really what interest me and I LOVE seeing top 5 lists of peoples favorite quests.  You should check out Hall of Beorn's poll (Favorite Core+Mirkwood cycle quest with 79 voters) if you havn't already.  You (or I) should do another one of these polls maybe after the rest of the cycle is released since I never get tired of looking at peoples favorites.  I have like all the quests except for On the Doorstep and Osgiliath oh and Amon Din.  Hope you don't mind me posting anyways:
+
+ 
+
+1. Return to Mirkwood - I actually, like Rich, LOVE the Mirkwood cycle more than most quests.  It's my favorite only if played 2 player.  But very to me solo also.  
+
+ 
+
+2. Peril in Pelagir - Really like the theme.  I like the amount of difficulty on this quest also.
+
+ 
+
+3. The Hunt for Gollum - really can't wait for nightmare mode of this like Glaurung.  But great variety of card types and just a really fun quest. 
+
+ 
+
+4. Flight From Moria - Love when you flip a great cave troll. I like searching through all the quest cards for tools, then dig out an exit.  Bad cards in this one.
+
+ 
+
+5. Stewards Fear - Only when you don't get both player deck discard cards.( the enemy boss with the discard effect and the plot with the discard effect are horrible together and are just annoying to me) But I like the tons of different stages and how long it is.  
+
+ 
+
+6. Druadan Forest - Had to put it here since it was really close.  Very relaxed quest since its very predictable. Love the enemies.  
+
+ 
+
+7. Dungeons Deep and Caverns Dim - I just had to put in this one before finishing my list.  Love how you can pick between the card and the riddle.  And unlike many others, I don't find the riddle annoying at all.  Also Probably my favorite art in the whole game on this quest.  
+
+ 
+
+I'm sure Massing at Osgiliath and On the doorstep quests would be top for me but don't have it yet. Will hopefully get soon\
+
+ 
+
+ 
+
+Khamul 
+
+Edited July 16, 2013 by Khamul The Easterling
+
+## 4 [Pharmboys2013 on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815242)
+
+it is very interesting to hear everyones views, like me personally included no quests from the mirkwood cycle yet its Khamul's fav cycle.  diversity is awesome
+
+## 5 [richsabre on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815307)
+
+tough one. not so sure as they change a bit, but currently i think it would be, from favourite as 1.
+
+ 
+
+1.Redhorn gate. i had hfg here but i could not put this quest other than first. the theme is just amazing. the fact that we are battling the misty mountains is something i have wanted to do since the game was released, and its a great 'fellowship of the ring' type quest. there is also some nice enemies in there, mountain goblin is possible the closest any artist has every come to picturing what i see as goblins in my mind
+
+ 
+
+2. hunt for gollum. a classic quest, sure to stay in my top 5 for a long time yet. great art, great enemies (hunters from mordor art is great) locations are beautiful (old ford is one of the best pieces of art in the game) and its a nice balanced quest for when you dont want to build a deck specifically for it, but try out theme ones.
+
+ 
+
+3.Road To Rivendell. everything that applies redhorn gate applies to road this quest, however it is 3rd because i still hate THAT card (you know the one i mean :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] ) its not a game breaker or anything like some people think, but its enough to annoy me enough so that its not my 2nd favourite. i love the 20 progress points needed for 2b as it really feels like walking through the wild
+
+ 
+
+4.Into the pit. i dont think this quest gets enough praise. its a fantastic quest i think. the idea of you coming upon the east gate of moria, looming up before you, and walking through....eeriely quiet yet you know there are enemies about to pounce upon you the moment you are within their grasp....great stuff.
+
+ 
+
+5. Massing at osgilliath. i think most people love this one. probably becuase its hard without being 'ithillien' hard (though im proud to say that one no longer scares me like it did since my new deck haha) i also love the location Morgulduin....that part of the book really stays with me (cannot wait to go to minas morgul!)
+
+ 
+
+.....i have to do 10...its too hard to just do 5.
+
+ 
+
+6. over misty mountains grim. i love the hobbit and this quest (and most of the others in the saga packs) do it justice.
+
+ 
+
+7. return to mirkwood. i only discovered how much i like this recently when i started multiplay. horrible solo, great multi.
+
+ 
+
+8. Stewards Fear. this probably will go further up as i play it more. it has everything i like. theme, storyline, easy-ish. i havent played it enough to know where it properly ranks though
+
+ 
+
+9.conflict at the carrock. its a great moment when you figure this quest out. stall, then kill. its even better when you have been tore apart in the early days of the game when the card pool was less.....
+
+ 
+
+10. foundations of stone. a unique quest with some great enemies. i always liked the mysteries of what is at the bottom of moria and the artists did a great job of giving me nightmares!
+
+ 
+
+i havent yet got druadan forest and amon din though from what i see i will probably love them both (.....ok i am sure to love them both)
+
+ 
+
+rich
+
+## 6 [Khamul The Easterling on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815320)
+
+>  
+> 
+> 7. return to mirkwood. i only discovered how much i like this recently when i started multiplay. horrible solo, great multi.
+> 
+>  
+> 
+>  
+
+Do you mean you have started to play with other real people once in a while?  Or do you just mean two handed or 3 handed?
+
+## 7 [richsabre on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815326)
+
+>  
+> 
+> >  
+> > 
+> > 7. return to mirkwood. i only discovered how much i like this recently when i started multiplay. horrible solo, great multi.
+> > 
+> >  
+> > 
+> >  
+> 
+> Do you mean you have started to play with other real people once in a while?  Or do you just mean two handed or 3 handed?
+> 
+>  
+
+two and 3 handed. i guess i could ask the local animals to play..my cat's been known to play now and again....but they may want to run elves and thats my deck :angry: [//content.invisioncic.com/Mfantflight/emoticons/default_angry.png]
+
+Edited July 16, 2013 by richsabre
+
+## 8 [Khamul The Easterling on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815337)
+
+And did I hear right that you beat Ithilien? You said you had never beat it before about a month ago.  I've beat it 2 out of 3 :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] Yes, yes, only 3 times.  It is my least played quest.  But idk I just havn't played that one much.  I never heard of this new Elf deck or whatever that is your new deck
+
+## 9 [richsabre on July 16, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815342)
+
+yes, i beat it with 'the alliance' secrecy deck i posted on your favourite decks thread. that is the most powerful deck by far i have ever played. since trying it it has lost once and won a few times. once very well, the others not quite as well
+
+ 
+
+though i admit i had quite a lot of help from a gamer friend with the deck and so on, so cannot take credit for it all ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+ 
+
+that was solo of course...i have only just started playing 1 handed again when i realised that the new quests are far easier solo...unlike the early ones
+
+ps...coincidently my new deck is also an elf deck, apart from the two heroes it has all (or nearly all) of the unique elf allies in....i love elves.....
+
+Edited July 16, 2013 by richsabre
+
+## 10 [Alex6222 on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815637)
+
+1. The Steward´s Fear - great story and i like that you don´t know how it is going to end. Although i dislike Up In Flames (particularly for Outlands) i find it a very good quest.
+
+ 
+
+2. Foundations of Stone - it has always been in my top 5 and i don´t see it going any time soon. Very fun with solo as well as multiplayer.
+
+ 
+
+3. The Redhorn Gate -  i like the journey in the mountains and that it can sometimes be endless (when there are no VP near)
+
+ 
+
+4. Peril in Pelargir - well we don´t see our heroes involved in a tabern fight everyday so...
+
+ 
+
+5. The Lonely Mountain - i like this quest despite that sometimes Smaug gets on my nerves (by attacking 6 or more times). Very thematic also.
+
+ 
+
+I haven´t played Amon Din yet and i sense it is going to be fun so i'll have to see if my list changes. Honorable mentions to Into Mirkwood (epic fight with spiders), Journey Along the Anduin (a classic) and The Siege of Cair Andros with The Battle of Five Armies (boths large-scale battles).
+
+## 11 [GrandSpleen on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815687)
+
+Yes, I like that when you ask questions like these, you don't immediately get 10 answers with the same 5 quests on their lists.  
+
+ 
+
+1- Dungeons Deep and Caverns Dim -- seems to be a hate it or love it quest.  We love the drama that comes with answering riddles.  One of the only quests in a game that you can't render predictable via player card or encounter card scrying techniques.
+
+ 
+
+2- The Watcher in the Water - what's not to like about fighting tentacles?
+
+ 
+
+3- The Redhorn Gate - coolest themed quest available.  No pun intended.
+
+ 
+
+4- Peril in Pelargir - well-balanced quest and moderately difficult, kind of a sweet spot for us.  I really haven't played it as much as I would like to, mostly because you can't beat it with just any deck (or, at least, *I* have to deckbuild a little for this quest).
+
+ 
+
+5- Into the Pit - always ends up with a protracted first stage as our party very thematically becomes lost in Moria.  I like this quest for its mix of dangerous locations and fodder enemies that can't go undefended.
+
+ 
+
+Honorable mention to The Steward's Fear and basically all of the quests in the two Hobbit expansions.
+
+## 12 [Dain Ironfoot on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815713)
+
+1) A Journey to Rhosgobel.  I loved that this was really the first quest that felt "different" to me - it wasn't all about killing enemies or making progress but rushing to save an Eagle ally (and I love the Eagles in the books).
+
+ 
+
+2) Battle of Five Armies/The Battle of Laketown/Siege of Cair Andros: These quests, more than most, really force a player to think and make strategic decisions as opposed to the "plop and play" style of so many other quests (i.e., get Willpower, quest, win).
+
+ 
+
+3) The Redhorn Gate: This isn't the most stellar quest, to be sure, but I love the snow theme.
+
+ 
+
+4) The Druadan Forest: I love the different enemies here and it's really difficult in 2/3/4-player (I don't really play solo anymore) games. The way the encounter deck works with itself to beat down the players is just fantastic. It's also great to "win over" an enemy at the end with Willpower instead of "killing" it and all enemies are added to the Victory Display after you "win them over" instead of going back into the encounter deck - this is just so thematic - since you've "won them over" they don't reappear in the encounter deck, should you cycle through it. I think that's just brilliant design. (sad to say, though, it seems like this really doesn't come across in solo play).
+
+ 
+
+5) Passage Through Mirkwood: A simple quest, one that I've played over and over. It probably has the "nostalgia" factor more than anything else. That, and I always hope to smash Ungoliant's Spawn at the end. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Edited July 17, 2013 by Dain Ironfoot
+
+## 13 [Pharmboys2013 on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815714)
+
+i almost want someone to list the long dark if only so i can hear their reason behind it
+
+## 14 [Khamul The Easterling on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815716)
+
+> i almost want someone to list the long dark if only so i can hear their reason behind it
+
+Wow!! Exact same thing I was thinking.........
+
+## 15 [GrandSpleen on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815717)
+
+You know, I did have a dramatic Locate test in The Long Dark once.  We really needed to pass the test, and discarded like 6 cards but failed every time... final card in the hand was Gandalf, which we reaaaally didn't want to throw out, but did.  Can I just say "YOU....SHALL....PASS!"
+
+## 16 [Pharmboys2013 on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815718)
+
+> You know, I did have a dramatic Locate test in The Long Dark once.  We really needed to pass the test, and discarded like 6 cards but failed every time... final card in the hand was Gandalf, which we reaaaally didn't want to throw out, but did.  Can I just say "YOU....SHALL....PASS!"
+
+ 
+
+ha thats great, moments like that always make awesome playing experiences
+
+ 
+
+i feel like i've only played the long dark once or twice, when i started playing last year it was already released so i had purchased that along with all the other darrowdelf APs avaliable at that time so i never felt like i was obligated to spend time on it like i do the newer releases
+
+*makes note to self to play it tomorrow*
+
+## 17 [Glaurung on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815779)
+
+Difficult to say but.........
+
+ 
+
+Battle of the lake-town
+
+ 
+
+Massing at Osgiliath
+
+ 
+
+Dol-Guldor (Nightmare)
+
+ 
+
+Ambush in Ithilien
+
+ 
+
+Siege of Cair Andros
+
+ 
+
+Actually will love all of them in Nightmare mode.
+
+## 18 [TragicTheBlathering on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815796)
+
+Top 5!
+
+ 1. Journey Down the Anduin: This was the first quest that I felt that the game took skill to play. Deck building and piloting counts in this quest and to this day I see new threads on people wondering how to play it. This is a great quest that scales well with more players and doesn't rely on crazy setback cards to make it challenging. IMO one of the best designed quests they have ever made, though not the most imaginative. Just balanced and gives the player a real sense of accomplishment.
+ 2. Watcher in the Water: I guess this is my theme quest. Fighting tentacles is just awesome and I love the fact that it was one, imo, first quests to really make a player consider removing spirit / lore from the deck for solo play. Also the decoding of the door was such a great idea and one I still wish we would see more of. This was the first time I think they really tried to explore the "quest" idea by adding struggles that were more than just icon comparisons. Like escapes tests or healing clocks. This was a thematic quest event.. and the game needs mroe of it.
+ 3. Foundations of Stone: This is probably the best multiplayer quest I have ever played. It completely changed deck construction and breaks all the rules of mutiplayer deck design. This quest currently stands alone imo as one of the truly thematic cycle quests. There is just nothing bad about this quest apart from not being conducive to solo play. Though to get around that I just split each hero to a separate staging area. 
+ 4. Return to Rhosgobel: not much to add to what Dain said. This was the 1st quest that showed the game was heading in the direction I wanted, a direction that they have in fact not continued to move (though i am hoping the saga boxes will) I'm talking about quests that are not focused on combat. LoTR is so much more than just people fighting and this game is getting more and more bogged down in combat. Like Watcher in the Water, this is a quest, and that is just cool!
+ 5. Hunt for Gollum: I not a lot to say about this one, I think I like it as it is just the 1st quest I really got to play. I mean we thrashed the core set for so long, and were just salivating for the 1st pack, so when it came out we devoured it and played it and played it and played it. It is a quest I know backwards, it is not hard but not trivial and the one I pull out for new players AND the one I run all the time as part of my deck techs.
+    
+     
+
+5 is pretty hard to cut to, on the short list is 
+
+ 
+
+ * Conflict at the Corrock: but that is basically the same quest as Anduin. Anduin wins as it is a tiny bit harder and also first.
+ * Into Ithilien: is fast becoming a fav of mine. I haven't played it enough yet, but I LOVE the multiple path system it uses, i hope more quest like this and foundation of stone pop up. Still I think this will be on the list soon, I just need to see if it stands the test of time
+ * Return to Mirkwood: This might surprise people but I think this is a great quest. It is a quest, even solo it is very beatable. In fact I'll be posting my solo deck for this soon in my progression series. It is a quest that is hard, but strong deck building can unlock it. These are the quest I love, ones were you solve the puzzle. The only reason it didn't make it as in multiplayer it looses its teeth and in solo it has such strict deck building requirments that there is not a lot of freedom, and I already had a deck restricted quest in the list with aJTR.
+
+The problem with this thread is that it is hard to pick a fav when there is just not many to choose from. How can we know if a quest is a keeper, or if it is just "new". This why I think when you read this thread there are so many from Mirkwood, these are quests played a ton of time, far beyond the "lets beat it stage" on release.
+
+Edited July 17, 2013 by TragicTheBlathering
+
+## 19 [Glaurung on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815826)
+
+> Top 5!
+> 
+>  1. Journey Down the Anduin: This was the first quest that I felt that the game took skill to play. Deck building and piloting counts in this quest and to this day I see new threads on people wondering how to play it. This is a great quest that scales well with more players and doesn't rely on crazy setback cards to make it challenging. IMO one of the best designed quests they have ever made, though not the most imaginative. Just balanced and gives the player a real sense of accomplishment.
+>  2. Watcher in the Water: I guess this is my theme quest. Fighting tentacles is just awesome and I love the fact that it was one, imo, first quests to really make a player consider removing spirit / lore from the deck for solo play. Also the decoding of the door was such a great idea and one I still wish we would see more of. This was the first time I think they really tried to explore the "quest" idea by adding struggles that were more than just icon comparisons. Like escapes tests or healing clocks. This was a thematic quest event.. and the game needs mroe of it.
+>  3. Foundations of Stone: This is probably the best multiplayer quest I have ever played. It completely changed deck construction and breaks all the rules of mutiplayer deck design. This quest currently stands alone imo as one of the truly thematic cycle quests. There is just nothing bad about this quest apart from not being conducive to solo play. Though to get around that I just split each hero to a separate staging area. 
+>  4. Return to Rhosgobel: not much to add to what Dain said. This was the 1st quest that showed the game was heading in the direction I wanted, a direction that they have in fact not continued to move (though i am hoping the saga boxes will) I'm talking about quests that are not focused on combat. LoTR is so much more than just people fighting and this game is getting more and more bogged down in combat. Like Watcher in the Water, this is a quest, and that is just cool!
+>  5. Hunt for Gollum: I not a lot to say about this one, I think I like it as it is just the 1st quest I really got to play. I mean we thrashed the core set for so long, and were just salivating for the 1st pack, so when it came out we devoured it and played it and played it and played it. It is a quest I know backwards, it is not hard but not trivial and the one I pull out for new players AND the one I run all the time as part of my deck techs.
+>     
+>      
+> 
+> 5 is pretty hard to cut to, on the short list is 
+> 
+>  
+> 
+>  * Conflict at the Corrock: but that is basically the same quest as Anduin. Anduin wins as it is a tiny bit harder and also first.
+>  * Into Ithilien: is fast becoming a fav of mine. I haven't played it enough yet, but I LOVE the multiple path system it uses, i hope more quest like this and foundation of stone pop up. Still I think this will be on the list soon, I just need to see if it stands the test of time
+>  * Return to Mirkwood: This might surprise people but I think this is a great quest. It is a quest, even solo it is very beatable. In fact I'll be posting my solo deck for this soon in my progression series. It is a quest that is hard, but strong deck building can unlock it. These are the quest I love, ones were you solve the puzzle. The only reason it didn't make it as in multiplayer it looses its teeth and in solo it has such strict deck building requirments that there is not a lot of freedom, and I already had a deck restricted quest in the list with aJTR.
+> 
+> The problem with this thread is that it is hard to pick a fav when there is just not many to choose from. How can we know if a quest is a keeper, or if it is just "new". This why I think when you read this thread there are so many from Mirkwood, these are quests played a ton of time, far beyond the "lets beat it stage" on release.
+
+Believe or not Tragic all Mirkwood quests will be amazing in NM. I already can see how cool will be HFG NM. The Mordor guys will aslo pick up Gollum traits and if they pick up all 4 you lost game as well. I love how they make a Nighmare mode for old quests,   is not olny more challenge but also more interesting as a story and more close ot Tolkien more. Cannot wait for SOM NM packs! HFG, Carrock and JTR should come very soon.
+
+## 20 [TragicTheBlathering on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815844)
+
+completely  agree!!
+
+## 21 [scwont on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815884)
+
+>  1. Foundations of Stone: . There is just nothing bad about this quest apart from not being conducive to solo play. 
+
+I'm not sure if that was just a poor choice of words on your part, but there's no way this quest is "not conducive to solo play".  Just because you miss the extra twist you get from it in multiplayer doesn't mean it's not a highly enjoyable and replayable solo quest in its own right - still more so than most others and therefore easily in my top 5, based on solo play alone.
+
+## 22 [player1761766 on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815889)
+
+As a caveat, I haven't yet played seven quests (Lake-town, Numenor 2 & 3, Over Hill 2 & 3, On the Doorstep 3, or Steward's Fear). But I wanted to get in on this anyway, so here goes!
+
+ 
+
+1. The Hills of Emyn Muil.
+
+Love this quest, it's just so beautiful. It feels like you're really exploring the wilderness, frantically searching to pick up the trail once more. The artwork is superb, which allows for an extra dimension of immersion for me. Doesn't get half the praise it deserves. 
+
+ 
+
+2. Flies and Spiders.
+
+I literally cackled with glee when playing this, the unconscious mechanic turning your guys upside-down - EXACTLY LIKE THEY'RE HANGING IN THE BOOK!!! EEEEEEEEEEEEEEEEEE!!! etc. Absolutely superb, with Bilbo frantically dashing around trying to rescue everyone. It's also an important quest for me because it marked my return to playing this game after a couple of months of exasperation at the difficulty level. 
+
+ 
+
+3. Foundations of Stone.
+
+I've only completed two of the Dwarrowdelf quests on my first attempt, Long Dark and this one. I only play solo, so didn't get much joy from splitting the staging areas, but I did appreciate this quest for breathing a new life into the game, almost. Something that I particularly enjoyed was the Nameless Things' tactics, coming at a time when everyone was including high-cost cards in their decks because of the original Zigil Miner. A magnificent pack!
+
+ 
+
+4. The Hunt for Gollum.
+
+As Rich says, it's a classic quest. It's also a real questy-quest, where you're trying to pick up the clues of Gollum's whereabouts. False leads abound, and Hunters from Mordor are also interested in the little runt. It's also the only quest I can see myself playing in Nightmare Mode, as it looks like the additional cards will just make it even more thematic. A grand adventure!
+
+ 
+
+5. The Dead Marshes.
+
+Another real questy-quest. I really liked the escape test mechanic, and have had more than a few games where Gollum has scampered off into the marshes, and the quest becomes more of a race against time as you try to recover him before the threat escalates. It's another one that doesn't seem to get as much praise as I think it deserves, but at least the dreadful artwork on the Gollum objective card goes some way to mitigate that. 
+
+ 
+
+I'd like to make an honourable mention of The Massing at Osgiliath, as it is a horrible quest that I can't help but adore! The mechanics of crossing the river and then being chased back are amazing, it's just a shame that I have never yet completed it! I also really want to like Return to Mirkwood, but always find myself cursing the hugely-spiralling threat. 
+
+ 
+
+I'm sure if we ever get more Against the Shadow packs in the UK, I'll be changing these, but for now, there isn't much that can beat the amazing Mirkwood quests  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 23 [Glaurung on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815894)
+
+> completely  agree!!
+
+I spent a lot of time browsing through forums, blogs, podcasts, and video play-throughs to see what strategies and decks players were using to defeat the game’s different scenarios, and the new encounter cards you’ll face in the game’s Nightmare Decks are a response to what I found. Players who think they know the best strategy to use to defeat a particular scenario may find themselves forced to rethink their play style. Overall, as the card pool grows and player tactics evolve, Nightmare Decks allow scenarios to evolve. A Nightmare Deck’s modification to its scenario’s encounter deck simulates the challenge you’d face against a living, breathing opponent who’s grown accustomed to your tricks.
+
+ 
+
+That what a desingers say about nighmare mode. Really like this way!
+
+ 
+
+And sorry for offtopic......
+
+## 24 [richsabre on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815917)
+
+> I'm sure if we ever get more Against the Shadow packs in the UK, I'll be changing these, but for now, there isn't much that can beat the amazing Mirkwood quests  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+we have a lot in common when it comes to quest appreciation :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 25 [Khamul The Easterling on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=815982)
+
+>  
+> 
+> Return to Mirkwood: This might surprise people but I think this is a great quest. It is a quest, even solo it is very beatable. In fact I'll be posting my solo deck for this soon in my progression series. It is a quest that is hard, but strong deck building can unlock it. These are the quest I love, ones were you solve the puzzle. The only reason it didn't make it as in multiplayer it looses its teeth and in solo it has such strict deck building requirments that there is not a lot of freedom, and I already had a deck restricted quest in the list with aJTR.
+
+I can beat RTM 70% of the time with an Aragorn, Theodred, Glorfindel (Lore) deck.  It works very well.  You get sword that was broken, couple cheap questing allies for Aragorns sword, 1 gandalf, and a snowbourn scout or two for feeding to an attercop or something.  Rescorces are never a problem, you just beat stage 1 in 2 rounds, (Threat to 40) beat Gollums escape in 1 round (threat to 44) then play gandalf somewhere around here to lower your threat and quest with all your allies, Heroes and Gandalf to beat Thruaduils halls stage, (Threat to 43) then if you didnt pick up a huge enemy then quest right through and you win.  I won 4/5 times with that deck, but if you get  raise your threat by 8 card or a huge enemy (Hill Troll Attercop) your pretty much done.  I love Return to Mirkwood. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] 
+
+## 26 [rekath16 on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=816043)
+
+TOP 5
+
+ 
+
+ 1. The Hills of Emyn Muil: I like easy quests, I like not to be overrun within the first 2 rounds. Emyn Muil was the adventure, which I played very often in the first months to learn the game and to get more experienced. Maybe cause of that it gets a nostalgic bonus. Wonderful and interesting locations, I liked to explore them with my heros. The only drawback: in solo sometimes difficult to draw enaugh locations (grrr... The Steward's Fear, I mean you too!). Nowadays we finish that scenario in max. 3 rounds, what is a big shame, I'd like to play 10 rounds. :-)
+ 2. Encounter in Amon-Dîn: As I said before, I like easy quests and Amon-Dîn is very easy. The game-mechanic is innovative and a lot of fun. My heros are always looking forward to rescue villagers. Apart from this I am impressed by the wonderful art, FFG seems now to hire one single artist for 40% of the cards of a certain scenario, which makes it unique and recognizable. Last point: Lord Alcaron = greatest objective-ally.
+ 3. Escape from Dol-Guldur: Surprisingly I added the last of the Coreset-quests in my top-5-list, of course not relating to solo-game; I never played it solo and I never want to. But in a Multiplayer-environment it's still challenging and a lot of fun. Since I hate spiders, its great to kill them there :-)
+ 4. The Siege for Cair-Andros: Vice versa! This is a new entry in my list and pushes old Nr. 5 (=Redhorngate) out of the list. Before I hated the quest due to difficulty and insane effects. Now that I have constructed a heavy-siege-mono-tactics-deck, the scenario got beatable, of course not all the time, but I got a nice average. Unfortunately in MP less fun, unlike you construct with your mates together your decks, ideally only tactics.
+ 5. Foundations of Stone: So many has already been said about it and I cannot really add anything new. Only this: Burn in hell, Sudden Pitfall!!!
+
+Of course there are many other cool quests. High points I usually give Redhorngate, Rhosgobel, Seventh Level and Into the Pit. The Steward's Fear has big potencial.
+
+## 27 [TragicTheBlathering on July 17, 2013](https://community.fantasyflightgames.com/topic/86436-your-top-5-favorite-quests/?do=findComment&comment=816068)
+
+>  
+> 
+> >  1. Foundations of Stone: . There is just nothing bad about this quest apart from not being conducive to solo play. 
+> 
+> I'm not sure if that was just a poor choice of words on your part, but there's no way this quest is "not conducive to solo play".  Just because you miss the extra twist you get from it in multiplayer doesn't mean it's not a highly enjoyable and replayable solo quest in its own right - still more so than most others and therefore easily in my top 5, based on solo play alone.
+> 
+>  
+
+ 
+
+Well it is also in my top 5, so I think we agree here :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] All I am saying is that unlike many quests that have no functional differences some are designed for and work better in a multiplayer format. This has zero relation to it still being fun solo, it is. I play it solo all the time, BUT that doesn't change the fact that when you consider reasons why something should be in a top 5, having the base design favor one type of play mode is a drag factor that deserves comment. It obviously didn't worry me to much as it is in my top 5... but as I said.. this facet of the quest had to be mentioned.
+

@@ -1,0 +1,343 @@
+# [Custom Tokens?](https://community.fantasyflightgames.com/topic/193887-custom-tokens/)
+
+## 1 [otomo on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898612)
+
+As I'm getting more into the game... I dislike cardboard. Maybe it's a bit esoteric but I like upgrading game components when I'm really into something as well. So I've been looking at Team Covenant's tokens and thinking about it. I see there's some acrylic ones on etsy that really don't feel thematic to me. 
+
+ 
+
+Now my experience with wood tokens in the past is that they can really vary in quality. Does anyone have these? Are they nice? I dig their resource tokens, treachery tokens and especially the arrow damage tokens (those look sharp).  Debating whether I should go with multiple types of damage tokens or stick with one for simplicity. Resource... I sort of want actual coins maybe rather than wood, not sure yet even though I like the design. And I'm not sure I love the design of the progress tokens.  
+
+ 
+
+So I guess the question is -- what are you using for the above? Do you have the TC ones and how's the quality of the actual physical product?  
+
+Edited November 18, 2015 by otomo
+
+## 2 [sappidus on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898628)
+
+I'm an owner, and big fan, of the Team Covenant tokens. The thing that made me hesitate the most when deciding whether to purchase them was the non-standard iconography thing, but again, that became second-nature very quickly. For example, I introduced the tokens when playing with a friend who only sees the game once a month, and he took to them immediately.
+
+ 
+
+One minor issue is that it could be easier to distinguish the resource and wound tokens, especially since it's the most common mixed-token use case on a single card. But in practice I've found it relatively painless, despite the fact that I often play in a pretty low-lit space. (A little extra staining on the faces of the wound tokens would've been perfect, though.)
+
+ 
+Definitely a nice "feel" upgrade to cardboard, and the visuals are even better in person than in their videos. And my set is very consistent in quality. Darned expensive, though.
+
+## 3 [otomo on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898676)
+
+>  
+> 
+> I'm an owner, and big fan, of the Team Covenant tokens. The thing that made me hesitate the most when deciding whether to purchase them was the non-standard iconography thing, but again, that became second-nature very quickly. For example, I introduced the tokens when playing with a friend who only sees the game once a month, and he took to them immediately.
+> 
+>  
+> 
+> One minor issue is that it could be easier to distinguish the resource and wound tokens, especially since it's the most common mixed-token use case on a single card. But in practice I've found it relatively painless, despite the fact that I often play in a pretty low-lit space. (A little extra staining on the faces of the wound tokens would've been perfect, though.)
+> 
+>  
+> Definitely a nice "feel" upgrade to cardboard, and the visuals are even better in person than in their videos. And my set is very consistent in quality. Darned expensive, though.
+> 
+>  
+
+ 
+
+ 
+
+Did you go with all the different types of tokens and did that seem worth it? They seem easy to distinguish. Seems like you'd just need one for resource (don't think I'd get the 3 resource one), one for damage marking and one for progress, right (as cool as all the various damage tokens look)   There's no difference in different types of damage or anything overall is there? That was just their flavor addition?
+
+Edited November 18, 2015 by otomo
+
+## 4 [Delaric on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898705)
+
+I just saw the TC tokens in use for the first time this past weekend, they looked really cool.  The only drawback I noticed is that sometimes the wood makes the tokens look same-y, even though I think they tried to use different wood/stains to differentiate them (e.g. "is that resource or damage on that hero?").  I am not familiar with them so if I used them all the time I would be better able to tell the difference.
+
+ 
+
+If I were to commit to the TC tokens, I would want to paint or stain the designs just a bit with a color so that I could better tell them apart.  The resource would get a blue or gold and the damage tokens would get some nice red splashed on.
+
+## 5 [Kakita Shiro on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898849)
+
+Colored dice.
+
+## 6 [l3afonthewind on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898864)
+
+Resident component junkie here:
+
+ 
+
+The TC tokens are gorgeous. The iconography is thoughtful and thematic, and the tokens have a great feel in the hand and really feel like they belong to the setting. The only downside I would say is that the damage, while beautiful and specific (there's something about putting arrow damage on characters for archery that just feels so...right), could use more denominations. The resources split into ones and threes, and they do the job, even when you're playing a stacky Gloin deck. However, there are lots of times in this game, primarily where boss enemies are involved, where 3 damage would be super useful. All that aside, I still love them, if you dig the aesthetic, I fully recommend. 
+
+ 
+
+I also use colored 12mm six sided dice (grey with gold streaks for resources, red/black with gold dots for damage, and translucent green with gold for progress), and they are my go to when I just want to get down and dirty with a game. They handle the stackiness of tokens better than any other, and I think they're quite pretty.
+
+ 
+
+My last experiment has been with Penny Gems, which are a more generic token type that come in lots of different colors. If you so choose you can put purple gems on your leadership heroes, green on your lore heroes, etc. (because it definitely matters). They blend with the colors on the cards quite well and are very pleasing to look at. They have a great tacky feel, and if you sleeve your cards, even have a slight adhesive affect on the sleeves, so they're hard to jostle around and inadvertently knock them off. Each also has a blank side and a side with a symbol, so you can play around with your own denominations at will (I use the symbol side as 2 resources and blank side as 1). He also sells a damage set which are also dual sided, and there are bigger tokens which are 5-10 damage on a side. Also highly recommend. 
+
+Edited November 18, 2015 by l3afonthewind
+
+## 7 [sappidus on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898866)
+
+> Did you go with all the different types of tokens and did that seem worth it? They seem easy to distinguish. Seems like you'd just need one for resource (don't think I'd get the 3 resource one), one for damage marking and one for progress, right (as cool as all the various damage tokens look)   There's no difference in different types of damage or anything overall is there? That was just their flavor addition?
+
+ 
+
+I just went with their default two-player set, as a mostly two-handed solo player and occasional host for a friend. There's definitely no functional difference between the various damage tokens. Frankly, the visual differences between them don't jump out at you, but I'm fine with that -- in fact, it feels like a mini-bonus when I occasionally take a moment to notice and appreciate the subtle difference. Not something I would've paid extra money for, though.
+
+ 
+
+I end up using the 3-resource tokens quite a bit, way more than I use the 5-progress token. It's very common use-case for one hero to have 2 resources on him before the resource phase, so I'll just grab one 3-resource token, drop it on him/her, then move the two resource tokens already there to my other two heroes.
+
+ 
+
+I use colored dice, too, when it turns out to be convenient. This especially happens with, as Mr. Switajewski implies, damage, but also with things like progress on high-requirement quests... Anywhere where counting up a pile of tokens will be more annoying than adding up a couple of die faces. Plus, there are enough other effects in the game that benefit from clear marking (Time counters, temporary stat bonuses, and the like) that just trying to use the TC treachery tokens would be madness. Nevertheless, I'm glad they didn't color the tokens, as I enjoy the "natural" aesthetic for the game, just as I enjoy my neon acrylic (non-TC) tokens for A:NR.
+
+ 
+
+Of very vague note, one of the noted A:NR token makers, Broken Egg Games, recently made an intriguing Facebook comment that may be relevant...
+
+https://www.facebook.com/brokenegggames/posts/907615142639688?comment_id=908879229179946&reply_comment_id=908955445838991 [https://www.facebook.com/brokenegggames/posts/907615142639688?comment_id=908879229179946&reply_comment_id=908955445838991]
+
+## 8 [l3afonthewind on November 18, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1898921)
+
+I won't lie, I jarred slightly when I saw my unmistakable surname. Well played. I very much look forward to see what Broken Egg does with LotR. I am head over heels for their AGoT gold tokens. 
+
+## 9 [AstroSnail on November 21, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1902464)
+
+"Draculas Tokens" makes some absolutely gorgeous glass bead resource tokens with felt backs. You can message him, and he'll put together a custom order. He makes progress, damage, and time counters as well.
+
+ 
+
+On Facebook:
+
+https://www.facebook.com/profile.php?id=100005716745711&fref=ts [https://www.facebook.com/profile.php?id=100005716745711&fref=ts]
+
+ 
+
+On Etsy:
+
+https://www.etsy.com/shop/DraculasTokens?ref=l2-shopheader-name [https://www.etsy.com/shop/DraculasTokens?ref=l2-shopheader-name]
+
+ 
+
+10347426_273504416183448_830635988072678 [https://scontent.fash1-1.fna.fbcdn.net/hphotos-xaf1/v/t1.0-9/10347426_273504416183448_8306359880726785054_n.jpg?oh=6422d2a5b284f5b2937aa67a9c7e9694&amp;oe=56B589DA]
+
+## 10 [AstroSnail on November 21, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1902467)
+
+I have played with the Team Covenant tokens, and I also think it's too difficult to distinguish between the damage and resource tokens. The detail is beautiful, but I do wish they had done something to easily distinguish between the different types of tokens. For example, their Netrunner tokens are amazing, because you can admire them for their detail, but you can also quickly tell just from the color what the token represents.
+
+## 11 [Kakita Shiro on November 21, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1902584)
+
+> "Draculas Tokens" makes some absolutely gorgeous glass bead resource tokens with felt backs. You can message him, and he'll put together a custom order. He makes progress, damage, and time counters as well.
+> 
+>  
+> 
+> On Facebook:
+> 
+> https://www.facebook.com/profile.php?id=100005716745711&fref=ts [https://www.facebook.com/profile.php?id=100005716745711&fref=ts]
+> 
+>  
+> 
+> On Etsy:
+> 
+> https://www.etsy.com/shop/DraculasTokens?ref=l2-shopheader-name [https://www.etsy.com/shop/DraculasTokens?ref=l2-shopheader-name]
+> 
+>  
+> 
+> 10347426_273504416183448_830635988072678 [https://scontent.fash1-1.fna.fbcdn.net/hphotos-xaf1/v/t1.0-9/10347426_273504416183448_8306359880726785054_n.jpg?oh=6422d2a5b284f5b2937aa67a9c7e9694&amp;oe=56B589DA]
+
+Those are tokens I can get behind, but when I click the Etsy link, all I see are his Game of Thrones tokens.
+
+## 12 [AstroSnail on November 21, 2015](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=1902695)
+
+Yep, you have to contact him directly with a custom order.
+
+## 13 [sappidus on February 26, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2071979)
+
+Just to mention, as a bit of a component-hound, I decided to try a new set of tokens from this lady: http://paperbutterflyforge.com/product-category/game-tokens/ [http://paperbutterflyforge.com/product-category/game-tokens/]
+
+ 
+
+paperbutterfly.jpg [https://dl.dropboxusercontent.com/u/438838/paperbutterfly.jpg]
+
+ 
+
+They're, like, just a millimeter bigger than the FFG tokens, so a nice size. I think they're gorgeous, although they won't stack if you're into that kind of thing. Also, I bought out her blood-red supply, heh -- she wasn't satisfied with how they came out, apparently. But if there's demand, maybe she'd reconsider... Anyway, she makes several other lovely colors (I bought some silver-white ones to represent things like time counters too) that could easily fit in other games as well.
+
+Edited February 26, 2016 by sappidus
+
+## 14 [John Constantine on February 26, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2072271)
+
+Dice are best custom tokens.
+
+## 15 [Hawkstrike on February 27, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2073831)
+
+I use glass bead tokens (e.g. Dragon Shield gaming tokens) -- red for damage, green for quest progress, blue for resource tokens. They work great and have a much better "feel" to them.
+
+## 16 [PsychoRocka on February 27, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2073934)
+
+I use a combination of dice and the team covenant tokens that feature the eye of sauron.
+
+I use yellow see through dice for resources on heroes and also for progress on quest cards and locations (There are almost no cards that can have progress and resource tokens on them).
+
+I use black dice with red spots for damage on characters and enemies and as time counters on quest cards and locations (There are almost no cards that can have damage and time counters and for those that can like the Guardians in the three trials I mini white dice as time counters instead and the black dice continue to signify damage on that enemy). I've also got three mini white dice that I use should I need a third different type of dice/counter for something unique to a scenario or if for example only quest stages in a quest have time counters I might just use these instead of the black dice because I'll only ever need one in play at a time anyway. I've used them to show how many times Sam Gamgee's (hero card) ability has triggered in any one turn (to keep track of how boosted his stats are), to show how many counters are left on Doom, Doom, Doom, to show how many time counters are on the guardian enemies in Three Trials as mentioned above and various other uses. They are a perfect backup or emergency dice/counter that are not used in most games but on occasion are very handy.
+
+To show that characters are exhausted I use the team covenant Eye of Sauron counters. I bought about 20 I think and this is more than enough for two handed play with the sort of decks I use (not really ally swarm decks). They are expensive but very nice pieces that I do not regret buying at all, in fact I am considering buying some more! The one downside to these covenant counters is that I don't like having counters piled up on cards and dice help avoid this because you only ever have to use one or max two to keep track of a characters resources or damage so using a counter to instead signify that characters are exhausted not only means only one counter will ever be on any one card but it also completely eliminates the need to constantly move cards sideways and means I can simply leave all player cards upright for the duration of a game. This takes up less room not having to constantly shift your cards onto their side and also helps to speed games along by eliminating unnecessary work. I used to hate constantly tapping cards (and needing more space and time to do so) in MTG and so being able to eliminate having to do that in this game which is already so much better than MTG only makes it greater still! :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+Combined these four pieces serve me perfectly (I have 12 of each normal type of die so plenty of yellow for extra progress etc) and are far nicer than playing with the cardboard tokens the core game provides you with.
+I also have a really nice replica of the one ring that I was given by a friend which I use as the first player token. It fits nicely placed over the little black nodules on the threat trackers which keep it in place!
+
+ 
+
+412v0VhuE5L.jpg [http://ecx.images-amazon.com/images/I/412v0VhuE5L.jpg]die999_1_300x300.jpg [http://www.landofmarbles.com/mm5/graphics/00000001/die999_1_300x300.jpg]mec-misc.png [http://teamcovenant.com/store/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/mec-misc.png]
+
+Edited February 27, 2016 by PsychoRocka
+
+## 17 [Djenni on March 14, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2100079)
+
+I got these from FFG, really like them. I got 40x of each, they stack really nicely and are easily distinguishable from each other on the table.
+
+tokens_zpsrekaexgb.jpg [http://i103.photobucket.com/albums/m135/typpi/tokens_zpsrekaexgb.jpg]
+
+## 18 [divinityofnumber on March 14, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2100530)
+
+My setup:
+
+ 
+
+Damage on enemy cards and player cards: red d6 - I have some regular size, but tend to prefer the smaller d6s.
+
+Threat on Locations/Enemies: black d6 - If a location or enemy has its threat raised or reduced, I cover the printed number with a black d6 (or a black d12, if needed).
+
+Misc effects (e.g., Time X): blue d6
+
+Progress: green d6
+
+Resources: tokens from the core set or black d6s, if a hero starts to get 5+ resources piling up. 
+
+ 
+
+Willpower: Get a good d30. Then, during questing, go around the table, starting with the first player, for example, asking, "Ok. FIrst player, what are you adding in? ok 9. Second player? Ok, we're at 16 so far. Third player?..." Keep the total willpower that you have on the d30. That way, you don't forget and have to recount. Sometimes in 4-player games you will have more than 30 willpower, so might need two d30s (or just improv with some additional other dice). But, for most games a d30 will have you covered most of the time.
+
+ 
+
+If you track willpower that way, it is easy to adjust it if you lose allies or something. 
+
+ 
+
+I find this system to be extremely efficient. 
+
+Edited March 14, 2016 by divinityofnumber
+
+## 19 [Network57 on March 14, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2100814)
+
+I bought a variety of different coloured plastic stackable tokens from a toy store. Cheap and effective. I have 7 colours, about 1.5 cm diameter each - to mark damage, resources, and progress, and one for each stat boost: threat, attack, defence, willpower. Should probably get two more colours for HP boost, and for a reminder on cards with Forced/Response effects I don't want to forget.
+
+## 20 [sappidus on March 14, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2100858)
+
+> Willpower: Get a good d30. Then, during questing, go around the table, starting with the first player, for example, asking, "Ok. FIrst player, what are you adding in? ok 9. Second player? Ok, we're at 16 so far. Third player?..." Keep the total willpower that you have on the d30. That way, you don't forget and have to recount. Sometimes in 4-player games you will have more than 30 willpower, so might need two d30s (or just improv with some additional other dice). But, for most games a d30 will have you covered most of the time.
+> 
+>  
+> 
+> If you track willpower that way, it is easy to adjust it if you lose allies or something. 
+> 
+>  
+> 
+> I find this system to be extremely efficient.
+
+We use dice for this too, but somewhat differently.... I got a fistful of Koplow number dice for willpower counting when playing 4 player, some numbered 1-5, others 5-10. Then people can just grab the dice that represent their own willpower contribution, and it's pretty easy to just discard dice as we count down the staging area threat. It also minimizes recounting when some treachery messes with initial willpower count, or Faramir is triggered or whatever.
+
+## 21 [Kakita Shiro on March 15, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2102271)
+
+I'm going to start using my old L5R Honor counter for Willpower. Goes up from -19 to 40.
+
+Edited March 15, 2016 by Kakita Shiro
+
+## 22 [Srba on March 16, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2106194)
+
+I'm fairly new to the game but have bought quite strongly into it in the last few weeks. I play a little bit of Netrunner and recently made the change from tokens to dice for keeping track of resources so, when I saw the 'elven' dice that q-workshop make, it was pretty much an automatic purchase. I use the d10s for threat, white dice for resources, red for damage and black for progress and keeping track of temporary stat boosts:
+
+ 
+
+aYGvdav.jpg [http://i.imgur.com/aYGvdav.jpg]
+
+## 23 [Ecthelion III on March 17, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2106827)
+
+I just bought a 36-pack of d6's from Amazon with 12 white dice (resources), 12 red dice (damage), and 12 green dice (progress). Works great.
+
+## 24 [blinky on March 17, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2109194)
+
+I tend to use dice (although I don't break out the cards that often, it's mostly OCTGN nowadays!):
+
+ 
+
+XrDpkn6.jpg [http://i.imgur.com/XrDpkn6.jpg]
+
+ 
+
+White dice are for resources (and a D20 for counting willpower), Red dice are damage, Green are progress. The Black D20s are for general use (mainly use one for counting staging area threat). While the aluminium ones look nice, I find it hard to read the numbers on the silver ones and slightly more fiddly to find the right side.
+
+Edited March 17, 2016 by blinky
+
+## 25 [PsychoRocka on March 18, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2109602)
+
+Woah Blinky what is that matt???? Minas Tirith with Mordor looming? It looks amazing! can you show us the full thing?
+
+Also did you buy it or have it custom made?
+
+ 
+
+Also where are you guys getting these Elvish dice? They look really cool but the writing around the edges looks a little cluttered on the square ones but those rounded ones look so nice!
+
+Edited March 23, 2016 by PsychoRocka
+
+## 26 [PsychoRocka on March 18, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2109610)
+
+Just scoured that q workshop website.. cannot find the rounded d6 elvish dice anywhere....
+
+## 27 [blinky on March 18, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2111182)
+
+> Woah Blinky what is that matt???? Osgiliath with Mordor looming? It looks amazing! can you show us the full thing?
+> 
+> Also did you buy it or have it custom made?
+
+ 
+
+It's a Noah Bradley one, called 'The Coming Darkness'. He's got a store on his site if you want to pick one up. Full image: http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698 [http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698]
+
+## 28 [Kakita Shiro on March 18, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2111313)
+
+>  
+> 
+> > Woah Blinky what is that matt???? Osgiliath with Mordor looming? It looks amazing! can you show us the full thing?
+> > 
+> > Also did you buy it or have it custom made?
+> 
+>  
+> 
+> It's a Noah Bradley one, called 'The Coming Darkness'. He's got a store on his site if you want to pick one up. Full image: http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698 [http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698]
+> 
+>  
+
+Noah Bradley did all the Stronghold art for L5R in 2012-13 and they were positively gorgeous. I miss it.
+
+## 29 [PsychoRocka on March 23, 2016](https://community.fantasyflightgames.com/topic/193887-custom-tokens/?do=findComment&comment=2119681)
+
+>  
+> 
+> > Woah Blinky what is that matt???? Osgiliath with Mordor looming? It looks amazing! can you show us the full thing?
+> > 
+> > Also did you buy it or have it custom made?
+> 
+>  
+> 
+> It's a Noah Bradley one, called 'The Coming Darkness'. He's got a store on his site if you want to pick one up. Full image: http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698 [http://noahbradley.deviantart.com/art/The-Coming-Darkness-342482698]
+> 
+>  
+
+Just ordered one, too amazing not to.
+

@@ -1,0 +1,14 @@
+# [My BGG Review of this Great Game](https://community.fantasyflightgames.com/topic/257616-my-bgg-review-of-this-great-game/)
+
+## 1 [JYoder on August 30, 2017](https://community.fantasyflightgames.com/topic/257616-my-bgg-review-of-this-great-game/?do=findComment&comment=2960245)
+
+I've not been one who can help others in LotR LCG (as this forum has for me) but I wanted to give something back. So I wrote a review on BGG, not conveying mechanics, but why the feel and theme of this game still has me loving it years after it began. In it, I also gave a shout out to this community, which has helped immensely.
+
+Anyway, I just wanted to share, and say "thanks" to this forum for all its answers, clarifications, etc...
+
+https://boardgamegeek.com/article/26755755 [https://boardgamegeek.com/article/26755755]
+
+## 2 [farealh on August 30, 2017](https://community.fantasyflightgames.com/topic/257616-my-bgg-review-of-this-great-game/?do=findComment&comment=2960533)
+
+Thank you! The more reviews like this we have, the more people who'll be able to discover this amazing game and join us :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+

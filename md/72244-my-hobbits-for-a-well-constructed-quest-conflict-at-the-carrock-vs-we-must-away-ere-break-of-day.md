@@ -1,0 +1,119 @@
+# [My Hobbits for a Well-Constructed Quest: Conflict at the Carrock vs We Must Away Ere Break of Day](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/)
+
+## 1 [ArachneJericho on October 5, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=705094)
+
+The thread "Guarded, Surge, and Unwinnable Games" [1] made me think about the evolution of quests in the young history of LotR:TCG. People have remarked (and I agree with them) that the first Hobbit quest, We Must Away Ere Break of Day, was better fare than at least some of the quests that had come before. WMAEBOD definitely isn't an easy quest, but it was better constructed.
+
+So what makes a quest well-constructed? What makes a quest an enjoyable hardship rather than a soul-beating experience? While winning is nice, and it has to be possible to win a quest (or at least achieve a result of non-failure), what makes a quest good goes beyond win ratios.
+
+In fact, well-constructed quests will by default be possible to win.
+
+Why is that?
+
+Because the encounter deck is playing the role of a Game Master (the person who runs an RPG session). The best GMs are willing to challenge the players in interesting ways, forcing them to come up with novel solutions and gameplay, but at the same time they build their adventures with tools and hatches for the players to find and exploit, balancing out the badness of the enemies the GM is sending after them. The players should rise and fall on their own merits, not merely by luck.
+
+Another consideration: the best GMs also manage to structure their adventures. It's not just a stream of monsters and events; there are points of no return (which in LotR:TCG correspond to the turning of the quest card) that bracket different textures of story. Pacing is key; you don't want adventures to turn into The Hills of Emyn Muil, but at the same time you don't want a solo Escape from Dul Guldor.
+
+To make my points more clearly, let's consider a tale of two quests: Conflict at the Carrock (CatC) and WMAEBOD. CatC is part of the Shadows of Mirkwood Cycle, coming after the Core set. WMAEBOD on the other hand is part of the Hobbit Saga, coming after Core, Mirkwood, Khazad-Dum, *and* the Dwarrowdelf Cycle. Both concern trolls and sacks.
+
+But these two quests are like night and day. CatC can be irrevocably lost quite easily even with your best preparations; on the other hand, WMAEBOD earns every hit against your party because it offers so many counterbalances to the threat it brings to the table.
+
+To explore these counterbalances further, let's consider the following:
+
+- The sacks
+- The trolls
+- The pacing (or lack thereof)
+- The objective cards
+- The Carrock and the Cave
+
+The Sacks
+
+In CatC, Sacks are treacheries that can come at any time during play and target solely heroes, and their effect can't be canceled. You get 1 + X of them, where X is the number of players, come in an encounter deck with 42 additional cards. To make things worse, the treachery Roasted Slowly not only destroys all sacked heroes outright, but gets reshuffled into the encounter deck after play. There are two of them.
+
+When CatC turns on you, it does so through luck. You can get hit with an early Sack, which also kills resource generation, at which point you're doomed unless you're running Miner of the Iron Hills or you manage to kill a troll… which you can only do in stage 2 of the quest.
+
+By contrast, WMAEBOD will only introduce sacks during stage 2. WMAEBOD sacks are also more varied, and can target allies and/or heroes with different characeristics (like having the highest willpower). This means that sacking has variety, but it's a predictable variety. Most sacking is also predictable---you know it'll happen when a troll engages you, though there's a treachery that can cause it to occur. WMAEBOD additionally gives the player a simple tool to combat the sacks: Troll Camp combined with Bilbo Baggins and the Baggins resources.
+
+WMAEBOD gives the players more control, even while it expands on the number of sacks from 1+X to a full 7.
+
+The Trolls
+
+In CatC, the four trolls all have the same engagement cost: 34. That means when you trigger stage 2, you better be able to stay under 34 threat for as long as it takes to selectively kill 10-HP trolls. And you better kill all four trolls, just to win.
+
+In WMAEBOD, the three trolls have staggered engagement costs: 23, 33, and 38, giving the player some necessary breathing room. But what's interesting is that you don't have to kill the trolls to win WMAEBOD; you can run out of cards in the encounter deck (in stage 2 all progress tokens placed on the quest turn into cards discarded from the encounter deck), simulating the arrival of dawn that turns the trolls to stone.
+
+Again, the players have much more control in WMAEBOD, even though WMAEBOD ups the game of CatC by having its trolls constantly buff one another instead of only buffing when engaged.
+
+The Pacing
+
+Stage 1 for both quests seem similar: quest slowly until you turn up either Grimbeorn or his Bee Pastures (for CatC) or a Troll Camp (for WMAEBOD). However, what turns up while you're questing this way is quite different. For all that WMAEBOD is a treachery-filled deck (16 treacheries, 11 locations, 3 enemies, 2 objectives), the locations and enemies of CatC (19 locations, 9+X treacheries, 15 enemies, 1 objective) are far more problematic. Treacheries will raise threat or kill characters, but then they pass. Enemies and locations have a way of ganging up on you, especially if you're trying to quest slowly.
+
+WMAEBOD, while it has very very cruel treacheries, is actually more attuned to the players' goals than CatC.
+
+The Objective Cards
+
+In CatC, Grimbeorn is one of the best objective/ally cards ever, and once you have him you're set for stage 2. However, you'll only have a chance of worse than 1 in 10 to find himself or his Bee Pastures. And he's almost necessary for victory unless you're running Erebor Battle Master in a dwarf deck.
+
+In WMAEBOD, the objective cards Troll Key and Troll Purse aren't vital keystones to winning, just a way to search for treasure.
+
+More luck ruled out unless you're gaming for treasure. (In fact, this is almost the way a human GM would handle a win-versus-win-and-treasure situation.)
+
+The Carrock and the Cave
+
+Both CatC's The Carrock and WMAEBOD's Troll Cave are specially set aside (the first in the staging area, the second out of play). The Carrock buffs trolls when active (as it irrecovably becomes when stage 2 is revealed), which means you need to quest to explore it in addition to trying to kill four trolls.
+
+Troll Cave is, on the other hand, just there for treasure hunters. It's an interesting other objective to meet that only nominally makes life harder for someone seeking to hurry the dawn.
+
+Which makes WMAEBOD not just well-constructed, but also replayable with different winning conditions (race through the encounter deck to meet the dawn, or kill all trolls for victory points, or explore the cave for victory points, or get the Troll Keyand five Baggins resources (or two and Troll Purse) and the cave for the treasure.
+
+I give WMAEBOD mad props for going beyond being a good quest to being a great quest.
+
+[1] http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=201&efcid=4&efidt=724439 [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=201&efcid=4&efidt=724439]
+ 
+
+## 2 [CaffeineAddict on October 5, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=705396)
+
+Nice analysis. I think they were very much finding their feet in terms of design in the early quests. Some of them, like carrock and rhosgobel, are either all luck or require a deck with very specific cards, or that have become ridiculously easy as player cards have been released (hills of emyn muil, hunt for gollum). Others like Dol Guldur are almost impossible solo. Journey down the anduin is about the only quest from that era that i enjoy.
+
+These days I consider Mirkwood and Core to be barely worth playing, for those reasons.
+I think that really good quest design started with Khazadum . That's not to say that Khazadum, Dwarrodelf and The Hobbit are perfect (see the number of complaints about sleeping sentry, for example), but I find they have more replayability than the earlier quests, and are more based on strategy and tactical play than just pure luck.
+ 
+
+## 3 [ArachneJericho on October 6, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=705594)
+
+Thanks! And yeah, now that I'm playing through all the quests ever, the Mirkwood cycle doesn't impress me. I've been totes spoiled by The Hobbit (which was when I got back on the game).
+
+Onto the Khazadum quests this weekend I hope!
+
+## 4 [jespo_19 on October 9, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=707091)
+
+ i just got back into it as well, picked up the hobbit and really enjoyed the trolls quest and the next one with the giants and the goblin cave.
+
+the quests from the hobbit are very impressive and i'm waiting for the dwarrowdelf and khazad-dum packs to come (i ordered all but shadow and flame and the long dark any advice as to whether i should grab those too?) so i can try them out too. looking back the mirkwood cycle is unimpressive though.
+
+## 5 [ArachneJericho on October 9, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=707128)
+
+ The Long Dark features Erebor Battle Master (+1 attack for each dwarf in play), Hama (recycles tactics cards), Warden of Healing, Word of Command. It's worth it. 
+
+Shadow and Flame features Elrond, Hands Upon the Bow, Hardy Leadership. Also worth it.
+
+## 6 [jespo_19 on October 9, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=707132)
+
+ haha, i also skipped out on hills and return to mirkwood in the last cycle, anything killer i missed there?! i should maybe buy based on player cards, i just go by heroes and quests. my deckbuilding needs some work though so having a full deck to work with could help.
+
+## 7 [ArachneJericho on October 9, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=707145)
+
+ Hills: descendant of Throndor, Gildor Inglorien
+
+Return: Dain, Eagles of the Misty Mountains, Support of the Eagles
+
+Dain is just a monster when it comes to dwarf decks. 
+
+ 
+
+## 8 [monkeyrama on October 10, 2012](https://community.fantasyflightgames.com/topic/72244-my-hobbits-for-a-well-constructed-quest-conflict-at-the-carrock-vs-we-must-away-ere-break-of-day/?do=findComment&comment=707262)
+
+That was an excellent analysis, thanks ArachneJericho! It's really good to see a considered analysis of the way in which quests are structured. Player decks are important, but I've sometimes felt that the quests need more love from FFG, since a good one will be played over and over, and a bad one will just be put in a box. The Hobbit quests (except the last one, which I find to be a bit poorly designed - too rewarding of certain deck designs) are so superior in design to earlier ones; although, that said, some of the Dwarrowdelf cycle were getting towards really well thought out mechanics, and had a great feel (the last three in particular, although Redhorn is a personal favourite). The way in which Foundation of Stone, even if it wasn't totally successful, tried to emulate the feel of a complete change in scene (trying not to spoil here) was really superb, and The Long Dark almost got the feel of actually being lost to be right on.
+
+I think my favourite part of the Hobbit quests is the balance of cards that kick you, and cards that help you in the encounter deck. It's one thing to have a quest that just pushes you to the limit, but a well designed quest gives you ways of using the quest deck as an aid as well! It's so much more enjoyable to have a quest that gives and takes, than just whacks you on the head with threat, damage and treachery to win. I really enjoyed your post, and would love to hear more of your thoughts, especially as someone coming to the game via the Hobbit - have personally been here since the start, and the, in my opinion, weak quests in the Mirkwood cycle nearly made me quit playing, but then Kazad got me back in, and it's been better since then!
+

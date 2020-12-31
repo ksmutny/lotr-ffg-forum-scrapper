@@ -186,3 +186,99 @@ Feint is similar. You can trigger this action before enemy attacks, but if the a
 
 After shadow cards...
 
+## 26 [GrandSpleen on June 5, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1650032)
+
+Mndela!  We just had the same exchange two weeks ago when you said that in the thread [https://community.fantasyflightgames.com/index.php?/topic/176998-is-there-any-action-windows-between-declaring-attackers-and-resolving-an-attack/] over here.
+
+## 27 [Mndela on June 6, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1650135)
+
+;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 28 [Chris51261 on June 6, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1650409)
+
+http://www.kaybee.org/kirk/LoTR_LCG_QuickRef.pdf [http://www.kaybee.org/kirk/LoTR_LCG_QuickRef.pdf]
+
+ 
+
+Way better than the chart in the back of the official rules. 6.2.1 repeats itself for each player, and is a "play events before, during, or after" step. 
+
+## 29 [JanB on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652051)
+
+Mmm, nice chart. But i think 6.2. and 6.2.1 do not have to be green. these points a no steps of the combat phase. The combat phase looks like this:
+
+ 
+
+6) Combat Phase (Headline - Phase description)
+
+6.1) Deal Shadowcards (red)
+
+(Actionwindow)
+
+ 
+
+Now per player each enemy engaged with the play made attacks
+
+6.2) Declare an enemy as an attacker (yellow - it's a simple choose of an enemy) 
+
+6.3) Declare a defender for this attack (yellow - it's a simple choose of a character)
+
+6.4) Resolve shadowcardeffec(s) (yellow)
+
+6.5) Determine combat damage (yellow)
+
+Next enemy...
+
+ 
+
+There a now subactionwindows like 6.2, 6.2.1, 6.2.2 
+
+the rulebook shrinks 6.2 to 6.4 to one block which is green, because each step is a simple event (choose an enemy, choose a character, calculate combat damage). Those events are so "small" so that they can be shrinked to one block labeled as "Enemy attack" with green backgrund.
+
+Edited June 8, 2015 by JanB
+
+## 30 [Teamjimby on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652232)
+
+I really wish FFG would publish an official chart like this that went into even more detail about timing and action windows.
+
+## 31 [JanB on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652260)
+
+What's the problem with the chart at the end of the rulebook?
+
+## 32 [Teamjimby on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652328)
+
+Not nearly enough detail.  Many of the timing questions on these forums can't be answered by that chart and we are left to speculate or ask Caleb.
+
+## 33 [Chris51261 on June 8, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1652480)
+
+They didn't make those green because they felt like it, because they have text added for clarification that isn't green. I can't argue with you if you think the chart in the back of the book is fine, because it's downright awful. Even the description of what the colors mean is really bad. Green "generally" means you can take actions? Maybe when the game first came out that was an okay chart, but it's certainly not anymore. I've sent an email to Caleb, since as mentioned, that's the only way to resolve things when dealing with action windows and timing.
+
+## 34 [JanB on June 9, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1653433)
+
+Ok.. that's your thoughts, but this linked chart is an interpretation of somebody and not an offical chart, so it can be wrong.
+
+And that's my opinion.
+
+## 35 [Chris51261 on June 9, 2015](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=1653658)
+
+My first question already resolved this question anyway. I asked if the combat steps still occur when enemies aren't present. They do, and you're able to activate cave torch, which is an action. So the claim that the only action windows occur when enemies attack is false.
+
+## 36 [JanB on February 14, 2017](https://community.fantasyflightgames.com/topic/178758-no-enemies-combat-phase-steps/?do=findComment&comment=2639474)
+
+Because no one asks Caleb .. i did it:
+
+> Quote
+> 
+> Dear Caleb,
+> thank you for your latest answer to my questions. After playing with tactic-Aragorn and some stuff which let me engage enemies during their attacks some questions came up i hope that you can help and answer them. First .. Combat Phase .. the enemies will attack first in their "Resolving Enemy Attacks"-Step. In the rule it is described that the players could do action after each of the four steps. Is their an action window before an enemy attack which is not the same action window after Determine Combat Damage? There are 3 threads in your forum which discuss about this "potenial" action window.
+
+ 
+
+> Quote
+> 
+> Hi Jan,
+> There is no mystery action window hidden in the combat phase. There is an action window after shadow cards are dealt, and then the first enemy attacks. Once the first enemy attacks, the only action windows are the ones that follow each step of resolving those attacks.
+> Cheers,
+> Caleb
+
+ 
+

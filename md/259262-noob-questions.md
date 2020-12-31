@@ -261,3 +261,191 @@ MVP: Gimly who took the key since the beginning to boost himself and send the Na
 
 Congratulations :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
 
+## 26 [monkeyrama on October 26, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3047936)
+
+> 15 hours ago, ovinomanc3r said:
+> 
+> Escape from Do Guldur won during my first attempt. It was hard. We had to deal with two spider web and we lost Gimly and Theodred at the end moving to the third stage at 49 both players but with the Nazgul dead. Galadrim and a lucky Gandalf to turbo-quest and over saturate the stage even with an active location. Iluvatar blessed Faramir and Celebrian-Eowyn. Woohoo! 
+> 
+> MVP: Gimly who took the key since the beginning to boost himself and send the Nazgul back to where it belongs with the help of Gandalf. 
+
+I love finishes with the threat level so high! Always tense and exciting! Makes me want to bust out Gimli again and carve some orcs.
+
+## 27 [ovinomanc3r on October 29, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3053519)
+
+I just steped in Khazad Dum! Not tried yet. I skiped all the mirkwood cicle cause they are reprinting them and are hard to get around me so I preferred to move directly to the beloved and dusty caverns. 
+
+I suppose I am missing things from the previous cicle but I wanted to be sure if I could have problems. Under a first glance it seems not to me, actually I am excited about all the drawf synergy (Gimly and Thalin are going to enjoy reminding old times with their little friends).
+
+## 28 [Onidsen on October 29, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3053672)
+
+> 2 hours ago, ovinomanc3r said:
+> 
+> I just steped in Khazad Dum! Not tried yet. I skiped all the mirkwood cicle cause they are reprinting them and are hard to get around me so I preferred to move directly to the beloved and dusty caverns. 
+> 
+> I suppose I am missing things from the previous cicle but I wanted to be sure if I could have problems. Under a first glance it seems not to me, actually I am excited about all the drawf synergy (Gimly and Thalin are going to enjoy reminding old times with their little friends).
+
+Khazad dum should be just fine without the shadows of mirkwood expansions. Heirs of numenor isn't one I'd jump into right after the core set, but Khazad dum should be fine
+
+## 29 [ovinomanc3r on October 31, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3057396)
+
+When an effect instruct me to discard something, let's say a character, heroes counts? 
+
+I mean I know they count as characters but I suffer an effect that instructed me to choose and discard one character committed to the quest if possible. I only had my lovely Thalin and I discarded him. It was so painful to loose him falling in a dark hole just after entering Moria... I would like to know I am not making this harder than already is. 
+
+## 30 [Onidsen on October 31, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3057401)
+
+> Just now, ovinomanc3r said:
+> 
+> When an effect instruct me to discard something, let's say a character, heroes counts? 
+> 
+> I mean I know they count as characters but I suffer an effect that instructed me to choose and discard one character committed to the quest if possible. I only had my lovely Thalin and I discarded him. It was so painful to loose him falling in a dark hole just after entering Moria... I would like to know I am not making this harder than already is. 
+
+Nope - you're right. If an effect references characters, that includes both allies and heroes.
+
+That's a nasty effect, by the way. The best way to deal with it is probably to have a cheap ally always questing with you. (Ideally, something with 0 WP, like Snowbourne Scout.) That way you can just get rid of the otherwise unimportant ally instead of losing a hero.
+
+Sometimes you can't do that, unfortunately. Later on in the life of the game, you'll get to some cards that let you start pulling cards out of the encounter deck and adding them to the victory display, and that's a pretty good way to deal with those nasty un-cancellable treacheries.
+
+## 31 [ovinomanc3r on October 31, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3057427)
+
+> 7 minutes ago, Onidsen said:
+> 
+> Nope - you're right. If an effect references characters, that includes both allies and heroes.
+> 
+> That's a nasty effect, by the way. The best way to deal with it is probably to have a cheap ally always questing with you. (Ideally, something with 0 WP, like Snowbourne Scout.) That way you can just get rid of the otherwise unimportant ally instead of losing a hero.
+> 
+> Sometimes you can't do that, unfortunately. Later on in the life of the game, you'll get to some cards that let you start pulling cards out of the encounter deck and adding them to the victory display, and that's a pretty good way to deal with those nasty un-cancellable treacheries.
+
+Lol I had that scout just ready next to Thalin. I didn't commit him cause he was useless.
+
+Now I cannot remove the image of the snowbourne scout pushing Thalin through the hole.
+
+## 32 [Rouxxor on November 1, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3058385)
+
+It would be more likely
+
+Thalin: "Hurry up fellows!"
+
+Scout: "No, we haven't checked for trap in this area!"
+
+Thalin: "Nonsense! In dwarve mine there is no trap. Let's go"
+
+Scout: "I recommend you not to do this"
+
+Thalin, start to run: "FOR THE MO..AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!"
+
+Scout: "I told you so"
+
+## 33 [Authraw on November 1, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3058528)
+
+> 1 hour ago, Rouxxor said:
+> 
+> It would be more likely
+> 
+> Thalin: "Hurry up fellows!"
+> 
+> Scout: "No, we haven't checked for trap in this area!"
+> 
+> Thalin: "Nonsense! In dwarve mine there is no trap. Let's go"
+> 
+> Scout: "I recommend you not to do this"
+> 
+> Thalin, start to run: "FOR THE MO..AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!"
+> 
+> Scout: "I told you so"
+
+DM: Roll a Perception check.
+
+Thalin's Player: [Rolls, everyone at the table groans] Oh no, a 1!
+
+DM: [A clatter of dice is heard] ... You have a backup character, right?
+
+## 34 [ovinomanc3r on November 1, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3058933)
+
+Lol. 
+
+Tried again today and you know what? The very first Thalin did was jump through the first hole he saw during the first quest phase. 
+
+Fortunately we made our way to the seventh level and found him waiting for the rest of the party to continue our adventure. 
+
+ 
+
+Btw if a shadow card discard a defender the attack is considered undefended? It sounds contradictory to me.
+
+Another one: when a shadow effect cancel the damage dealt to the enemy does it cancel the gondor spearman damage or also the damage dealt by my attack. I understand that shadows card remains until the end of the page to possible effect that boosted defense but in this case it cancel or the damage dealt during the combat phase?
+
+## 35 [dalestephenson on November 1, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3058953)
+
+If a shadow card discards the defender it does result in an undefended attack.  Nasty.
+
+I believe the shadow that says "Cancel all combat damage dealt to attack enemy" will apply only to your attack to that enemy -- damage from Gondorian Spearman is not combat damage.  "Determine combat damage" is a specific step in combat resolution, step 4 in enemy attacks on players and step 3 in player attacks on enemies.
+
+## 36 [Onidsen on November 1, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3059077)
+
+Basically, it goes like this:
+
+You resolve the effects of the shadow card in full before you actually resolve the attack against the defender. If the shadow card (or anything else!) results in an effect that would remove the defender somehow (discard defending character, deal 1 point of damage when the defender only has 1 HP left, and so on), then when you get to the actual attack resolution, you don't have a defending character anymore.
+
+And whenever an attack happens without a defending character, the attack must be undefended.
+
+## 37 [ovinomanc3r on November 3, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3062686)
+
+It is possible to attack, exhaust, ready and attack again with the same character? 
+
+As long as to ready a character doesn't remove her from questing I was wondering if the same is true while attacking.
+
+## 38 [TwiceBorn on November 3, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3062796)
+
+> 50 minutes ago, ovinomanc3r said:
+> 
+> It is possible to attack, exhaust, ready and attack again with the same character? 
+> 
+> As long as to ready a character doesn't remove her from questing I was wondering if the same is true while attacking.
+
+Yes, but the character who is readying to attack a second time (e.g., via Unexpected Courage) cannot attack the same enemy twice in the same phase (i.e., the character would need to attack a different enemy during the second attack). I believe the exception to that rule is if an event like Quick Strike is played to trigger one of the attacks (don't have time to check the rulebook/FAQ... I'm sure someone else will correct me if I'm wrong).
+
+But a normal attack and an attack triggered by Quick Strike against the same foe would still need to be resolved separately.
+
+  
+
+## 39 [ovinomanc3r on November 3, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3062988)
+
+How stand together really works? 
+
+Stand-Together.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Stand-Together.jpg]
+
+As I understand it simply means during combat phase I may declare aditional defenders against engaged enemies instead of the limit of 1 as long as they could defend normally. 
+
+So exhausted characters cannot defend playing this card. 
+
+Also each character only can defend against 1 enemy not against each enemy. The wording is quite confusing to me.
+
+Am I right?
+
+Also:
+
+How shadows card that affect the defender works?
+
+How the damage is dealt?
+
+Does defense stats stack? 
+
+Edited November 3, 2017 by ovinomanc3r
+
+## 40 [GrandSpleen on November 3, 2017](https://community.fantasyflightgames.com/topic/259262-noob-questions/?do=findComment&comment=3063021)
+
+It sounds like you've understood Stand Together correctly.  You can use it, then for the remainder of that combat phase, you can defenders basically in the same way you declare attackers.  Multiple defenders can stack up against one attack.  They still have to be ready, and they can still only defend once (unless you can ready them someone), same as performing an attack.   And there is a clarification about it in the FAQ:
+
+"(1.04) Damage and Multiple Defenders If a player uses card effects to declare multiple defenders against a single enemy attack, the defending player must assign all damage from that attack to a single defending character"
+
+As for shadow cards, if a shadow card says "Defending character gets -1 defense," I think I would apply that to 1 character only, not all of the characters.  Same if the card says "Deal 1 damage to the defending character."  My reasoning is that it says "character" and not "characters," but I don't have anything official to back that up.
+
+When you determine combat damage, you will tally together all of the defenders' defense stats, then apply any damage exceeding that tally to a single defending character.
+
+And if you like cards that let you declare multiple defenders, here is a newer card that might interest you:
+
+Anchor-Watch.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Anchor-Watch.jpg]
+
+ 
+

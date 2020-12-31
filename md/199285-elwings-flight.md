@@ -252,3 +252,351 @@ no way to delete a post eh?
 
 Edited January 19, 2016 by shosuko
 
+## 26 [NathanH on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000029)
+
+>  
+> 
+> > I guess things like Lure of Moria with "all" characters are interpreted as not being a single effect but rather a collection of effects and so follow the We Are Not Idle rule of "you can resolve the ones you can resolve and ignore the ones you can't". This is why I'd imagine that Elwing's Flight can be used on the same character several times.
+> 
+>  
+> 
+> Lure of Moria does still have an effect even if you have no Dwarf Characters. It resolves by readying 0 characters. It may seem odd, but they've ruled that "all" can be 0 before. But if the card said "Ready a Dwarf character" and you had no Dwarves, you couldn't play it, because "a" cannot be 0.
+
+ 
+
+But if I have one dwarf character that is ready and one dwarf character that is exhausted, can I resolve the effect "ready all dwarf characters"? It is physically impossible for me to ready all dwarf characters.
+
+ 
+
+I mean, I know I may resolve the effect. But it's a bit funny.
+
+Edited January 19, 2016 by NathanH
+
+## 27 [Seastan on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000131)
+
+>  
+> 
+> >  
+> > 
+> > > I guess things like Lure of Moria with "all" characters are interpreted as not being a single effect but rather a collection of effects and so follow the We Are Not Idle rule of "you can resolve the ones you can resolve and ignore the ones you can't". This is why I'd imagine that Elwing's Flight can be used on the same character several times.
+> > 
+> >  
+> > 
+> > Lure of Moria does still have an effect even if you have no Dwarf Characters. It resolves by readying 0 characters. It may seem odd, but they've ruled that "all" can be 0 before. But if the card said "Ready a Dwarf character" and you had no Dwarves, you couldn't play it, because "a" cannot be 0.
+> 
+>  
+> 
+> But if I have one dwarf character that is ready and one dwarf character that is exhausted, can I resolve the effect "ready all dwarf characters"? It is physically impossible for me to ready all dwarf characters.
+> 
+>  
+> 
+> I mean, I know I may resolve the effect. But it's a bit funny.
+> 
+>  
+
+ 
+
+When an effect uses "all", you resolve it as much as possible. When a treachery says to exhaust all characters, you don't get to ignore it just because 1 character is currently exhausted  :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 28 [NathanH on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000178)
+
+Well, yes. I know. But I don't like it very much. It feels unpleasant. "Ready all dwarf characters" feels like a single effect, so I don't like that it isn't. I would feel much more comfortable if it were a single effect that just didn't happen to do anything to ready dwarfs.
+
+Edited January 19, 2016 by NathanH
+
+## 29 [cmabr002 on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000298)
+
+>  
+> 
+> > Beside this discussion .. a simple question: 
+> > 
+> > how many characters can i choose with Elwing's Flight if my three copies are in the discard pile and i use Map of Earnil to play it?
+> > 
+> > my first thought was 4 .. but i think it's 3 because you play one copy out of the discard pile right on the table, then check your discard pile .. 2 copies left.
+> 
+>  
+> 
+>  
+> 
+> I would say 4 as well. This is a ruling from Caleb on whether you have to pay extra for recalling an event with a Record if Heavy Curse is in play:
+> 
+>  
+> 
+> >  
+> > 
+> >  
+> > 
+> > To play an event, you must first pay its cost. Tome of Atanatar allows you to play an event in your discard pile “as if it were in your hand” but it is not actually in your hand. It is still in the discard pile at the time you must pay its cost, so Heavy Curse would increase its cost.
+> 
+>  
+> 
+> Now, he does't go on to specify where the event card is when you are resolving its effects, but without some indication that it gets put into some sort of limbo mode, I would assume it's still in your discard.
+> 
+>  
+
+ 
+
+I don't know if the Heavy Curse/Record attachments ruling is relevant here.  The ruling for that says "It is still in your discard pile at the time you must pay its cost..."
+
+ 
+
+It isn't entirely clear where cards go after you've paid their cost as previously mentioned in this thread (regardless of whether they are played from your hand or discard pile or somewhere else.
+
+ 
+
+Here is the quote from the rule book regarding events:
+
+ 
+
+> An event card is played from a player’s hand, its text effects are resolved, and the card is then placed in its owner’s discard pile.
+
+ 
+
+1.  You pay the cost for the Elwing's Flight in your discard pile via the record attachment
+
+2.  You resolve its effects (unfortunately we don't know how to exactly resolve Elwing's Flight in this example because of the ambiguity of where the event is)
+
+3.  You place the event in the discard pile.
+
+ 
+
+It does seem that event cards enter a an unidentified limbo state.  Otherwise, as was also mentioned, you would be able to discard Daeron's Runes when you triggered its effect which seems wrong to me.
+
+Edited January 19, 2016 by cmabr002
+
+## 30 [Seastan on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000369)
+
+>  
+> 
+> >  
+> > 
+> > > Beside this discussion .. a simple question: 
+> > > 
+> > > how many characters can i choose with Elwing's Flight if my three copies are in the discard pile and i use Map of Earnil to play it?
+> > > 
+> > > my first thought was 4 .. but i think it's 3 because you play one copy out of the discard pile right on the table, then check your discard pile .. 2 copies left.
+> > 
+> >  
+> > 
+> >  
+> > 
+> > I would say 4 as well. This is a ruling from Caleb on whether you have to pay extra for recalling an event with a Record if Heavy Curse is in play:
+> > 
+> >  
+> > 
+> > >  
+> > > 
+> > >  
+> > > 
+> > > To play an event, you must first pay its cost. Tome of Atanatar allows you to play an event in your discard pile “as if it were in your hand” but it is not actually in your hand. It is still in the discard pile at the time you must pay its cost, so Heavy Curse would increase its cost.
+> > 
+> >  
+> > 
+> > Now, he does't go on to specify where the event card is when you are resolving its effects, but without some indication that it gets put into some sort of limbo mode, I would assume it's still in your discard.
+> > 
+> >  
+> 
+>  
+> 
+> I don't know if the Heavy Curse/Record attachments ruling is relevant here.  The ruling for that says "It is still in your discard pile at the time you must pay its cost..."
+> 
+>  
+> 
+> It isn't entirely clear where cards go after you've paid their cost as previously mentioned in this thread (regardless of whether they are played from your hand or discard pile or somewhere else.
+> 
+>  
+> 
+> Here is the quote from the rule book regarding events:
+> 
+>  
+> 
+> > An event card is played from a player’s hand, its text effects are resolved, and the card is then placed in its owner’s discard pile.
+> 
+>  
+> 
+> 1.  You pay the cost for the Elwing's Flight in your discard pile via the record attachment
+> 
+> 2.  You resolve its effects (unfortunately we don't know how to exactly resolve Elwing's Flight in this example because of the ambiguity of where the event is)
+> 
+> 3.  You place the event in the discard pile.
+> 
+>  
+> 
+> It does seem that event cards enter a an unidentified limbo state.  Otherwise, as was also mentioned, you would be able to discard Daeron's Runes when you triggered its effect which seems wrong to me.
+> 
+>  
+
+ 
+
+So, Daerons Runes means it doesn't make sense for it to be in your hand when resolving it.
+
+ 
+
+And the Hama/Quick Strike ruling means it isn't in your discard until it's done resolving.
+
+ 
+
+So I guess a limbo state is necessary?
+
+## 31 [cmabr002 on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000393)
+
+>  
+> 
+> >  
+> > 
+> > >  
+> > > 
+> > > > Beside this discussion .. a simple question: 
+> > > > 
+> > > > how many characters can i choose with Elwing's Flight if my three copies are in the discard pile and i use Map of Earnil to play it?
+> > > > 
+> > > > my first thought was 4 .. but i think it's 3 because you play one copy out of the discard pile right on the table, then check your discard pile .. 2 copies left.
+> > > 
+> > >  
+> > > 
+> > >  
+> > > 
+> > > I would say 4 as well. This is a ruling from Caleb on whether you have to pay extra for recalling an event with a Record if Heavy Curse is in play:
+> > > 
+> > >  
+> > > 
+> > > >  
+> > > > 
+> > > >  
+> > > > 
+> > > > To play an event, you must first pay its cost. Tome of Atanatar allows you to play an event in your discard pile “as if it were in your hand” but it is not actually in your hand. It is still in the discard pile at the time you must pay its cost, so Heavy Curse would increase its cost.
+> > > 
+> > >  
+> > > 
+> > > Now, he does't go on to specify where the event card is when you are resolving its effects, but without some indication that it gets put into some sort of limbo mode, I would assume it's still in your discard.
+> > > 
+> > >  
+> > 
+> >  
+> > 
+> > I don't know if the Heavy Curse/Record attachments ruling is relevant here.  The ruling for that says "It is still in your discard pile at the time you must pay its cost..."
+> > 
+> >  
+> > 
+> > It isn't entirely clear where cards go after you've paid their cost as previously mentioned in this thread (regardless of whether they are played from your hand or discard pile or somewhere else.
+> > 
+> >  
+> > 
+> > Here is the quote from the rule book regarding events:
+> > 
+> >  
+> > 
+> > > An event card is played from a player’s hand, its text effects are resolved, and the card is then placed in its owner’s discard pile.
+> > 
+> >  
+> > 
+> > 1.  You pay the cost for the Elwing's Flight in your discard pile via the record attachment
+> > 
+> > 2.  You resolve its effects (unfortunately we don't know how to exactly resolve Elwing's Flight in this example because of the ambiguity of where the event is)
+> > 
+> > 3.  You place the event in the discard pile.
+> > 
+> >  
+> > 
+> > It does seem that event cards enter a an unidentified limbo state.  Otherwise, as was also mentioned, you would be able to discard Daeron's Runes when you triggered its effect which seems wrong to me.
+> > 
+> >  
+> 
+>  
+> 
+> So, Daerons Runes means it doesn't make sense for it to be in your hand when resolving it.
+> 
+>  
+> 
+> And the Hama/Quick Strike ruling means it isn't in your discard until it's done resolving.
+> 
+>  
+> 
+> So I guess a limbo state is necessary?
+
+ 
+
+It seems so, but I don't think we can declare it with 100% certainty.  It seems odd that it isn't mentioned in the rules explicitly if it does indeed exist.  It's also just as possible that they forgot to include mentioning it as it may not have been relevant initially.
+
+ 
+
+Theoretically, it could be "in play" but I think we have received rulings that events are not "in play".  Is it true that we have received such a ruling?  If we have, then are there any other options as to where the card could be other than an undesignated limbo area.
+
+## 32 [cmabr002 on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000411)
+
+How exactly would you resolve Sneak Attack with Galadhrim Weaver if a limbo area exists?
+
+## 33 [Seastan on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000423)
+
+Isn't Galadhrim Weaver a Response once she enters play? I'd assume Sneak Attack is done resolving and in the discard at that point.
+
+## 34 [cmabr002 on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000446)
+
+> Isn't Galadhrim Weaver a Response once she enters play? I'd assume Sneak Attack is done resolving and in the discard at that point.
+
+ 
+
+Yes, Galadhrim Weaver is based on "enters play". 
+
+ 
+
+I think so too, but if we accept that there is a limbo area, identifying when an event is considered to have "its text effects are resolved" is ambiguous.  It would be possible that Sneak Attack stays in limbo until the ally it sneak attacked is back in your hand.  I do not think that, even if there is a limbo area, it would stay in limbo that long, but I think it is certainly something that can be argued because the latter portion of its text effect could be viewed as "not fully resolved".
+
+ 
+
+I personally think that in this example Sneak Attack initiates a passive effect and it would already be in your discard pile when you are eligible to trigger the response on Galadhrim Weaver. 
+
+ 
+
+My main point, however, is that if we accept a limbo area, it could make other interactions more ambiguous.
+
+Edited January 19, 2016 by cmabr002
+
+## 35 [Seastan on January 19, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2000530)
+
+No, I don't think that is the case. Otherwise if you play Sneak Attack off the top of your deck with Gandalf, he would have all resource icons until the end of the phase.
+
+## 36 [JanB on January 24, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2009550)
+
+>  
+> 
+>  
+> 
+> Hi Jan,
+> 
+> If there are 2 copies of Elwing’s Flight in your discard pile when you play Elwing’s Flight from your hand, it allows you to choose up to 3 questing characters to ready and get +1 willpower. If you only have 3 questing characters but only 1 of them is exhausted, you could resolve Elwing’s Flight in a number of ways:
+> 
+> - You could choose all 3 characters to get +1 willpower and ready the 1 exhausted character.
+> 
+> - You could choose to ready the exhausted character and give that character +3 willpower.
+> 
+> - You could choose not to ready the exhausted character and divide the willpower boost among the other 2 characters.
+> 
+> The way this card is worded makes it possible to receive the +1 willpower without being readied by its effect.
+> 
+> Cheers,
+> 
+> Caleb
+
+ 
+
+So .. the card is better than i thought :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 37 [JanB on March 14, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2099756)
+
+So ... with Calebs ruling, it is possible to play "We Are Not Idle" without a dwarf character and draw one card?
+
+ 
+
+ffg_we-are-not-idle-saf.jpg [http://www.cardgamedb.com/forums/uploads/lotr/ffg_we-are-not-idle-saf.jpg]
+
+## 38 [13nrv on March 14, 2016](https://community.fantasyflightgames.com/topic/199285-elwings-flight/?do=findComment&comment=2099840)
+
+Yes X could be 0 !
+
+ 
+
+Some player use this card just to draw one card for zero cost and so virtually decrease the deck size.
+
+I have seen a lot of combo deck use this card in this way.
+

@@ -430,3 +430,129 @@ If you find it too easy, booored, then why not manipulate the rules to suit your
 
 Is there a way to make Gimli ranged?
 
+## 26 [The_Fallen_Arises on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611468)
+
+ Yup there is ! Dunedain Cache (from the Dead Marshes). In fact, in a 4 player game, it really saved our hides in Conflict at the Carrock. We pumped Gimli so much with attack strenght that he killed nearly all the trolls alone in a single combat phase, even though they were all engaged with different players. Granted, we had all the right cards at the right time, and we all had specialized (one-ressource) decks. The things you can do with an Erebor Lorekeeper, Common Cause, Westfold Horse-breaker and Ever vigilant...Wham ! :-p
+
+It might seem to make the game ''easier'', but hey, it took use many ressources and four cards to make it happen, so it doesn't happen in every game. There is a cost to such awesomeness :-p And some quests are harder in multiplayer...Rhosgobel becomes a nightmare...with 3 or 4 cards revealed the odds of drawing treachery cards rises dramatically, and the capacity to cancel them all decreases. So it all depends on the quest, really.
+
+## 27 [booored on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611547)
+
+Yeah, what Fallen said,
+
+Gimli can nearly one shot most things by him self.. add to him a Brand and/or Legolas We normally run Brand for the untap effect on Beravor... we normally run Support of the Eagles on Brand with Vassle, so he is hitting for 6... then of course you have the marks, axes etc and other gear.
+
+So what we are talking about is 2 attacks though ranged every turn that can one shot every creature in the game easily usually with out the need for them to even team up. This doesn't even include other ranged buffs though marks or just the assorted allies, for as if you would ever NOT run ranged allies if this is true. So basically we are talking about the trivialisation of the entire combat phase as you will nvr have a threat last more than one round, and often though smart engagement be able to kill most of them b4 they even get a chance to attack or receive shadow cards. On a side note you can add to that eagles/marks on frodo with the sentinel blocker and a bunch of hitches... and you can also block everything in the game with zero chance of death.
+
+The ability to only attack a single target once was one of the real good limitations for the player to stop the board getting out of control. This game is infamous for becoming pretty easy once you have your cards on the table and most of the difficulty is during the start. If this double attack thing with ranged is true, it basically means that you achieve this over saturation of the board were the encounter deck becomes no threat at all much faster.
+
+7775589.png [http://www1.picturepush.com/photo/a/7775589/img/7775589.png]
+
+## 28 [The_Fallen_Arises on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611572)
+
+ Yeah, but still...for this we needed first to have Dunedain Cache on the table, and then enough untap effects to ready Gimli four times ! It's not a common occurence...especially when you play solo or with just two players. And also, we needed a bunch of ressources to do it, so it wasn't exactly costless. I wouldn't go as far as saying it trivializes the combat phase. We had to talk and coordinate ourselves to make it happen. We used teamwork, and that's what the game is about. I wouldn't call animated discussions and intensive card combos trivial : it was a lot of fun.
+
+And well, as it was said, it is perfectly legal for a single hero to attack multiple times as long as you only declare one attack per monster as a player. Take Boromir for instance : it makes his ability thematically awesome : you attack on all sides, lash out at your foes, but at the cost of threat.
+
+Bottom line, with the exception of that specific game when we played  Conflict at the Carrock, I never saw this rule break the game. You need to gear your deck towards it happening, and have everything happen at the right time. And that won't happen often...
+
+## 29 [guest479094 on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611575)
+
+ And none of this ranged stuff helps in solo games at all :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 30 [booored on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611577)
+
+getting 3 or 4 UCs out in a single game is not uncommon and doesn't take long after the draw engine starts to fire up.. all you have to to is build your decks correctly. The thing is you only need them to untap once to be able to start clearing the board. Sure it is conditional, I'm not saying it is not.. but it isn't like you will play a single game and NOT see this combo occur. It will happen nearly every game, and get stupid though multi+UC in most games.
+
+7775589.png [http://www1.picturepush.com/photo/a/7775589/img/7775589.png]
+
+## 31 [booored on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611579)
+
+Anodos said:
+
+ And none of this ranged stuff helps in solo games at all :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+
+
+this is true. Though I kidna feel sorry for people that just play solo. I like solo, do not get me wrong, but this game shines in 2 player, there is little doubt it is designed for it.
+
+Especially if you adhere to the table talk rule, when you do that the co-op feeling is fantastic and the game is really tense and you have all these trust issues.. kinda like that thing you do were you close your eyes and fall backwards and have a mate catch you. It amazes me that people make a deal about never playing co-op, interacting with people is just fun period. If you havn't done it give it a go, it also extandes the deck building as you build the decks as if they were one deck... this is also a lot of fun.
+
+7775589.png [http://www1.picturepush.com/photo/a/7775589/img/7775589.png]
+
+## 32 [The_Fallen_Arises on March 29, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=611601)
+
+booored said:
+
+Anodos said:
+
+ 
+
+ And none of this ranged stuff helps in solo games at all :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+ 
+
+this is true. Though I kidna feel sorry for people that just play solo. I like solo, do not get me wrong, but this game shines in 2 player, there is little doubt it is designed for it.
+
+Especially if you adhere to the table talk rule, when you do that the co-op feeling is fantastic and the game is really tense and you have all these trust issues.. kinda like that thing you do were you close your eyes and fall backwards and have a mate catch you. It amazes me that people make a deal about never playing co-op, interacting with people is just fun period. If you havn't done it give it a go, it also extandes the deck building as you build the decks as if they were one deck... this is also a lot of fun.
+
+7775589.png [http://www1.picturepush.com/photo/a/7775589/img/7775589.png]
+
+
+
+ 
+
+True indeed booored ! On that point, we see eye to eye :-)
+
+## 33 [Budgernaut on April 2, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=612652)
+
+ Although I understnad how the rules stand concerning ability to attack the same enemy twice with ranged, I do agree with booored's opinion on how it should be. The trouble I have with the current ruling is that it's making a distinction between declaring an attack and participating in an attack when this isn't addressed in the combat steps. A single player declares multiple attackers, not one attacker and a couple participants. So why, then, does a ranged character get the option to be a participant? Why isn't the character declared as an attacker as well? It seems strange to me that there is a distinction between attackers and participants in this particular instance when similar situations don't, i.e. there is no difference between who engages whom. That seems utterly inconsistent to me. If Player 2's Brand shot Player 1's Hill Troll during Player 1's turn, Player 2 should not be able to attack the Hill Troll at all during his turn. Simple as that. Ranged is plenty good enough as a trait without adding the "participate-in-an-attack" mechanic.
+
+ 
+
+## 34 [guest479094 on April 2, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=612664)
+
+The combat steps do make a distinction (albeit, not a very clear one) between initiating an attack and selecting attacker: "Step 1: Declare target of attack, and declare attackers."
+
+Two types of declarations are made, what the target is and who is attacking. So, the first is restricted while the second is not. The distinction is inherent in the rules.
+
+However, it isn't clear. Given the new ruling on shadow cards being dealt in any enemy attack as well as this ruling, I am strongly of the opinion that the whole of the combat rules really need to be written.  
+
+## 35 [Budgernaut on April 2, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=612681)
+
+Anodos said:
+
+ 
+
+The combat steps do make a distinction (albeit, not a very clear one) between initiating an attack and selecting attacker: "Step 1: Declare target of attack, and declare attackers."
+
+ 
+
+ 
+
+Yes, but this is my not point. I'm not arguing that targeting and attacking are different steps, I'm saying that the combat rules don't ask you to select an attacker and then select participants. You don't say, "I'm exhausting Gimli to attack that enemy. Okay, now I'm selecting Thalin to participate in the attack."
+
+Instead you say, "Okay, next I'm attacking that enemy. My attackers are Gimli and Thalin so I'm going to exhaust them." There is no distinction between an attacker and a participant in the normal flow of combat.
+
+EDIT: Keep in mind that these recent posts are just "fluff." The rules are written and that's that. I'm just rambling on why I think the rules should have been different.
+
+## 36 [Bomb on April 2, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=612691)
+
+Budgernaut, you have confused me on your perspective.
+
+Players declare an attack through normal game mechanics.  Attackers and participants are synonymous when it comes to player attacks.
+
+If Player A has Legolas, and Legolas being a participant in an attack made by Player B does not make Player A the player that declared the attack.
+
+Let's pretend that I sent a Wandering Took over to Player B to help attack an enemy he is engaged with.  If Player B sends Wandering Took back over to me, I stand him somehow and also give him Dunedain Cache, why can't I use him to attack that same enemy Player B attacked with him?  The Wandering Took already participated against that enemy, but that does not matter because it is not character specific.
+
+Declaring attacks against enemies is Player specific.  Participating in an attack declared by the other player is not the same thing as you declaring an attack against that same enemy.
+
+You cannot declare attacks against an enemy simultaneously as another player.  Not only that, but declaring an attack against an enemy when it's the other players turn is illegal.
+
+## 37 [Budgernaut on April 2, 2012](https://community.fantasyflightgames.com/topic/62203-combat-clarity-ranged-melee-tapping-untapping/?do=findComment&comment=612765)
+
+ Well, Bomb, when you put it that way, I realize that one of my concerns is the restriction on attacks. I do think it would make more sense for attacks to be limited by character, rather than by player. That's not how it works, and I'm fine with that. It took a ridiculous amount of time for me to understand why a ranged character can attack the same enemy twice in a round, but a normal character couldn't and I think a simple restriction of only being able to attack an enemy once each round would have been a lot simpler. Simpler, but not necessarily better. I'm not the one who play-tested rules concerning number of attacks, and I'll just accept the rules the way they are. It's plenty fun the way it is.
+

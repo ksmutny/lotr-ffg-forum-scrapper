@@ -1,0 +1,537 @@
+# [Solo League #2 (October) -- Dreamchaser cycle](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/)
+
+## 1 [dalestephenson on October 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3489894)
+
+Welcome to the LOTR Solo League. This month we'll be playing three quests from Grey Havens and the Mirkwood cycle. The quests are:
+
+1) Voyage Across Beleagar (Deluxe)
+2) Flight of the Stormcaller (AP1)
+3) Temple of the Deceived (AP3)
+
+Here are the rules:
+
+1) Each player will construct a 50+ card deck, then use that exact deck against all three quests. You may use that deck freely against any quests (include the three quests in the league) prior to the run for testing purposes, but you may not use any trial runs for your official results.
+
+2) At least one of the heroes must be from a box with those quests -- this means you must have one of Cirdan, Galdor of the Havens, Leadership Denethor, or Elfhelm.
+
+3) Your score against each quest will be how much help you need to defeat it, based on the Grace of the Valar variant invented by Seastan. It works like this:
+
+For each token you have, after you draw/mulligan your initial hand you can choose to draw a card or give a hero a resource. This happens one at a time, so if I use my first token to draw a card, I see the card before I decide whether to use my second token for a card or a resource.
+
+The original variant starts at zero tokens and gains two tokens if you lose quickly (first five turns) and one if you do not -- however, for the purposes of this league I will allow you to start a quest at any number of tokens, and adjust by as many as you want. The only rules for adding/reducing tokens are these:
+
+Rule 1) If you lose a quest with X tokens, you cannot play that quest again with X or less tokens.
+Rule 2) If you defeat a quest with Y tokens, you cannot play that quest again with Y or more tokens.
+
+So for example, if I start with six tokens against Flight of the Stormcaller and defeat it, I can play it again with 0-5 tokens. If I then try with three tokens and lose, I can play it again with 4 or 5 tokens. If I try with four and lose, I can play it again with 5 tokens. If I win, my final score for that quest is 5, and if I lose my final score for the quest is 6. (Alternatively, I could've decided that 6 was a good enough score the first time I played it, and just have my final score be 6 without playing again.)
+
+Remember that tokens do not carry over between quests. When playing Flight of the Stormcaller it does not matter how many tokens I needed to defeat Voyage Across Beleagar.
+
+4) You are not required to publish your deck, but you are required to reveal which Heroes you used, and how many cards in your deck came from outside Grey Havens/Dreamchaser cycle and a single core. When breaking ties, the first tiebreaker is number of outside cards used (less is better), the second tiebreaker is number of heroes outside the cycle (less is better), third tiebreaker is number of heroes outside the boxes with the three quest (less is better).
+
+5) 1st place gets to choose the cycle for December's league, 2nd place gets to choose a quest from that cycle, and 3rd place gets to choose a quest *not* to be used from that cycle. Last place gets to choose a single player card outside that cycle (may be a hero) that will be counted as an honorary cycle member and may be used without counting for the tiebreaker. For November we will be using the Heirs of Numenor/Against the Shadow cycle.
+
+6) Weekly deadlines will be on Monday at 11pm Eastern, but only the final deadline really matters for scoring -- the first two deadlines are only to be included in standings.
+Voyage Across Beleagar: October 15th
+Flight of the Stormcaller: October 22nd
+Temple of the Deceived: October 29th
+
+7) I've created a google spreadsheet for results here:
+
+https://docs.google.com/spreadsheets/d/1EebT4VaLiq5PaqRQscM2lEAK_Dtna8aht0ZbvuoY7Is/edit?usp=sharing [https://docs.google.com/spreadsheets/d/1EebT4VaLiq5PaqRQscM2lEAK_Dtna8aht0ZbvuoY7Is/edit?usp=sharing]
+
+
+To join the league, merely add your name and information about your deck to the spreadsheet, then enter your results as you have them. You may give a link to your deck, but it is not required.
+
+If you wish you may run additional decks against the quests and record your results (I plan to do this), but only the first entry will be considered for the competition itself.
+
+ 
+
+ 
+
+ 
+
+Edited October 2, 2018 by dalestephenson
+Clean up whitespace, remove text
+
+## 2 [Rouxxor on October 3, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3490584)
+
+I already subscribe and I'm testing with a perfect for all tiebreaker deck. I win the first two quest first time, I finish the third, change some card to adjust according to what seem to be the best to play and then I'm running for real :).
+
+## 3 [Rouxxor on October 3, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3490657)
+
+I win the third scenario as well (but it take 25 turns where flight only take 2 turns ^^). Tomorrow I will make the change of my deck so I will be ready.
+
+## 4 [Yepesnopes on October 3, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3490838)
+
+The Grey Havens!!!
+
+I won't be able to resist to play with a Noldor deck. To the Sea, to the sea!
+
+## 5 [Rouxxor on October 3, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3490894)
+
+I got 3 purpose on training for this league:
+
+1/ Refresh my knowledge about those scenario, so I will not do obvious mistake during my following games;
+2/ Do a crashtest to be sure that my decks can win those scenario with those limitation (perfect tiebreaker);
+3/ Potentially improve the build before playing the actual run.
+
+1/ In the previous cycle all three scenario where playing on our threat level. 2 need from us to turtle before going on stage 2 and one need to rush. Those 3 scenario are really different on their need: the first is classic-lenght, need to put many allies to ensure everything goes ok. The second is about rush, so many willpower is the key. I actually won it on turn 2 ^^. The third one is all about turtle. So we need to build an army, we only need to keep our threat low to avoid some fight engagement but there is no powerful enemies anyway so it is not key. Playing our test of will on the good targets is the key since we mostly reveal treachery and many of them only ask us to have more willpower.
+
+2/ It is really possible. I wasn't as lucky as the first time (steward was discarded turn one the only time I found it on the early game) and Galdor is so much worse than Beravor (only use once the ability to redraw 6) but it should be good for the awards of perfect tiebreaker. I'm only afraid about getting engaged in turn one in the first scenario (what I have to face on during my first game, it was pretty okay since I manage to kill the enemy ship on turn 2). The two other should be fine.
+
+3/ Since we don't draw as many cards guardian of Rivendell is pretty lame. I'm not really convinced by many things in the deck (essentially many allies with useless abilities). I'm not tempted by the event either so I will keep going with the same kind of deck, only by putting a second Gleowine to ensure enough draw, and enough stuff to stand a long game for the last scenario.
+
+So I will playing this: http://ringsdb.com/deck/view/122576 [http://ringsdb.com/deck/view/122576]
+
+## 6 [dalestephenson on October 3, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3490917)
+
+I'll be playing my non-Erestor version of the Stereotypical Noldor Deck.  It's not remotely perfect on tiebreakers, and I'm concerned about its combat potential, but it's thematically appropriate and I've never actually played it.  I did realize it when collecting the cards it that I made a mistake on ringsdb, giving it 2x Silver Lamp instead of 2x Silver Harp.  I think I'll fix that first...
+
+## 7 [Rouxxor on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493085)
+
+And this is it! I manage to win another time the three scenario in a row. I will explain each game separately tomorrow but I manage to make each scenario work just according to the plan so it is not captivating.
+
+## 8 [Yepesnopes on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493443)
+
+> On 10/3/2018 at 12:55 PM, Rouxxor said:
+> 
+> The second is about rush, so many willpower is the key. I actually won it on tur﻿n 2 ^^.
+
+How did you manage?
+
+## 9 [CaffeineAddict on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493503)
+
+> 1 hour ago, Yepesnopes said:
+> 
+> How did you manage?
+
+Doesn't the second quest stage restrict how many progress you can add each turn?
+
+## 10 [Dralnu on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493595)
+
+Wow, I didn't know you were running a solo league. It's a really cool idea and I'll try to parcipate this month but I don't know if I'll have enough time to do so.
+Congrats to Dalestephenson and others who run this league.
+
+## 11 [Rouxxor on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493727)
+
+Yes. It wasn't the turn 2 but the turn 3. I reveal only twice for enemy quest and win before it pass the stage 2.
+
+## 12 [Wandalf the Gizzard on October 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3493810)
+
+I think Rouxxor meant in two completed turns. So the quest phase of round three.
+
+## 13 [theagesthrough56 on October 6, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3494404)
+
+> On 10/5/2018 at 2:04 AM, Rouxxor said:
+> 
+> And this is it! I manage to win another time the three scenario in a row. I will explain each game separately tomorrow but I manage to make each scenario work just according to the plan so it is not captivating.
+
+You just killed the hype, man ? I’m curious, so I challenge you to do 2 more runs and report the results here. If you still manage a clean sheet, I’ll hand you the trophy myself :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 14 [CaffeineAddict on October 6, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3494422)
+
+This week has been a write-off due to some family issues, and I'm now on holiday and separated from my collection for the next two weeks, so I might struggle to actually take part this month - which is a shame, as I love the dream chaser cycle. Hopefully I'll find the time during the final week.
+
+## 15 [Rouxxor on October 7, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3494901)
+
+> On 10/6/2018 at 1:02 PM, theagesthrough56 said:
+> 
+> You just killed the hype, man ? I’m curious, so I challenge you to do 2 more runs and report the results here. If you still manage a clean sheet, I’ll hand you the trophy myself :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]﻿
+
+Challenge accepted! I'm not sure how I will do it. Since I'm playing on OCTGN I can even get to offer you the possibility to look at the games :).
+
+## 16 [theagesthrough56 on October 7, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3494947)
+
+ 
+
+> 3 hours ago, Rouxxor said:
+> 
+> Challenge accepted! I'm not sure how I will do it. Since I'm playing on OCTGN I can even get to offer you the possibility to look at the games :).
+
+I’d love to. We could arrange that. PM me when you’re ready !
+
+## 17 [Rouxxor on October 8, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3495272)
+
+PM sent.
+
+## 18 [Yepesnopes on October 10, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3498047)
+
+Well, I finally had the time to play the first adventure, Voyage Across Beleagar!
+
+It is probably one of my favorites. The first time I played it felt such a new fresh gust of air to the game that I loved it. I played this cycle in multiplayer with a very similar deck to this deck [http://www.ringsdb.com/deck/view/62066] (I had no Eregion Survivor by then). By that time I thought it was super thematic to sail with all the Noldor. The deck performed so so so good that although is a multiplayer deck, I have decided to use it for this solo league.
+
+After one mulligan, my opening hand was quite good, if not for too few allies. I step onto the Dream-Chaser to start my voyage with Calfon...
+
+I put into play Elladan and I sent him sailing together with Erestor and Arwen to keep my fleet on course. Confidently, I sent questing with the Dream-Chaser and Cirdan counselled by Elrond, but the encounter deck had a nasty surprise for me, a Boarding party. with no means to cancel the treachery, I had to engage a filthy corsair. My worst fear. This is no solo deck and its biggest draw-back is combat. Luckily, only a Southron sailor made it onto the Dream-Chaser. His attack was taken undefended by a brave Arwen. With the Silver Harp I kept Erlohir in my hand and this finished my first turn.
+
+On the second round I put into play Elrohir. Learning from my previous turn, I kept A Test of Will and the resources to play it. I also kept Gildor Inglorion thinkin of puting him into play on turn 3. Sailing was a piece of cake for the noldor, not only was I able to stay on course, but we this round we sailed through Calm Waters. Having made enough progress, I moved onto the next quest card. Since my fleet was on-course, I could choose in between the first two quest cards and I took Cursed Mists. The Southron Sailor attacked again, but this time Elrohir was ready to defend with his 3 shields. Unfortunately, the shadow card was either going off-course or taking the attack undefended, with no healing available and Calm Waters as the active location, I decided to go off-course. With the Silver Harp I kept Gildor Inglorion in my hand and this finished my first turn.
+
+On the third turn, winds started to turn in favor of my captain, Cirdan, as he caught sight of the Light of Valinor to guide his quest. Then, I used all my resources and cards to summon Gildor Inglorion on deck. I knew I had to send a lot of my crew to the Sailing Test, so I sent the Dream-Chaser, Erestor and Elladan. Together with Calm Waters, I discarded 6 cards, just enough to get two ship's wheel symbols and get me back on course. Dodging a Water sprout, my quest moved slowly forward. Cirdan, standing, defended against the Southron sailor that was still running uncontested on the Dream-Chaser deck.
+
+On the fourth turn, Glorfindel made an appearance to rescue my crew. Together with him, he brought the Evening Star. Still sailing on Calm Waters, I had no difficulties to keep the fleet on course. Guided by the stars, my fleet encounter yet another Calm Waters. With the help of the Evening Star (there were two in the discard pile already), I tamed the Rolling Seas removing 4 threat from the staging area. With this, I made enough progress to advance to the next stage. I choosed The Star's Guidance. I could not have been more thematic :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] My fleet advanced into more Calm Waters, while Glorfindel order the sons of Elrond around to deal with the enemy corsair. Elrohir defended the attack, and Glorfindel (ready thanks to a Guardian of Rivendell that got discarded) and Elladan threw the corsair overboard. Knowing that probably nothing can stop the Dream-Chaser anymore, I ended my turn.
+
+On the fifth turn Cirdan found Narya and he brought Lindir on board. Still in Calm Waters, sailing was an easy thing. Cirdan sent all the crew to quest. A Light Cruiser appeared in the horizon, but it could not catch up with the Dream-Chaser, who progressed to the last stage of this voyage, Corsair Pursuit! Another Light Cruiser appeared in the horizon... Cirdan guided the Dream-Chaser through a Starlit Sea. With the Silver Harp I kept Galdor of the Havens in my hand and this finished my first turn.
+
+On the sixth turn Galdor came on deck. Cirdan, decided to make a run and escape the corsairs, sailed with the minimum crew. The Dream-Chaser and Glorfindel proved to be enough to keep the fleet on course. Then all the available Noldor, including Glorfindel (ready after discarding a Protection of Lorien) went questing. That was a total of 23 willpower versus an initial 14 threat in the staging area, not enough.... The pursuit of the corsairs forced the Dream-Chaser to face Rolling Seas, for a total of 18 threat in the staging area. 5 progress was barely enough to sail through the Starlit Sea and place 3 progress on the Corsair Pursuit quest (out of the 10 needed to win). Yet, Cirdan had a last ace under his sleeve, for a reason these are the Lords of the Eldar. Using 3 resources from his pool, Cirdan came forth to summon the might of all the Lords of the Eldar on-board, adding a total of 9 Willpower.
+
+The corsair fleet was never a match for the speed of the Dream-Chaser and the will of its Noldor crew...
+
+## 19 [dalestephenson on October 16, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3505186)
+
+Here's the standings after the first quest, with the number of non-core/cycle cards in the deck in parens:
+
+0 Rouxxor (0)
+0 GIBraag (0)
+0 PigsAreOurEquals (0)
+0 dalestephenson (25)
+0 Yepesnopes (30)
+0 Drainu (33)
+3 noyetsuperman (0)
+
+Only one of us was unlucky on this quest, though there's still two weeks for other participants to get unlucky. It's not too late to sign up! I will grant that some of the drama of the competition is gone, since Rouxxor and GIBraag have finished their runs with 0 tokens. All three on top have LeDenethor/Galdor/Cirdan decks with 0 outside cards, so there are no applicable tiebreakers. In the "interest" thread I specified fourth tiebreaker as whoever did worst in the previous month's league, but neglected to specify a fourth tiebreaker in the rules for this month's league. So both Rouxxor and GIBraag have clinched a tie for first, and the awards will have to be randomly chosen. Maybe others will join them!
+
+Of the nine players who have recorded their heroes so far, all nine have chosen to use Cirdan. Of the other three heroes that could have been used to supply a required hero, four picked Galdor (myself and the three leaders), and four picked LeDenethor (noyetsuperman and the three leaders). No one has picked Elfhelm yet. Time for someone to sign up with an Elfhelm/LeDenethor/Cirdan deck with no outside cards and run the table. Put Armored Destrier on LeDenethor, Windfola on Cirdan, and Bob's Your Uncle.
+
+Deadline for making the 2nd update is 11pm Eastern Oct 22nd. Final deadline (the only one that matters) is 11 pm Eastern Oct 29nd. I think I'm going to have to rely on the corsairs to kill off enemies in the final quest; I don't have much combat power.
+
+## 20 [Wandalf the Gizzard on October 16, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3505287)
+
+Am I missing something, or does @PigsAreOurEquals [https://community.fantasyflightgames.com/profile/261563-pigsareourequals/] not also have a perfect score?
+
+## 21 [dalestephenson on October 16, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3505292)
+
+PigsAreOurEquals has a perfect score so far -- GIBraag and Rouxxor have a perfect score against all three quests.  If PigsAreOurEquals earns no tokens against the final two quests, he'll tied with GIBraag and Rouxxor.
+
+## 22 [Wandalf the Gizzard on October 16, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3505432)
+
+> 1 hour ago, dalestephenson said:
+> 
+> PigsAreOurEquals has a perfect score so far -- GIBraag and Rouxxor have a perfect score against all three quests.  If PigsAreOurEquals earns no tokens against the final two quests, he'll tied with GIBraag and Rouxxor.
+
+That would do it, thanks.
+
+## 23 [Dralnu on October 17, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3505909)
+
+I recently acquired the dream-chaser cycle ,so this was the very first time I tried this 3 adventures and I built the deck without knowing exactly what I was going to find, except for reading someone who said that a lot of willpower was needed.
+
+I had to make 3 attemps of Voyage of Beleagar before winning, at the beginning I got stucked fighting the ships, but soon I realized that it was more important to run than to fight.
+
+With the knowledge of the first adventure, I managed to pass the second adventure on my first attemp, I think I was lucky because the stormcaller was only 2 progress tokens away from escaping. In the final turn I added a total of 36 willpower with the help of lords of the eldar.
+
+Finally after 16 rounds I managed to win the temple of the deceived with 0 tokens on my first attemp. Hard time for tree-beard having to block all the guardian's attacks, I was lucky to find ent-draught and warden of healing before engaging the guardian.
+
+ 
+
+PS: sorry for my english because it's not my mother language.
+
+Edited October 16, 2018 by Dralnu
+
+## 24 [PigsAreOurEquals on October 18, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3507400)
+
+@Wandalf the Gizzard [https://community.fantasyflightgames.com/profile/318371-wandalf-the-gizzard/] Haha thanks for the confidence in me but I don't think I will keep a perfect score and for sure my deckbuilding is not on the high level of @Rouxxor [https://community.fantasyflightgames.com/profile/308704-rouxxor/]. I will be happy if I find time to complete the challenge in time.
+
+## 25 [Rouxxor on October 18, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3507404)
+
+Don't be that negative. Your build seem as strong as mine. I'm sure you can take down those quest. In fact I think you already to the worst part. The only one where a boat is likely to sail you early. You probably can manage to win flight on the stormcaller turn 3 like we did (or win it on the long term, just calculate it right and stick to the plan you choose since you need to usually commit fully to your plan). And temple is the easiest part: it is only about setting up before making any relevant move (I do travel discover what there is around the island map to keep me busy, just stay out of any temple until you draw all your deck).
+
+I forget to post it but I do another 2 win on the two first scenario and still no loss. @theagesthrough56 [https://community.fantasyflightgames.com/profile/325634-theagesthrough56/] can testify :). I probably won't finish the 2 runs he ask me to do. Because there is so many things to do and those games I playing this months like very similar one to another ^^.
+
+## 26 [PigsAreOurEquals on October 18, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3507466)
+
+> 2 hours ago, Rouxxor said:
+> 
+> Don't be that negative. Your build seem as strong as mine. I'm sure you can take down those quest. In fact I think you already to the worst part. The only one where a boat is likely to sail you early. You probably can manage to win flight on the stormcaller turn 3 li﻿ke we did (or win it on the long term, just calculate it right and stick to the plan you choose since you need to usually commit fully to your plan). And temple is the easiest part: it is only about setting up before making any relevant move (I do travel discover what there is around the island map to keep me busy, just stay out of any temple until you draw all your deck).
+> 
+> I forget to post it but I do another 2 win on the two first scenario and still no loss. @th﻿eagesthrough56 [https://community.fantasyflightgames.com/profile/325634-theagesthrough56/] can testify﻿ :). I probably won't finish the 2 runs he ask me to do. Because there is so many things to do and ﻿those games I playing this months like very similar one to another ^^.
+
+Seems you were right, I pushed past the stormcaller in a yolo quest on stage 4.  So one more to go.
+
+## 27 [dalestephenson on October 18, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3507514)
+
+So this got me curious how different the three decks are, since they feature the same heroes.  Here's the Ally/Attachment/Event breakdown:
+
+Rouxxor: 28/6/16
+
+GIBraag: 27/7/16
+
+PAOE:  25/11/14
+
+Proportions are similar, though PAOE has notably more attachments.  Here's the cards all three decks have in common:
+
+1x Ceorl (2x for PAOE)
+
+2x Erebor Hammersmith
+
+1x Faramir (2x for PAOE & GIBraag)
+
+3x Gandalf
+
+1x Gleowine (2x for Rouxxor and PAOE)
+
+1x Glorfindel
+
+1x Guardian of Rivendell (2x for PAOE)
+
+1x Henamarth Riversong
+
+2x Snowbourn Scout (3x for Rouxxor and GIBraag)
+
+1x Narya (3x for PAOE)
+
+2x Steward of Gondor
+
+1x Unexpected Courage
+
+2x A Test of Will
+
+1x Dwarven Tomb
+
+2x Sneak Attack
+
+2x Stand and Fight (3x for Rouxxor and GIBraag)
+
+1x Galadhrim's Greetings (2x for Rouxxor and PAOE)
+
+So exactly 50% of the deck is identical between the three decks.
+
+Here's the cards that two of the decks had in common
+
+2x Imladris Caregiver (0x GIBraag)
+
+1x Ioreth (2x GIBraag, 0x PAOE)
+
+2x Rhovanion Outrider (3x Rouxxor, 0x GIBraag)
+
+1x Robin Smallburrow (0x PAOE)
+
+3x Sailor of Lune (0x PAOE)
+
+1x Windfola (0x PAOE)
+
+1x Armored Destrier (2x PAOE, 0x Rouxxor)
+
+1 Protector of Lorien (2x PAOE, 0x Rouxxor)
+
+2x Captain's Wisdom (3x Rouxxor, 0x PAOE)
+
+2x Hasty Stroke (0x PAOE)
+
+As you can see, PAOE is often the odd man out.  Rouxxor and GIBraag shared 37 cards in common, or 74% of their deck.
+
+Here's the cards that only one of the three decks thought were worth including:
+
+3x Ered Luin Miner (Rouxxor)
+
+2x Miner of the Iron Hills (PAOE)
+
+2x Northern Tracker (PAOE)
+
+2x Dwarven Sellsword (GIBraag)
+
+1x Knight of the White Tower (GIBraag)
+
+3x Lindon Navigator (GIBraag)
+
+Lindon Navigator was called out as the MVP in sailing quests by GIBraag, he Galdored cards to get them in the opening hand.
+
+1x Celebrian's Stone (Rouxxor)
+
+1x Rod of the Steward (PAOE)
+
+1x Will of the West (Rouxxor)
+
+3x Heed the Dream (PAOE)
+
+2x Valiant Sacrifice (PAOE)
+
+2x Tides of Fate (GI Braag)
+
+1x Justice Shall Be Done (GIBraag)
+
+So what do the variations mean about how much a deck constructs itself, given the same heroes and a self-imposed limitation to single core plus single cycle?  The identical portion was 50%, Rouxxor devoted 10% of his deck to cards the other two didn't use at all, GIBraag devoted 18% of his deck to such cards, and PAOE devoted 20%.  I think that's significant variation, but YMMV.
+
+## 28 [PigsAreOurEquals on October 19, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3508424)
+
+Wow that's a thorough analysis for just 3 decks. Applause to dalestephenson. Some of the variation may be explained because I only own 3 packs of the Dreamchaser cycle (FotS, Thing in the depths & temple of the deceived). If I had access to the cards from the other 3 packs other cards would have also seen play in my deck (e.g. Ioreth) and others would have been cut or reduced to fewer copies.
+
+I usually pick up packs based on what's available at a discount.
+
+## 29 [theagesthrough56 on October 19, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3508425)
+
+> 22 hours ago, Rouxxor said:
+> 
+> Don't be that negative. Your build seem as strong as mine. I'm sure you can take down those quest. In fact I think you already to the worst part. The only one where a boat is likely to sail you early. You probably can manage to win flight on the stormcaller turn 3 like we did (or win it on the long term, just calculate it right and stick to the plan you choose since you need to usually commit fully to your plan). And temple is the easiest part: it is only about setting up before making any relevant move (I do travel discover what there is around the island map to keep me busy, just stay out of any temple until you draw all your deck).
+> 
+> I forget to post it but I do another 2 win on the two first scenario and still no loss. @theagesthrough56 [https://community.fantasyflightgames.com/profile/325634-theagesthrough56/] can testify :). I probably won't finish the 2 runs he ask me to do. Because there is so many things to do and those games I playing this months like very similar one to another ^^.
+
+Yes I can attest. Very convincing wins, including one against Flight of The Stormcaller where he drew a terrible hand. He made me think the quests are too easy for the league, as many participants may end up with the perfect score.
+
+## 30 [dalestephenson on October 19, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3508594)
+
+In the September league two players (including the winner) upped the ante by playing against Nightmare versions of the quest.  For some players (typically not me), the normal versions of practically every quest are too easy.  All three quests this month have nightmare versions, but so far no one has felt compelled to beat them.
+
+I think with this particular set of quests, the issue isn't just the raw difficulty level but the congruence of types -- two are sailing quests and both can be won by high-willpower rush, something Noldor decks are well suited for.  Temple of the Deceived isn't the same sort of quest, but but doesn't require early boss engagement.  I think next month's quests may be more challenging in this respect.
+
+But ultimately the point in the league is just to have an excuse to play some quests, so I'm OK with the quests being beatable.
+
+## 31 [Yepesnopes on October 20, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3509492)
+
+If I have the time, I will participate again and modify my Noldo deck to try a run in nightmare mode.
+
+I will just hate puting steward of gondor in my noldo deck though...
+
+## 32 [dalestephenson on October 23, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3512439)
+
+One week left to go, with the Drowned Ruins as the final quest.
+
+Six of us managed to post our results against Flight of the Stormcaller in time for the deadline, and made it look easy:
+
+0 GIBraag (0)
+0 PigsAreOurEquals (0)
+0 Rouxxor (0)
+0 dalestephenson (24)
+0 Yepesnopes (30)
+0 Drainu (33)
+
+Since we also made it through the first sailing quest unscathed, the current standings through two rounds are the same:
+
+0 GIBraag (0)
+0 PigsAreOurEquals (0)
+0 Rouxxor (0)
+0 dalestephenson (24)
+0 Yepesnopes (30)
+0 Drainu (33)
+
+Noldor allies may not be terrific combat characters, but they can sail like nobody's business.  Next up -- Noldor resources pay Corsairs to handle combat for them.
+
+## 33 [theagesthrough56 on October 29, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3518630)
+
+Just finished my run at 1 valar token. Voyage across Belegaer caught me pants down with a well-timed treachery in the first turn that put a corsair right up my grill, when all my heroes were exhausted. He would have killed one of them, so I reset. I may have survived, since this quest isn’t that hard, but I didn’t want to take a chance at playing on just to be defeated at the end.
+
+Flight of the Stormcaller was epic. I had to overcome a very bad start and I had little hope. It went down the wire, and I just blew past the Stormcaller with Lords of the Eldar at last.
+
+Temple of the Deceived was pure turtling, but I really like the quest design. Looking forward to the Nightmare quest, which I have.
+
+## 34 [dalestephenson on October 30, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3518937)
+
+Drowned Ruins didn't present any obstacles, as we all took it slow this time:
+
+0 Rouxxor (0)
+0 GIBraag (0)
+0 PigsAreOurEquals (0)
+0 theagesthrough56 (29)
+0 yepesnopes (30)
+0 Drainu (33)
+0 Velensk (34)
+0* dalestephenson (25)
+
+
+I'll put an asterisk by my zero score and listing me last, because I quit my first attempt near the Grotto after realizing I had ignored two important rules:
+
+1) extra progress goes onto locations in staging
+2) cursed temple gives the Guardian -50 engagement cost
+
+This is what happens when you think you remember the special rules, but don't. Since I moved onto a Cursed Temple blind in my first turn, I would have lost if I engaged the Guardian then, except that if I had placed extra progress and realized that it'd engage the Guardian I wouldn't have moved there blind in the first place. I just restarted because I had botched the rules so badly, but maybe I should have taken a token as well. What do you think?
+
+At any rate, it doesn't affect the prizes. Here's the cumulative tokens for the players who finished all three quests:
+
+0 Rouxxor (0)
+0 GIBraag (0)
+0 PigsAreOurEquals (0)
+0* dalestephenson (25)
+0 yepesnopes (30)
+0 Drainu (33)
+1 theagesthrough56 (29)
+2 Velensk (34)
+
+With Heirs of Numenor coming up, I doubt we'll see three people tie for first with no outside cards or heroes next month. As I didn't specify a fourth tiebreaker, I'll randomly select the winners:
+
+1st Place -- Rouxxor. Rouxxor gets to choose the cycle for December's league.
+2nd Place -- PigsAreOurEquals. PAOE gets to choose a quest from the chosen cycle that we will play.
+3rd Place -- GIBraag. GIBraag gets to choose a quest from the chosen cycle *not* to play (excluding the chosen quest).
+Last Place -- Velensk. Velensk gets to choose a hero or player card from outside the cycle who does not count against the tiebreakers.
+
+I hope you enjoyed playing. Next month's quests will be Into Ithilien, Steward's Fear, and Druadan Forest. You must choose at least one of Tactics Beregond, Leadership Boromir, Hirluin the Fair, and Mirlonde as one of your heroes.
+
+## 35 [Zura on October 30, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3519471)
+
+> 7 hours ago, dalestephenson said:
+> 
+> Drowned Ruins didn't present any obstacles, as we all took it slow this time:
+> 
+> 0 Rouxxor (0)
+> 0 GIBraag (0)
+> 0 PigsAreOurEquals (0)
+> 0 theagesthrough56 (29)
+> 0 yepesnopes (30)
+> 0 Drainu (33)
+> 0 Velensk (34)
+> 0* dalestephenson (25)
+> 
+> 
+> I'll put an asterisk by my zero score and listing me last, because I quit my first attempt near the Grotto after realizing I had ignored two important rules:
+> 
+> 1) extra progress goes onto locations in staging
+> 2) cursed temple gives the Guardian -50 engagement cost
+> 
+> This is what happens when you think you remember the special rules, but don't. Since I moved onto a Cursed Temple blind in my first turn, I would have lost if I engaged the Guardian then, except that if I had placed extra progress and realized that it'd engage the Guardian I wouldn't have moved there blind in the first place. I just restarted because I had botched the rules so badly, but maybe I should have taken a token as well. What do you think?
+> 
+> At any rate, it doesn't affect the prizes. Here's the cumulative tokens for the players who finished all three quests:
+> 
+> 0 Rouxxor (0)
+> 0 GIBraag (0)
+> 0 PigsAreOurEquals (0)
+> 0* dalestephenson (25)
+> 0 yepesnopes (30)
+> 0 Drainu (33)
+> 1 theagesthrough56 (29)
+> 2 Velensk (34)
+> 
+> With Heirs of Numenor coming up, I doubt we'll see three people tie for first with no outside cards or heroes next month. As I didn't specify a fourth tiebreaker, I'll randomly select the winners:
+> 
+> 1st Place -- Rouxxor. Rouxxor gets to choose the cycle for December's league.
+> 2nd Place -- PigsAreOurEquals. PAOE gets to choose a quest from the chosen cycle that we will play.
+> 3rd Place -- GIBraag. GIBraag gets to choose a quest from the chosen cycle *not* to play (excluding the chosen quest).
+> Last Place -- Velensk. Velensk gets to choose a hero or player card from outside the cycle who does not count against the tiebreakers.
+> 
+> I hope you enjoyed playing. Next month's quests will be Into Ithilien, Steward's Fear, and Druadan Forest. You must choose at least one of Tactics Beregond, Leadership Boromir, Hirluin the Fair, and Mirlonde as one of your heroes.
+
+Ouch, tackling battle and non-battle quests with the same deck will require some masterful deckbuilding. Especially considering how willpower-demanding SF can be. I have this cycle for a change so totally going to play this time.
+
+## 36 [dalestephenson on November 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3522159)
+
+Rouxxor has chosen Angmar Awakens cycle, and Velensk has chosen Tactics Eowyn for our honorary out-of-cycle card.  PigsAreOurEquals now gets to choose a quest from Lost Realm/Angmar Awakens that we will play.
+
+## 37 [PigsAreOurEquals on November 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3522179)
+
+I really like Across the Ettenmoors, so I will pick that one to be played.
+
+Even if this means i give up the opportunity to be hated for picking Battle of Carn Dum?.
+
+## 38 [dalestephenson on November 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3522185)
+
+Maybe GIBraag will exclude Carn Dum.  I can always hope!
+
+## 39 [Rouxxor on November 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3522189)
+
+Carn Dum/Eriador are my dream team. I'm most afraid of Mount Gram that I don't know how to play.
+
+## 40 [dalestephenson on November 2, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3522193)
+
+I last played through Angmar cycle with my Dori and the Damage fellowship (Dwarven mining, Argalad, and every direct damage card there was).  It took down a lot of tough quests easily, but Mount Gram gave it fits -- I had to completely remake the decks to get through.
+
+Mount Gram isn't a tough quest in general, but it really would challenge some fixed decks!
+
+## 41 [PigsAreOurEquals on November 5, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3525141)
+
+Sorry Rouxxor I still have nightmares about Carn Dum. Dread Realm is no walk in the park either. Angmar Awakened is a tough cycle, so I expect a very different outcome than the mostly 0 Favour of the Valar that we had in October.
+
+## 42 [dalestephenson on November 6, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3525923)
+
+GI Braag has chosen to exclude Wastes of Eriador. The randomly selected quests are Intruders in Chetwood and The Dread Realm, to go with the previously selected Across the Ettenmoors. Each player must use at least one of the following heroes: Tactics Aragorn, Halbarad, Dori, Arwen.
+
+## 43 [Rouxxor on November 6, 2018](https://community.fantasyflightgames.com/topic/283843-solo-league-2-october-dreamchaser-cycle/?do=findComment&comment=3526165)
+
+?
+

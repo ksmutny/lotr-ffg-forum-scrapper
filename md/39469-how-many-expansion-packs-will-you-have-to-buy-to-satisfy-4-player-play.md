@@ -1,0 +1,64 @@
+# [How many expansion packs will you have to buy to satisfy 4 player play?](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/)
+
+## 1 [Fatboy Chubby on December 12, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=395494)
+
+FFG recommends the purchase of two master sets for 3-4 player play. But does this mean you will need 2, 3 or 4 expansion packs every month to sustain 4 player play?
+
+Regards,
+
+Fatboy Chubby
+
+## 2 [qwertyuiop on December 13, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=395594)
+
+LCG monthly expansions are being released with three copies of  a given card. I suspect this will remain the same for LotR.  Core Sets tend to be seeded differently. I'm planning on buying at least two core sets to sustain my own play.  With the four different spheres or factions or whatever, you may be able to get by with one copy of a monthly expansion if your group is going to pick a sphere and stick with it.  Depending on how the game plays, this may not be the case. It's probably a good bet to plan on getting an expansion per two players.  However, it's difficult to tell.  Your group may love the game and buy their own core sets and, by extension, their own expansions. 
+
+## 3 [Fatboy Chubby on December 13, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=395631)
+
+Thats great advice thankyou!
+
+Unfortunately I dont belong to a gaming group and my wife is showing little interest. I go back all the way to the heady days of TSR D&D IN THE 80'S and havent played anything much for years. Now I have two very small boys and am wanting to collect things in cupboards for when they are older and thus become the absolutely coolest Dad in the whole wide world! The real attraction of this is that I can play it solo and thus enjoy it before they in turn are old enough to play as well.
+
+But, I reckon you're right, buy two of everything for the time when they are old enough to want to play it. It will mean if I only open one set for solo play, I will have an unopened set in years to come that if they dont get into it may still be worth at least what I paid for it!?
+
+## 4 [jhaelen on December 14, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=396034)
+
+Fatboy Chubby said:
+
+Now I have two very small boys and am wanting to collect things in cupboards for when they are older and thus become the absolutely coolest Dad in the whole wide world!
+Now this is just a guess, but digging out a bunch of dusty cards from a decade-old game will most likely not be considered to be made of cool by the next generation. I mean, they'll grow up with fully immersive 3D holodeck-style games which put them in the place of the heroes of the fellowship traveling across Middle-earth... gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+## 5 [Fatboy Chubby on December 14, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=396039)
+
+ 
+
+You have been reading far too much fantasy and science fiction if you think that there will ever be a 'fully immersive 3D holodeck-style game'! I mean come on, just plug in and play...! Seriously!!! But, granted if there ever were it would be cool!
+
+ 
+
+Also slagging a 'real' card, card game in future generations wont happen either. Kids will think its retro cool and will love the tactile nature of it. Just like we do! Also, just because a game is old does not mean it won't be popular...ever heard of chess? It's only a few thousand years old I know but...!
+ 
+
+## 6 [Darksbane on December 14, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=396153)
+
+Barring some rare exceptions your kids will hate everything you like and like everything you hate. So your best bet is to have the game and pretend it is the worst thing ever and forbid them from playing it. gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif]
+
+## 7 [qwertyuiop on December 15, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=396347)
+
+Darksbane said:
+
+Barring some rare exceptions your kids will hate everything you like and like everything you hate. So your best bet is to have the game and pretend it is the worst thing ever and forbid them from playing it. gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif]
+
+
+
+Your avatar makes this statement funnier somehow.
+
+## 8 [jhaelen on December 16, 2010](https://community.fantasyflightgames.com/topic/39469-how-many-expansion-packs-will-you-have-to-buy-to-satisfy-4-player-play/?do=findComment&comment=396772)
+
+Darksbane said:
+
+Barring some rare exceptions your kids will hate everything you like and like everything you hate. So your best bet is to have the game and pretend it is the worst thing ever and forbid them from playing it. gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif]
+
+
+
+Now, THAT might actually work gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+

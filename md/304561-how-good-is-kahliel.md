@@ -1,0 +1,36 @@
+# [How good is Kahliel?](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/)
+
+## 1 [John Constantine on January 15, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872250)
+
+Harad didn't end up developing into much of anything, just a hero and a bunch of cards to go with that hero. 
+
+I'm curious - how good is the Harad thing? Anybody tried it here to any success?
+
+Edited January 15 by John Constantine
+
+## 2 [pmdoug on January 15, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872292)
+
+Kahliel and the Harad allies are quite good, but you need to generate a lot of cards and resources to really get them going. Steward of Gondor is unfortunately the go to solution for resources, and if you run that on Kahliel, then Harad works wonderfully. If you'd prefer to avoid that, then Captain's Wisdom, Storm Comes, Theodred, Elrond, etc, can help pay for the 5 cost allies. Sneaking them into play with Elfstone or Send for Aid is also a good work around. Every unused Harad card in your hand becomes a potential ready, so Peace and Thought is a great way to fuel Kahliel. 
+
+Harad decks tend to take a bit to set up, but once you have Jubayr and/or Firyal out, then things click into place. 
+
+But I honestly don't love the archetype that much because the variations are pretty limited. Even if you solve the resource and draw problem in different ways, there are just too few Harad cards for you to do much experimentation and personalization. I'm sure others might disagree, but there is a sort of prebuilt feel to Harad-Kahliel decks. 
+
+## 3 [player3351457 on January 15, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872294)
+
+I ran kahliel along with elrond and arwen in a fellowship contract deck. If you can get the big three allies in, he is a big help for readying purposes. I'd put him at mid-tier.
+
+## 4 [General_Grievous on January 16, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872441)
+
+He's not bad, his unique followers  are amazing and I run them in most of my decks. I usually have Vilya, Send for Aid or Timely Aid, Caldera and nothing like dropping a monster Ally for free who can help out in different ways. As mentioned they are amazing with the fellowship contract and best if you can find a way to get them for free it's best. Otherwise they take awhile to get going even with Steward. The non-unique allies help support the archetype if you want to go full Harad. But my recommendations is to not worry about running their Hero and just run the three 5 cost allies in decks that can cheat them into play and then watch your game change. (Discarding a shadowcard, direct damage anywhere and scouting/tossing an encounter card are huge effects especially since they get that on top of what you use them for already.
+
+## 5 [Halberto on January 16, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872583)
+
+The big expnsive unique allies are among the best in the entire game and can be totally played outside an harad deck. The small cheap  ones are good in harad deck for stats boost and cost reduction.  Kahliel is quite good. His ability to ready a harad character is very useful and his attachment allows to recycle unnecessary copies of harad allies to fuel the engine.  What I appreciate is the big deck building versatility. You can choose any second and third hero and a big portion of your deck to combine with the harad cards. I feel the archetype miss one or two cards to be really great but, yes, it's already good as it is.
+
+## 6 [Valhalla Gaming on January 16, 2020](https://community.fantasyflightgames.com/topic/304561-how-good-is-kahliel/?do=findComment&comment=3872591)
+
+It's a super fun archetype. While I don't think he is as broken a you can make a deck, you can easily build a deck that is churning out monstrous allies with consistency. All of the Harad allies are some of the most incredible cards in the game, and while I'm partial to Faryal, they all have instances in which they thrive. 
+
+I would describe the archetype as perfect for the super hard normal mode encounters, but probably not quite up to snuff for most nightmare encounters. 
+

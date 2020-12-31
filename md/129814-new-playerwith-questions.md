@@ -1,0 +1,226 @@
+# [New Player...With Questions](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/)
+
+## 1 [Othniel on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1379899)
+
+Hello all. I'm going to be picking up the core set to this game shortly, and I have a few questions. Please bear with me, as I am a bit confused and have a lot of information that I've gleaned from different message boards and blogs bouncing around in my head. I have played CCGs in the past (Decipher's Star Wars and LOTR games), loved them, and spent hours deck-building, so I understand the basic principles.
+
+ 
+
+I mainly plan on playing either solo, or with 2-3 friends of mine who are also avid board/card/tabletop gamers, so I guess what I'm wondering is this: What do I need to be able to play each scenario with up to 4 players? For example, I understand that the Core Set comes with 4 pre-made 30-card decks. I've read online in a few places that some people will build 2 decks out of those. What happens when I start adding stuff from the Mirkwood or other sets? Do I need multiples of each adventure pack (essentially 1 for each deck to pull out the best cards for a particular quest) if I want to play those quests from those packs? Would it be better once I get my friends hooked on the game, to have them buy their own core sets and adventure packs so that they can build their own decks, or will there be enough cards if I eventually buy all 6 Mirkwood packs to build 3-4 decks? Also, are there any adventure packs or expansions I should either skip, or buy last for whatever reason?
+
+ 
+
+I do want to keep my costs down as best I can. Having played two CCGs in the past, I know how much money one can sink into buying cards. What drew me to this game is A) I miss playing a card game and B) I love LOTR. Any additional advice for someone getting into the game would be welcome as well.
+
+ 
+
+Thanks in advance!
+
+Edited December 24, 2014 by Othniel
+
+## 2 [MyNeighbourTrololo on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1379912)
+
+To play a scenario with up to 4 players all you need is this scenario.
+
+ 
+
+When you start adding stuff from the Mirkwood or other sets - your options increase, both in terms of deckbuilding and choosing a quest. With enough expansions you can actually build a legal(according to the rulebook) 50 card deck.
+
+ 
+
+You don't need multiples of each adventure pack.
+
+ 
+
+Well, if each of you and your friends will buy their own card sets - it would be neat, as your deckbuilding options will be independent (almost) from each other, but it's totally not required. I'm, for example, the only person in my playing group owning LotR LCG collection and we constantly play 3-4 player games without a problem.
+
+ 
+
+There are no expansions you should skip in my opinion. You can always check the cards of sets online and only buy those you feel you need, but remember that each set contains at least 1 quest.
+
+ 
+
+LotR LCG is a LCG, not CCG. There is no random card inclusion, you always know what you'll get in the pack with a 100% precision. It's much less of a money sink than any CCG ever. Even I could afford it eventually, and I live in a country with extremely inflated national currency.
+
+ 
+
+My advice: get core set, play it, get the feel of the game and if you're feeling it's good and right with you - buy at least entire Mirkwood cycle ASAP.
+
+Edited December 24, 2014 by MyNeighbourTrololo
+
+## 3 [Nerdmeister on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1379913)
+
+Welcome to the game.
+
+The core set comes with a certain spread of different player cards. Alot will have 3 copies of each, some will have 2 copies and a few only have 1 copy (excepting Gandalf who has the super-istari power of even more cards). Since you can have 3 copies of a single card by title in any one deck, some people have opted to buy a second core set to fill out some of the blanks. A few have gone for 3 copies; personally I got 3 copies that I shared with a friend and we proxied the remaining blanks.
+
+As for the adventure packs, they each come with 3 copies of each player card (though only 1 copy of hero cards) which is quite enough for personal deck-building. And unless you and your friends plan on having multiples of the same card in all the decks around the table, one copy of each adventure pack should be enough (though if your mates wanna get into the game more they might consider investing themselves oc).
+
+My suggestion, based on what you´re writing, would be 2 core sets and just 1 of each adventure pack.
+
+As for skipping out on adventure packs and expansion, I´d say to get the things chronologically (if possible) and don´t skip any; all packs have something to offer and all quests have their fans (or lack there-off).
+
+## 4 [Olorin93 on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1379959)
+
+Glad to have you here!
+
+ 
+
+As has already been said, you don't need to buy several copies of each scenario. If you plan to play 3-4 players, however, you will most likely want at least 2 core sets.
+
+ 
+
+My play group of 4 people made do with only 2 of us collecting the cards for quite a while before a third started buying his own cards (the fourth one is my fiancée, so we share the cards fine). It has worked because we all favour different cultures; I'm usually an elf/dúnedain player while my friends favour Rohan and Gondor and my fiancée dwarves, respectively.
+
+## 5 [Trialus on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380175)
+
+I'd also echo what has been said above (including buying in order, getting Mirkwood cycle pretty quickly after core set, not skipping sets) but with one caveat (hinted at by Olorin93 above)...Just one of everything can get tight for constructing multiple decks if everyone is trying to stick to the same theme.  For instance, even with a lot of the expansions building 3 dwarf decks could require some creativity and compromises in theme.  
+
+ 
+
+Oh yeah...I know that you didn't ask, but if you are looking for ways to build a collection quickly/affordably, Ebay commonly has people selling large collections for decent prices and coolstuffinc or minature market always have things well below retail prices (and both offer free shipping for orders > $100).  Bigger up front investment, but can save money in long run once you have played just core a bit and are sure you are going to continue the game.
+
+ 
+
+Oh Oh yeah...you probably have already read about how difficult the game can be.  Don't be afraid of easy mode when you are new.  Still feels challenging and thematic, but can take the edge off of the punishment while you are still getting your feet under you (kept me in the game long enough to start learning the subtleties..still use it from time to time for more difficult quests, weaker, but fun, decks or just when I don't feel like getting crushed).
+
+ 
+
+Have fun, it is a really cool game!
+
+## 6 [SauronTheGreat on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380195)
+
+Sense you are low on funds, like I am, I wouldn't worry about getting multiple of each set.  first, go through and get one of as much or the mirwood and dwarrowdelf as you can afford.  maybe saga hobbits also.  I personally have thought this same thing through and came to the conclusion that it is much better to get one of each quest then 2 of half of them.  mainly because of the max of 3 of the same cards in a deck and unique.
+
+## 7 [Authraw on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380561)
+
+Welcome to the addiction!
+
+ 
+
+My wife and I play this game 2-player all the time. We share a complete card pool consisting of 2 core sets and 1 of every other expansion/adventure pack. We have no problems creating paired decks that way--typically she takes two spheres and I take the other two, although there's plenty of room for us to get fancy with tri-sphere or mono-colour decks nowadays when we want to.
+
+ 
+
+In the same vein, we've played 4 player quite successfully from a single pool with each player picking one sphere and building a mono-colour deck with it. It gets a little dicey when people start wanting to build mixed-colour decks because there aren't enough of the key cards for everyone to feel like they have enough, but it's still definitely doable as long as you do some coordinating about which decks need which cards.
+
+ 
+
+You could definitely run with only one copy of the core set for awhile, but we really enjoy having more copies of some of the key cards, and three of some of the others. One Unexpected Courage or two Feints never feel like enough. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+I'd actually break tradition here and recommend picking up the first Hobbit box (Over Hill and Under Hill) early on, perhaps as your first expansion. It includes a few player cards with a lot of bang-for-the-buck to make Tactics a little more viable on its own (Beorn hero, Foe-Hammer), some readying to help compensate for only having one Unexpected Courage in the core (Cram), a key aggro card (A Very Good Tale), and a good set of cards to start making Dwarven synergy fun. The quests are a little difficult, but interesting, and it gives you 3 quests to start playing so you have lots to try early on.
+
+ 
+
+From there you can continue on to the second Hobbit box if you liked the first half (or want a few more Dwarves) or move forward with either Khazad-dum and Dwarrodelf (if you are loving your dwarf decks and want them to really shine) or Shadows of Mirkwood (which have a good mix of quests and a lot of pretty good heroes, with some simple but useful player cards). There's not a single pack that I would plan on skipping altogether, everything has something worth having.
+
+ 
+
+Note that Heirs of Numenor marks a bit of a paradigm shift in the way the quests are written, and the difficulty ramps up considerably as a result. Some of the things that previous quests have taught you will no longer work in Heirs of Numenor. Just be ready for that when you get there, it can be off-putting.
+
+ 
+
+Have fun!
+
+## 8 [Catastrophic09 on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380571)
+
+Totally agree with above posts, you only need one copy of each little pack and would maybe want two copies of the core set just for added counters and an increase in key cards for deck building.
+
+I would suggest looking at Cool Stuff Inc. Because they have low prices especially if you spend 100+ to get free shipping which leads to my other point.. You really want to buy several Adventure Packs from the beggining because it not only gives you player cards to build decks with it also gives you quests to play.
+
+The Core Set is the "worst" thing about this game. The starter decks are terrible, one of the quests is a intro to the game one while the last is impossibly difficult, leaving only one true quest to play from the core and super weak player decks. So that's why I suggest buying a couple AP's for more quests and to build stronger decks.
+
+Also try to start with Mirkwood cycle since difficulty was lower back then and it makes most sense to start there.
+
+I too love LOTR and games and this game is so phenomenally amazing I can't suggest it enough!! Get a core set, a couple AP's from the Mirkwood cycle so you have a few quests to play with and more player cards to build decks around and that will give you a feel for how fun this game is and if you want to invest more. Happy gaming, and I hope you have a blast getting into this!! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 9 [Authraw on December 24, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380612)
+
+> The Core Set is the "worst" thing about this game. The starter decks are terrible, one of the quests is a intro to the game one while the last is impossibly difficult, leaving only one true quest to play from the core and super weak player decks. So that's why I suggest buying a couple AP's for more quests and to build stronger decks.
+
+That's a really relevant point, the core set really isn't a good introduction to the game. The first quest feels like a tutorial. It's a decent tutorial, but it doesn't provide that much interest once you've cracked it.
+
+ 
+
+The second quest is pretty fun, but it teaches you some things that turn out to be pretty limiting later on. I remember for the longest time firmly believing that you had to pick three heroes with a starting threat less than thirty in order to succeed at this game. That turns out not to be true, but given the starting pool it's a good rule of thumb for the second quest.
+
+ 
+
+The third quest is very difficult without a bigger card pool--although it feels more doable with four players.
+
+ 
+
+You'll also probably need to do some deckbuilding to beat the second and third scenarios--the "recommended" decks don't usually cut it.
+
+ 
+
+You're probably going to want to expand the number of quests to which you have access early on so you don't get bogged down on the first three. That way you'll get a better introduction into all this game has to offer.
+
+## 10 [Othniel on December 25, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380837)
+
+Thanks for all the advice, folks. All this information really helps. I do plan on picking up all of the Mirkwood cycle packs, and then figuring out where I want to go from there (I'm tentatively looking at picking up both Hobbit expansions next, as I was a big fan of playing an all-hobbit deck in the LOTR TCG). I'm glad to hear that I don't need more than one of each pack (except maybe the core set sometime in the future). The CCG business model for forcing players to buy random booster packs was really annoying to a more casual-leaning player like myself.
+
+## 11 [Khamul The Easterling on December 25, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380873)
+
+> (I'm tentatively looking at picking up both Hobbit expansions next, as I was a big fan of playing an all-hobbit deck in the LOTR TCG).
+
+The 2 Hobbit expansions will get you nothing in terms of hobbits.  It still is a good buy but it supports dwarfs heavily.  If you want a hobbit deck, take a look at the black riders saga expansion.  That has lots of Hobbit stuff in it.  
+
+ 
+
+Sounds like you have a good plan.  Have fun!
+
+Khamul
+
+## 12 [Othniel on December 25, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1380876)
+
+>  
+> 
+> > (I'm tentatively looking at picking up both Hobbit expansions next, as I was a big fan of playing an all-hobbit deck in the LOTR TCG).
+> 
+> The 2 Hobbit expansions will get you nothing in terms of hobbits.  It still is a good buy but it supports dwarfs heavily.  If you want a hobbit deck, take a look at the black riders saga expansion.  That has lots of Hobbit stuff in it.  
+> 
+>  
+> 
+> Sounds like you have a good plan.  Have fun!
+> 
+> Khamul
+> 
+>  
+
+Oh, well that's good to know! Thanks.
+
+## 13 [SauronTheGreat on December 25, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1381159)
+
+Dwarves are SOOOO much more powerful than hobbits, if power is what your looking for.
+
+## 14 [Othniel on December 28, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1383420)
+
+I figured some of you folks might like an update. I got the core set + two of the Mirkwood cycle adventure packs for Christmas, and ordered the other 4 adventure packs. So far, I've played two games with just the core set so far (I had a blast - took me back to playing Decipher's LOTR trading card game. I may have to dig out my old cards somewhere and look through them for fun).
+
+ 
+
+There are a couple things I noticed right away that I love: 1) The artwork on the cards is generally good-to-amazing, captures a great Tolkien feel to me, and 2) The game seems to be based on the books, rather than the movies (this is excellent).
+
+ 
+
+I'll probably pick up the first Hobbit expansion next month and the second in February (I figure I can budget either two adventure packs or one expansion a month and not strain my budget too much). Even though I love Hobbits and look forward to the Black Riders saga expansion, I've decided to go through The Hobbit, and possibly the Dwarrowdelf cycle next (because Moria is just plain awesome). The problem I have noticed is that the Khazad-Dum expansion seems hard to find unless one wants to pay considerably more money than other expansions. Is there a time frame that Fantasy Flight follows for reprinting sets?
+
+ 
+
+I am also wondering what print-on-demand sets are, and if they are worth looking at sometime in the future?
+
+## 15 [TwiceBorn on December 28, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1383439)
+
+As of today, the "upcoming" section of the website suggests that the Kazad-Dum and several other out-of-print sets are currently "on the boat," so FFG should receive them in the next few weeks… and retailers therefore should have them anywhere between 2-6 weeks from now, depending on how long things are held up in customs, etc.? The timeframe is my best guess, but K-D definitely will be back in stores soon… just keep an eye on the "upcoming" section of the site: http://www.fantasyflightgames.com/edge_upcoming.asp.  [http://www.fantasyflightgames.com/edge_upcoming.asp.%C2%A0]
+
+Edited December 28, 2014 by TwiceBornh
+
+## 16 [gandalfDK on December 28, 2014](https://community.fantasyflightgames.com/topic/129814-new-playerwith-questions/?do=findComment&comment=1383481)
+
+Currently the Dwarrowdelf cycle will be almost outof reprint except for The Long Dark. (I have been waiting for The Redhorn Gate for ages, it went in reprint in September...) The Against the Shadowcycle is now up for reprint. So I don't know, but these repribtthings don't seem to have the attention of FFG that much.
+
+Print on demand: These are AP-like packs featuring 1 quest specially designed for Gen-Con or the Fellowshipevent. They do however NOT feature any playercarda. Usually these scenarios are rated higher in difficulty that most other quests. I am not planning to buy them anytime soon. (My collection now runs until Hobbit OHaUH) I would advise to only buy them if you know the game well and like a good challenge!
+

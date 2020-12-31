@@ -1,0 +1,80 @@
+# [What&#039;s the furthest you&#039;ve ever got in nightmare mode?](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/)
+
+## 1 [Cunir on August 20, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=677572)
+
+Before FFG changed the rules and made it a lot harder, I used to play quite a lot of solo games in nightmare mode, trying to get through the 3 core set quests (obviously, i failed. although i did manage to get past the first two a few times)
+
+Has anyone ever attempted to get through an entire cycle in nightmare mode? I have tried that too (but only the shadows of mirkwood cycle).i didn't even get close. the new rules they brought out, where you basically have to start again with no attachments, cards or resources, but keep your wounds and higher threat, makes it practically impossible. and you can't even have your player deck discard pile back, which is just ridiculous. i haven't bothered to try it with the khazad-dum set because i already know what the outcome will be -- miserable defeat.
+
+But maybe some better players than me have tried it and done okay. So what is the furthest you've ever got playing in nightmare mode?
+
+## 2 [Glaurung on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=677999)
+
+In nightmare mode thanks Beeavur+protector of Lorien was crazy combo when you can choose your starting hand between the quest(I already explain this combo about yearr ago). So with this nightmare was more easy then normal game. Now after errata all this finish. So now is interesting to play nightmare again.
+
+We use to play RHG and RTR nightmare. You bring Arwen back to Rivendel so those 2 quest very good link together. We never manage to win cose every time we finish RHG with lost of one hero. RTR goblins and Shadow effect kill us. But is really interesting and lot of fun to play.
+
+## 3 [starhawk77 on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678059)
+
+I just tried to do a Nightmare solo run through the entire Dwarrowdelf cycle. Cruised through the first three scenarios (with scores of 105, 108, and 72), then ran into a little trouble in The Long Dark (I swear I revealed an enemy every single staging step). Fortunately, I was able to top-deck a Warden of Healing to keep me afloat while I gradually chewed through the baddies. Ground out a ten-round victory with a score of 141, and went into FoS with threat just north of 40. 
+
+The fifth scenario began about as well as I could have hoped. Two blind Vilya actions resulted in Gildor and Haldir, putting me in great position from the second turn onward. I cycled through to my copies of Elrond's Counsel in order to keep my threat low. It was all going swimmingly until one of those infernal Nameless shadow effects forced me to discard my hand…including my last copy of Will of the West. It was both a stroke of bad luck and a blunder on my part (should have played the WotW earlier to ensure both copies wouldn't wind up in the discard pile). I managed to polish off FoS (notching another 105), but I went into the final scenario with half my deck in my discard pile and no way to recycle it. 
+
+I made it through the first few Shadow and Flame turns unscathed (Light of Valinor and my last Elrond's Counsel kept Durin's Bane off my back in the early game). I got Elrond suited up with A Burning Brand, Arwen, and a Warden of Healing, but then I flipped a Leaping Flame and a Fiery Sword and…well, it was all downhill from there. Having come so far, my fellowship finally crumbled in the shadow of the Balrog. It was an epic experience, and I really think I might have been able to polish off S&F had I not lost that second WotW (and with it, my Tests of Will, threat reduction, etc.). Never played much Nightmare mode before this run, but it was quite the exhilarating ride.
+
+## 4 [Captain Poe on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678295)
+
+starhawk77 said:
+
+I just tried to do a Nightmare solo run through the entire Dwarrowdelf cycle. Cruised through the first three scenarios (with scores of 105, 108, and 72), then ran into a little trouble in The Long Dark (I swear I revealed an enemy every single staging step). Fortunately, I was able to top-deck a Warden of Healing to keep me afloat while I gradually chewed through the baddies. Ground out a ten-round victory with a score of 141, and went into FoS with threat just north of 40. 
+
+The fifth scenario began about as well as I could have hoped. Two blind Vilya actions resulted in Gildor and Haldir, putting me in great position from the second turn onward. I cycled through to my copies of Elrond's Counsel in order to keep my threat low. It was all going swimmingly until one of those infernal Nameless shadow effects forced me to discard my hand…including my last copy of Will of the West. It was both a stroke of bad luck and a blunder on my part (should have played the WotW earlier to ensure both copies wouldn't wind up in the discard pile). I managed to polish off FoS (notching another 105), but I went into the final scenario with half my deck in my discard pile and no way to recycle it. 
+
+I made it through the first few Shadow and Flame turns unscathed (Light of Valinor and my last Elrond's Counsel kept Durin's Bane off my back in the early game). I got Elrond suited up with A Burning Brand, Arwen, and a Warden of Healing, but then I flipped a Leaping Flame and a Fiery Sword and…well, it was all downhill from there. Having come so far, my fellowship finally crumbled in the shadow of the Balrog. It was an epic experience, and I really think I might have been able to polish off S&F had I not lost that second WotW (and with it, my Tests of Will, threat reduction, etc.). Never played much Nightmare mode before this run, but it was quite the exhilarating ride.
+
+
+
+ 
+
+Sounds intense. How long did the whole thing take you?
+
+## 5 [starhawk77 on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678545)
+
+About four and a half hours, but I took a short break between TLD and FoS. I had expected TWitW to pose the sternest challenge (aside from S&F), but I actually breezed through that scenario rather easily. On the other hand, I generally think TLD is one of the easier quests in the cycle, and it nearly overwhelmed me. 
+
+## 6 [richsabre on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678608)
+
+starhawk77 said:
+
+About four and a half hours, but I took a short break between TLD and FoS. I had expected TWitW to pose the sternest challenge (aside from S&F), but I actually breezed through that scenario rather easily. On the other hand, I generally think TLD is one of the easier quests in the cycle, and it nearly overwhelmed me. 
+
+
+
+is this a normal outcome of nightmare mode? its seems like you managed to get much futher than would be expected…..one thing i want to know- how do you manage threat successfully throughout six quests?
+
+## 7 [starhawk77 on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678632)
+
+I think I probably got lucky on a few undefended attacks here and there, so I don't know if I could get that far on a regular basis. Threat management wasn't really a problem, even without Gandalf and The Galadhrim's Greeting. I ran Beravor, Elrond, and Glorfindel (FoS), plus three copies of Elrond's Counsel and two copies of Will of the West to recycle the discard. The Dwarrowdelf cycle doesn't really have that many cards that cause massive threat increases (aside from Disturbed Waters in TWitW and Vast and Intricate in TLD). I basically just replayed a couple Elrond's Counsels each game to keep my threat at a manageable level. 
+
+## 8 [Cunir on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678634)
+
+just curious… did you ever play nightmare mode with the original rules? before they made it harder? it sounds like you would have breezed through it, if you got that far with the new rules.
+
+I always wondered why they changed the rules the way they did, because it didn't sound right, flavour-wise. Why would you keep the same hereos, threat and wounds, as if they really were walking from quest to quest, but make them discard all their hard-earned weapons and attachments? i didn't get that at all.
+
+but maybe they thought it was too easy, and that's why they changed it.
+
+[edit: i've just had a thought… maybe they were anticipating the new treasure cards. If they allowed you to keep your attachments from quest to quest, then the whole point of the treasure cards would be lost. that's probably what it was.]
+
+## 9 [starhawk77 on August 21, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=678983)
+
+No, but I can almost guarantee my deck would have destroyed all six scenarios under the old rules. I had 15 allies in play by the end of TRG, so…
+
+The updated Nightmare rules were definitely necessary if FFG's goal was to create a more challenging experience. Even without resetting threat/wounds, starting a new quest with a full complement of allies and attachments was a huge advantage. A first-turn Hill Troll engagement is a lot less intimidating when you already have Beorn, Gildor, Haldir, and Elfhelm on the table. 
+
+## 10 [Budgernaut on August 22, 2012](https://community.fantasyflightgames.com/topic/69513-whats-the-furthest-youve-ever-got-in-nightmare-mode/?do=findComment&comment=679042)
+
+ This is a rules question, (and therefore in the wrong subforum) but it fits this thread: when playing nightmare mode with the Lore Aragorn, can you only use his ability once for the entire run of scenarios? I'd say yes, but I'm not sure. That means Landroval's ability would be the same.
+
+By the way, I think it's awesome that you guys are even attempting nightmare mode. Just the thought of it scares the heck out of me.
+

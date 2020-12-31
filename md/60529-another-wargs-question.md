@@ -1,0 +1,442 @@
+# [Another Wargs question!](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/)
+
+## 1 [scottindeed on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594885)
+
+I was playing CaC the other day and the Wargs got dealt a Shadow Effect along the lines of "If attacking creature is a Troll..."  
+
+What happens to Wargs here?  Technically it was dealt a Shadow Card that had an effect printed on it.  It's just the effect had no effect!
+
+## 2 [arisgl on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594890)
+
+I believe that the wargs will not return to the staging area after the attack, since as you say they were dealt with a shadow card with a shadow effect although it was useless.
+
+The same, I think, applies when somehow  a shadow effect is canceled. For example if you have a burning brand and the shadow card with a shadow effect, the shadow effect will be canceled but the wargs will not leave since they shadow card they were dealt had a shadow effect. If the shadow card did not have an effect the wargs would still return to the staging are after the attack.
+
+If you do not have enough encounter cards (the encounter deck empties before a shadow card is dealt to wargs) they should not  return to the staging area after attacking since in order to check whether the shadow card has a shadow effect you must first deal it. So if there is no card dealt the check cannot be triggered.
+
+I do not know what happens if you discard the shadow card before it resolves. Do you treat it as it was never dealt a shadow card or as it was dealt one?
+
+ 
+
+ 
+
+## 3 [richsabre on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594915)
+
+scottindeed said:
+
+I was playing CaC the other day and the Wargs got dealt a Shadow Effect along the lines of "If attacking creature is a Troll..."  
+
+What happens to Wargs here?  Technically it was dealt a Shadow Card that had an effect printed on it.  It's just the effect had no effect!
+
+
+
+yes the only time they go back is when there is absolutly no effect printed
+
+## 4 [scottindeed on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594928)
+
+ Thanks, that's how i decided to play it as well.
+
+## 5 [booored on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594940)
+
+I play it the other way.
+
+If the shadow card dose not trigger though a condition, in this case checking for a troll, then the effect never triggers...if there is no shadow effect trigger, there is no shadow effect..... so in this case he goes to the staging area.
+
+## 6 [richsabre on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594949)
+
+mmmm....has this been faqed? wargs -If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks
+ 
+
+i think it depends how you read NO effect.....
+
+ 
+
+1.if there is even a shadow effect written on the card, then there is indeed, a shadow effect therefore wargs will not return
+
+2.if the effect doesnt trigger then there is no effect acted upon, therefore wargs return
+
+ 
+
+tricky.........
+
+## 7 [cordeirooo on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594978)
+
+richsabre said:
+
+mmmm....has this been faqed? wargs -If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks
+ 
+
+i think it depends how you read NO effect.....
+
+ 
+
+1.if there is even a shadow effect written on the card, then there is indeed, a shadow effect therefore wargs will not return
+
+2.if the effect doesnt trigger then there is no effect acted upon, therefore wargs return
+
+ 
+
+tricky.........
+
+
+
+ 
+
+I concur with your first conclusion.
+The trigger is: 'Shadow Effect:'. Does the card has those two bolded words? Then yeah, it was given a shadow card with a effect. Did the effect completed? Yes. He checked to see if it was a Troll? Yes, he successfully checked to see if it was a Troll. It doesn't matter if the Warg is or is not a Troll, the effect was completed.
+
+This is how I play.
+
+## 8 [booored on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594993)
+
+that is not what it says though.. it says shadow effect... if the card had the bold words .. it is a shadow CARD, that contains a effect... the shadow card hs to trigger to have an efefct
+
+## 9 [cordeirooo on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=594998)
+
+booored said:
+
+ 
+
+that is not what it says though.. it says shadow effect... if the card had the bold words .. it is a shadow CARD, that contains a effect... the shadow card hs to trigger to have an efefct
+
+ 
+
+ 
+
+ 
+
+No, shadow card are encounter cards dealt face-down during the combat phase.
+
+ 
+
+Shadow effects are the bolded text with the trigger 'Shadow Effect'.
+
+ 
+
+ 
+
+Also, in this particular case, there was an effect: The card had to check Warg's keywords to see if he was a Troll or not. It didn't affected the state of the game, but not all shadow effects do.
+
+## 10 [Bomb on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595022)
+
+Then it could also be argued that a canceled shadow effect would put the Warg back in the staging area.  A canceled effect is no effect.
+
+I believe the Warg checks to see if there is the existence of a shadow effect, not if the effect successfully resolves.
+
+## 11 [cordeirooo on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595024)
+
+Bomb said:
+
+I believe the Warg checks to see if there is the existence of a shadow effect, not if the effect successfully resolves.
+
+
+
+
+ 
+
+My feelings exactly.
+Funny how you could resume it so well, while I was struggling to make it clear. partido_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/partido_risa.gif]
+
+## 12 [booored on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595164)
+
+Bomb said:
+
+Then it could also be argued that a canceled shadow effect would put the Warg back in the staging area.  A canceled effect is no effect.
+
+
+
+yes that is exactly how it works
+
+## 13 [richsabre on February 16, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595166)
+
+is this answer stated officially anywhere?
+
+## 14 [cordeirooo on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595337)
+
+booored said:
+
+ 
+
+Bomb said:
+
+ 
+
+Then it could also be argued that a canceled shadow effect would put the Warg back in the staging area.  A canceled effect is no effect.
+
+ 
+
+ 
+
+yes that is exactly how it works
+
+ 
+
+ 
+
+ 
+
+The attack is completed and then Wargs is returned to the staging area
+before you can attack him (since he is no longer engaged with the player)
+(official FAQ v1.1). If something cancels the effect (e.g. A Burning Brand),
+the card still had an effect even though it was cancelled.
+
+ 
+
+While this is in the unofficial faq, and unless you have official answer stating otherwise, is still a good premise to say that that's not how it works.
+
+## 15 [Bomb on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595360)
+
+It's very hard for me to believe that a Shadow Effect actually has to enforce an effect on the game state with the cards in play in order for the Wargs to remain engaged.  The Shadow Effect still triggers if it exists on the card because the trigger is that it was revealed as a Shadow card, so it is indeed still an effect even if it does not directly affect anything because conditions are not met.
+
+## 16 [richsabre on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595406)
+
+Bomb said:
+
+It's very hard for me to believe that a Shadow Effect actually has to enforce an effect on the game state with the cards in play in order for the Wargs to remain engaged.  The Shadow Effect still triggers if it exists on the card because the trigger is that it was revealed as a Shadow card, so it is indeed still an effect even if it does not directly affect anything because conditions are not met.
+
+
+
+ 
+
+i agree......if it has an effect written then its an effect whether it interacts or not, what about burning brand? cancellation of effects?
+
+## 17 [cordeirooo on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595421)
+
+richsabre said:
+
+ 
+
+Bomb said:
+
+ 
+
+It's very hard for me to believe that a Shadow Effect actually has to enforce an effect on the game state with the cards in play in order for the Wargs to remain engaged.  The Shadow Effect still triggers if it exists on the card because the trigger is that it was revealed as a Shadow card, so it is indeed still an effect even if it does not directly affect anything because conditions are not met.
+
+ 
+
+ 
+
+ 
+
+i agree......if it has an effect written then its an effect whether it interacts or not, what about burning brand? cancellation of effects?
+
+ 
+
+ 
+
+ 
+
+Cancellation of an effect means that has to be an effect to start with. It had an effect, but it was canceled. Did it affected the game? No. Does it matter? No.
+
+ 
+
+ 
+
+ 
+
+EDIT: Not sure if my messages are not being shown or I am being ignored. /fry
+
+## 18 [richsabre on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595423)
+
+cordeirooo said:
+
+ 
+
+richsabre said:
+
+ 
+
+Bomb said:
+
+ 
+
+It's very hard for me to believe that a Shadow Effect actually has to enforce an effect on the game state with the cards in play in order for the Wargs to remain engaged.  The Shadow Effect still triggers if it exists on the card because the trigger is that it was revealed as a Shadow card, so it is indeed still an effect even if it does not directly affect anything because conditions are not met.
+
+ 
+
+ 
+
+ 
+
+i agree......if it has an effect written then its an effect whether it interacts or not, what about burning brand? cancellation of effects?
+
+ 
+
+ 
+
+ 
+
+Cancellation of an effect means that has to be an effect to start with. It had an effect, but it was canceled. Did it affected the game? No. Does it matter? No.
+
+ 
+
+ 
+
+ 
+
+EDIT: Not sure if my messages are not being shown or I am being ignored. /fry
+
+ 
+
+ 
+
+ 
+
+you misunderstand me
+
+i am not asking about burning brand or cancellation, i am using them to prove a point
+
+-----a cancelled effect is the same as an effect that doesnt interact-------
+
+until im proven otherwise i stand be my original point on the first page- there is a shadow effect unless there is no text where there usually would be
+
+## 19 [cordeirooo on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595429)
+
+richsabre said:
+
+cordeirooo said:
+
+ 
+
+richsabre said:
+
+ 
+
+Bomb said:
+
+ 
+
+It's very hard for me to believe that a Shadow Effect actually has to enforce an effect on the game state with the cards in play in order for the Wargs to remain engaged.  The Shadow Effect still triggers if it exists on the card because the trigger is that it was revealed as a Shadow card, so it is indeed still an effect even if it does not directly affect anything because conditions are not met.
+
+ 
+
+ 
+
+ 
+
+i agree......if it has an effect written then its an effect whether it interacts or not, what about burning brand? cancellation of effects?
+
+ 
+
+ 
+
+ 
+
+Cancellation of an effect means that has to be an effect to start with. It had an effect, but it was canceled. Did it affected the game? No. Does it matter? No.
+
+ 
+
+ 
+
+ 
+
+EDIT: Not sure if my messages are not being shown or I am being ignored. /fry
+
+ 
+
+ 
+
+ 
+
+you misunderstand me
+
+i am not asking about burning brand or cancellation, i am using them to prove a point
+
+-----a cancelled effect is the same as an effect that doesnt interact-------
+
+until im proven otherwise i stand be my original point on the first page- there is a shadow effect unless there is no text where there usually would be
+
+
+
+ 
+
+I know, I'm just reforcing your point, which is the same as mine and bomb's.
+
+## 20 [Bomb on February 17, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=595440)
+
+richsabre said:
+
+i agree......if it has an effect written then its an effect whether it interacts or not, what about burning brand? cancellation of effects?
+
+
+
+The Shadow Effect still triggers from being revealed as a shadow card. Canceling the results of the Shadow Effect is all it really does.
+
+Let's put this into some different terms:
+
+This will be taking a train ride instead Combat.
+I am The Hero.
+The Conductor is the Enemy.
+Instead of "Reveal the Shadow Card" it is "The Conductor Approaches You".
+The Shadow Card has a Shadow Effect of giving paying the Conductor for a train ticket.
+My Coupon For A Free Train Ride! is the Cancel Card.
+
+If I am on the train and the conductor approaches me, he will ask me to pay $X for my train ride. I could save my Free Train Ride Coupon and pay $X, or I can just give him the coupon and be all set.
+
+The difference here is no matter what, the Conductor still approaches me and asks me for money to ride the train. Me giving him the coupon acts like a cancel of paying him money for a train ticket. I can just as easily pay him for a train ticket and keep my coupon for the next train ride. Maybe the current price is pretty cheap and reasonable, so I should save my coupon for a time it's more expensive.
+
+So, no matter what, the Conductor approaches me and tells me I need to give him $X to ride the train. Just because I gave him a coupon, doesn't mean there is nothing that happened.
+
+Similarly, just because I am not affected by the end results of an effect, doesn't mean there was no effect happening.
+
+If the Shadow Effect for the above scenario is "Move to Seat 2". If I'm already in Seat 2, that doesn't mean the Conductor doesn't still come over to tell me to move to Seat 2.
+
+Anyways, I'm reviewing a lot of the Shadow effects and there are tons that are conditional and won't do anything. If they needed to actually have a physical effect on the game in order to have the Wargs remain in combat, that would be ridiculous.
+
+ 
+
+## 21 [kirkbauer on February 22, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=597409)
+
+cordeirooo said:
+
+booored said:
+
+ 
+
+Bomb said:
+
+ 
+
+Then it could also be argued that a canceled shadow effect would put the Warg back in the staging area.  A canceled effect is no effect.
+
+ 
+
+ 
+
+yes that is exactly how it works
+
+ 
+
+ 
+
+ 
+
+The attack is completed and then Wargs is returned to the staging area
+before you can attack him (since he is no longer engaged with the player)
+(official FAQ v1.1). If something cancels the effect (e.g. A Burning Brand),
+the card still had an effect even though it was cancelled.
+
+ 
+
+While this is in the unofficial faq, and unless you have official answer stating otherwise, is still a good premise to say that that's not how it works.
+
+
+
+ 
+
+I agree, FYI the source of the underlined section from the unofficial FAQ is here: javascript:void(0);/*1329923758481*/ [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efid=201&efcid=4&efidt=540538]
+
+## 22 [radiskull on February 22, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=597438)
+
+While we have nothing official about this, I wanted to chime in and say that I agree with the unofficial FAQ - I believe that Wargs checks whether its shadow card has shadow text on it, regardless of what may happen to that card later.
+
+## 23 [Mattr0polis on February 22, 2012](https://community.fantasyflightgames.com/topic/60529-another-wargs-question/?do=findComment&comment=597638)
+
+"If Wargs is dealt a shadow card with no effect, return Wargs..."
+
+Wargs just checks that there is a shadow effect written on the shadow card. It doesn't check if the shadow effect resolved or did anything like with the troll shadow card example.
+
+So the Wargs definitely stay engaged, even if you cancel the shadow effect.
+
+I believe it would be worded like the Nazgul of Dol Guldur if it was supposed to work otherwise and check if the shadow card resolves, aka "After a shadow effect dealt to Nazgul of Dol Guldur resolves..."
+

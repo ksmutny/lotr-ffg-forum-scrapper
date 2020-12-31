@@ -1,0 +1,18 @@
+# [Against the Shadow cycle analysis on Vision of the Palantir](https://community.fantasyflightgames.com/topic/275571-against-the-shadow-cycle-analysis-on-vision-of-the-palantir/)
+
+## 1 [Durins_Father on May 9, 2018](https://community.fantasyflightgames.com/topic/275571-against-the-shadow-cycle-analysis-on-vision-of-the-palantir/?do=findComment&comment=3323896)
+
+Hi everyone,
+
+I just wanted to let you all know that the final work on the Blood of Gondor analysis is being done as I post this, it should be done shortly. This rounds out the complete Against the Shadow cycle with analyses for every scenario in Easy/Normal mode. I don't yet have the Nightmare versions, so I won't be able to make the reviews on that just yet. If you want to make these articles (or the Nightmare version of any other scenario) feel free to contact me. The complete cycle can be found here: https://visionofthepalantir.com/against-the-shadow/ [https://visionofthepalantir.com/against-the-shadow/]
+
+I would also like to mention the fact that my blog has recently gone through some changes. We now have a new URL (without the .wordpress thingy) and the blog is now also ad-free. There will also be monthly polls on some questions I would like to ask the community, so feel free to answer them if you want. To support all of this, I have made a Patreon account where you can support the blog and allow me to pay for the website hosting costs. Any profit will be put right back into the community with new and improved articles, exclusive loot, and perhaps more. You can check out the Patreon page here: https://www.patreon.com/vision_of_the_palantir [https://www.patreon.com/vision_of_the_palantir]
+
+Thank you again for the amazing show of support and a special thank you to everyone who filled in the poll I posted a while ago. It allowed me to see what I can do to make this blog better suited for you guys. We will continue with the Ringmaker cycle and a number of other articles during the rest of the month.
+
+## 2 [Durins_Father on May 13, 2018](https://community.fantasyflightgames.com/topic/275571-against-the-shadow-cycle-analysis-on-vision-of-the-palantir/?do=findComment&comment=3329792)
+
+Here is the link to the final scenario, as promised: https://visionofthepalantir.com/2018/05/13/the-blood-of-gondor/ [https://visionofthepalantir.com/2018/05/13/the-blood-of-gondor/]
+
+I will take a short break from the scenario analyses and focus on some other articles. Don't worry, the Ringmaker cycle is still in the pipeline and will come to you shortly.
+

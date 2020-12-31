@@ -294,3 +294,320 @@ Of course, this is only my two cents. At that point, speculating might seems poi
 
 And even if it does mean the latter, I still don't see this negating an action at the end of step 1 regardless of whether step 1 was immediatley forced or not. Nothing in the rules specifies that there is an action window at the of step 1 only if it wasn't forced. That step 1 may be forced doesn't negate the rule that says to do each step and that you can take actions after each step. Not unless "immediately" also means "skip". Given what the rules do say and what the card doesn't say, barring some ruling to the contrary or some rule yet to be revealed, I can't see any reasonable way to rule out an action before the defender is declared. 
 
+## 26 [The_Fallen_Arises on March 15, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=606080)
+
+ Yeah...I see what you mean...I guess the confusion comes from the preview itself and it's inference regarding Quick Strike. I have the gut feeling it'll play out the way I have described (it preserves the spirit of the ability and would explain what they meant in the preview), but so far nothing in the rules indicates it will go down that way.
+
+There probably will be a clarification in the rules sheet of the expansion...something along the lines of : ''actions cannot be taken before choosing a defender'' or something like that. Otherwise, the preview is simply misleading.
+
+I realize I was jumping the gun, but I was simply trying to wrap my head around this conundrum...Besides, sadly, the ruling about Shadow Cards shows that the letter of the rulebook is not always reliable, or at least a reflection of what the game designers meant.
+
+Still, you are right, might as well wait and see...
+
+## 27 [Angus Lee on March 15, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=606192)
+
+I always read those preview articles as advertising articles; if you look for rulings from them you are doomed.  In the past, those preview articles have given wrong rules interpretation.  I think we should stick to official rulings from Nate, and hopefully FAQ could clarify it.
+
+## 28 [Trantor3 on March 28, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611119)
+
+Another question about Wild Bear: What happens if it doesn't ambush me because my threat is lower than 34, but I decide to later engage it? Does it get two attacks in a row, one still in the encounter phase and the regular one in the combat phase?
+
+## 29 [muemakan on March 28, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611149)
+
+ If you decide to engage the bear it gets just one attack.
+
+## 30 [starhawk77 on March 28, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611188)
+
+muemakan said:
+
+ If you decide to engage the bear it gets just one attack.
+
+
+
+No, it will attack twice. The forced effect triggers whenever the Bear engages a player, whether or not ambush causes the engagement. So, if you optionally engage it during the encounter phase, it will make an immediate attack. Then, it will attack normally during the combat phase.
+
+Unless there's a ruling I'm not aware of, the Bear will attack twice during any round in which it engages a player.
+
+## 31 [guest479094 on March 28, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611203)
+
+ Although there are ways around that. Use various means to cause them to engage after enemy attacks are resolved. 
+
+## 32 [The_Fallen_Arises on March 28, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611205)
+
+ I was disappointed to see that the leaflet wasn't really all that clear about the whole debate we had, but I guess it means we have to stick to the rules, meaning that Quick Strike could be used to counter an Ambush. I only wish they could have clarified the ambiguous signals they gave in the preview....
+
+## 33 [RGun on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611241)
+
+starhawk77 said:
+
+muemakan said:
+
+ 
+
+ If you decide to engage the bear it gets just one attack.
+
+ 
+
+ 
+
+No, it will attack twice. The forced effect triggers whenever the Bear engages a player, whether or not ambush causes the engagement. So, if you optionally engage it during the encounter phase, it will make an immediate attack. Then, it will attack normally during the combat phase.
+
+Unless there's a ruling I'm not aware of, the Bear will attack twice during any round in which it engages a player.
+
+
+
+I disagree with this interpretation.  First, thematically it does not make sense that if you engage an enemy that it still surprises you and gets an extra attack.  Second, if you decide to engage the bear it is you engaging it, not it engaging you so the way I read the text on the card it's forced effect would not trigger.
+
+## 34 [Trantor3 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611242)
+
+RGun said:
+
+starhawk77 said:
+
+ 
+
+muemakan said:
+
+ 
+
+ If you decide to engage the bear it gets just one attack.
+
+ 
+
+ 
+
+No, it will attack twice. The forced effect triggers whenever the Bear engages a player, whether or not ambush causes the engagement. So, if you optionally engage it during the encounter phase, it will make an immediate attack. Then, it will attack normally during the combat phase.
+
+Unless there's a ruling I'm not aware of, the Bear will attack twice during any round in which it engages a player.
+
+ 
+
+ 
+
+I disagree with this interpretation.  First, thematically it does not make sense that if you engage an enemy that it still surprises you and gets an extra attack.  Second, if you decide to engage the bear it is you engaging it, not it engaging you so the way I read the text on the card it's forced effect would not trigger.
+
+
+
+1. There are lots of details that aren't very thematic. So that's not really a reason.
+
+2. Who engages whom has never mattered so far. Hummerhorns deal 5 damage whether you engage them or they engage you, for example. I agree the wording isn't clear, but I'm sure it doesn't matter who engages whom. That would be consistent with other rulings.
+
+I tend to agree that the bear indeed does get two attacks if you optionally engage it, but it's definitely a bit obscure. In general, I am very disappointed by that new ambush mechanic and all the rules questions it creates. sad.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/sad.gif]
+
+## 35 [RGun on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611252)
+
+Trantor said:
+
+2. Who engages whom has never mattered so far. Hummerhorns deal 5 damage whether you engage them or they engage you, for example. I agree the wording isn't clear, but I'm sure it doesn't matter who engages whom. That would be consistent with other rulings.
+
+I tend to agree that the bear indeed does get two attacks if you optionally engage it, but it's definitely a bit obscure. In general, I am very disappointed by that new ambush mechanic and all the rules questions it creates. sad.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/sad.gif]
+
+
+
+ 
+
+Hmmm, I've been playing Hummerhorns that way as well, but now thinking about it some more and reading the section in the rule book on "Phase 5: Encounter" some more now I am thinking maybe I have been playing Hummerhorns wrong as well.  The rule book makes a distinction between players engaging the enemy and the enemies engaging them (it even has the word them in italics).  The text on Hummerhorns says, "...After Hummerhorns engages you...".  I am going to send a question to FF to get a ruling on this.
+
+## 36 [starhawk77 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611256)
+
+RGun said:
+
+ 
+
+Hmmm, I've been playing Hummerhorns that way as well, but now thinking about it some more and reading the section in the rule book on "Phase 5: Encounter" some more now I am thinking maybe I have been playing Hummerhorns wrong as well.  The rule book makes a distinction between players engaging the enemy and the enemies engaging them (it even has the word them in italics).  The text on Hummerhorns says, "...After Hummerhorns engages you...".  I am going to send a question to FF to get a ruling on this.
+
+ 
+
+ 
+
+No need. From p. 16 of the rules:
+
+"Whether an enemy is engaged through an engagement check, through a card effect, or through a player’s choice, the end result is the same, with the enemy and the player engaging one another. In all cases, the player is considered to have engaged the enemy and the enemy is considered to have engaged the player." [emphasis mine]
+ 
+
+## 37 [RGun on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611258)
+
+yes, i missed that.  So I agree then, wild bear gets 2 attacks even if engaged by the player (does not really make intuitive sense, but I do now think the rules are clear in this).
+
+## 38 [muemakan on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611270)
+
+Yes, I forgot that the encounter step is an extra phase and not part of combat. So this means 2 attacks.
+
+## 39 [guest479094 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611277)
+
+ Here is a question that is going to have to be clarified:
+
+In attacks initiated out of the normal phase, we know (per the ruling by Nate) that shadow cards will always be dealt to the attacker. In normal attacks, there is an action window between dealing shadow cards to attackers and selecting attacks. Is there also an action window after dealing shadow cards in "off-phase" attacks?
+
+## 40 [muemakan on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611296)
+
+ When resolving enemy attacks, the players follow these 4 steps, in order........from the rulebook p.18
+
+
+ 
+
+ 
+
+I guess it doesn´t matter when the attack happens.
+
+ 
+
+ 
+
+ 
+
+## 41 [guest479094 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611304)
+
+muemakan said:
+
+ When resolving enemy attacks, the players follow these 4 steps, in order........from the rulebook p.18
+
+
+ 
+
+ 
+
+I guess it doesn´t matter when the attack happens.
+
+ 
+
+ 
+
+ 
+
+
+
+Follow these 4 steps in order ...oh wait, Nate says you got to deal out a shadow card as well. So does that happen before the 4 steps with an action window before step 1 like in normal combat? Or does his ruling mean that dealing out a shadow card is actually part of step 1 and it was only done before step 1 in the rules for convenience sake during normal combat? It's something really has to be answered as it affects important things like, oh, whether you can use Feint to stop an "off-phase" attack. Or whether cards that let you peek at shadow cards affect Feint timing in normal combat? Etc etc etc. 
+
+## 42 [guest479094 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611311)
+
+ Since I am fairly certain that the intent of ambush is to force an attack with no opportunity for cards like Feint to prevent it, a simple solution would be to insert something like the following to step 1: "If a shadow card has not yet been dealt to the attacker, do so now." 
+
+Of course, this would mean the shadow attack of Wolf Rider could not be Feinted either and that restriction is not so clearly in line with what I think the intent of the designers. Either way, there will need to be some errata to make all the steps of "off-phase" attacks clear and consistent. 
+
+## 43 [muemakan on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611433)
+
+Anodos said:
+
+ Since I am fairly certain that the intent of ambush is to force an attack with no opportunity for cards like Feint to prevent it, a simple solution would be to insert something like the following to step 1: "If a shadow card has not yet been dealt to the attacker, do so now." 
+
+Of course, this would mean the shadow attack of Wolf Rider could not be Feinted either and that restriction is not so clearly in line with what I think the intent of the designers. Either way, there will need to be some errata to make all the steps of "off-phase" attacks clear and consistent. 
+
+
+
+ 
+
+Feint is a combat action. So for the bear it would not work.
+
+But yes, they will need errata.
+
+## 44 [guest479094 on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611453)
+
+muemakan said:
+
+Anodos said:
+
+ 
+
+ Since I am fairly certain that the intent of ambush is to force an attack with no opportunity for cards like Feint to prevent it, a simple solution would be to insert something like the following to step 1: "If a shadow card has not yet been dealt to the attacker, do so now." 
+
+Of course, this would mean the shadow attack of Wolf Rider could not be Feinted either and that restriction is not so clearly in line with what I think the intent of the designers. Either way, there will need to be some errata to make all the steps of "off-phase" attacks clear and consistent. 
+
+ 
+
+ 
+
+ 
+
+Feint is a combat action. So for the bear it would not work.
+
+But yes, they will need errata.
+
+
+
+What rule restricts Feint to only normal combat phase vs off-phase attacks?
+
+## 45 [The_Fallen_Arises on March 29, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=611470)
+
+It is because the Action keybord is preceded by Combat. From the rulebook, p. 23, under Action :
+
+
+
+''Some action triggers are preceded by a specific phase of the game. This type of trigger means that the following action can only be triggered during the specified phase.''
+
+## 46 [Style75 on May 5, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=626349)
+
+OMG, this is making my head spin. I hope the next FAQ comes out quickly and gives a very clear explanation with a walk through example because I'm confused by all the contradicting bits of text.
+
+This thread hasn't been updated in a while. Are there any new updates regarding how "ambush" and the bear are supposed to resolve?
+
+## 47 [starhawk77 on May 6, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=626597)
+
+Style75 said:
+
+OMG, this is making my head spin. I hope the next FAQ comes out quickly and gives a very clear explanation with a walk through example because I'm confused by all the contradicting bits of text.
+
+This thread hasn't been updated in a while. Are there any new updates regarding how "ambush" and the bear are supposed to resolve?
+
+
+
+Is there a particular interaction that confuses you? When the Bear engages a player (via ambush or via an engagement check), it immediately makes an attack (and is dealt a shadow card, per Nate's ruling). Then, during the combat phase, it will receive another shadow card (just like every engaged enemy) and make a regular attack (just like every engaged enemy). 
+
+Basically, it will attack twice (and receive two shadow cards) on any turn in which it engages a player.
+
+## 48 [zeb on June 14, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=644521)
+
+starhawk77 said:
+
+Basically, it will attack twice (and receive two shadow cards) on any turn in which it engages a player.
+
+
+
+Yes, I am also suprised by the reactions regarding this ruling. Maybe I am missing something, but an enemy attack means going through the 4 steps as described in the rulebook, of which step 1 is dealing a shadow card. The Wild Bear only changes the flow of the sequence of play, but it does not change its nature. Am I missing some subtle side effects?
+
+## 49 [Dam the Man on June 14, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=644568)
+
+zeb said:
+
+ 
+
+Yes, I am also suprised by the reactions regarding this ruling. Maybe I am missing something, but an enemy attack means going through the 4 steps as described in the rulebook, of which step 1 is dealing a shadow card. The Wild Bear only changes the flow of the sequence of play, but it does not change its nature. Am I missing some subtle side effects?
+
+
+
+Yes, step 1 is NOT dealing a shadow card.
+
+"At the beginning of the combat phase, the players deal
+1 shadow card to each engaged enemy." (p. 18)
+
+While the steps of combat are:
+
+"1. Choose an enemy.
+2. Declare defender.
+3. Resolve shadow effect.
+4. Determine combat damage." (p. 18)
+
+## 50 [zeb on June 14, 2012](https://community.fantasyflightgames.com/topic/61760-wild-bear/?do=findComment&comment=644672)
+
+Dam said:
+
+ 
+
+Yes, step 1 is NOT dealing a shadow card.
+
+"At the beginning of the combat phase, the players deal
+1 shadow card to each engaged enemy." (p. 18)
+
+While the steps of combat are:
+
+"1. Choose an enemy.
+2. Declare defender.
+3. Resolve shadow effect.
+4. Determine combat damage." (p. 18)
+
+
+
+I see now. Indeed, the sequence might need a rewrite there. I was confused because of the Dol Guldur beasmaster effect ; the additional shadow card is dealt during step 1. It would be reasonable that normal shadow card dealing should occur at this step.
+
+Nate said he would rewrite a more precise sequence in the next FAQ, but this is taking a long time.
+

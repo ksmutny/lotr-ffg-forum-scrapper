@@ -1,0 +1,272 @@
+# [Dead Marshes Question/Errata](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/)
+
+## 1 [Troymk1 on November 6, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=552546)
+
+ I have a suspicion we should not be able to defeat Quest stage 1B unless Gollum is in the staging area.  Why? It leads to nonsensical reading in 2B.
+
+ 
+
+I will send a question off to FFG
+
+ 
+
+ 
+
+## 2 [Kiwina on November 7, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=553137)
+
+ I ran into this same thing last night.  Let me know what you find out.
+
+## 3 [Mighty Jim 83 on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560417)
+
+ Was there ever any feedback on this?
+
+Dead Marshes generally seems a bit odd in terms of its mechanics.
+
+ 
+
+I assume that once Gollum is shuffled back into the deck, you don't have to perform the escape check at the end of the questing phase, as the instruction to do so is on his card and he's not in play.
+
+More confused about the escape tests triggered by Treachery Cards. These would still make no sense thematically - does the thing that's already escaped escape? but there doesn't seem to be a card indication that it doesn't happen.
+
+## 4 [player582283 on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560437)
+
+We hit this situation yesterday.  We did not take Gollum's card's escape tests as he was not there.  We did take the escape tests from encounter cards for the threat possibility.  Thematically I see it as threat to the group increasing as we take more risks (move faster, explore more risky areas, etc) to try to catch up to him.  We lucked out and hit him as an encounter card.  It would have made for a long game if he would have showed up as a shadow or escape card...
+
+## 5 [starhawk77 on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560442)
+
+Yeah, any escape tests prompted by treachery cards are still performed even if Gollum is not in play. This was apparently addressed by Nate French himself in this thread:
+
+http://www.fantasyflightgames.com/edge_foros_discusion.asp?efpag=3&efid=201&efcid=4&efidt=572616 [http://www.fantasyflightgames.com/edge_foros_discusion.asp?efpag=3&efid=201&efcid=4&efidt=572616]
+
+(sorry, can't get the link to work for some reason)
+
+Woz's suggested thematic explanation makes a lot of sense, and I'm sure there are plenty of other creative ways to explain the function of these escape tests.
+
+ 
+
+## 6 [Shelfwear on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560445)
+
+We houseruled Dead Marshes as follows:
+
+1) If Gollum is not in the staging area during 2B, reset quest to 1B
+
+2) If Gollum is not in the staging area, don't make the normal escape test at the end of the quest phase (treachery escape tests still trigger)
+
+3) If Gollum ever lands in the encounter discard pile, he is shuffled back into the encounter deck
+
+This quest really has a couple of rule holes...
+
+ 
+
+## 7 [The Sil on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560505)
+
+Shelfwear said:
+
+er)
+
+3) If Gollum ever lands in the encounter discard pile, he is shuffled back into the encounter deck
+
+
+
+This makes the game a lot easier though.
+
+How about: If Gollum ever lands in the encounter discard pile (and you can't get him back immediately e.g. through "shadows of the past", or whatever its called in English), you lose the game.
+
+This way you still have a chance to get an escaped Gollum back from the encounter deck, but you are in trouble once you lost him, there is a considerable risk of permanent escape.
+
+It is how we always played it, this avoids endless rounds of nothing happening but waiting for the encounter deck to refresh and Gollum to come back before you reach 50 (in which case you usually auto win)
+
+In your variant I would not worry too much about the first escape tests, knowing that he will always come back sooner or later in the first run of the encounter deck. After all the scenario gets a lot easier once he is gone and there should be considerable drawbacks to encourage players to avoid that all costs.
+
+## 8 [Shelfwear on November 26, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560512)
+
+Maybe it gets easier but after Gollum escaped once the chances that he gets discarded is quite high, we just didnt want to wait another hour while we grind through through the encounter deck. Concerning your idea: it feels very anti-climatic to lose the game without having any control about it (=Gollum gets discarded as a shadow/escape card).
+
+## 9 [guciomir on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560745)
+
+It makes perfect sense, gollum escapes and goes to discard pile = you lose the game. You should not have let him go.
+
+## 10 [starhawk77 on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560762)
+
+guciomir said:
+
+It makes perfect sense, gollum escapes and goes to discard pile = you lose the game. You should not have let him go.
+
+
+
+From a thematic standpoint, I'm inclined to agree. The scenario is designed to simulate a dangerous pursuit through the Dead Marshes. With this in mind, I think it's fine that the game punishes you for losing track of Gollum (i.e. doing what you aren't supposed to do) but still gives you a chance--albeit a small one-- to find him and win the game.
+
+On the other hand, I can sympathize with those who are irritated by this design. Sifting through most of the encounter deck only to have Gollum turn up as a shadow card can be incredibly frustrating. Thankfully, the event A Shadow of the Past should go a long way towards remedying this perceived flaw. With ASotP in the card pool, I don't even think Gollum needs any errata; when he goes into the discard pile, just send him back to the top of the encounter deck. 
+
+## 11 [juicebox on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560780)
+
+Admittedly, I haven't had a chance to play this quest yet. However, this conversations reminds me of Nate French's article Bilbo, Pippin, and Boromir [http://www.fantasyflightgames.com/edge_news.asp?eidn=2296] that discussed player archetypes - i.e. our gaming personality profiles. Such a great article!
+
+My guess is that this quest and its mechanics will appeal most strongly to the Bilbo types, appeal at first to the Pippin types - with enthusiasm that fades over time, and drive the Boromir types completely mad.
+
+So, for those who have read this article, done some introspection, and played this quest, do my guesses ring somewhat accurate? (The Pippin in me is just broiling with curiosity. gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif])
+
+## 12 [gatharion on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560871)
+
+ I'm inclined to agree that errata isn't really needed and that you should just chalk it up as a loss if Gollum ends up in the discard pile.
+
+Lettin a discarded Gollum back in to the encounter deck would mean that the best strategy (at least in multiplayer where you go through the deck quickly) would be to pretty much ignore the Escape tests at the beginning and just let Gollum get away while you build up your allies and attachments.
+
+## 13 [Bohemond2 on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560888)
+
+juicebox said:
+
+Admittedly, I haven't had a chance to play this quest yet. However, this conversations reminds me of Nate French's article Bilbo, Pippin, and Boromir [http://www.fantasyflightgames.com/edge_news.asp?eidn=2296] that discussed player archetypes - i.e. our gaming personality profiles. Such a great article!
+
+My guess is that this quest and its mechanics will appeal most strongly to the Bilbo types, appeal at first to the Pippin types - with enthusiasm that fades over time, and drive the Boromir types completely mad.
+
+So, for those who have read this article, done some introspection, and played this quest, do my guesses ring somewhat accurate? (The Pippin in me is just broiling with curiosity. gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif])
+
+
+
+I liked the article better when Mark Rosewater wrote it [http://www.wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mr11b] (and even better when Rosewater revisted it [http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr258]).  There isn't anything wrong with Nate French borrowing a good idea, but when discussing the idea we should credit the source.
+
+## 14 [juicebox on November 27, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=560924)
+
+Bohemond said:
+
+juicebox said:
+
+ 
+
+Admittedly, I haven't had a chance to play this quest yet. However, this conversations reminds me of Nate French's article Bilbo, Pippin, and Boromir [http://www.fantasyflightgames.com/edge_news.asp?eidn=2296] that discussed player archetypes - i.e. our gaming personality profiles. Such a great article!
+
+My guess is that this quest and its mechanics will appeal most strongly to the Bilbo types, appeal at first to the Pippin types - with enthusiasm that fades over time, and drive the Boromir types completely mad.
+
+So, for those who have read this article, done some introspection, and played this quest, do my guesses ring somewhat accurate? (The Pippin in me is just broiling with curiosity. gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif])
+
+ 
+
+ 
+
+I liked the article better when Mark Rosewater wrote it [http://www.wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mr11b] (and even better when Rosewater revisted it [http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr258]).  There isn't anything wrong with Nate French borrowing a good idea, but when discussing the idea we should credit the source.
+
+
+
+As someone who only dabbled the tiniest bit in Magic (as a precursor to my falling headlong into the Decipher LOTR TCG craze), I was not familiar with Mark Rosewater's articles. Thanks for highlighting them Bohemond and for providing the links. Good stuff. Seems like Nate French should have credited the source. Did he do that somewhere and I just missed it?
+
+And, I'm still curious about having expanded archetype discussion - both in general and as it pertains to Dead Marshes.
+
+## 15 [Bohemond2 on November 28, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=561209)
+
+I don't have much love for the economic model of Magic, but when it comes to discussing ideas about game design, the MtG crew have a lot of idea that are worth reading.
+
+I don't think Nate every formerly credited Rosewater, but you can hardly fault him for failing to promote a rival product on a FFG webpage.  I took it as more of an homage to the original article.
+
+## 16 [Untergeher on November 28, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=561288)
+
+I agree with Bohemond. The articles on game design on the MtG page are very well written and interesting to read! Haven't been there for quite some time now, because I more or less stopped playing Magic, but when I was playing it casually there was always something insightful to read. I sometimes wish the game designers at FFG would share there experiences of developing their games as well.
+
+It would be very interesting to get more information on the design process of LCGs like LotR or Game of Thrones. And - getting back on topic - these articles would also be the perfect place to discuss unclear rulings, card texts or certain game situations like the one mentioned by the OP.
+
+Just my two cents.
+
+## 17 [Untergeher on November 30, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=561930)
+
+So, now that I had the chance to play through the Dead Marshes for the first time: I like it, but the escape tests triggered by Treachery cards without Gollum in the staging area are bothering me quite a bit. Who is trying to escape? From a thematic point of view I have some problems with this... On the other hand this would be a good reason to include Elfhelm in my Spirit/tactics deck, so I don't have to care too much about the threat raising...
+
+I like the mechanic as such, but these loop holes (that should have been noticed while testing this AP) are a bit annoying... Waiting for an official FAQ, but I'm afraid this is going to take a while ;-)
+
+## 18 [Troymk1 on November 30, 2011](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=562188)
+
+ I never got a reply....
+
+## 19 [mandroid71 on March 17, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2106943)
+
+Well, I had this same problem today, and couldn't find any ruling.  I feel like the most sensible thing to do though which sort of follows the cards is:
+
+ 
+
+1) If no gollum when on stage 2, and you complete it calling for the capture check.. it auto fails (because you can't capture him since he's not there) and you go back to stage 1B. 
+
+ 
+
+I played it that way today and it worked out and cause 0 oddities. It also caused me to have to do quest 1B about 3 times before I finally found Gollum again, and was able to capture him... 
+
+ 
+
+I agree that when playing it solo, it's almost easier to just let gollum go the first time, and try to find him again later to capture after you have built up some board strength to have people to commit to quest and capture attempts... doing both at start is almost impossible if playing solo.
+
+## 20 [DukeWellington on March 17, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2107139)
+
+Huh? Dead Marshes is quite possibly the easiest quest in the game. If you build a sprinting max willpower type deck you can beat it on turn 2 about 90% of the time. Last time I played the nightmare version I was winning on turn 3 about every time. (The same type of decks owns Stone of Erech) I never even come close to losing Gollum. I think you should try again. I don't have a deck list handy because I moved on a long time ago.
+
+## 21 [TwiceBorn on March 18, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2109372)
+
+I haven't tried the Nightmare version of this quest, but I'm with Duke Wellington... this is the only quest that I have never ever lost in standard mode progression style, whether straight solo, 2-handed, or 2-player.
+
+ 
+
+Don't have time to look up my deck lists for this quest, but I'm pretty sure that Aragorn with Celebrian's Stone and Eowyn with Unexpected Courage (and perhaps Protector of Lorien and even The Favour of the Lady?) were key heroes for me. 
+
+Edited March 18, 2016 by TwiceBornh
+
+## 22 [Nerdmeister on March 18, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2110100)
+
+Personally I think that Passage Through Mirkwood is the easiest quest
+
+## 23 [mandroid71 on March 18, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2111207)
+
+Well good for you Duke, the point of this post actually is to point out the oddities that happen when getting to stage 2 without Gollum in play.  If you never have that problem then feel free to ignore the topic. Some of us also don't play min-maxed decks that specifically are geared for only winning the scenario that you have looked ahead on to determine what to put in to specifically counter it.  Some of us actually play more general decks that can handle a variety of circumstances instead of being narrowly geared to do one thing only. 
+
+In any case,  I have won this quest both times I have played it, so wasn't complaining about it's difficulty. Again, this post is mainly about addressing the original topic... oddities in reaching stage 2 with no Gollum, which clearly isn't applicable to your style of play.
+ 
+
+
+
+Edited March 18, 2016 by mandroid71
+
+## 24 [DukeWellington on March 18, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2111273)
+
+I am perfectly able to read what the topic is, but thanks for the reminder. My comment was not in response to that. My comment was in response to the idea that it would be easier to just let Gollum escape. No, it is not easier. That was my point. Avoiding good deck design does not make you morally superior, so get over that. My point was not to brag. My point was to say that perhaps you misjudged the quest. Again, not in terms of the original topic, but in terms of how to beat it.
+
+The difference between an easy quest and a difficult quest basically comes down to how many card combinations there are that can grant victory. An easy quest has thousands. A difficult quest has like 5. The draw of a difficult quest is that it is like a puzzle you have to solve. The draw of an easy quest is that you get a chance to explore and express yourself. Personally I like easy quests more because I game for the purposes of personal expression. So, I have played Dead Marshes quite a bit. After playing it a lot I have concluded it is one of the easiest, if not the easiest quest. Passage through Mirkwood is SUPPOSED to be easier, but in my experience it is not. If you want to make sub part decks then great. For instance, Dead Marshes is a great quest to experiment with a Sam only deck (spoiler, you can beat it with a Sam only deck). Another easy quest, Seventh Level, consistently ranks among top 5 fan favorites because of the same thing. You can beat Seventh Level consistently on turn 2 or 3, but it is more fun to build a Dwalin deck and kill a bunch of orcs.
+
+Again, my point was just that it is not easier to beat the quest by letting Gollum get captured.
+
+## 25 [mandroid71 on March 21, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2116487)
+
+Again, for your particular style of deck Duke.  For the deck I was running (and others too apparently) it was easier to let Gollum get away at first.  Thanks for the unsolicited advice about what kind of decks other people should be playing though, and how they should play them, in a post about how to deal with a rules oddity not directly addressed by the quest card.
+
+## 26 [DukeWellington on March 22, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2116742)
+
+I'm not sure what your point is.
+
+## 27 [mandroid71 on March 22, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2116881)
+
+Yeah, that is pretty clear.
+
+## 28 [DukeWellington on March 22, 2016](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=2117111)
+
+Good one?
+
+## 29 [mttrchrds on February 26, 2019](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=3634879)
+
+> On 3/21/2016 at 9:26 PM, mandroid71 said:
+> 
+> Again, for your particular style of deck Duke.  For the deck I was running (and others too apparently) it was easier to let Gollum get away at first.  Thanks for the unsolicited advice about what kind of decks other people should be playing though, and how they should play them, in a post about how to deal with a rules oddity not directly addressed by the quest card.
+
+Trying to work through Dead Marshes for the first time and come across this. Superb. Didn't even get a like. Shame on you all! 😀
+
+## 30 [TheSpitfired on February 27, 2019](https://community.fantasyflightgames.com/topic/55891-dead-marshes-questionerrata/?do=findComment&comment=3635085)
+
+> 6 hours ago, mttrchrds said:
+> 
+> Trying to work through Dead Marshes for the first time and come across this. Superb. Didn't even get a like. Shame on you all! 😀
+
+Well we are almost 2 years late to the party, but to be fair seeing this for the first time, it seems like Mandroid started a rabbit trail, Duke answered it then Mandroid tried to chastise for starting a rabbit trail.
+
+On topic (and years late to the discussion) it doesn't seem that odd to me. You complete stage 2B, do an escape test and draw 0 cards since there are no resources on out-of-play Gollum. Since this results in a failed capture you reset to 1B. The treachery cards that trigger escape tests to me thematically seem like situations where if the party is not careful the enemy becomes more aware of where the party is and what it is doing, as I think most (if not all) of the treachery escape tests raise your party's threat if you fail.
+
+Now even though Duke did flex a little bit (trying to be neutral buddy, gotta bust your chops a bit!) I do have to agree with the point that the quest is not easier if you let Gollum shuffle back into the encounter deck. You open yourself up to a whole world of hurt the longer you let this quest go on! You might want to let it happen and get yourself better setup for capture checks later but I do think in doing so you are making the quest harder than it needs to be. The joy of this game is if that's what you want to do then by all means go ahead and do it, but in a game where some quests have multiple ways to get the job done I think you'll have a hard time convincing most that prolonging this quest is the best way to do it. The key needs to be there is no judgment in that, you do what you want, I do what I want and we all have fun. That's the real joy of this game.
+
+Interesting discussion, perhaps a minor lament that this never got "officially" resolved and thanks for reviving it or else I might not have come across it.
+
+Edited February 27, 2019 by TheSpitfired
+gussed it up a bit
+

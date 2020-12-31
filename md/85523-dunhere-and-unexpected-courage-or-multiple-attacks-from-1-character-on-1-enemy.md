@@ -436,3 +436,7 @@ Edited January 20, 2015 by krokodiler
 
 The new FAQ explains it better maybe.
 
+## 26 [gandalfDK on January 20, 2015](https://community.fantasyflightgames.com/topic/85523-dunhere-and-unexpected-courage-or-multiple-attacks-from-1-character-on-1-enemy/?do=findComment&comment=1414412)
+
+Krokodiler ninja'd me..  :ph34r: [//content.invisioncic.com/Mfantflight/emoticons/default_ph34r.png]
+

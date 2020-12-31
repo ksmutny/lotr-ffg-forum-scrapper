@@ -331,3 +331,39 @@ Good question....
 
 I've only quoted the rules, but i stand corrected with the rulling from Caleb.
 
+## 26 [richsabre on October 23, 2013](https://community.fantasyflightgames.com/topic/92444-who-draws-card-by-earendil/?do=findComment&comment=895409)
+
+i seem to remember i asked this question and the answer is no- you never can discard attathents from your hand. i will try and find it to see if i remember correctly.
+
+ 
+
+taking your quites CJMatos, then there seems to be a bit of a contradiction in the rules....
+
+## 27 [Mndela on October 24, 2013](https://community.fantasyflightgames.com/topic/92444-who-draws-card-by-earendil/?do=findComment&comment=895464)
+
+Maybe only contradiction in the words, but not in the meaning.
+
+You can see that the end of paragraph it was speaking about the "cards in game": ..."when a card leaves play"
+
+## 28 [alogos on October 24, 2013](https://community.fantasyflightgames.com/topic/92444-who-draws-card-by-earendil/?do=findComment&comment=895734)
+
+>  
+> 
+>  
+> 
+> 
+> 
+> So when a shadow effect says "discard an attachment you control," are you discarding cards from your hand?
+> 
+> Good question....
+> 
+>  
+> 
+> I've only quoted the rules, but i stand corrected with the rulling from Caleb.
+> 
+>  
+
+ 
+
+I think that the "a player control all cards that he owns" is implicitly limited to cards that are in play.
+

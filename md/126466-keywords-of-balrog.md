@@ -331,3 +331,31 @@ I think we should flip a coin. Heads, you can attack with ranged characters, tai
 
 Ever wonder if every time they get a rules question, Caleb and Matt just glance in their perfectly lucid 100-page full-resolution internal version of the rules, laugh at our ignorance, and send us an oracular answer, knowing that those full rules will never be made publicly available? Otherwise, what would keep forum chatter going during shipping delays? ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
 
+## 26 [JanB on February 2, 2016](https://community.fantasyflightgames.com/topic/126466-keywords-of-balrog/?do=findComment&comment=2027379)
+
+>  
+> 
+> >  
+> > 
+> > > I'm not sure if you can use Ranged against the Balrog at all actually. Because The Balrog [http://hallofbeorn.com/Cards/Details/The-Balrog-RD] doesn't say "only the first player can declare attacks" it says "only the first player can declare attackers". The wording is a bit ambiguous in a rules sense since 'declare' is generally used just to refer to initially declaring the attack, but linguistically, if the first player declares an attack and you say your Ranged character will participate, you are declaring that character to be one of the attackers.
+> > 
+> >  
+> > 
+> > Dang, good catch. You might be right.
+> > 
+> >  
+> 
+>  
+> 
+> Yup, it is definitely ambiguous.  I tried finding something in the FAQ and rules that would tell me what the correct interpretation is, but there's nothing in either of those sources that confirms it for me (at least not that I could find).
+> 
+>  
+
+ 
+
+my fault .. the german translation of The Balrog says: "... und nur der Startspieler kann Angriffe gegen Der Balrog erklären." 
+
+in english: ".. only the first player can declare attacks against The Balrog." .. this is why i tried to clarifiy if participating is equal to declaring. :-/
+
+Edited February 2, 2016 by JanB
+

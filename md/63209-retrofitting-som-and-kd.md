@@ -1,0 +1,30 @@
+# [Retrofitting SoM and KD](https://community.fantasyflightgames.com/topic/63209-retrofitting-som-and-kd/)
+
+## 1 [player582283 on April 17, 2012](https://community.fantasyflightgames.com/topic/63209-retrofitting-som-and-kd/?do=findComment&comment=618549)
+
+While I'm surprised, and a touch disappointed in The Hobbit expansion, one thing I'm excited about is the Treasure cards and the indication that the scenarios will tie together more.  I'm very curious to understand if there will be additional rules for "campaigning"- impacts in subsequent scenarios for having a hero killed?  Decisions in 1 scenarios quests that drive options in other scenarios?
+
+Anyway, if they establish some cool, well thought out Saga rules, I would love to see FFG retrofit them back to Shadows of Mirkwood, KD and Dwarrowdelf.  They could publish Treasure cards along with any cycle specific saga rules as expansions.  It would also fit well with my thought of creating expansions that increase the difficulty of existing scenarios.  Add a card pack to make Hunt for Gollum a 7 ,for example, along with treasures and saga rules for SoM...
+
+Thoughts? 
+
+## 2 [Budgernaut on April 17, 2012](https://community.fantasyflightgames.com/topic/63209-retrofitting-som-and-kd/?do=findComment&comment=618565)
+
+Woz said:
+
+While I'm surprised, and a touch disappointed in The Hobbit expansion, one thing I'm excited about is the Treasure cards and the indication that the scenarios will tie together more.  I'm very curious to understand if there will be additional rules for "campaigning"- impacts in subsequent scenarios for having a hero killed?  Decisions in 1 scenarios quests that drive options in other scenarios?
+
+Anyway, if they establish some cool, well thought out Saga rules, I would love to see FFG retrofit them back to Shadows of Mirkwood, KD and Dwarrowdelf.  They could publish Treasure cards along with any cycle specific saga rules as expansions.  It would also fit well with my thought of creating expansions that increase the difficulty of existing scenarios.  Add a card pack to make Hunt for Gollum a 7 ,for example, along with treasures and saga rules for SoM...
+
+Thoughts? 
+
+
+
+I could totally see them creating an outline for how to implement Saga Rules and Treasure cards into previous cycles and box sets. As you alluded, however, the earlier quests would be even easier if you added Treasure cards and I just can't see FFG producing a supplemental pack for a previous AP. It'd almost be like saying they designed it wrong in the first place. 
+
+Now as for expansions that bring new Treasure cards, Encounter cards, and Saga-like rules to old cycles, I think it sounds interesting. Do I think it will happen? No. But then, I never thought we'd be able to play events directly from the books either . . .
+
+## 3 [Cotillion37 on April 18, 2012](https://community.fantasyflightgames.com/topic/63209-retrofitting-som-and-kd/?do=findComment&comment=619431)
+
+Even if they don't retrofit the treasure cards for use in the previous cycles, you could always just house rule it. Like, you kill a hill troll, you get a treasure card.
+

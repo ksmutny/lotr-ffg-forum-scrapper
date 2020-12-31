@@ -1,0 +1,469 @@
+# [The LOTR LCG Progression Series](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/)
+
+## 1 [TheLightdarker on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811310)
+
+Greetings, forum goers!
+
+My name is Mitch, and I'm one of the co-hosts of the Cardboard of the Rings podcast. I haven't posted here in an age, but I wanted to share with those in the LOTR LCG community that are as of yet unaware of it, a project I've been working on for some time now.
+
+Since December of last year, both myself and a gentleman named Matthew (user Dain Ironfoot of these forums), have been slowly but steadily creating HD-quality video play-throughs of each and every existing scenario. We just recently published our 50th Episode [http://www.youtube.com/watch?v=-ziCqjY6vN4&feature=share&list=UUVKwveV9va6wBu1AkRIHB9w], are looking to release many more installments in the near future, and wanted to spread the word.
+
+The name of our project is The LOTR LCG Progression Series [http://www.youtube.com/playlist?list=PL6agV3Ll1nNihJiCSotL0itNwUiiXkF2t], wherein he and I play through each and every expansion for our beloved franchise in the order of its chronological release; for instance, when playing through Conflict at the Carrock, we built decks as though A Journey to Rhosgobel and other, future releases do not exist. However, we also adhere to the most up-to-date version of the FAQ, so that all of these cards nevertheless function as the developers intended them to. In this way, hopefully the videos appeal to beginners and veterans alike. At the present moment we are working our way through The Hobbit: On the Doorstep Saga Expansion, and in our very latest installment we try our hand at playing The Battle of Lake-town.
+
+Beyond merely releasing scenario play-throughs, we also do in-depth card analyses for each and every release, and the series has been a blast to produce thus far. For an example, check out our recent review of The Hobbit: On the Doorstep Player Cards [http://www.youtube.com/watch?v=K6RC3pLn3sA&list=PL6agV3Ll1nNihJiCSotL0itNwUiiXkF2t&index=47]. If you've never heard of our videos, I strongly recommend you check them out, and if you've only seen our early episodes, I would definitely encourage you to take a look at some of our later adventures - we had a great time with Heirs of Numenor.
+
+In any case, we hope you enjoy the series! We love sharing our passion for this game with everyone.
+
+## 2 [Spurries on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811327)
+
+Thanks Mitch!  I must say as a follower since Episode 1, I am glad you guys are back at it. That play-through of Lake Town was awesome, have never seen it tried multi-player.  Keep up the great work!
+
+## 3 [mr.thomasschmidt on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811366)
+
+Yes. It's a great idea and I enjoy every minute of your videos. I know it's not part of the progression series but last night I just revisited one of my favourites. The play through of stone of foundation. That is just epic when you draw Orc ambush due to a surge effect and have to face almost all orcs in the encounter deck. It's just so great. Not that you loose but the situation is just awesome :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] keep up the great work
+
+## 4 [Pharmboys2013 on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811377)
+
+just watched episode 50.  really enjoyed it; keep up the good work
+
+## 5 [Khamul The Easterling on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811440)
+
+Yeah great video's.  Although it is dissapointing to me when you absolutely CRUSH a scenario and never play it again.  (Like your Long Dark play)It happens though.  Can't wait for Druadan Forest.  It's nice that you edit out your swearing too. :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+So is there a somewhat regular schedule?  Or are the videos going to come out at random times.  I look like 2-3 times a day to see if you released another video :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+ 
+
+Oh and does Matthew like playing LOTR?  Or just barely?  He sometimes sounds like he's not having fun and he's just hates doing it or something.  Like when it comes to engagement Mitch will say "Do you want to take the 2 spearmen?"  card Matthew wil be like "ughhhh I guesss" when its no big deal in the game.   No Offense Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] I really don't care at all if you do that.  It's actually kinda nice if you are only listening to the video cause its nice to hear a reaction to a bad card :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  But I was just wondering if that is how you always react when even small bad things happen :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] nothing against you Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  You just sound kinda dreadful and gloomy when it comes to a big decision to make or when you have to do engagements  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  I was just wondering if that's you really having fun and your just really into the game. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+Keep up the GREAT work guys :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Edited July 10, 2013 by Khamul The Easterling
+
+## 6 [Dain Ironfoot on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811566)
+
+Hi Khamul,
+
+ 
+
+Thanks for the feedback. If I were to hazard a guess, I think there are a couple of thing going on:
+
+ 
+
+1) We often record after midnight because of Mitch's crazy work schedule. That may accout for some tiredness on my part.
+
+ 
+
+2) There is some planning discussion that gets edited out of a video (because it would otherwise slow down the video). In other words, when discussing engagements, Mitch and I will talk about which player will engage which enemies, which hero or ally will defend, etc. So, by the time Mitch asks in the video you see "Will you take X enemies...?" we've already discussed it so I'm like "yeah, sure..." haha. There probably *is* a lessened enthusiam on my part and I've never thought about it coming across in the videos.
+
+ 
+
+I certainly do love the game. There are a few folks that lurk around these Forums that I've played LOTR:LCG with in "real life" and they can probably attest to what I'm like to play with more than I can.
+
+ 
+
+Either way, I'll make an effort to sound more excited when I bash enemies! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+Matthew
+
+> Yeah great video's.  Although it is dissapointing to me when you absolutely CRUSH a scenario and never play it again.  (Like your Long Dark play)It happens though.  Can't wait for Druadan Forest.  It's nice that you edit out your swearing too. :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+> 
+>  
+> 
+> So is there a somewhat regular schedule?  Or are the videos going to come out at random times.  I look like 2-3 times a day to see if you released another video :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+> 
+>  
+> 
+> Oh and does Matthew like playing LOTR?  Or just barely?  He sometimes sounds like he's not having fun and he's just hates doing it or something.  Like when it comes to engagement Mitch will say "Do you want to take the 2 spearmen?"  card Matthew wil be like "ughhhh I guesss" when its no big deal in the game.   No Offense Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] I really don't care at all if you do that.  It's actually kinda nice if you are only listening to the video cause its nice to hear a reaction to a bad card :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  But I was just wondering if that is how you always react when even small bad things happen :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] nothing against you Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  You just sound kinda dreadful and gloomy when it comes to a big decision to make or when you have to do engagements  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  I was just wondering if that's you really having fun and your just really into the game. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+> 
+> Keep up the GREAT work guys :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+> 
+> Hi Khamal, thanks for the feedback.
+> 
+>  
+> 
+> I Think thee
+
+Edited July 10, 2013 by Dain Ironfoot
+
+## 7 [hildargo on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811580)
+
+Matthew is a part of the playgroup that I try to frequent on a regular basis, and he is a blast to play with. He also has the mouth of the sailor, which makes games extra entertaining.
+
+## 8 [Khamul The Easterling on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811588)
+
+Ahhh "Tired" was the word I was looking for :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  Makes more sense now :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] 
+
+ 
+
+I love it when you guys lose :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] Or when its really close.  Some of the quests you play you just totally Crush to scenario and that's no fun to watch (I think at least) So i'm liking these last few quests since they are giving you a real challenge.  I hope that that will continue since that is what makes the video's interesting and fun to watch.  
+
+ 
+
+Few questions:
+
+1. Will you doing nightmare decks for Mirkwood and Core?  
+
+ 
+
+2. Is there a schedule for videos?  Or at least a rough schedule?  
+
+ 
+
+3. I understand that you want to use your most powerful decks to be able to beat the quests on the first try, but I'm very much getting sick of the dwarf decks.  Especially Dain's boosting ability.  After you finish Battle of Five Armies, will you start using different heroes?  Like not dwarves?  And maybe even Hobbit decks?
+
+ 
+
+Thanks,
+
+Khamul
+
+## 9 [TheLightdarker on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811651)
+
+Glad to hear everyone is enjoying the series!
+ 
+
+> Ahhh "Tired" was the word I was looking for :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  Makes more sense now :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+> 
+> I love it when you guys lose :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] Or when its really close.  Some of the quests you play you just totally Crush to scenario and that's no fun to watch (I think at least) So i'm liking these last few quests since they are giving you a real challenge.  I hope that that will continue since that is what makes the video's interesting and fun to watch.  
+> 
+>  
+> 
+> Few questions:
+> 
+> 1. Will you doing nightmare decks for Mirkwood and Core?  
+> 
+>  
+> 
+> 2. Is there a schedule for videos?  Or at least a rough schedule?  
+> 
+>  
+> 
+> 3. I understand that you want to use your most powerful decks to be able to beat the quests on the first try, but I'm very much getting sick of the dwarf decks.  Especially Dain's boosting ability.  After you finish Battle of Five Armies, will you start using different heroes?  Like not dwarves?  And maybe even Hobbit decks?
+> 
+>  
+> 
+> Thanks,
+> 
+> Khamul
+
+1. Yes. I've had the physical cards for months now, but haven't actually ever gotten around to trying them! Matthew and I have the ability to create our own, custom sets for OCTGN, so you will someday see videos for not only the first season of Nightmare decks once we "catch up" our series to current content, but also the upcoming season two that I have pre-ordered. Furthermore, once we get back from GENCON 2013 (both Matthew and I are going with much of the COTR crew), we'll be eventually releasing a video for The Stone of Erech, as well.
+
+2. Originally, I tried to put out videos once every 3 days. I think I maintained that for about 3 months, and it sucked away every drop of my free time. As a result, I ended up burning out and not wanting to touch the series for about a month, and am just now getting back into the groove. I'm currently feeling motivated to try to finish, though, so hopefully videos will come out no slower than once a week, and ideally a little faster than that. The card review videos in particular can be fairly monumental editing tasks!
+
+3. I can guarantee that things will be changing up in the near future. Once we reach The Steward's Fear (which Matthew and I intend to record today!), we'll at the very least have to put the Outlands deck through its paces, and I am excited to eventually deviate from Dwarves. Here's hoping that FFG does end up elevating the power of "Hobbit," or "Gondor" and other traits so that players end up with more "top-tier" options.
+
+Edited July 10, 2013 by TheLightdarker
+
+## 10 [Khamul The Easterling on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811659)
+
+So you and Matthew never actually see each other?  I always pictured you calling Matt and saying like "hey want to come over to my house and bring your computer and do some OCTGN LOTR?" And then you guys hang out together playing it while sitting next to each other.  I guess that's the point of OCTGN though...being able to play with someone without living next to them.  haha :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 11 [danpoage on July 10, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811672)
+
+I don't know, these videos are okay, but what would be even cooler is if you guys were replaced by two robots. That way there would never be any mistakes, and the robots would never get excited or show emotion throughout the game. That would be way more entertaining than the way that you guys do it now. Still, I've watched every video you guys have released, and I will continue to watch new ones, in the hopes of catching any play mistakes. I was going to start recording my own video play-throughs but it so much easier to just criticize you guys! :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] 
+
+...</sarcasm>
+
+Edited July 10, 2013 by danpoage
+
+## 12 [Dain Ironfoot on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811746)
+
+I agree: the close victories (or defeats!) are much more fun (though, from a production standpoint, the "easy" wins are much more simple!).
+
+ 
+
+Mitch already addressed your first two questions adequately enough but I thought I'd chime in on the 3rd. I agree that dwarf decks, while extremely powerful, can be a bit boring. That's why I don't play "true" dwarf decks, in the most literal sense of the word.
+
+ 
+
+One of my goals for the Against the Shadows cycle, however, is to try out different deck types and spheres (perhaps even mono-sphere decks). So, you'll most likely not see me playing tactics for most of the upcoming packs, but instead focusing on Leadership and Lore. It not only shakes it up for me, personally, but I hope it'll shake up the videos for the viewers, as well.
+
+ 
+
+Also, once we are "caught up" the the currently released content, we will definitely re-visit old quests with completely different deck constructions, theme decks, maybe even 3 or 4 player games!
+
+ 
+
+So, there are lots of exciting changes in store, me thinks! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+>  
+> 
+> 3. I understand that you want to use your most powerful decks to be able to beat the quests on the first try, but I'm very much getting sick of the dwarf decks.  Especially Dain's boosting ability.  After you finish Battle of Five Armies, will you start using different heroes?  Like not dwarves?  And maybe even Hobbit decks?
+> 
+>  
+> 
+> Thanks,
+> 
+> Khamul
+
+Edited July 10, 2013 by Dain Ironfoot
+
+## 13 [TheLightdarker on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=811750)
+
+> So you and Matthew never actually see each other?  I always pictured you calling Matt and saying like "hey want to come over to my house and bring your computer and do some OCTGN LOTR?" And then you guys hang out together playing it while sitting next to each other.  I guess that's the point of OCTGN though...being able to play with someone without living next to them.  haha :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+Though Matthew and I have met before (between Episodes 003 and 004), we live very far apart from one another. I'm in Washington State, for instance, and he's all the way over in Arizona, so unfortunately, any time we want to record there's a lot of schedule coordination that has to go into it!
+
+## 14 [muemakan on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812063)
+
+> Yes. It's a great idea and I enjoy every minute of your videos. I know it's not part of the progression series but last night I just revisited one of my favourites. The play through of stone of foundation. That is just epic when you draw Orc ambush due to a surge effect and have to face almost all orcs in the encounter deck. It's just so great. Not that you loose but the situation is just awesome :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] keep up the great work
+
+ 
+
+ 
+
+It is one of the funniest videos they have up on their page. But is Road to Rivendell not FoS. My absolute favorite.
+
+## 15 [mr.thomasschmidt on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812069)
+
+>  
+> 
+> > Yes. It's a great idea and I enjoy every minute of your videos. I know it's not part of the progression series but last night I just revisited one of my favourites. The play through of stone of foundation. That is just epic when you draw Orc ambush due to a surge effect and have to face almost all orcs in the encounter deck. It's just so great. Not that you loose but the situation is just awesome :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] keep up the great work
+> 
+>  
+> 
+>  
+> 
+> It is one of the funniest videos they have up on their page. But is Road to Rivendell not FoS. My absolute favorite.
+> 
+>  
+
+Oh yeah, right! I stand corrected. Thanks for pointing that out muemaken :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+But what I truely like about your videos is that it seems that you enjoy to play the game and that you are so humble about how you play. You get a feeling that this is two guys playing a game they love and everyone that would like to join in a game are welcome. Being that newbies and veterans alike :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] I have watched some videos from another in this forum and even though he is good at playing the game you just can't relax watchin him play. Everything has to go so fast all the time so you almost loose your breath watching. That's just not enjoyable to watch. But you guys is really great. I always have a nice time watching you play :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] PLease keep it up :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 16 [Khamul The Easterling on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812211)
+
+> I have watched some videos from another in this forum and even though he is good at playing the game you just can't relax watchin him play. Everything has to go so fast all the time so you almost loose your breath watching. That's just not enjoyable to watch. 
+
+Poor Glaurung :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]   I like your videos Glaurung!!!  Like yours too Mitch and Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]  I like yours since they have 2 players, and because there is much more joy and talking and liveliness.  I like Glaurung's videos since they are almost always against tough quests so its more exciting and also since they are real cards, and I like his voice :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]  
+
+## 17 [Mr Coffee on July 11, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812476)
+
+>  
+> 
+> > So you and Matthew never actually see each other?  I always pictured you calling Matt and saying like "hey want to come over to my house and bring your computer and do some OCTGN LOTR?" And then you guys hang out together playing it while sitting next to each other.  I guess that's the point of OCTGN though...being able to play with someone without living next to them.  haha :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+> 
+> Though Matthew and I have met before (between Episodes 003 and 004), we live very far apart from one another. I'm in Washington State, for instance, and he's all the way over in Arizona, so unfortunately, any time we want to record there's a lot of schedule coordination that has to go into it!
+> 
+>  
+
+ 
+
+So, if you hadn't met before starting the video series, what compelled the two of you to start the venture together?  You obviously bumped into each other online somehow?
+
+ 
+
+Also, glad to see someone else from Washington State!  Currently living in the Tacoma area, but all my gaming friends are from farther east in the state (Yakima area), so one of the reasons I love this game is it provided a great solo aspect...  I did play briefly with my cousin via OCTGN, but haven't kept up with all the downloads lately, and since getting married my computer has become "community property"... lol.
+
+## 18 [TheLightdarker on July 12, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812680)
+
+> But what I truely like about your videos is that it seems that you enjoy to play the game and that you are so humble about how you play. You get a feeling that this is two guys playing a game they love and everyone that would like to join in a game are welcome. Being that newbies and veterans alike :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] I have watched some videos from another in this forum and even though he is good at playing the game you just can't relax watchin him play. Everything has to go so fast all the time so you almost loose your breath watching. That's just not enjoyable to watch. But you guys is really great. I always have a nice time watching you play :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] PLease keep it up :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+
+I'm glad that passion comes through in the videos - and thanks for the kind words! I've certainly never claimed to be an expert player, and though I love talking about LOTR LCG (particularly evaluating player cards and encounter decks), my actual play for this game, be it solo or multiplayer, is pretty much limited to a handful of games to test out new scenarios prior to recording COTR, and then whatever you see recorded for the Progression Series. Alas, I don't have the luxury of an IRL group of friends or an FLGS to play with, or at, but that doesn't stop me from wanting to remain a contributing part of the (with few exceptions), fantastic community that has developed for this game over the last two years. I'm by no means the most experienced player, but I nevertheless have a blast playing this game, and love sharing that enthusiasm and passion with anyone interested.
+
+Edited July 12, 2013 by TheLightdarker
+
+## 19 [TheLightdarker on July 12, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812689)
+
+> Poor Glaurung :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]  
+
+I lol'ed.
+
+ 
+
+> So, if you hadn't met before starting the video series, what compelled the two of you to start the venture together?  You obviously bumped into each other online somehow?
+> 
+>  
+> 
+> Also, glad to see someone else from Washington State!  Currently living in the Tacoma area, but all my gaming friends are from farther east in the state (Yakima area), so one of the reasons I love this game is it provided a great solo aspect...  I did play briefly with my cousin via OCTGN, but haven't kept up with all the downloads lately, and since getting married my computer has become "community property"... lol.
+
+Geez. The series started so long ago, it's hard to remember exactly what made me want to start it in the first place! A long time ago, I used to write unecessarily thorough and (quite literally!), exhaustive reviews for each and every expansion for Amazon, but ended up burning out on that, once they started becoming a little too analytic and narrative to be useful, succinct reviews for consumers. Once I started using OCTGN as a means of playing with people over long distances, I figured that videos would be a fun, and much better method of showing off each and every scenario. Cardboard of the Rings is certainly a fun show to be involved in, but due to the different playstyles and preferences of each host, it doesn't always go into the depth of analysis for each card and scenario that I would prefer. I could often drone on and on about each and every card, but almost always choose not to, so that COTR can be what it should be; a light-hearted, fun, and mostly unedited collaboration of a bunch of different folks that are irresistibly drawn to LOTR LCG, with the opinions and personality of each host taking precedence over analyzing everything to death. However, The Progression Series gives me creative control I would never want to take from Brandon (the creator of COTR), and allows me a convenient, appealing means to discuss this game I am so passionate about (in the depth and intricacy that I prefer), and to also provide pleasing visuals for the viewers - though the "card review" videos weren't something that was planned for in the beginning, I love being able to show each and every card, on-screen, for quick viewer reference, which is something that is unfortunately impossible on a purely audio podcast.
+
+I think that Matthew and I first started talking when he, as a COTR listener, got involved in a game-related discussion with me, and he and I just became fast friends. We played a TON of games of Summoner Wars on the iOS, Orcs Must Die 2, and a number of other games - we just kinda bonded over time. After the Amazon reviews stopped, but at the height of my interest in COTR, I used to make videos of myself playing solo games on OCTGN, or sometimes with viewers, but due to a very vocal minority of my viewership and COTR critics giving me and COTR as a whole quite a bit of unrelenting and destructive criticism, I was slowly but surely discouraged from continuing to put effort into generating content for the community. As a result, my interest in recording COTR waned, and I stopped making videos entirely for something like 6 months. Eventually, COTR recorded a "2012 year-in-review" episode, wherein we discussed our "naughty list" for the year, among other things. I kinda opened up and shared with everyone that I had lost most of my interest in recording COTR, and all interest in doing videos, but I couldn't help but remember how much love and passion I have for this game - as a dedicated player for two years now, there's just something about this franchise that always pulls me back in, even when community response to my contributions has me down and discouraged.
+
+Thus, after recording that episode, I thought to myself "what would be a fun, exciting and useful project to work on?" and I came up with the idea for the progression series. Since Matthew and I play through each expansion in sequence, and gradually increase our card pool just like we did when we were all new players, I thought it would be something that will in many ways never be outdated; for example, since we assessed the Heirs of Numenor cards without comparisons to any of the Against the Shadow adventure packs, if a new player years from now doesn't own any of those "future expansions," the reviews should still be relevant, so long as they make their purchases in chronological order (as FFG "intends"). Matthew was the natural choice for co-host, as he and I had grown to be great friends, and the COTR co-hosts' schedules either didn't match my own, or wouldn't allow for a lot of time spent making a video series. Plus, Matthew and I are both pretty analytical people, so our personalities mesh fairly well. Certainly a lot to read, but that's pretty much the story of the series. Though my motivation took a bit of a dip recently due to some silly and unfortunate game-invalidating errors (necessitating re-recording and re-editing of a few episodes), my motivation to "complete" the series to catch up to current content is back in spades.
+
+And as an aside, benhanses, that's funny that you have friends in Yakima that play LOTR LCG! That's where I live, in fact.
+
+Edited July 12, 2013 by TheLightdarker
+
+## 20 [rekath16 on July 12, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=812745)
+
+Encouraged by you and your series I started my own with another friend in OCTGN, of course without recording, but with the same conditions (f.i. only card pool till the certain AP).
+
+The only difference is that we really - despite your former aspiration in older videos - try to use all cards, our effort is to have included every card at least once till the end of the series. I know you construct your decks in the sense of the best propriate for the certain scenario, we do that also, but we include underwhelmed and new cards.
+
+We play every scenario 3 times to get sure that the victory or loss wasnt due to stupid coincidences and until now we lost only - i think - 1x Dol Guldur, Carrock, Osgiliath, Into the Pit and FoS. At the moment we arrived at Shadow & Flame.
+
+ 
+
+The Series is a lot of fun and I thank you for the inspiration. Against beliefs that caused some new opinions about cards where I allways thought <never ever> (f.e. Dark Knowledge, which I like a lot now.).
+
+## 21 [Glaurung on July 13, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=813301)
+
+This series is the best job to bring attention to the game. Special for beginers and someone who know nothing about.
+
+But if you know how to play some of the videos can be a bit boring..... cose there is sometimes miss feelings of dangerous and get monotony.
+
+I really hope you will do 3-4 player session. That was couple great ones before progression series. Road to Rivendell and Foundation of Stone. Amazing cool videos!
+
+I hope we can see some in the future.
+
+Really cool to see Massing at Osgiliath by 4 or Flight fr Moria or Druadan forest!
+
+## 22 [klaymen_sk on July 13, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=813364)
+
+I've started watching your series sometimes during your playthrough of the Dwarrowdelf cycle and I have instantly subscribet to your Youtube channel. Keep up the good work, guys!
+
+ 
+
+ 
+
+> It's nice that you edit out your swearing too. :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+Actually, I don't mind the swearing. In fact, Matthew's reactions are quite funny, for example at the end of the Into Ithilien quest. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 23 [Khamul The Easterling on July 15, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814121)
+
+You sounded a lot more happy on Lake Town Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] Do you guys use Skype while playing?
+
+## 24 [zelq on July 15, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814129)
+
+Can't wait to watch these!
+
+## 25 [Dain Ironfoot on July 15, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814214)
+
+> You sounded a lot more happy on Lake Town Matthew :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] Do you guys use Skype while playing?
+
+ 
+
+haha, i tried! and yes, we use skype.
+
+## 26 [rekath16 on July 15, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814368)
+
+> Glaurung: I really hope you will do 3-4 player session. That was couple great ones before progression series. Road to Rivendell and Foundation of Stone. Amazing cool videos!
+> 
+> I hope we can see some in the future.
+
+I agree.
+
+Why don't we see anymore videos with Brandon &Co. from COTR?
+
+ 
+
+What about Brandon+Mitchking+Matthew? Or Brian+Mitchking+Matthew+Brandon?
+
+Edited July 15, 2013 by rekath16
+
+## 27 [Doom1502 on July 15, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814495)
+
+Thanks for all your videos Mitch & Matthew. I watched every single one of them and will continue to do so ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 28 [TheLightdarker on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814969)
+
+> Why don't we see anymore videos with Brandon &Co. from COTR?
+> 
+>  
+> 
+> What about Brandon+Mitchking+Matthew? Or Brian+Mitchking+Matthew+Brandon?
+
+Oh, lots of different reasons. For some, their interest in the game itself has waned over time, and for others, they've just gotten increasingly busy - kids, work, other hobbies, etc. That, combined with scheduling conflicts (primarily because of yours truly), makes COTR as a whole a little bit of a tricky affair to record, let alone any additional projects. It's certainly something that could and likely will happen in the future, though.
+
+ 
+
+To everyone else, very glad to hear you're enjoying the series! New episodes should be due out soon, and I'll be headed home to work on editing together our playthrough of The Steward's Fear in just a few minutes, actually. ^_^ [//content.invisioncic.com/Mfantflight/emoticons/default_happy.png]
+
+Edited July 16, 2013 by TheLightdarker
+
+## 29 [Gizlivadi on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=814984)
+
+There should be a Keen-eyed Took avatar for Mitch to have.
+
+## 30 [rekath16 on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=815051)
+
+>  
+> 
+> > Why don't we see anymore videos with Brandon &Co. from COTR?
+> > 
+> >  
+> > 
+> > What about Brandon+Mitchking+Matthew? Or Brian+Mitchking+Matthew+Brandon?
+> 
+> Oh, lots of different reasons. For some, their interest in the game itself has waned over time, and for others, they've just gotten increasingly busy - kids, work, other hobbies, etc. That, combined with scheduling conflicts (primarily because of yours truly), makes COTR as a whole a little bit of a tricky affair to record, let alone any additional projects. It's certainly something that could and likely will happen in the future, though.
+
+ 
+
+I didnt know that "some" lost interest in the game, honestly I can hardly imagine who... But I hope, you use your influence and your rethorical eloquence to convince them to do that asap.
+
+## 31 [Khamul The Easterling on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=815202)
+
+>  
+> 
+> > Why don't we see anymore videos with Brandon &Co. from COTR?
+> > 
+> >  
+> > 
+> > What about Brandon+Mitchking+Matthew? Or Brian+Mitchking+Matthew+Brandon?
+> 
+> Oh, lots of different reasons. For some, their interest in the game itself has waned over time, and for others, they've just gotten increasingly busy - kids, work, other hobbies, etc. That, combined with scheduling conflicts (primarily because of yours truly), makes COTR as a whole a little bit of a tricky affair to record, let alone any additional projects. It's certainly something that could and likely will happen in the future, though.
+> 
+>  
+> 
+> To everyone else, very glad to hear you're enjoying the series! New episodes should be due out soon, and I'll be headed home to work on editing together our playthrough of The Steward's Fear in just a few minutes, actually. ^_^ [//content.invisioncic.com/Mfantflight/emoticons/default_happy.png]
+> 
+>  
+
+You arn't skipping Battle of the five armies are you?
+
+## 32 [Dain Ironfoot on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=815302)
+
+>  
+> 
+> >  
+> > 
+> > > Why don't we see anymore videos with Brandon &Co. from COTR?
+> > > 
+> > >  
+> > > 
+> > > What about Brandon+Mitchking+Matthew? Or Brian+Mitchking+Matthew+Brandon?
+> > 
+> > Oh, lots of different reasons. For some, their interest in the game itself has waned over time, and for others, they've just gotten increasingly busy - kids, work, other hobbies, etc. That, combined with scheduling conflicts (primarily because of yours truly), makes COTR as a whole a little bit of a tricky affair to record, let alone any additional projects. It's certainly something that could and likely will happen in the future, though.
+> > 
+> >  
+> > 
+> > To everyone else, very glad to hear you're enjoying the series! New episodes should be due out soon, and I'll be headed home to work on editing together our playthrough of The Steward's Fear in just a few minutes, actually. ^_^ [//content.invisioncic.com/Mfantflight/emoticons/default_happy.png]
+> > 
+> >  
+> 
+> You arn't skipping Battle of the five armies are you?
+> 
+>  
+
+nope, it's recorded - but i warn you, it was recorded over a month ago - so you might see a return of "tired" matthew, haha!
+
+## 33 [Khamul The Easterling on July 16, 2013](https://community.fantasyflightgames.com/topic/86111-the-lotr-lcg-progression-series/?do=findComment&comment=815322)
+
+hahaha ok.  Hey you should put in your top 5 favorite quests on the topic on main page.  
+
+Edited July 16, 2013 by Khamul The Easterling
+

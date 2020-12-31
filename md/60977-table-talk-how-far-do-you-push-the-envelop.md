@@ -200,3 +200,31 @@ There is no "correct" way... it is just something to do to make the game more fu
 
 The "muddy" part of this is when people talk about the fictional "tournament scene" as this rule will need to be solidified and worse worked out how to be enforced.
 
+## 26 [ragnarhedin on March 9, 2012](https://community.fantasyflightgames.com/topic/60977-table-talk-how-far-do-you-push-the-envelop/?do=findComment&comment=603970)
+
+Oh, there's no way that a consistent rule could be applied over a tournament scene.  I too can't imagine such a scene even existing, though games like Bridge and other partner card games do have international tournaments.
+
+## 27 [Bomb on March 9, 2012](https://community.fantasyflightgames.com/topic/60977-table-talk-how-far-do-you-push-the-envelop/?do=findComment&comment=604003)
+
+I like talking to people while I sit down at a table with them.
+
+Most of the time where we do table talk, it involves rules questions and not questions based on the scenario revolving around the card I'd play in question.
+
+An example of acceptable table talk in my opinion would be "Hey, which character do you plan on defending with most of the time?".  That doesn't necessarily give away any card in my hand, but could imply that I want to beef the character up.
+
+## 28 [Sprenger on March 9, 2012](https://community.fantasyflightgames.com/topic/60977-table-talk-how-far-do-you-push-the-envelop/?do=findComment&comment=604135)
+
+What do you guys think about having an extra step at the very beginning of the game before starting hands are drawn that lets player talk about how their decks are played and who their main attackers/defenders/questers are.
+
+Then talk about an overall game plan like for instance the first quest card we need Player A and B to quest and have Player C and D handled the enemies. Once we hit the 2nd card we need Player X to do this while Y&Z do that.
+
+Once the group establishes the game plan then game continues as normal.
+
+## 29 [booored on March 9, 2012](https://community.fantasyflightgames.com/topic/60977-table-talk-how-far-do-you-push-the-envelop/?do=findComment&comment=604144)
+
+I think this is fair. In our co-op games we design the decks together so we all know the exact contents of each deck and how it is meant to be run.. like for example we know that steward is meant to be cast on player A from players B's hand and go on X hero. Or that Player X's deck needs card draw over player Y's or w/e.. This isn't a violation imo, knowing your partners deck b4 the game starts is all fine. It is just after teh game starts that you need to be secretive. Having an organised game plan and general strategies on how you run your decks is all good.
+
+## 30 [guest479094 on March 13, 2012](https://community.fantasyflightgames.com/topic/60977-table-talk-how-far-do-you-push-the-envelop/?do=findComment&comment=605175)
+
+ Does talking to yourself during solo play count as table talk? If so, I go way over the lin all the time. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+

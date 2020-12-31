@@ -256,3 +256,7 @@ yay for resolution
 
 Good job jban.
 
+## 26 [Raven1015 on July 15, 2015](https://community.fantasyflightgames.com/topic/180443-treebeard-hero-song-of-mocking/?do=findComment&comment=1693441)
+
+Nice to know. Cool combo that opens up some new possibilities for Coin Gloin.
+

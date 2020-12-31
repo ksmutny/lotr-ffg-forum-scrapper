@@ -1,0 +1,143 @@
+# [your killer combos](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/)
+
+## 1 [richsabre on April 29, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790138)
+
+so lets hear them, your proudest and most deadly game-winning combos.
+
+mine……probably my mono tactics deck with beorn, legolas and hama. hama recycling thicket of spears, beorn taking the hits from the other decks enemies then killing the tatics enemies, and legolas sniping the enemies from the other deck and in staging with yew bow. with this deck alongside a questing deck i have won many a quest…sometimes laughably so (i laugh in the face of sauron sonreir [http://www.fantasyflightgames.com/edge_scripts/ckeditor/plugins/smiley/images/sonreir.gif])
+
+second is probably getting 15+ dwarves in play and then getting erebor battle master to go on a killing spree….that dwarf knows killing like no one's business
+
+rich
+
+## 2 [Khamul The Easterling on April 29, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790143)
+
+Since I'm rather new to the game ( about 30 games) I havn't had the time to figure out too many differant combos but i'll post what a do know casue a suppose it's better than nothing.
+
+ 
+
+Gimli - He has so many differant things to boost his attack to over 10
+
+Legolas -  Legolas with a few rivendell blades and a rivendell bow and/or other weapon attachments can really do a good deal of damage. 
+
+ 
+
+Khamul
+
+## 3 [richsabre on April 29, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790157)
+
+legolas has become so much more powerful over the last few packs i think. he was great with the gondolin blades, but now he has the ability to have the yew bow meaning he can attack in the staging area, rivendell bow giving +1 ranged attack, rivendell blades giving up to -4 defense, and the deadly black arrow for +5 attack (though not all of those at the same time of course!)
+
+added to this he can have dunedain attack buffs that arent restriced, he can be a real killing machine. once you have all the weapons on he can also help with goblin cleaver, foe hammer, and one of my favourites- straight shot.
+
+ranged really has become a power in this game like no other.
+
+rich
+
+## 4 [Glaurung on April 29, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790204)
+
+If you meam killer combo of heroes so the most crazy combo is Dain/Thorin/Ori. This heroes with a Legacy of durin, We are not idle, Kili, Fili, Bifur, Gloin and many other lore and leadirship dwarfes kick ass of the game without big trouble.
+
+## 5 [GrandSpleen on April 29, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790219)
+
+I've been enjoying Straight Shot + Rivendell Blade(s) recently.  Put the Rivendell Blades on extra copies of Imladris Stargazer or Rivendell Minstrel to expand your combat options!
+
+## 6 [Ellareth on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790234)
+
+GrandSpleen said:
+
+I've been enjoying Straight Shot + Rivendell Blade(s) recently.  Put the Rivendell Blades on extra copies of Imladris Stargazer or Rivendell Minstrel to expand your combat options!
+
+
+
+Dayum, I am so bad at creative thinking.
+Never thought to use Rivendell Blades on Imladris Stargazer.
+
+## 7 [lleimmoen on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790266)
+
+Glaurung said:
+
+If you meam killer combo of heroes so the most crazy combo is Dain/Thorin/Ori. This heroes with a Legacy of durin, We are not idle, Kili, Fili, Bifur, Gloin and many other lore and leadirship dwarfes kick ass of the game without big trouble.
+
+
+
+Not to argue this much, I find the line-up quite vulnerable. I would agree that it is super strong once it gets going, and it is very quick at that, but an untimely treachery, or even a swarm of low engagement cost enemies, can easily go out of hand. And yes, I have seen the videos, and I have tried it myself. Not to take anything away from it, it is a power deck, it is just no silver bullet by any stretch.
+
+## 8 [lleimmoen on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790269)
+
+My favourite combos are those finesse ones, they are not very reliable in general but they're very neat when applied. I like to use Vilya to bring Son of Arnor after enemies have attacked, to attack the enemy Son of Arnor pulls from the staging area. Forest Snare is also great with Vilya. I like using Dúnhere or the ranged heroes to attack the staging area. I enjoy direct damage a lot, finishing enemies with Gondorian Spearman with Spear of the Citade attached is great fun.
+
+## 9 [Glaurung on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790319)
+
+lleimmoen said:
+
+Glaurung said:
+
+ 
+
+If you meam killer combo of heroes so the most crazy combo is Dain/Thorin/Ori. This heroes with a Legacy of durin, We are not idle, Kili, Fili, Bifur, Gloin and many other lore and leadirship dwarfes kick ass of the game without big trouble.
+
+ 
+
+ 
+
+Not to argue this much, I find the line-up quite vulnerable. I would agree that it is super strong once it gets going, and it is very quick at that, but an untimely treachery, or even a swarm of low engagement cost enemies, can easily go out of hand. And yes, I have seen the videos, and I have tried it myself. Not to take anything away from it, it is a power deck, it is just no silver bullet by any stretch.
+
+
+
+Hmm there is only one treachery wich this deck fears is : one in HON third quest some Malice : you choose 1 sphere and all others get 3 damage.
+
+This one if come in right time can destroy you. But there is only 2 copies in encounter deck so not big deal. In 2 players game is even more easy. 1 player just hold in the begin let the dwarf player gahter big army and then another player can die and dwarfes will run to the end in 2 3 turns. Still sure this deck is cry for errata!!!
+
+## 10 [Nerdmeister on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790322)
+
+Glaurung said:
+
+This one if come in right time can destroy you. But there is only 2 copies in encounter deck so not big deal. In 2 players game is even more easy. 1 player just hold in the begin let the dwarf player gahter big army and then another player can die and dwarfes will run to the end in 2 3 turns. Still sure this deck is cry for errata!!!
+
+
+
+How will having a second player save your dwarves from getting killed against this treachery card? The other player´s choice of sphere for The Master´s Malice does not influence which of your characters take damage since it uses the phrasing "Each character a player controls that does not belong to his chosen sphere takes 3 damage".
+
+Or am I misintepreting your intention?
+
+## 11 [lleimmoen on April 30, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790347)
+
+Let me see, I know things can go wrong with any or every deck but it is especially easy for them to go wrong when starting with a high threat, having only one way to lower it (Gandalf) and no treachery or shadow cancellation. I just give two quest examples - that I have played and they surprised me for destroying such a deck easily; because none of the quests rank among the very difficult. One is Pelargir, if you get one or two enemies on round 1, you will probably have to take at least one undefended as you won't have enough defenders. You get a bad shadow (I know there are only three copies) and you're done. Then Anduin, Hill Troll jumps at you round 1, almost guaranteed, what do you do? Let allies swallow it? Your threat goes up quickly, you get Evil Storm and there might be no allies to swallow the troll any more. Even Dain cannot take care of the troll many times in a row, and it will be hard to build a swarm quickly enough to kill him, especially if Dain is exhausted after defending. And this is a quest that I would hardly ever lose with a proper core set deck, yet I did with this particular Dwarven one.
+
+Of course, when things go well, this deck will seem invincible but I still find it more vulnerable than some - solo especially. If you beat every quest every time, I do applaud you (or your luck).
+
+Finally, however, I do agree about Dain and errata, I find his design quite cheap, since it is very hard to justify not playing him in a Dwarven deck; that I think is terrible with so many Dwarf heroes around.
+
+## 12 [TheDisturbed1 on May 1, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790742)
+
+Bombur with Citadel Plate, Spear of the Citadel, A Flaming Brand, Song of Battle, the Dunedain card giving +1 Def, and getting bonuses from Dain wearing Narvi's Belt.
+
+ 
+
+## 13 [CJMatos on May 1, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=790766)
+
+Boromir with a Song of Wisdom, A Burning Brand, 3 Dunedain Warnings and some help from Arwen and someThe Galadhrim's Greeting is a killer defense combo…
+
+ 
+
+Usefull for solo (difficult) and multi
+
+## 14 [DevastazioneH88 on May 4, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=791823)
+
+Hama and Legolas + Blade of Gondolin (x2) + Foe Hammer…6 attack (8 if you deal with orcs), 4 progress tokens and 3 cards each turn
+
+## 15 [gatharion on May 5, 2013](https://community.fantasyflightgames.com/topic/83119-your-killer-combos/?do=findComment&comment=792100)
+
+I too have been having lots of fun with Legolas and various attachments. Not to mention Hands Upon the Bow, just clearing the staging area of enemies and accumulating those Progress Tokens. Often utilizing Cram for maximum attacking from Legolas.
+
+ 
+
+I've also been taking advantage of some synergy with the children of Elrond. In particular, Elrohir getting his +2 defense from his brother, than another +1 and Sentinel from his sister add in his innate readying ability and he's one beast of a defender. If you further add in a bit of resource generation and maybe a Dunedain Warning or two (he's already Leadership) and then, if you've got some ability to cancel Shadow Effects, you're defending multiple attacks all over the table with nigh impunity.
+
+ 
+
+Also, I keep harping on the effectiveness of Support of the Eagles and any Battle or Siege Quest. Now my cheap eagle allies are questing monsters and won't get discarded right away because their questing rather than attack/defending AND one (or more) of my allies is ALSO able to use the eagle's stat for questing or combat.
+
+ 
+

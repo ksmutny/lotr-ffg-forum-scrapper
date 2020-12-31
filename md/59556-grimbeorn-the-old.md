@@ -1,0 +1,351 @@
+# [Grimbeorn the Old](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/)
+
+## 1 [TWTaylor on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=584997)
+
+Am I correct in my interpretation that,  since he does not exhaust to defend against trolls, he can defend against each of them each turn?
+
+Also, since his text does not state how many Leadership resources can be placed on him a turn, can you place as many as you can afford?
+
+If both answers are yes, then I finally beat Conflict at the Carrock solo! Using Bifur, Beravor and Legolas, and can finally move on to Journey.
+
+## 2 [goblin981 on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585010)
+
+ I hadn't realised this but I think you may be right.
+
+ Yes, the more Ledership tokens you get a turn, the fast you can 'buy' him.
+
+Well done, I've never come close to beating Carrock.
+
+## 3 [TWTaylor on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585022)
+
+I've triple checked the rules, and the attack section states that you:
+1. Choose an enemy.
+2. Declare defender.
+3. Resolve Shadow effect.
+4. Determine damage.
+Repeat for all enemies attacking.
+
+ 
+
+It seems that Grimbeorn remains an elligible defender since he never exhausts in defending, and with his 10 HP, he can weather all four trolls, which for me freed up everyone else to attack - my threat climbed as the fight went on due to limited questing. Legolas got the required progress token on the quest by defeating an enemy, so when the last troll died, the quest was completed.
+
+If I'm missing something, please feel free to let me know. Until then, I'm going to continue feeling elated at my success. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 4 [richsabre on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585024)
+
+i think this is the whole point of him, to take the hits
+
+## 5 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585074)
+
+Congrats on your win and good luck with the most feared of all quests... JOURNEY TO RHOSGOBEL! 
+
+## 6 [richsabre on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585078)
+
+cordeirooo said:
+
+ 
+
+Congrats on your win and good luck with the most feared of all quests... JOURNEY TO RHOSGOBEL! 
+
+ 
+
+ 
+
+though when you figure out how to play it.............it wont be too bad haha, beside you now have a huge thread dedicated to it
+
+## 7 [Captain Poe on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585088)
+
+Never realized it functioned like this. You can only make one attack per round with each character, so i assumed defending worked in the same logic.
+
+## 8 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585090)
+
+Captain Poe said:
+
+ 
+
+Never realized it functioned like this. You can only make one attack per round with each character, so i assumed defending worked in the same logic.
+
+ 
+
+ 
+
+ 
+
+Actually, it's the exact opposite.
+
+You can make any number of attacks per round with each character, the defending works with the same logic.
+
+ 
+
+You CANNOT attack the same enemy twice with the same character.
+
+## 9 [Captain Poe on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585092)
+
+Are you sure that is correct? I guess that all of your attacks must still be made during your attack phase though? For example, if I attack, then my team mate attacks with Brand, kills one of my enemies, and readies one of my character, i would not then be able to attack another enemy with the new ready hero?
+
+## 10 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585100)
+
+Captain Poe said:
+
+Are you sure that is correct? I guess that all of your attacks must still be made during your attack phase though? For example, if I attack, then my team mate attacks with Brand, kills one of my enemies, and readies one of my character, i would not then be able to attack another enemy with the new ready hero?
+
+
+
+ 
+
+I'm sure.
+
+Not all of your attacks must be made during the Combat Phase (e.g. Quick Strike).
+
+If he readies your character, you may attack with him as normal. Unexpected Courage can help you here too. Boromir is another attacking monster.
+
+## 11 [Captain Poe on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585104)
+
+Got it, but the cards have to specifically say you can attack out of phase.
+
+In my scenario, if two players were in the carrock fighting two trolls with zero cards in hand, and Aragorn exausts to attack one, his team makes Brand then exausts to attack the same troll and kills it, thus reading aragorn, the attack phase would not then go back to player one, allowing him to attack the second troll at this time.
+
+## 12 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585107)
+
+Captain Poe said:
+
+Got it, but the cards have to specifically say you can attack out of phase.
+
+In my scenario, if two players were in the carrock fighting two trolls with zero cards in hand, and Aragorn exausts to attack one, his team makes Brand then exausts to attack the same troll and kills it, thus reading aragorn, the attack phase would not then go back to player one, allowing him to attack the second troll at this time.
+
+
+
+ 
+
+Exactly! As long as he is eligible to attack (combat phase, enemy engaged, YOUR attacking step etc) he can attack.
+
+Good thing that Brand has ranged. :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 13 [starhawk77 on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585111)
+
+Yep, cordeirooo is correct. If you look at the rule book section on player attacks (p. 20), you'll notice it says a player must exhaust at least one ready character to declare an attack, and can declare one (and only one) attack against each enemy with which he or she is engaged. It does NOT say that a given character is limited to one attack per round or per phase.
+
+So, if you control Boromir and are engaged with, say, three Muck Adders, Boromir could be used to attack all three during your player attack step (readying between each attack thanks to his ability). However, he could NOT attack the same Muck Adder twice within a given combat phase.
+
+In the Brand example, say you exhaust your Prince Imrahil to attack an Eastern Crows with which you are engaged. Your ally lends Brand's ranged support to the attack (remember, ranged doesn't allow him to initiate attacks during your attack step; it only lets him JOIN attacks that you yourself declare). The Crows are toast, and Brand's controller chooses to ready Imrahil. Since it is still your attack step, you can use Imrahil to attack any other enemy with which you are engaged.
+
+ 
+
+## 14 [Captain Poe on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585114)
+
+Boromir is scary... i never realized what people were talking about. I'll have to try him out :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 15 [Svenn on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585115)
+
+Captain Poe said:
+
+Got it, but the cards have to specifically say you can attack out of phase.
+
+In my scenario, if two players were in the carrock fighting two trolls with zero cards in hand, and Aragorn exausts to attack one, his team makes Brand then exausts to attack the same troll and kills it, thus reading aragorn, the attack phase would not then go back to player one, allowing him to attack the second troll at this time.
+
+
+
+Correct, but the better move would be to use Brand's Ranged keyword to have him attack WITH Aragorn to kill the troll, and then ready Aragorn because of it. Then because it is still the same player's turn he could use Aragorn to attack again.
+
+Also, if you had Unexpected Courage on a character you could attack, ready him, attack again (a different enemy because you cannot attack the same enemy twice in a turn). As long as your characters are ready though, they may make an attack during your combat phase, regardless of whether they have already attacked or not.
+
+## 16 [Captain Poe on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585118)
+
+Still learning all the little catches. Didn't realize ranged allowed you to support out of turn. Thanks for all the clarifications. (sorry for the hijack  OP)
+
+## 17 [Budgernaut on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585288)
+
+ So a single player can only attack each enemy with which he is engaged a single time. What about Dunhere's ability? He attacks enemies in the staging area, so the player isn't engaged with them, but can he still attack the same enemy in the staging area twice if he has Unexpected Courage? It seems like that shouldn't be allowed, but the wording of the rules don't forbid it.
+
+## 18 [richsabre on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585293)
+
+Budgernaut said:
+
+ So a single player can only attack each enemy with which he is engaged a single time. What about Dunhere's ability? He attacks enemies in the staging area, so the player isn't engaged with them, but can he still attack the same enemy in the staging area twice if he has Unexpected Courage? It seems like that shouldn't be allowed, but the wording of the rules don't forbid it.
+
+
+
+no, its still one attack per enemy
+
+## 19 [booored on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585299)
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+## 20 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585304)
+
+booored said:
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+
+
+ 
+
+More than that, you can never attack the same enemy twice in the SAME combat phase.
+
+## 21 [Zjb12 on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585306)
+
+cordeirooo said:
+
+booored said:
+
+ 
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More than that, you can never attack the same enemy twice in the SAME combat phase.
+
+
+
+And mathematically it is typically advantageous to join your heroes and allies together.
+
+## 22 [cordeirooo on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585321)
+
+Zjb12 said:
+
+cordeirooo said:
+
+ 
+
+booored said:
+
+ 
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More than that, you can never attack the same enemy twice in the SAME combat phase.
+
+ 
+
+ 
+
+And mathematically it is typically advantageous to join your heroes and allies together.
+
+
+
+ 
+
+Sure. It is also typically advantageous to attack with more force than less... What's your point?
+
+## 23 [Svenn on January 26, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585345)
+
+Captain Poe said:
+
+Still learning all the little catches. Didn't realize ranged allowed you to support out of turn. Thanks for all the clarifications. (sorry for the hijack  OP)
+
+
+
+"A character with the ranged keyword can be declared by its controller as an attacker against enemies that are engaged with other players. A character can declare ranged attacks against these targets while its owner is declaring attacks, or it can participate in attacks that are declared by other players. In either case, the character must exhaust and meet any other requirements necessary to make the attack."
+
+:) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 24 [Nerdmeister on January 27, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585486)
+
+starhawk77 said:
+
+remember, ranged doesn't allow him to initiate attacks during your attack step; it only lets him JOIN attacks that you yourself declare)
+
+ 
+
+
+
+"Ranged
+
+A character with the ranged keyword can be declared by it´s controller as an attacker against enemies that are engaged with other players. A character can declare ranged attacks against these targets while it´s owner is declaring attacks, or it can participate in attacks that are declared by other players. In either case, the character must exhaust and meet any other requirements necessary to make the attack."
+
+ 
+
+I don´t read from this that a ranged char cannot initiate an attack. "Declare ranged attacks against these targets while it´s owner is declaring attacks" seems to me to refer to the step in the combat phase where the player in question has the option to declare attacks. "Or it can participate in attacks that are declared by other players" seems to collaborate that viewpoint.
+
+## 25 [Glaurung on January 27, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585534)
+
+cordeirooo said:
+
+booored said:
+
+ 
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More than that, you can never attack the same enemy twice in the SAME combat phase.
+
+
+
+But you can attack him again by some cards effect as Quick Strike for example.
+
+## 26 [cordeirooo on January 27, 2012](https://community.fantasyflightgames.com/topic/59556-grimbeorn-the-old/?do=findComment&comment=585625)
+
+Glaurung said:
+
+cordeirooo said:
+
+ 
+
+booored said:
+
+ 
+
+simple way to look at it...
+
+You can NEVER attack the same enemy twice with teh SAME toon.
+
+ 
+
+ 
+
+ 
+
+ 
+
+More than that, you can never attack the same enemy twice in the SAME combat phase.
+
+ 
+
+ 
+
+But you can attack him again by some cards effect as Quick Strike for example.
+
+
+
+ 
+
+Yes, I already cited that example. We are not talking about exceptions anymore.
+

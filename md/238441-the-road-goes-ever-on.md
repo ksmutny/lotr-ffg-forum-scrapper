@@ -1,0 +1,1215 @@
+# [The Road Goes Ever On](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/)
+
+## 1 [dragoncymru on January 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567172)
+
+Happy New 2017 to everyone!
+
+I thought it was the right time to start off on an LCG blog/session report/variant/experiment - yes, I'm not sure what exactly to call this right now, but here's the background...
+
+I have been playing the game on and off since it came out and have a fair collection of expansions and packs to go with my Core game - everything through 'Shadows of Mirkwood', 'Khazad-dum' and then patchy from there - a few deluxe boxes (Isengard, Heroes of Numenor, Lost Realm), some Saga boxes (the first Hobbit and Black Riders) and some adventure packs here and there.
+
+So, a fair few cards...
+
+I'm also almost exclusively a solo player that likes to build theme into decks and quests.
+
+So what I'm proposing on my (rather unexpected) journey is going way back to the start and trying each Quest solo with just the card pool that was available at the time.
+
+But because I have a bit of experience with the game, then I know that this would be very frustrating doing it as it stands and without a bit of 'customisation' on my part.
+
+I've been playing around with various solo tweaks over the last 2 weeks and think I've probably got most of the game balance issues right for me.
+
+So this is how I'm going to do it and playing solo 1 handed with 3 Heroes:
+
+1) 1 Core Set only - no multiple power cards like 'Unexpected Courage' I'm afraid.
+
+2) Playing with just the cards that were available at the time (not sure what I'm going to do with the Saga cards just yet - I'll cross that bridge when I get to it - lets hope it's more a Brandywine bridge than Moria!!)
+
+3) Playing in Easy Mode - so reduced encounter card pool and 2 Resources per Hero at the start. I'm also drawing 6 cards, allowing a single Mulligan and then choosing a card from the remaining deck to be my 7th card - the first card drawn on the first round.
+
+4) Making decks that areas thematic as possible that fit within the quests - no Eagles in Moria for example - although the Hero gene pool might get a bit mixed up if Tolkien fans look too hard!
+
+5) I'm making a few concessions to the solo player as I feel that, certainly initially, the game was never a balanced solo experience.
+
+So my additions are going to be:
+
+a) Ranged and Sentinel - yes, those old favourites! I'm going with:
+
+Ranged: Exhaust a Character with Ranged to resolve their Attack (before Step 1 of Combat Phase begins but after Shadow card is dealt) when you optionally engage an Enemy.
+
+Sentinel: Exhaust a Character with Sentinel to add that Character's Defence to another Character.
+
+b) Starting Boons - I'm going to create 8 Boons - all Neutral cards (but with Sphere bonuses)and a player chooses 1 Boon for each Hero at the start of the game. The Boons are all 'one shots' ie discard the Boon to get the bonus. There are no duplicated Boons either, so 3 different ones in play:
+
+Boons:
+1. Lucky Strike (Tactics) - gain +2 Attack until end of phase (+3 Attack if attached to a Tactics Hero)
+2. Dodge (Tactics) - gain +2 Defence until end of phase (+3 Defence if attached to a Tactics Hero)
+3. Far Sight (Spirit) - gain +2 Willpower until end of phase (+3 Willpower if attached to a Spirit Hero)
+4. Hidden (Spirit) - reduce your Threat by 2 (3 if attached to a Spirit Hero)
+5. Healing Balm (Lore) - Heal 2 Hit points on 1 Character (3 if attached to a Lore Hero).
+6. Wisdom (Lore) - Draw 2 cards (3 if attached to a Lore Hero)
+7. Inspiration (Leadership) - gain 2 Resources (3 if attached to a Leadership Hero)
+8. Resolve (Leadership) - ready any 2 Heroes (3 if attached to a Leadership Hero).
+
+It's up to a player what Boons he chooses so he could give his Tactics Hero extra Attack/Defence, although I think it would be better for a solo player, to 'fill in the gaps' of his party, so if I was playing without Lore, I might want to choose Inspiration or Resolve as these are what Lore does naturally. Similarly, if I had no Spirit Hero then I would choose Far Sight or Hidden.
+
+BTW - if anyone would like to make these Boon cards a physical reality - I'm rubbish with Photoshop and just am an ideas man! - then I'd welcome your help!!
+
+c) Havens - More about these later - but I'm nicking another idea from Gizlivadi.... 
+
+ 
+
+Edited January 1, 2017 by dragoncymru
+
+## 2 [dragoncymru on January 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567174)
+
+So, more on my Havens idea....
+
+Here I'm riffing on 2 ideas that others have already had - Havens and Gifts.
+
+Now apologies to Banania and his excellent 'Tales of Years' campaign, but I think a 'Gift' card is something I buy my other half in a store! I would have said 'Free Peoples' cards as a thematic 'race' boost, but what I'm trying to do here with my Haven cards is combine the 2 and give a flavour of a Middle Earth Haven (like Rivendell for example) as well as the peoples that dwell there.
+
+So I'll nick some of Gizlivadi's ideas on Havens and Banania's ideas on Gifts smile.gif [https://cf.geekdo-static.com/images/smile.gif] Thanks to both of you - your work is excellent!
+
+I'd like these to be released as if they were included in the release of the game and, again, be thematic in their release - so there will be 2 Havens available to me from the 'Core Set' - Thranduil's Halls and Lothlorien - as these both tie into the themes of the initial 3 Quests included in the Core Set.
+
+As I travel through the Quests, then more Havens will be released...
+
+ 
+
+I want ‘Havens’ as a card type to reflect the time when they would have been released and the card pool at the time but also with a bit of foresight too – so the Silvan mechanic of returning an ally to your hand or the Noldor mechanic of discarding cards to the discard pile etc – to get a theme of the Free peoples of Middle Earth.
+
+So, all Havens have a number on the Haven card which is the maximum number of Allies that can reside there at one time. Allies are always played to a Haven at -1 cost and are considered Neutral in Sphere if played there – so you can have Allies enter play that don’t have to match a Hero’s Sphere. I think this would have been very important in the early life of the game where the card pool is small and trying to build a thematic deck would have been very difficult. For example, in my first card below, the only Sylvan Hero available was Legolas, a Tactics Hero. But the Sylvan Allies available were Silverlode Archer (Leadership) and Daughter of Nimrodel (Lore). By playing these Allies to Thranduil’s Halls as Neutral Allies, we get around this problem.
+
+Whilst at a Haven, an Ally cannot Quest, Attack, Defend or use keywords such as Ranged or Sentinel. They can use abilities however.
+
+Your Allies at a Haven can get to your party by Travelling. Exhaust the Ally in the Travel phase to simulate them travelling (through the ‘Wilderness’) and then they can be used in your party in the next round.
+
+You also get X+1 'Haven Resources' at the start of the game and played on the Haven card that can be used to trigger effects on the Havens. X is the number of players in the game, so in my solo games, each Haven will have 2 Haven Resources.
+
+So, my first Haven, since the first quest ‘Passage through Mirkwood’ starts there, is
+
+‘Thranduil’s Halls’ (3) Woodland Realm, City.
+A player must control a Silvan Hero to play this Haven. Silvan allies only.
+Action: Pay 1 Hero Resource to return a Silvan ally at this Haven to your hand (Limit once per round).
+Action: Pay 1 Haven Resource to give a Silvan Character you control Ranged until the end of the round.
+
+And since ‘Escape from Dol Goldur’ starts in Lothlorien, my other Core Set Haven is:
+
+‘Lorien’ (4) Forest.
+A player must control a Silvan Hero and a Noldor Hero to play this Haven. Silvan and Noldor allies only.
+Action: Exhaust 2 allies here to choose an ally in the wilderness. Add that ally’s Attack, Defence and Willpower to 1 Hero until the end of the round.
+Action: Pay 1 Haven Resource to search the top 5 cards of your deck for a card and add it to your hand. Shuffle the rest back into your deck. Then, discard a random card from your hand.
+
+So my new, 'improved' Core Set contains an extra 10 cards in all - 8 Boons and 2 Havens...
+
+As always, thoughts and opinions are welcomed... as is help in creating my new Haven cards...
+
+'The Road Goes ever On...'
+ 
+
+Edited January 1, 2017 by dragoncymru
+
+## 3 [Gizlivadi on January 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567290)
+
+Glad to see my idea of Haven cards still alive! The fact that pretty much all cards of the Location type in this game are considered encounter and thus "evil" (or else some weird Objective like Minas Tirith) is IMO a thematic problem of the basic structure of the game. Simply put, this game should have good locations, period. I like the idea of player locations where you can put allies that don't necessarily have to go in your company and can do work "from afar" like Miner/Stargazer or Master of the Forge, and that was one of the main thematic principles of Haven cards. The problem with that basic design idea is that, sadly, the game game has gotten so relentless and punishing that you just can't afford to play an ally in a Haven (even if the cost was 0) who could instead be a chump-blocker. Your Thrandui's Halls prototype, for instance, is just no use in a solo game. Giving Ranged does nothing, and the first ability, you have to ask ¿why would I do that? ¿Why would I return a silvan ally played at the Haven to my hand? ¿So I can play it in my main party next round? ¿Then why didn't you just play in with the party to begin with? So, for the Havens the main thing is that the benefits you get should compensate for not having a potential chump-blocker or archery receiving ally in play. On the other hand, having all allies played there cost -1 and be neutral can lead to heavy abuse, as I could just play a huge ally in my Haven, then have it travel and in 1 turn (which compensates for the -1 cost) I can have a huge out of sphere ally in my main party that I wouldn't be able to play otherwise. Sure, for some of the utility allies it doesn't really matter, but if I'm playing mono-Tactics being able to just have Gildor or Arwen at neutral cost really trivializes the handicaps player decks should have (kinda like starting the game with a completed slightly worse The Storm Comes, which would already be overpowered). I do like, however, having resources on the Havens, I think you can play a lot with that idea (in my original version the cost for Haven abilities was exhausting the allies at the Haven).
+
+ 
+
+I'm not trying to be pessimistic, I'm just stating the problems I encountered when testing my own Haven cards. I still think, however, that there's a balanced way to make these work, I just haven't quite come up with it yet. I hope one day that we get official "good" locations in the game, so hopefully Caleb's looking at this thread! 
+
+## 4 [xchan on January 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567364)
+
+Im going to follow this.
+
+I wanted to do something similar once I complete my collection and run through all the quests at least once. My first thought was to only use cards from a cycle and see how that goes, as I want to build decks for every heroes and use the highest number of cards. As I dont think that will be completelly possible, I was planning on adding fun made stuff (reworked cards, gifts, havens, boons and burdens) to compliment the stuff and achieve a bigger story inmersion.
+
+If Im not wrong, theres enough player cards to build 2 decks per cycle, which is great for the fellowship solo variant rules.
+
+My knowledge of the tolkien lore is limited so Im always looking for other players ideas. I agree with Gizlivadi that it felt weird not having positive locations in the game, but Im not sure how to integrate them. I placed an order on artscrow for a bunch of fun made stuff (included the havens from both banania and giz) and will test them out. However, Im also unsure about the mechanics. I would end up tweaking them too to fit my needs.
+
+Im glad you are still looking into your havens cards Giz as we might be able to come with something. So far, I think that I will scratch the moving allies as a cost and make them as a permanent accessible power similar to attachments once their costs are paid, with some exhausting a specific traited ally to give a bonus type of actions. Im thinking of using progress tokens to unlock them, so while having them available will increase my win chances, spending time unlocking them instead of advancing the quest should compensate that. What do you think?
+
+## 5 [TheHandofNergal on January 2, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567529)
+
+I've been playing with one deck since I bought the core. Buying the expansions in order, trying to complete each quest before I buy more. The game says it can be played solo but I guess the game would rather it be played with two decks. I bought Khazad-Dum, about 4 adventure packs, and Over Hill and Under Hill.
+
+I see that you went BACK and played like this. Should I be using two decks always? Conflict at the Carrock is kinda too much with one deck.
+
+## 6 [dragoncymru on January 2, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567739)
+
+> Your Thrandui's Halls prototype, for instance, is just no use in a solo game. Giving Ranged does nothing, and the first ability, you have to ask ¿why would I do that? ¿Why would I return a silvan ally played at the Haven to my hand? ¿So I can play it in my main party next round? ¿Then why didn't you just play in with the party to begin with? So, for the Havens the main thing is that the benefits you get should compensate for not having a potential chump-blocker or archery receiving ally in play. On the other hand, having all allies played there cost -1 and be neutral can lead to heavy abuse, as I could just play a huge ally in my Haven, then have it travel and in 1 turn (which compensates for the -1 cost) I can have a huge out of sphere ally in my main party that I wouldn't be able to play otherwise. Sure, for some of the utility allies it doesn't really matter, but if I'm playing mono-Tactics being able to just have Gildor or Arwen at neutral cost really trivializes the handicaps player decks should have (kinda like starting the game with a completed slightly worse The Storm Comes, which would already be overpowered). I do like, however, having resources on the Havens, I think you can play a lot with that idea (in my original version the cost for Haven abilities was exhausting the allies at the Haven).
+> 
+>  
+> 
+> I'm not trying to be pessimistic, I'm just stating the problems I encountered when testing my own Haven cards. I still think, however, that there's a balanced way to make these work, I just haven't quite come up with it yet. I hope one day that we get official "good" locations in the game, so hopefully Caleb's looking at this thread! 
+> 
+>  
+> 
+> Well, Ranged does have an ability in my solo version - see my initial post!
+> 
+>  
+> 
+> Also, Silvan strategies rely a lot on them entering or leaving play, so being able to do that at Thranduil's halls does give benefits if playing a Silvan deck...
+> 
+>  
+> 
+> Yes, my take on Havens give advantages to the player, but I'm only playing solo, not competitive or 2 handed - I just want them to give a bit of thematic help along the way!! I still think that solo play (1 handed) is really difficult without a huge card pool, so this is my way of 'softening' the game a little for me as I go along the journey.
+> 
+>  
+> 
+> it's also a great 'thought experiment' too!
+> 
+>  
+> 
+> Glad to have you aboard though and any help you can give would be greatly appreciated.
+> 
+>  
+
+## 7 [dragoncymru on January 2, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567740)
+
+Glad to have people along for the journey! Why not come along as well?
+
+I plan to do 1 Quest per week, then report back the following weekend with how the game went, any things I might have tweaked for the solo gamer etc.
+
+The 'rules' for the quests that I'll be undertaking are set out above, but to restate them:
+
+1) 1 Core Set and use only cards available at the time of release.
+
+2) Easy Mode, with a Mulligan allowed and then 1 card chosen from your deck
+
+3) 40 card decks for the Core Set, then moving onto 50 cards once we get past it.
+
+4) Choice of 3 Starter Boons (see above) plus a Haven (again, see above) if you wish and are able.
+
+5) As thematic a deck as I can build!
+
+6) Using my Ranged and Sentinel mods (see above) for solo gaming
+
+So this week, I'm off for a, hopefully, easy stroll as we do 'Passage through Mirkwood'...
+
+## 8 [dragoncymru on January 2, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2567963)
+
+As a sidenote on Havens, what about allowing respective Heroes to start there too?
+
+ 
+
+The ruling here is that when a Hero is at a Haven, do not count his Threat. This would mean that you could start with 3 Heroes but have one at a Haven so that 'Secrecy' kicks in and you bring the Hero from the haven when you want him?
+
+ 
+
+For example Aragorn (Lore) could remain in Bree until he joins the party?  And what about keeping Galadriel at Lorien?? Very thematic...
+
+## 9 [dragoncymru on January 4, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2570907)
+
+As I’m getting ready for my adventure this week and getting my deck together, I’m struck by the weirdness of Restricted attachments.
+
+ 
+
+I can see the reason behind it, but the wording is very clumsy and leaves the system open to abuse and very unthematic - I’m referring of course to the 2 Citadel Plates you put on Gimli to make him a killing powerhouse!
+
+ 
+
+I’m not in any doubt that’s what the designers intended of course (especially in the early life of the game), but as the game developed with more Armour, Weapons and then Mounts, it can get very silly!
+
+ 
+
+So for my adventures, I’m going to restrict myself to theme and allow only 1 Armour Attachment, although I will allow a Shield or Helm too. In addition, only 1 Weapon unless the second would be a Bow/Ranged Weapon. Lastly only 1 Mount per Character!
+
+ 
+
+(Another example, in my view, of early ‘untheme’ (is that a word??) is the need in the Core Set by the designers to have a really good questing Hero. This then becomes Eowyn, who is undoubtedly the best Hero in the Core Set by miles and virtually a staple of a shed-load of decks for a good few years. )
+
+Eowyn is a great character in the lore of Middle Earth, but 4 Willpower? Really?? That’s as much as Gandalf!  I think I would have preferred her to be 3 Willpower (with corresponding 1 less Threat) but there you go!
+
+ 
+
+In the confines of my adventures, I’m going to stick to cards ‘as printed’ (unless they have official errata of course) EXCEPT if they are exclusively ‘multi-player’ cards that I need to convert to my solo play.Which brings me to the only card in the Core Set that needs the tweak:
+
+ 
+
+Wandering Took – to give the little fellow some use of his ability in a solo game, I’m going with the following – the rationale that he is a loud little devil that draws attention.
+
+ 
+
+“Forced: When Wandering Took enters play, raise your threat by 1. At the end of a round, shuffle Wandering Took back into your draw deck and reduce your threat by 2.
+
+ 
+
+So if you get rid of him, it’s a lot quieter!
+
+## 10 [rsdockery on January 4, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2571278)
+
+> Eowyn is a great character in the lore of Middle Earth, but 4 Willpower? Really?? That’s as much as Gandalf!
+
+ 
+
+She faced down the freaking Witch-King. The Witch-King causes routs by his mere presence. Certified badass Imrahil, ensconced atop the best defensive fortifications in Middle-Earth, cowers when the Witch-King shows up. Even Gandalf is nervous about fighting the Witch-King! And Eowyn not only willingly confronts the Witch-King, she taunts him. I think she deserves 4 Willpower.
+
+## 11 [dragoncymru on January 5, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2573022)
+
+Nearly packed and ready for my first adventure re-living the delights of Middle Earth through the LCG!
+ 
+I made myself 8 ‘proxy’ Boon tokens for my starting Boons from old MECCG cards, got 2 lashed up Haven cards to test out my Havens idea and I’ll be out the door soon!
+ 
+I’ll be testing a Spirit/Lore deck again first with Eowyn and Dunhere teaming up with Beravor. For this team I can’t use either of my Haven cards (which was my intention), but I can, of course, choose my Boons.
+ 
+I’m going to opt for ‘Lucky Strike’ for Dunhere, ‘Leadership’ for Beravor and ‘Resolve’ for Eowyn . No matching Spheres so straightforward discard effects but again, this is what I want to test – whether ‘filling in the gaps’ is more important than ‘enhancing what you have’.
+ 
+Why not join me on my adventure and have a go as well?
+ 
+‘The Road Goes Ever On...’
+
+## 12 [dragoncymru on January 8, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2576917)
+
+‘Passage through Mirkwood’
+
+ 
+
+My first deck was a Spirit/Lore deck with Eowyn and Dunhere teaming up with Beravor.  My starting Boons were ‘Lucky Strike’ for Dunhere, ‘Leadership’ for Beravor and ‘Resolve’ for Eowyn .
+
+ 
+
+I had a reasonable first hand so didn’t Mulligan and picked ‘Henamarth Riversong’ as my 7th card – always a great card for solo!
+
+ 
+
+Unfortunately, on  my first attempt, ‘Ungoliant’s Spawn’ came up on the second turn and this, coupled with lots of Locations raised my Threat so high that then all the enemies that had come out swarmed down and did me in! So I tried again with the same Heroes and this time it went very smoothly, no sign of a nasty big spider, I got to travel down Beorn’s path and all the heroes escaped Mirkwood!
+
+ 
+
+For fun, I then had an attempt and changed 2 of the Heroes, so Legolas and Glorfindel join up with Beravor for a Tactics/Lore deck this time. For Boons, I’ve gone for ‘Farsight’ for Glorfindel, ‘Hidden’ for Beravor and ‘Resolve’ for Legolas.
+
+ 
+
+Since I have Legolas, I can test my ‘Ranged’ mod for solo play and can also use ‘Thranduil’s Halls’ as my Haven for the quest – and even though the Actions won’t be much useable here (although my ‘Daughters of Nimrodel’ can now shoot arrows!’), since Allies are Neutral if played there, I’ve put 2 ‘Silverlode Archers’ in my deck to represent the soldiers of the Woodland Realm and buddies of Legolas!
+
+ 
+
+This time, my starting hand had ‘Riversong’ already so I didn’t Mulligan and chose ‘Blade of Gondolin’ as my 7th card knowing that my questing power was lower than before so putting this on Legolas is a good thing.
+
+ 
+
+The game went really smoothly and I got to test all my mods for solo play – Boons, Havens and Ranged. Again, all my Boons saw play and weren’t overpowered. It was fun to put some Allies at Thranduil’s Halls –including a ‘Silverlode archer’ which I paid for with Tactics Resources as I had a hand full of Lore!
+
+ 
+
+Ranged came into play twice in the game as enemies engaged me, and again, this didn’t feel overpowered or unthematic. In fact, to keep the theme, I didn’t add my +1 Attack bonus from ‘Blade of Gondolin’ when Legolas made a Ranged attack against an ‘East Bight Patrol’! Getting ‘Self Preservation’ on Beravor was a real bonus and this time I chose to take the ’wrong’ path and end the game with ‘Ungoliant’s Spawn’ coming out to play! But fortunately I could get Gandalf out just at the right time and squished it!
+
+ 
+
+A fun, although easy quest to start my journey!
+
+ 
+
+So, a week down and next week my journey continues along the Anduin river...
+
+ 
+
+ ‘The Road Goes ever On...’
+
+## 13 [dragoncymru on January 14, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2589409)
+
+‘Journey Down the Anduin’
+
+
+A big step upwards in terms of difficulty this one and a quest I had to play to death before I finally beat it.
+ 
+I started with a return to my Spirit/Lore deck (my favourite type at the moment) as Threat reduction and questing is so important early on, and then I need a ‘Forest Snare’ for that lovely Troll! So my Heroes were again – Eowyn, Dunhere and Beravor (my absolute favourite Hero from Core). My starting Boons were ‘Lucky Strike’ for Dunhere, ‘Dodge’ for Beravor and ‘Resolve’ for Eowyn .
+ 
+Since my starting hand contained ‘Galadrim Greeting’ which is a ‘must-have’ card for this quest, I didn’t Mulligan, but again chose ‘Riversong’ as my 7th card.
+Since my threat was low to start, I managed to build up forces gradually, getting ‘Self Preservation’ on Beravor and keeping the Hill Troll at bay until a Forest Snare popped into my hand. Beravor could then dodge the blow with a Defence of 4, taking 2 Wounds which were then healed with the ‘Self Preservation’! And although when I did succeed, it was a slog, but I got there fairly smoothly with some nice locations like ‘Banks of the Anduin’ keeping the enemy count low.
+ 
+This is definitely a quest that you need to tune your deck to beat I think – threat management with good questing and a way to beat the troll all have to be included!
+ 
+I did think of changing the deck and trying with my Legolas, Glorfindel and Beravor deck, but that would be a non-starter with Threat 31 to begin and an angry troll on the first turn....!
+ 
+So 2 quests down, and my party has reached Lorien. Talking with the Lady Galadriel, she wants us to take a look at the fell hill of sorcery – Dol Goldur. I can’t help thinking that things might take a turn for the worse...
+ 
+“The Road Goes Ever on...”
+
+
+## 14 [dragoncymru on January 16, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2592298)
+
+I've updated my Haven rules to make them a bit more balanced:
+
+Haven Rules
+
+Havens are cards that represent the famous locations in Middle Earth where the heroes gain equipment, rest and allies. Havens include places such as Rivendell, Lothlorien, The Shire etc. Each player may choose a Haven at the start of the game and then raise their starting Threat by the Cost of that Haven. Note that many Havens have restrictions on when they can be played depending on the player’s Heroes.
+
+All Havens an Ally number on the Haven card which is the maximum number of Allies that can reside there at one time. Allies are always played to a Haven at -1 cost and are considered Neutral in Sphere if played there – so you can have Allies enter play that don’t match a Hero’s Sphere.
+
+Whilst at a Haven, an Ally cannot Quest, Attack, Defend or use keywords such as Ranged or Sentinel. They can use abilities however. Allies at a Haven can get to your party by Travelling. Exhaust the Ally in the Travel phase to simulate them travelling (through the ‘Wilderness’) and place a token on them. When there are tokens equal to the Quest card number currently in play, remove all tokens and place the ally with your party at the start of the next round. This simulates the ally having to travel further from the Haven as you progress with your quest.
+
+Havens also start with a number of Haven Resources that are placed on the Haven card. These can be used to trigger effects on the Havens. Haven Resources cannot be used as normally generated Resources.
+Note that ALL Actions or Responses on a Haven card have an inherent ‘limit once per round’ on them.
+
+Optional: A player may also place a Hero at a Haven at the start of the game. Whilst at the Haven the Hero is under the same restrictions as an Ally there (such as not being able to quest, attack or defend etc), but also does not contribute their threat to the starting total. A Hero may travel to join the party as normal but adds his threat if as soon as he leaves the Haven (to go into the ‘Wilderness’).
+
+The two Havens that would have been included in the Core Set would be:
+
+‘Thranduil’s Halls’ Cost: 2. Allies: 3. Resources: 2. Woodland Realm, City.
+A player must control a Silvan Hero and no Dwarf Hero to play this Haven. Silvan allies only.
+Action: Pay 1 Resource to return a Silvan ally at this Haven to your hand.
+Action: Pay 1 Haven Resource to give a Silvan Character you control Ranged until the end of the round.
+"At the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered in trees.”
+
+
+‘Lorien’ [/b]Cost: 2. Allies: 4. Resources: 3. Forest.
+A player must control a Silvan Hero and a Noldor Hero to play this Haven. Silvan and Noldor allies only.
+Action: Exhaust 2 allies here to choose an ally in the wilderness. Add that ally’s Attack, Defence and Willpower to 1 Hero until the end of the round.
+Action: Pay 1 Haven Resource to search the top 5 cards of your deck for a card and add it to your hand. Shuffle the rest back into your deck. Then, discard a random card from your hand.
+“There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold.”
+
+Thoughts and opinions are welcomed as always...
+
+## 15 [koriakin97 on January 18, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2595512)
+
+If you put a hero in a heaven, does he collect resources? If he does, I'd say that it's too strong with galadriel. She is already considered one of the best heroes, and this would make her have much lower starting threat (the threat of heaven is 7 lower, all you lose is her 4 hit points)
+
+## 16 [dragoncymru on January 18, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2596234)
+
+> If you put a hero in a heaven, does he collect resources? If he does, I'd say that it's too strong with galadriel. She is already considered one of the best heroes, and this would make her have much lower starting threat (the threat of heaven is 7 lower, all you lose is her 4 hit points)
+
+I was going to say so, yes - the Hero does collect resources.
+
+ 
+
+Galadriel could be a problem as her Hero card is designed as if she is at the Haven already really.
+
+ 
+
+So perhaps it would be better if Heroes did NOT collect Resources whilst at a Haven and only does so if they leave?
+
+ 
+
+OR - instead of generating normal Resources, they generate Haven Resources?
+
+ 
+
+Thanks for the comment - it does help.
+
+Edited January 18, 2017 by dragoncymru
+
+## 17 [dragoncymru on January 18, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2596238)
+
+Getting ready to ‘Escape from Dol Goldur’
+
+This quest is just nuts solo!
+
+Even with 2 players it’s so difficult and with the Core set cards only solo, nigh on impossible! I don’t think FFG should have put this in the Core set as it stands, so for my game, I tweaked this one so it is more like the lore of Quest card 1A and now an ally is captured rather than a Hero.
+
+Quest card 1B ‘The Necromancer’s Tower’ now reads:
+
+“When Revealed: Select 1 unique ally card from your deck and place it facedown next to the Quest deck. Remove all copies of that ally from your deck and place them out of play. The ally is now considered a "prisoner", cannot be used or be damaged until it is "rescued" (as instructed by card effects) later in this quest. The players, as a group, cannot play more than 1 ally card each round. Players cannot advance to the next stage of this quest unless they have at least 1 objective card.”
+
+Now you could say I just nerfed the whole quest by doing this, but from bitter previous experience, it’s just not a good quest for solo, and endless defeats time after time in the core set doesn’t sit well with me. To try and balance this then I’ve tweaked Quest 2B too so that you need to keep the captive alive until the end of the game (otherwise it was all a waste of time anyway!).
+
+Quest card 2B ‘Through the Caverns’ now reads:
+
+“Response: After placing any number of progress tokens on this card, put the "prisoner" ally card into play with 1 damage token on it. The ally has been "rescued" and may now be used normally. If the rescued ally is killed at any time, the players instantly lose the game. The players, as a group, cannot play more than 1 ally card each round. Players cannot advance to the next stage of the quest unless they have rescued the prisoner and have all 3 "Escape from Dol Guldur" objective cards.”
+
+I’m also ruling that the ‘player card’ Orc guards from ‘Tower Gate’ location and Quest card 3B do have the ‘Orc’ trait!
+
+Have a go at my version – I’m sure it’s still tough, but more enjoyable for the more casual, thematic player!
+
+“The Road Goes Ever on...”
+ 
+
+## 18 [Gizlivadi on January 20, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2599290)
+
+So, I've been helping dragoncymru with the graphic design of the Havens. Created a whole new template to accomotade to his rules. *Credits to banania for providing some graphic materials from his own Havens in his Tale of Years campaign.*
+
+ 
+
+Here's the very first one, Thranduil's Halls! 
+
+ 
+
+ 
+
+ 
+
+C58b4Ut.jpg [http://i.imgur.com/C58b4Ut.jpg]
+
+ 
+
+TnR3TYf.jpg [http://i.imgur.com/TnR3TYf.jpg]
+
+Edited January 20, 2017 by Gizlivadi
+
+## 19 [dragoncymru on January 20, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2599692)
+
+Many thanks Giz - these look amazing!
+
+## 20 [dragoncymru on January 21, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2601659)
+
+‘Escape from Dol Goldur’ (2)
+
+My adventure continues and the initial Heroes and Boons I chose for this quest were an experimental mix of 3 Spheres with Beravor (with Dodge), Eowyn (with Far Sight) and Legolas (with Resolve). I chose Gleowine as my captured ally. With Legolas as a Hero, I can have a bit of help from ‘Thranduil’s Halls’ too.
+
+When I was constructing my deck, because I had 3 Spheres, I made sure that as many cards as possible were low cost so that they could be afforded easily. My initial hand contained both ‘Unexpected Courage’ and ‘Blade of Gondolin’, so once again, I went for ‘Riversong’ as my 7th card.
+
+I had to have a few goes, but I BEAT the quest! This was the first time I’ve done this, so using my rules and mods (along with Easy mode) seems to have relaxed the difficulty. It’s quite a fiddly quest actually with a lot of things to remember like the Nazgul, the Objective cards, the orc guards etc. When I did beat it, on my third attempt, I think I just got lucky with how both the player deck and the encounter deck played out.
+
+One hero and combo I think you must have in this quest is Legolas with a ‘Blade of Gondolin’ as he hacked up all the Orc guards and made great progress. My ‘Ranged’ buff also really helped here as Legolas took them all out as they came down on me (even though I didn’t add the +1 Attack from the Blade).
+
+I think the best tactic is to get the Map first and shove it on your Questing Hero (Eowyn obviously) as it does little effect. Then try and engage the Nazgul on Quest 2B if you can – before picking up the Key and the Torch. This means that you can quest through 2B and then 3B with less problems and as quick as possible. I made sure I got ‘Self Preservation’ onto Beravor before she picked up the Key too.
+
+Even doing this it can be tough going against the Nazgul without a few allies he can gobble up! I did play the official errata though and didn’t try to ‘Forest Snare’ him as with the errata you can’t play attachments on the Nazgul. ‘Feint’ plus a Gandalf or 2 were the way to go.
+
+Having another, more thematic, attempt, I swapped out Eowyn for Glorfindel (with Far Sight) and did a Tactics/Lore deck - again with Beravor (having Dodge) and Legolas (Resolve). Poor old Gleowine was still my captured ally! Since I had both a Silvan and a Noldor hero, I thought I would use ‘Lorien’ as a thematic starting Haven!
+And I got beaten up soundly!
+
+With an increased starting threat, little way to reduce that threat, as well as reduced questing power meant that it rocketed up before I could get going. Spirit as a Sphere seems crucial in this quest and although I could remove my Tactics cards to just do a Spirit/Lore deck again, Legolas with his Blade is also so crucial, so I think my initial 3 Sphere deck was a good choice!
+
+I was very pleased with my success through the quest –a very enjoyable experience.
+
+And that’s it for the Core Set! I have to say that my tweaks have made it a more accessible and pleasurable game without being too easy or too fiddly.
+
+I’m very excited to be adding new cards to my card pool and making up a 50-card deck with them as I start hunting for that sneaky and tricksy Gollum...
+
+“The Road Goes Ever on...”
+
+## 21 [dragoncymru on January 25, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2608381)
+
+Preparing for ‘The Hunt for Gollum’
+
+It’s so great to have new player cards to add to decks. With the first expansion deck released, each Sphere gains 2 new cards with 3 copies each and we get a new Neutral card too with the ‘Song of Kings’. With the addition of expansion cards, I’m going to increase my deck size now to 50 cards.
+
+ And so to our new Hero –Bilbo!  As much as I am thrilled to have a new Hero to use in quests, and a great Hero for solo play too, I still can’t see how his threat is SO high. I can only think that back in the early life of the game that designers thought that the extra card draw was so powerful, they ramped the threat up accordingly. But even now with a load of available Heroes we have never seen this kind of inflation again. I think that if they could go back in time, and change it they would. So even though I said I wouldn’t alter card texts, here I am going with:
+
+Bilbo- Threat 7
+
+Another card that is not really for solo play, as far as I can see, is ‘Campfire Tales’. Since I thought telling stories is better with a bigger audience, I’ll go for:
+
+Campfire Tales – Each player draws a card. If the number of Characters controlled by a player is greater than 5, that player draws 2 cards.
+
+And it’s time I included a new Haven too. I want to put a new Haven in every other adventure pack and want to try to be thematic and link the Haven into the quest in some way. Since I know that the Carrock is around the corner, I’m adding:
+
+Beorn’s House  Cost: 1. Allies: 2. Resources: 2. Refuge
+
+Beorning and Woodmen allies only. Beorn plays at -1 Cost here. If a Beorning is discarded from play, place a Haven Resource here.
+
+Action: Exhaust an ally here to choose an ally in the wilderness. Until the end of the phase, each enemy engaged with you has –X Attack where X is the cost of the ally in the wilderness.
+
+Action: Exhaust an ally here and pay 1 Haven Resource to heal 2 Damage on each of your Heroes.
+
+ “They soon came to a wooden gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings.”
+
+I think a thematic group of Heroes looking for Gollum would include Aragorn, as Gandalf would have naturally turned to his ranger friend, so I’m looking to develop some Leadership cards into a deck...
+
+“The Road Goes Ever on...”
+
+ 
+
+## 22 [dragoncymru on January 28, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2613262)
+
+The Hunt for Gollum
+ 
+I initially went for another tri-Sphere deck with Aragorn, Legolas and Beravor, and starting Boons of ‘Leadership’, ‘Hidden’ and ‘Far Sight’ respectively. For theme, I added ‘Beorn’s House’ as a starting Haven, even though I only had 1 copy of the big man in my deck and currently no other allies could play there! I’m also trying to stick to theme, so even though I’ve included Leadership cards in my deck, since my deck is not ‘Gondor-themed’ I have not included (gasp!) ‘Steward of Gondor’ at all!
+ 
+I have to say though that his is a fairly easy quest – almost as easy as ‘Passage through Mirkwood’ - and my Heroes easily completed it on the first two attempts. The only things to watch out for were a few nasty Treachery cards, the new ‘Hunters of Mordor’ and lots of locations – so good questing ability was vital.
+ 
+Beravor and Legolas continue to be great Heroes but Aragorn is really good too and fills a multitude of roles. I think if I have Lore in my deck then ‘Riversong’ is always going to be my choice card to start, but if I draw it in an opening hand, there’s always another which will be key. In this deck it was (a single copy of) ‘Celebrian’s Stone’ which is just terrific on Aragorn. I put a few Spirit cards in my (bigger) 50 card deck such as ‘Northern Tracker’, ‘Test of Will’, ‘Hasty Stroke’ and ‘Unexpected Courage’, so getting the Stone was crucial if I wanted to play them! I also made a point of trying to include some cards from this new expansion too so had a bit of a splash of most of them and it was nice to see some new cards enter play.
+ 
+Can you smell troll??
+ 
+"The Road Goes Ever on...”
+
+## 23 [dragoncymru on January 30, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2616362)
+
+Haven Update
+
+A few more tweaks to my Haven rules, and I think I’m pretty locked down on these now. I’ve tweaked the rules about Heroes and Haven Resources and Allies played there being Neutral.
+
+So the rules for Havens now are:
+
+Haven Rules
+
+Havens are cards that represent the famous locations in Middle Earth where the heroes gain equipment, rest and allies. Havens include places such as Rivendell, Lothlorien, The Shire etc. Each player may choose a Haven at the start of the game and then raise their starting Threat by the Cost of that Haven. Note that many Havens have restrictions on when they can be played depending on the player’s Heroes.
+
+All Havens an Ally number on the Haven card which is the maximum number of Allies that can reside there at one time. Allies are always played to a Haven at -1 cost.
+
+Whilst at a Haven, an Ally cannot Quest, Attack, Defend or use keywords such as Ranged or Sentinel. They can use abilities however. Allies at a Haven can get to your party by Travelling. Exhaust the Ally in the Travel phase to simulate them travelling (through the ‘Wilderness’) and place a token on them. When there are tokens equal to the Quest card number currently in play, remove all tokens and place the ally with your party at the start of the next round. This simulates the ally having to travel further from the Haven as you progress with your quest.
+
+Havens also start with a number of Haven Resources that are placed on the Haven card. These can be used to trigger effects on the Havens. Haven Resources cannot be used as normal Resources but can be used to pay for Allies played at the Haven. Haven Resources are considered Neutral and can be used to pay for Allies from any Spheres –so you can have a few allies from a Sphere that does not match a Hero in play.
+Note that ALL Actions or Responses on a Haven card have an inherent ‘limit once per round’ on them.
+
+Optional: A player may also place a Hero at a Haven at the start of the game. Whilst at the Haven the Hero instead generates Haven Resources each turn instead of normal Resources and is under the same rules as an Ally there (not being able to quest, attack or defend etc), but also does not contribute their threat to the starting total. A Hero may travel to join the party as normal but adds his threat (and starts to generate normal Resources) as soon as he joins the party. Whist in the ‘Wilderness’, a Hero generates NO Resources.
+
+Working with fellow players and their generous time-giving (not to mention excellent photoshop skills and syntax questions!) has meant that I am trying to do some more with my new Havens and have decided to make a support card for each Haven. These will all be unique, Neutral attachments with the idea that these would be released alongside the Haven cards if they were in the Core set or deluxe expansions and then alternately with a new Haven in Adventure Packs. This means 2 support cards in the Core set or a Deluxe expansion then 1 every other Adventure Pack. Since ‘Hunt for Gollum’ would have had ‘Beorn’s House’, then ‘Conflict at the Carrock’ gets the support card ‘Beorn’s Ponies’ and so on.
+
+So my first 3 Havens in the Core Set and the first 2 Adventure Packs with their respective support cards are:
+
+‘Thranduil’s Halls’ Cost: 2. Allies: 3. Resources: 2. Woodland Realm, City.
+You must control a Silvan Hero and no Dwarf Hero to play this Haven. Silvan allies only.
+Action: Pay 1 Resource to return a Silvan ally at this Haven to your hand.
+Action: Pay 1 Haven Resource to give a Silvan Character you control Ranged until the end of the round.
+"At the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered in trees.”
+
+‘Defenders of the Realm’. Cost 1. Unique. Attach to Thranduil’s Halls.
+Response: After Defenders of the Realm enters play add 2 Haven resources to Thranduil’s Halls.
+Planning Action: If the active Location is a Forest, discard Defenders of the Realm to play a Silvan ally from your hand at -2 Cost.
+“They dwelt most often at the edges of the woods, from which they could escape at times to hunt.’
+
+‘Lorien’ Cost: 2. Allies: 4. Resources: 3. Forest.
+You must control a Silvan Hero and a Noldor Hero to play this Haven. Silvan and Noldor allies only.
+Action: Exhaust 2 allies here to add the (Attack), (Defence) and (Willpower) of an ally in the wilderness to 1 Hero until the end of the round.
+Action: Pay 1 Haven Resource to search the top 5 cards of your deck, add 1 to your hand, shuffle the rest back into the deck then discard a random card from hand.
+“There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold.”
+
+‘Elves of the Golden Wood’. Cost 1. Unique. Attach to Lorien.
+Response: After Elves of the Golden Wood enters play add 2 Haven resources to Lorien.
+Action: if you control a Silvan or Noldor character, discard Elves of the Golden Wood to reduce your Threat by 2
+“They heard nearby Elvish voices singing and knew that they were making songs of lamentations for his fall.’
+
+‘Beorn’s House’. Cost: 1. Allies: 2. Resources: 2. Refuge
+Beorning and Woodmen allies only. Beorn plays at -1 Cost here.
+Action: Exhaust an ally here to choose an ally in the wilderness. Until the end of the phase, each enemy engaged with you has –X Attack where X is the cost of the wilderness ally.
+Action: Exhaust an ally here and pay 1 Haven Resource to heal 2 Damage on each of your Heroes.
+“They soon came to a wooden gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings.”
+
+‘Beorn's Ponies’. Cost 1. Unique. Attach to Beorn's House.
+Response: After a Beorning is discarded from play, add 1 Haven resource to Beorn’s House.
+Travel Action: Discard Beorn's Ponies to travel to a non-Underground location without resolving its Travel effect.
+“He would provide ponies for each of them, and a horse for Gandalf.”
+ 
+
+## 24 [dragoncymru on February 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2620244)
+
+Preparing for a ‘Conflict at the Carrock’
+
+The next Hero to join the ranks is another Hobbit, this time from the Spirit Sphere – Frodo. Frodo has a really good ability in being able to soak up damage and is much better costed than his uncle Bilbo! With a limited card pool at this stage in the life of the game, a Hobbit-themed deck is not yet possible, but I’m looking forward to trying to make one!
+
+The rest of the cards in the expansion are a mixed bunch, although the star has to be the excellent ‘Burning Brand’ which went straight into my deck. Since I’m also trying to be thematic, I’ve included copies of the rather pricey ‘Beorning Beekeeper’ too. None of the player cards are ‘non-solo’, but since I’m doing some card-pool revision, there has to be an obligatory card tweak. I’ve already done Lore (Bilbo), Spirit (Wandering Took) and Leadership (Camp Fire Tales) cards, so I looked at the Tactics Sphere this time. It was almost the ‘Beorning Beekeeper’ but I managed to increase the use of that card in my Haven rules and new support cards, so I decided on just a tiny change to the other Tactics card to give some card synergy, so:
+
+Born Aloft – gains keyword ‘Eagle’.
+
+“The Road Goes Ever on...”
+ 
+
+And many thanks to JC for making my Haven support cards: Here's the one I'm adding currently to 'Beorn's house' Haven:
+
+ 
+
+ 
+
+tSxDbV2.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/tSxDbV2.thumb.jpg.b34bb4de44ef9cf838da2283605d7425.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/tSxDbV2.jpg.f9efa58081cf48078859cf886e119d5e.jpg]
+
+## 25 [Seastan on February 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2620495)
+
+I am intrigued by the concept of havens. Over the years they have been brought up as a possibility a number of times. With your implementation, I quite enjoy the thematic element of the allies travelling to join your party.
+
+With regards to game balance, I think there are serious problems. If the only goal is to just have fun with it then you can ignore what I have to say, but there are plenty of allies in the game who are used just for their ability, and they are some of the best allies in the game: Henamarth, Gleowine, Faramir, Zigil Miner, Warden of Healing, Imladris Stargazer, Master of the Forge, and Errand Rider, to name a few. You are allowing these allies to not only be played at 1 less cost (assuming you eventually make havens for all these traits), but starting the game with a Haven that gives you a few resources to pay for them - all for a cost of 1-2 starting threat. Concrete example: You can play down a Master of the Forge on Lorien on turn 1 without spending any of your heroes' resources. Now he fetches a card for you every turn, with no danger of getting killed from treacheries.
+
+As for the optional rule with heroes in a haven, the same argument applies. You could just take a deck with Erestor or Beravor and put them in a haven, effectively reducing your starting threat by 10.
+
+## 26 [dragoncymru on February 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2620601)
+
+Thanks for the comments - and I do see where you're coming from. Yes, you can stick Master of the Forge on Lothlorien, and in doing so, you'd save a few resources but would have to be strictly thematic and play a Silvan/Noldor deck as to control Lorien you have to have a Silvan and a Noldor Hero.
+
+So the restriction of playing thematically along with raised initial threat doesn't balance out a few resources?
+
+Beravor is one of my core set Heroes, but as a solo player I wouldn't want her just to be a card engine all the time.  But the thought of her being at The Prancing Pony in Bree and sending news to my Heroes at the start of the quest ticks my 'story' box!
+
+As a solo player who loves theme above power and with a desire not to get pummelled to the ground by the quests unless I stick 'such and such' a card 3 times in!
+
+I'm just here to have fun!
+
+And enjoy the wonderful world of Middle Earth!
+
+## 27 [dragoncymru on February 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2620694)
+
+Thanks to Gizlivadi for these lovely Havens:
+
+thran1w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/thran1w.jpg.ea27c96eeb964a6f4d66cfe8b12f1c03.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/thran1w.jpg.ea27c96eeb964a6f4d66cfe8b12f1c03.jpg]
+
+thran2w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/thran2w.jpg.56d0e0ee240bfe9c245d5b0fb29ad509.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/thran2w.jpg.56d0e0ee240bfe9c245d5b0fb29ad509.jpg]
+
+lorien1w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/lorien1w.jpg.dd7d0ead4b4eac6f70faa3a0da25f2a6.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/lorien1w.jpg.dd7d0ead4b4eac6f70faa3a0da25f2a6.jpg]
+
+lorien 2w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/5892465c08ecc_lorien2w.jpg.71ae755c268bad9dc10fd53e8c5eb578.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/5892465c08ecc_lorien2w.jpg.71ae755c268bad9dc10fd53e8c5eb578.jpg]
+
+## 28 [dragoncymru on February 4, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2625270)
+
+And another Haven from Giv and a few support cards from JC:
+
+beorn1w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/beorn1w.jpg.3b02496389f65875b2e771697c0e1530.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/beorn1w.jpg.3b02496389f65875b2e771697c0e1530.jpg]
+
+beorn2w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/beorn2w.jpg.d8c8d7752dbcd83da2a0683a454d1d33.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/beorn2w.jpg.d8c8d7752dbcd83da2a0683a454d1d33.jpg]
+
+dowrw.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/dowrw.jpg.c88981cc6f7af3b349121c224ea41ebd.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/dowrw.jpg.c88981cc6f7af3b349121c224ea41ebd.jpg]
+
+eogww.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/eogww.jpg.629261cce6cdffc13e0173f350a7d368.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/eogww.jpg.629261cce6cdffc13e0173f350a7d368.jpg]
+
+bpw.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/bpw.jpg.d4ccb44650fb0b2f972bc9dc1b881246.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/bpw.jpg.d4ccb44650fb0b2f972bc9dc1b881246.jpg]
+
+## 29 [dragoncymru on February 4, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2625450)
+
+‘Conflict at the Carrock’
+
+For my starting company I decided to do tri-Sphere again and keep my 3 favourites Heroes of Aragorn, Legolas and Beravor, for Leadership, Tactics and Lore, thinking that questing wasn’t so important in this quest so I could leave out Spirit. You have to have Leadership cards to ally Grimbeorn and I think ‘Forest Snare’ would be handy for those trolls so Lore is a must! It would be good to have a way of reducing your threat though, so I’m going with ‘Leadership’, ‘Hidden’ and ‘Dodge’ as my starting Boons.
+
+I’ll also start with ‘Beorn’s House’ as a Haven as Beorn is in my deck plus his beekeepers! I have also included my new Haven support card ‘Beorn’s Ponies’ for more thematic play. I am taking a big risk however as my starting threat is therefore 32 – far too close to those nasty trolls, so perhaps I need to play ‘Hidden’ straight away!
+My starting hand contained both Beorn and Gandalf, plus a Forest Snare, so I decided not to Mulligan and chose, as ever, ‘Riversong’ as my 7th card.
+
+It didn’t go well!
+
+Even with Grimbeorn coming out on the first turn, my lack of questing power meant that locations in the staging area overwhelmed me and my Threat just shot up and I lost the game. Never one to give up with a deck, I tried again with the same deck and I got a bit further and to encounter the trolls this time - and got soundly beaten up as they all descended on me!
+
+Third time out with the same deck and I got so close! The trick I think is to keep your threat low and pick off the trolls one by one – so I used all my Gandalfs not to draw cards or damage enemies but to reduce threat and then quest. Take things very slowly during the first Quest phase to build up Resources, get some allies (including Grimbeorn), then once you get to the second phase, quest quickly to clear ‘the Carrock’ out from being the active location and lose the troll bonus attack and defence.
+
+It was fourth time lucky and what a final battle! I managed to get Grimbeorn, Beorn in the party and the Beekeepers at my Haven, along with my 2 Forest Snares to pick off those trolls. I was lucky with my card draw this time and the other troll in the deck (the Hill troll from the Core set) didn’t make an appearance either. It matters what order you go for the trolls too with – I went for Stuart, Morris, Rupert and definitely Louis last!
+
+A fantastic quest – but I’m glad I used my Easy Mode plus Havens otherwise with the early card pool that is thematically played (remember – no ‘Steward of Gondor!’) I’d have no chance!
+
+But, what's that falling from the sky.....?
+
+“The Road Goes Ever on...”
+ 
+
+## 30 [dragoncymru on February 8, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2630478)
+
+Preparing for a ‘Journey to Rhosgobel’
+
+I’m looking forward to this quest, as it’s a lovely ‘side quest’ in saving a giant eagle (I’m very fond of the eagles) so I’m going to be as thematic as possible and put Radagast into my deck with as many Eagle cards as I can. I’ve got a new Haven to play with in this quest too, the very thematic ‘Eagles Eyrie’: 
+
+Eagles Eyrie Cost: 0 Allies: 2. Resources: 0. Mountain
+
+Eagle allies only. When an ally is played to this Haven, add 1 Haven resource.
+
+Travel Action: Exhaust an ally here and pay 1 Haven Resource to Travel to a non-Underground Location without resolving its Travel effect.  Return any active location to the staging area.
+
+Response: After your ally is destroyed, exhaust an ally here and pay 1 Haven Resource to put that ally into your hand.
+
+“There was no path down to it, save by flying; and no path down off it except by jumping over a precipice.”
+
+ 
+
+The new cards released for this quest are again a mixed bunch. The new Leadership Hero is ‘Prince Imrahil’, who seems like a bit of a cut-price Aragorn. He does have a nice ability to ‘ready’ that would work well with weaker soldier allies and has nice stats however. I’ve never played him but will need to test him out with a Gondor deck.
+
+Other new cards include the allies of Haldir (Lore), Landroval (Tactics) and Radagast (Neutral). Haldir is a great ‘all rounder’ to put in a deck, Landroval is an excellent ally but hugely expensive and you would have to have a lot of Tactics resources (or something like a Song or Haven....) to justify putting him in a deck. Radagast is very expensive too, and not half as good as his Istari mate Gandalf for the same cost (something I tried to address in my upcoming ‘Rhosgobel’ Haven card.
+
+I don’t really need a card tweak for solo play in this quest, but just for more eagle synergy:
+
+To the Eyrie - Gains the keyword ‘Eagle’
+
+Now I need to sit down and work out who I’m going to choose for my Heroes...
+
+“The Road Goes Ever on...”
+
+eyrie1w.jpg [//content.invisioncic.com/Mfantflight/monthly_2017_02/eyrie1w.jpg.5f28d088e809f6d4ea59c08db27e2840.jpg] [//content.invisioncic.com/Mfantflight/monthly_2017_02/eyrie1w.jpg.5f28d088e809f6d4ea59c08db27e2840.jpg]
+
+Edited February 8, 2017 by dragoncymru
+
+## 31 [xchan on February 8, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2631518)
+
+I have been following this threat since day one and I have to say I'm loving the direction the Havens are taking. Tying the allies travel to the quest is brilliant and really thematic. Adding cards that support that theme is even better. I love both JC and Giz fan made stuff (printed a bunch of it) and having them supporting this makes me really happy.
+
+I wanted to ask you a few questions and make some suggestions. I know you are doing this for fun, but it scratches many of my most wanted new mechanics that I can't help myself.
+
+Havens
+
+How many times do you usually use the Haven's extra abilities per game?
+How often do you recruit allies on a Haven?
+If Havens were to be used in multiplayer, would each player choose one or would they share the same?
+
+Have you found that allowing the Haven resources to be used to recruit out-of-shpere allies unbalanced? Is the option to recruit allies more benefitial than using the Haven resources for their skills?
+
+I agree with Seastan that allies/heroes shouldn't be able to use their skills from a Haven and that the threat manipulation is a huge risk that might cause serious problems down the road when you expand your variant to other cycles. So I would like to know a little bit more about it to see if it could be changed without breaking the Haven concept as I might want to expand it even further (see wilderness).
+
+How often did you start your quests with a hero in a Haven? Did you move them back to the party afterwards or did the hero spend most of the time in the Haven?
+Was the reduction of the initial threat key to your success on the quest or did it not matter that much?
+Would you say that allowing a hero to gain resources while in a Haven was too powerful or it balances out by the fact that you lose a body for questing/attacking/defending?
+Isn't the the explosive threat boost you get when the hero reaches the party a huge detriment for the travel mechanic? 
+In your playthroughs, how often did you use the allies/hero skills while on a Haven instead of using them for travelling/Haven skills?
+
+I understand that starting with one less body on the field makes quesing/attacking/defending a lot harder during the first rounds, but the reduction in threat doesn't seem to balance that out, as while enemies might stay on the staging area longer, questing becomes progressively harder and once the hero reaches the party to help, the explosion in threat might make the enemies swarm you in one round. How did that work for you?
+
+Havens supporting cards
+
+Those were a nicely surprise and I really like that the Havens is expanding into them.
+
+What was the reason behind their creation? Where the Havens too weak on their own?
+Do the supporting Haven cards perform as normal player cards (added to your deck and played from your hand)? If so, do they count to the 50 deck limit?
+Would you and JC condier toying with the idea of token cards instead? I know JC was working on it in another fan-made project, but I felt it had room for improvement. I think tying them to the Havens might be an elegant solution and could strenghten both project. 
+
+Wilderness
+
+If I undertand it right the wilderness is the travelling area between the Haven and the Party/Quest were allies with progress tokens are, right?
+What are the rules for what you describe as "Wilderness"?
+Are characters in this area able to use their habilities or can they only travel?
+Was keeping them in them in the Haven creating balancing issues or is this new area just for thematic pourpuses?
+What was the reason behind the rule that prevents heroes to gain resources while in the wilderness? Was the extra resources too unbalancing?
+
+Have you thought about expanding the travel mechanic to allow allies/heroes in the party to enter the Wilderness and travel to the Havens? I know that doesn't make sense right now, but I was thinking about a couple of options that would make the wilderness area stronger.
+
+Option A) I was thinking that, by your Havens definition "Havens are cards that represent the famous locations in Middle Earth where the heroes gain equipment, allies and rest." The resting portion of it is not really explored. A way to integrate that into your clever wilderness mechanics I would toy with the idea that characters can travel back to Havens (same restrictions as when allies are travelling to reach the party but backwards). The main goal for doing so would be to heal all damage taken upon entering a Haven. That would emulate the resting theme of the Havens and give you extra flexibility/choices on how to approach the quest.
+Option B) From your quest reports it seems like you prefer to tie the Havens to the quest instead of the decks, which makes thematic sense, but limit their interaction with the deck. That made me think about the inclusion of some neutral Havens tied to the quests. Those Havens would start the game in play (per quest set up rules) but you would not add their threat like the ones you choose as your main Haven. Instead that number will reflect the travel distance to reach them. 
+For example, Beorn's House could be a quest specific Haven that allows you, upon entering it (flipping it), to search for a Beorning ally and put it into play on that Haven or something like that.
+
+Revisiting/rehauling cards
+
+Were the changed cards useful for you now?
+Have you looked at JC rehaul project? Some of the changes you mention are also in his rehaul project.
+
+I see that you changed how Escape from Dol Guldur quest works. Do you think that the introduction of the Haven mechanic and the extra boons were not enough to ofset it's difficulty? What do you feel your deck needed to prevent those changes?
+
+Boons
+
+How have the boons been performing for you?
+Have you find them too strong or perfectly balanced? Would you make any changes?
+Do you think they are key components in your variant or have them been eclipsed by the Havens?
+Do you think starting the game with them in play instead of drawing them is key to their permormance success?
+Have you playtested the quests without them? If so, have you missed them? If not, would you be willing to try it out and see how the game performs (I don't own the Mirkwood APs, so can't really playtest all your stuff yet)?
+How about making them random instead of picking the ones you like/think will work best? Would that make them less appealing?
+
+I'm trying to asses if the boons could be changed into treasure cards with a mechanic revolving around victory points instead, as I would prefer for boons to be related to the quest campaign instead (a fan made project that I'm hoping someone else would be willing to work on, as I lack the needed LotR knowledge).
+
+Thanks again for your work. It's really inspiring!
+
+## 32 [dragoncymru on February 9, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2632432)
+
+> 14 hours ago, xchan said:
+> 
+>  
+
+> 14 hours ago, xchan said:
+> 
+>  
+
+Many thanks for the kind words –I’m really enjoying the marathon and the creative project too. That’s a lot of questions, but I’ll see what I can do!
+
+Havens
+
+In my games, a Haven’s ability can vary the number of times it is used – depending on your card draw, but on average twice per game? It’s the same with allies. I usually get 1 or 2 allies on there per game. In a multiplayer game each player would choose a Haven.
+
+Allowing the Haven resources to be used to recruit out-of-sphere allies doesn’t seem unbalanced. Getting the option to use them to recruit allies is about the same as using the resources for the abilities on the Haven cards.
+
+I think that allies/heroes should be able to use their skills from a Haven –otherwise the theme of having allies there like healers, weavers, craftsmen etc is a bit lost. I do realize there could be problems later on though, which is why perhaps allies should be normal cost and not -1 cost?
+
+ I haven’t actually started any quests yet with a hero in a Haven!! It’s something I plan to test out when I’ve got through the first cycle as all the quests in the first cycle seem to be continuous
+
+Havens supporting cards
+
+Glad you like these. The reason behind them was to enhance the Haven concept without having it all on 1 card and giving a player options. At the moment I’m planning 1 per Haven but I could easily do more. I see them as part of your normal deck so not to get too complex with side-decks etc
+
+Wilderness
+
+Yes, the ‘wilderness’ is the travelling area between the Haven and the Party. There are no rules as such except that it is a ‘neutral zone’ so that no allies/heroes can use or do anything whilst there – including generating any type of Resources. This is because it was overpowered if a Hero generated Resources whilst at a Haven so I changed it to haven resources whilst there. In the wilderness, they get nothing and their Threat is added when they join the party.
+
+I don’t see why a Hero or ally couldn’t be ‘sent back’ to the Haven, with the rule that when you enter a Haven, you heal 1 damage at the start of each round?
+
+I’m tying the Havens to the quest instead of the decks because I’m trying to mirror ‘what might have been released’ as the game goes through the cycles and releasing 1 Haven or 1 Haven support card per AP with 2 of each in a deluxe expansion. As the havens and their cards are released, just like all player cards, there is nothing to stop players going back and playing quests with Haven that match their decks –I’m just trying to be thematic!
+
+Revisiting cards
+
+I try to change as little cards as possible as I find that too much to remember. My revisits are for solo purposes only, not to ‘balance’ out cards and address shortfalls etc. Dol Goldur should NEVER have been released as it stood as it turned players off the game as it was far too difficult. I really enjoyed playing through the quest with my tweak however as it gave me a chance to play through a really thematic quest.
+
+Boons
+
+I see my starting Boons as very much ‘bicycle stabilisers’ for new players as they started out on their adventures and to smooth the available actions from a very small card pool – especially, again, for solo players. They have done their job and as I go through the game I might not use them. In terms of strength, I think I got them about right and don’t need to change them. They haven’t been eclipsed by the Havens. Starting the game with them in play instead of drawing them is absolutely key in early games. Making them random would undermine their purpose – they are there to prop up missing elements in a sphere (such as a bit of Willpower for Tactics), rather than as a random bonus – choosing them gives player options and control. Making Boons Treasure or earned Campaign cards again is not their purpose. However only having them at the start of a Campaign (like Mirkwood or whatever) would make sense and then having a Boon earned at the end of each quest (like a ‘level up’) would be nice –I think I’ve seen a few of those about
+
+Hope I’ve answered your questions. Thanks again for your interest and please feel free to drop comments or help with any card ideas or rules.
+
+‘The Road Goes Ever On’
+
+Edited February 9, 2017 by dragoncymru
+
+## 33 [dragoncymru on February 11, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2635719)
+
+‘Journey to Rhosgobel’
+
+In the end, I stuck to my dream team of Aragorn, Legolas and Beravor with starting Boons of ‘Leadership’, ‘Hidden’ and ‘Far Sight’ respectively and started off with my new ‘Eagles Eyrie’ Haven. I reduced the number of Leadership/Spirit cards, took out any Beornings and put a lot of Eagles in my Tactics cards. Lore stayed pretty much the same but with added ‘Haldir’ and I added Radagast and the Song of Wisdom to my Neutral cards. With great luck I had ‘Celebrian’s Stone’ in my opening hand and could get ‘Riversong’ as my 7th card.
+
+The first time out went really smoothly and even though I saw no sign of any eagles (apart from poor Wilyador), Radagast or Haldir, and thus my Haven saw no action at all, I still beat the quest with no real problems. I think the encounter deck was really kind with no nasty enemies such as ‘Ungoliant’s Spawn’ appearing and a few early copies of Athelas that were guarded by nice locations. I also pulled out a ‘Lore of Imladris’ quickly so could heal a bit of Wilyador as I entered the second stage of the quest and only needed to find 2 Athelas to win. Getting out Gandalf to help me quest meant that stage 2 went by easily too and stage 3 is just a non-event.
+
+Playing it a second time, I swapped the Leadership Boon onto Legolas figuring that I would need some more Tactics resources. This time the starting hand was poor, but I did get some eagles in and got the Eyrie up and running and Landroval entered the game. Radagast made a fairly early appearance too so could heal Wilyador as I went through stage 2 of the quest. Still no sign of Haldir though! Another lucky ‘Lore of Imladris’ came out, so this time, again with a gentle encounter deck, I only needed to find 1 Athelas to heal the wounded eagle.
+
+One of the easier quests for me then, but enjoyable and very thematic to boot!
+
+Now I think I'd better get my walking boots on....
+
+“The Road Goes Ever on...”
+
+Edited February 11, 2017 by dragoncymru
+
+## 34 [dragoncymru on February 13, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2637696)
+
+Marathon Update
+
+Boons
+I’ve tweaked these a little with them losing their Sphere bonuses which I think with hindsight was a little overpowered. They now all give straight bonuses of 2. I also changed some of the names so when I made proxy cards I can use existing Boon cards and just change the text. So ‘Far Sight’ became ‘Go Ever on’ and uses ‘Mr Underhill’ from ‘The Black Riders’ (and is also a nice wink to the name of this blog!). So the current list is:
+
+1. Bold Strike (Valiant Warrior) – discard to gain +2 Attack until end of the phase.
+2. Warned (Forewarned) – discard to gain +2 Defence until end of the phase.
+3. Go Ever On (Mr. Underhill) – discard to gain +2 Willpower until end of the phase.
+4. Hidden (Tireless Ranger) - discard to reduce your Threat by 2.
+5. Healing Balm (Hans of a Healer) – discard to heal up to 2 damage on 1 Character.
+6. Wisdom (Noble Hero) – discard to draw 2 cards.
+7. Inspiration (Intimidation) – discard to add 2 resources to attached hero’s resource pool.
+8. Resolve (Beyond All Hope)– discard to ready 2 heroes.
+
+Havens
+I’m really enjoying playing with Havens but as I’m playing through the quests I’m not sure if, as the card pool expands, that having the -1 Cost rule of allies played to a Haven is now balanced (yes, people who said that can say ‘I told you so’!!).
+I made that rule to make Havens viable for allies to play there, but since we now put Haven Resources on them at the start (and possibly more being put on through the Support cards) it could be too much of a good thing! This is particularly true as when you put an eagle in the Eyrie, you generate a Haven resource so a ‘Winged Guardian’ was effectively zero cost! I have been playing a few games now without the -1 Cost and it doesn’t seem to make it underpowered so I think I’m going to remove the -1 rule.
+
+I’m also thinking of allowing characters to return to Havens in the middle of a Quest (a bit like a generic player side quest). If you exhaust a character X times during the Travel phase (where X equals to the current Quest card number) then he may return to a Haven. A character in a Haven removes 1 damage token at the start of each Refresh phase. There may be some quests, or part of quests, where this won’t be allowed such as ‘Escape from Dol Goldur’ where thematically it makes no sense at all (‘Excuse me Gandalf, I’m just nipping back to Lorien’)!
+
+A Short Rest
+I’m also thinking of introducing a rule that if a character is not exhausted in the Refresh phase (so they have not quested, attacked, defended or used an ability that caused them to exhaust) then they may remove 1 damage token. This simulates them ‘camping down’.
+
+I’d appreciate people’s thoughts on those 2 tweaks?
+
+Playing the Quests
+My current play mode (as of ‘Hills of Emyn Muil’) is to play each quest 4 times. If I succeed with the quest, I notch up the difficulty for the next play. The first ‘notch’ is to remove the Boons, the second ‘notch’ is to replace the Boons but put back all the removed cards from the Encounter deck for ‘Easy’ Mode, and the third ‘notch’, (if I EVER get this far!!) is to remove the Boons and play all the cards in the Encounter deck!
+
+We’ll see how I get on!!
+ 
+
+## 35 [dragoncymru on February 15, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2641034)
+
+Preparing for a trek through ‘The Hills of Emyn Muil’
+
+A new adventure pack and new cards to play with! As the card pool grows, it’s great to see themes start to come together and deck possibilities start to coalesce.  The new Hero is from the Tactics Sphere: ‘Brand, son of Bain’ and although he has fine stats, he’s a bit high-Threat and limited with an ability that is useless in solo play. For sake of solo balance, I’ll tweak his ability for my games so it reads:
+
+Brand, Son of Bain –After Brand, son of Bain attacks and defeats an enemy with a Ranged attack, choose and ready a Hero you control (limit once per round).
+
+Other cards in the set are again a mixed bunch, with the very expensive Lore ally ‘Gildor Inglorion’, the fairly useless Leadership ally ‘Keen Eyed Took’, another Tactics eagle with ‘Descendant of  Thorondor’ and our first Horse (although the ‘Mount’ keyword has yet to be introduced) with ‘The Riddermark’s Finest’.  The events are pretty small league in this pack, but for my solo games, I’m going to tweak another 2 cards from this pack:
+
+Gildor’s Counsel – remove the (to a minimum of 1).
+
+Meneldor’s Flight – Gains the keyword ‘Eagle’
+
+I also have a new Haven support card to be introduced for last week’s ‘Eagles Eyrie’:
+
+ Messengers of Manwe  Cost 1. Unique. Eagle. Attach to Eagles Eyrie.
+
+Response: After Messengers of Manwe enters play, add 2 Haven Resources to Eagles Eyrie.
+
+Action: Discard Messengers of Manwe to give Sentinel to all Eagles in play until the end of the round.
+
+ “The Road Goes Ever on...”
+
+## 36 [dragoncymru on February 18, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2646764)
+
+ ‘The Hills of Emyn Muil’
+
+This quest was a Location monster so I’m glad I put some Northern Trackers in to get rid of some of them clogging up the staging area. The problem is that I wanted to keep my tri-sphere deck with my usual heroes of Aragorn, Legolas and Beravor and thus Leadership/Tactics/Lore. Looks like I can put in a few handy ‘Song of Travel’s to get those Spirit Resources! My chosen Boons were Go Ever On, Inspiration (on Legolas to afford those Tactics eagles) and Resolve. As ever, if I didn’t get Riversong in my opening hand, I would choose him as my 7th card, and if I did get him in my hand then it would be ‘Celebrian’s Stone’ for Aragorn.
+
+It’s a fairly boring quest isn’t it? It’s very thematic though as it does seem like you’re trudging through the endless wastes and hills of Emyn Muil, the Treachery cards with rockfalls and chasms are a nice touch, but not a lot actually happens! I did like the art of the new Location cards however.
+
+The quest actually did beat me twice with all those Locations forcing my Threat up and up. It’s rare that I ever get to 50 Threat and lose the game – if I lose, it’s usually because I get killed! The key card, of course, is ‘Northern Tracker’. In fact, unless you were playing a full-on Spirit deck, I think it comes down to ‘if you get ‘Northern Tracker’ out on the table’, you win, and if you don’t, you lose!
+
+My dream team did win through though after 3 fails! It was all a matter of getting a way for Spirit cards to enter play –either from ’Song of Travel’ or from ‘Celebrian’s Stone’. I did manage some nice Eagle synergy with the Eyrie Haven and the Haven support card ‘Messengers’ of Manwe’ and Havens are still performing well even though I have now removed the -1 Cost.  I’m happier that these are a bit more balanced.
+
+I also started ramping up the difficulty if I do win a quest and thus played 1 game here without the starting Boons. I think this is a fairly easy quest though so even without the Boons I still won this one.  
+
+I must say though that I’m getting far too reliant on ‘Riversong!  It will be a real loss when I lose him from the deck (which I will force myself to do when we go underground or go down to Gondor...).
+
+Now as for my trip, that ground looks a little marshy and there’s a nasty smell too...
+
+“The Road Goes Ever on...”
+
+## 37 [dragoncymru on February 22, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2652036)
+
+Preparing for a trudge through ‘The Dead Marshes’
+
+Another week, another adventure pack, more player cards to add to the growing pool and I think the cards this week are amongst the strongest collection so far. The Hero in this one is an absolute star – Boromir! With an Action to ready him and an Action to deal loads of damage to engaged enemies, I think he could be really fun to play with lots of options and a good set of stats to boot.
+
+Other new cards in the set are also strong. ‘Fast Hitch’ is great for hobbits, it’s nice to see more Silvan allies (even if ‘Silvan Tracker’ is a bit expensive), ‘Dunedain Watcher’ has great Shadow cancellation for Leadership, ‘Vassal of the Windlord’ is good for cheap ‘hit n’ run’ damage’, and we have 2 Songs too!
+
+Since I tweaked a few cards last week, this week I won’t touch any for a Solo tweak.
+
+My new Haven is a bit of a return to a previously visited location – even though it wasn’t a Haven as such when I rescued Wilyador the giant eagle a few weeks ago- Rhosgobel:
+ 
+
+pic3428644_t.jpg [https://cf.geekdo-images.com/images/pic3428644_t.jpg] [https://www.boardgamegeek.com/image/3428644]
+pic3428645_t.jpg [https://cf.geekdo-images.com/images/pic3428645_t.jpg] [https://www.boardgamegeek.com/image/3428645]
+
+
+
+I don’t go through the encounter deck before I play a quest so I’m not sure quite what to expect. I’ll keep my usual heroes and Boons and perhaps add some more eagles with ‘Vassal of the Windlord’ as it’s so cheap.
+
+“The Road Goes Ever on...”
+
+## 38 [dragoncymru on February 25, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2656796)
+
+The Dead Marshes’
+
+This was another enjoyable quest with some very atmospheric Locations and treacheries – loads of fog, mist, gloom and tricksy lights. Gollum is a slippery little devil isn’t he? I really liked the Escape test mechanic even though those resource tokens mounted up on Gollum really quickly!
+
+This quest is all about speed and questing (!) and the more Willpower you have, the quicker you get through it and the less resource tokens get put on Gollum. Spirit decks would make short work of this and the more allies you get out the better chance you have of clearing the staging area and handling the relentless escape tests. My tri-sphere deck worked well even though on the first 2 attempts I had no access to Spirit cards. I did manage to get a fair few allies on the table however including Gandalf. On my first attempt there were 6 resource tokens on Gollum when the final Escape attempt came and I was really lucky to have only 1 card with an Escape value in the 6 drawn.
+
+Your threat can rise very quickly in this quest too and on my second attempt a hill troll lumbered out of the fog to engage me. Luckily a Feint managed to slow him down for a round before I snagged him with a Forest Snare.
+
+My first 2 attempts were both successful, albeit with some luck and close-calls, so I tried a third time with no starting Boons. This time I was still successful, although it was a close-call with a very lucky final Escape Test with 7 cards from the encounter Deck. On my last attempt of the quest, I added all the removed Encounter cards from the Adventure Pack and with all the extra Encounter cards with ‘Escape’ on them, Gollum soon vanished into the marshes and I couldn’t find him again before my threat went over 50!
+
+Although I used ‘Eagle eyrie’ and ‘Messengers of Manwe’, the Haven didn’t see much use in this quest, although I have to say ‘Vassals of the Windlord’ is such a great card!
+
+I’m coming close to the end of the first cycle and my road is turning back to Mirkwood...
+
+“The Road Goes Ever On...”
+
+## 39 [dragoncymru on March 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2661977)
+
+Preparing to ‘Return to Mirkwood’
+
+I can’t believe that I’ve nearly come to the end of the ‘Shadows of Mirkwood’ cycle already! The new Hero introduced in this pack is the first Dwarf since the Core Set (could be handy soon...) and is ‘Dain Ironfoot’. Dain is a stellar Hero for dwarf decks and will no doubt see a lot of play of my games in the next few weeks.
+
+The other new cards in this pack are fairly consistent, if not top notch. The Leadership cards are a bit weak, Spirit cards adds more Rohan flavour which I quite like and the Tactics cards are more Eagle-goodness, and I’m very fond of ‘Eagles of the Misty Mountains’. My favourites are the Lore cards though with ‘Rumour from the Earth’ being fantastic solo and it’s always nice to see another Silvan ally with ‘Mirkwood Runner’. The Neutral card ‘Shadows From the Past’ is an odd one though and very expensive at 2 Cost for a very situational card.
+
+Once again, I’m pleased to say that the player cards in this pack don’t need any Solo tweak.
+
+My new card this week is a Haven Support card for Rhosgobel:
+ 
+
+pic3441949_t.jpg [https://cf.geekdo-images.com/images/pic3441949_t.jpg] [https://www.boardgamegeek.com/image/3441949]
+
+
+
+Since I’m going back into Mirkwood, I’m keeping the theme by saying goodbye to my Eagle cards as they really shouldn’t be in there. I have also returned to use the original Core Haven of ‘Thranduil’s Halls’ together with the support card ‘Defenders of the Woodland Realm’. I’ve added some more Silvan allies too and chosen to use the Boons of Hidden (Legolas), Go Ever On (Aragorn) and Inspiration (Beravor)
+
+“The Road Goes Ever On...”
+
+## 40 [dragoncymru on March 4, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2665908)
+
+‘Return to Mirkwood’
+
+I found this quest really enjoyable, if a bit ‘bipolar’. It seemed that there were loads of mechanics and cards that punished the solo player, most importantly as you have to guard Gollum every turn! This means a massive threat increase of 4 each turn (!) so including my ‘Hidden’ Boon was a good idea, plus always using Gandalf for threat reduction. Other cards included the Locations ‘Woodman’s Glade’ and ‘Wood Elf Path’ – both which help multi-player but do nothing for the poor solo player! On the other hand, the Quest cards seemed to cut me a bit of solo slack. Like other quests, speed was of the essence so I used ‘Go Ever On’ pretty quickly!
+
+But even so, my first attempt was successful. I was very lucky however and the encounter deck just gave me lots if easy locations and few enemies. Questing quickly, I managed to get to Thranduil’s Halls in 5 turns with no enemies in the staging area so no last battle!
+
+My second attempt lasted exactly 4 turns. This time I had a few enemies straight off the bat that kept me busy. Then I drew ‘Gollum’s Anguish’! Dear me, what a card – a threat increase of 8! With no handy threat reduction coming from my deck and a threat increase of 4 per turn (thanks Gollum!), my threat just soared to 50! (In fact, all the nasty Gollum ‘Tantrum’ Treachery cards in this pack just scream: ‘play ‘Test of Will’ or use Elanor’)!
+
+Third time out was similarly quick with a rocketing Threat plus a horde of 2 Mirkwood Bats and a King Spider making a nasty bite out of my party! My last attempt was successful again, although only just with a final Threat of 45, and fairly gentle Encounter deck cards. I was fortunate to get ‘Celebrian’s Stone’ in my opening hand and then a few Gandalf’s out to reduce my Threat. My ‘Thranduil’s Halls’ Haven also played really well with lots of Forest locations in the Encounter deck so with my ‘Defenders of the Woodland Realm’ I managed to spring a Silvan ally out for 2 cost (great when that ally is cost 4 Haldir).
+
+So that wraps up my trek through Mirkwood looking for tricksy Gollum and my heroes sit back and enjoy the hospitality of Thranduil (when are we going to see him in the game FFG??). But what’s that? I hear that old Balin hasn’t sent any emails back from Moria! Time to go underground...
+
+“The Road Goes Ever On...”
+
+## 41 [dragoncymru on March 6, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2667699)
+
+Going Underground
+
+So one complete cycle done and it’s a very exciting time for me as I begin a brand new cycle which I remember to be rich in theme. ‘Khazad-dum’ brings a totally different feel to the game from ‘Shadows of Mirkwood’ and leafy glades and paths get changed to darkly lit mines and twisting underground passages.
+
+In this expansion we get two new Heroes – Bifur and Dwalin. Bifur is our first Lore Dwarf Hero and is only Threat 7 which is a nice low cost. Dwalin is our first Spirit Dwarf Hero and has a terrific orc-slaying/threat reduction ability which I can only foresee being totally useful in the depths of Moria!
+
+There are also 11 other new cards in the set, nearly all of which are dwarf-themed. I love the Tactics ‘Khazad, Khazad!’ attack bonus and the ‘Dwarrowdelf Axe’ is a fantastic new weapon! The Spirit sphere gains a great questing bonus card in underground Locations with ‘Untroubled by Darkness’ and of course the infamous ‘Zigil Miner’. Lore’s ‘Ancestral Knowledge’ is a cheap way of clearing active underground or mountain Locations and ‘Erebor Record Keeper’ is a way of readying dwarves. Leadership gains the handy ‘Narvi’s Belt’ and ‘Durin’s song’ but ‘Ever onward’ seems to be expensive and below par. ‘Boots of Erebor’ is also a cheap Neutral boost.
+
+All the cards in this set are ‘solo friendly’ so once again, we don’t need to have any solo tweaks
+
+I have included two new Havens and support cards for this expansion and tried to maintain the dwarf theme:
+ 
+
+pic3449653_t.jpg [https://cf.geekdo-images.com/images/pic3449653_t.jpg] [https://www.boardgamegeek.com/image/3449653]
+pic3449654_t.jpg [https://cf.geekdo-images.com/images/pic3449654_t.jpg] [https://www.boardgamegeek.com/image/3449654]
+pic3449655_t.jpg [https://cf.geekdo-images.com/images/pic3449655_t.jpg] [https://www.boardgamegeek.com/image/3449655]
+
+ 
+
+pic3449656_t.jpg [https://cf.geekdo-images.com/images/pic3449656_t.jpg] [https://www.boardgamegeek.com/image/3449656]
+pic3449657_t.jpg [https://cf.geekdo-images.com/images/pic3449657_t.jpg] [https://www.boardgamegeek.com/image/3449657]
+pic3449658_t.jpg [https://cf.geekdo-images.com/images/pic3449658_t.jpg] [https://www.boardgamegeek.com/image/3449658]
+
+
+
+This new cycle means I have to totally change my deck to maintain the theme. So out go all the elves (no more Riversong!), rangers (goodbye to my favourite – Beravor) and lastly the Eagles (who shouldn’t be underground).
+
+“The Road Goes Ever On...”
+
+## 42 [dragoncymru on March 8, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2672350)
+
+Preparing to go ‘Into the Pit’.
+
+To begin this cycle I literally started from scratch with my deck. With all the Songs available to me, plus the new ‘Narvi’s Belt’ I’m going to stick with a tri-Sphere deck as I feel solo play benefits from a breadth of abilities from the different Spheres.
+
+I decide to go for a Lore/Spirit/Leadership deck with Bifur, Dwalin and Dain as my heroes. I wrestled over not having a Tactics hero and both Gimli and Thalin had a close chance to get in for a long time, but Dain had to be an automatic include. Since using my rules I get to choose my 7th card, this could be ‘Narvi’s Belt’ and put it on Dain who could then do double duty as Tactics/Leadership resource generator. I did think that since I have only 1 Core Set, and I only have 1 copy of ‘Unexpected Courage’, I could make this my 7th card and put on Dain, but my Erebor Haven can do some readying once I get some allies there.
+
+My deck was exclusively Dwarf themed and had a fair balance of the different Spheres. I had 12 Spirit cards that included ‘Zigil Miner’, ‘Untroubled by Darkness’ and ‘Dwarven Tomb’. My 12 Lore cards included ‘Ancestral Knowledge’, ‘Erebor Record Keeper’, ‘Erebor Hammersmith’, ‘Longbeard Map-Maker’ and ‘Miner of the Iron Hills. My 12 Tactics cards included ‘Citadel Plate’, ‘Dwarven Axe’, ‘Dwarrowdelf Axe’ and ‘Khazad! Khazad’. Then lastly my 8 Leadership cards had ‘Durin’s song’, ‘Narvi’s Belt’ and ‘Longbeard Orc Slayer’. Then 6 Neutral cards filled out the deck – 3 Gandalf of course, plus 2 ‘Wealth of the Mountain’ and a ‘Boots of Erebor’ for Bifur!
+
+My starting Boons are going to be Wisdom, Inspiration and Healing Balm on Bifur, Dain and Dwalin respectively. I chose these as Lore dwarves have little card draw or healing available to them and some more Resources for Dain are always a good thing since he has to pay for 2 Spheres!
+
+“The Road Goes Ever On...”
+ 
+
+## 43 [dragoncymru on March 11, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2678220)
+
+‘Into the Pit’
+
+What a fantastic themed quest this was! So different from the Mirkwood quests and you really feel like you’re exploring the dark and twisting mines of Moria with Goblins jumping out at you at every turn. I feel the designers really did a good job and the mechanics of the massing hordes of goblins in the shadows was cool.
+
+My first attempt ended in defeat. Although I got through the fixed Locations of ‘East Gate’, ‘First Hall’ and ‘The Bridge of Khazad-dum’ and into the second quest card, the nasty Patrol Leader Goblin plus a few of his goblin pals soon finished me off. The staging area got full of nasty Locations and quests ended unsuccessfully!
+
+It was really strange working with a new set of Heroes and knowing how they operate together (and not having Beravor to draw more cards). It was the same with totally new deck of cards. I had to take it much slower, and really had to take my time reading the cards and thinking through my strategy which meant that the quest felt fresh and exciting. I really missed not having ‘Riversong’ to rely on at the start of the turn too!
+
+Without changing my deck at all, my second attempt went a bit further than before but despite getting ‘Narvi’s Belt’ in my opening hand and thus opting for ‘Unexpected Courage’ for my 7th card, I still succumbed to the hordes of goblins that came at me. My draw deck wasn’t that kind however with very few allies or good bonus events forthcoming. I didn’t read the second stage of the quest right however and that didn’t help.
+
+Third time lucky? Not really as I never even got past the East Gate this time before the staging area was over-run by nasty locations and goblins and my threat hit 50 before I knew it. The same was true for my fourth attempt although I did last a little longer but still didn’t get into the mines at all!
+
+So one last attempt and I swapped out ‘Healing Balm’ for ‘Hidden’ for a bit of Threat reduction and this time I managed to beat the quest! It was a close call though with a final threat of 47 and with all my heroes dripping wounds from the goblin patrol attack before I finished the final nasty quest stage where you don’t generate resources– and that was with 2 last minute ‘Cave In’ cards!
+
+Still no sign of Balin though? Perhaps he’s sent me a text...?
+
+“The Road Goes Ever On...”
+ 
+
+## 44 [dragoncymru on March 15, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2684934)
+
+ Getting to ‘The Seventh Level’.
+
+This was the easiest preparation in the world as there were no more new cards from a new adventure pack! I think my dwarf deck from last time worked quite well but I noticed that there were no nasty Treachery cards that were ‘Condition Attachment’ type (like ‘Caught in a Web’), so I swapped out my two copies of ‘Miner of the iron Hills’ and replaced them with another ‘Erebor Record Keeper’ and a copy of ‘Ever Onward’. I think I might have underestimated this last card because the combination of goblin swarms and nasty locations can ramp up the threat quite a bit in one round. It would have been nice to have one round where I could have concentrated on just clearing out the goblins and ignored any questing.
+
+I put another ‘Erebor Record Keeper’ as it worked so well on my Erebor Haven to ready Dain when needed. It’s very thematic imagining this little dwarf recording all the heroic exploits of his pals as they adventure through Moria, and if I can get a couple of them there then I can ready Dwalin for some good Attack strength and then Threat reduction.
+
+Erebor was working well as a thematic Haven although I didn’t get my ‘Wealth of the Mountain’ into play last time, so I’m hoping it will appear in this quest
+
+Apart from those tiny tweaks, my deck remained the same as did my Heroes of Dain, Dwalin and Bifur. However I swapped the Boons around with Bifur having ‘Inspiration’, Dain having ‘Wisdom’ and Dwalin with ‘Hidden’.
+
+Now, what happened to Balin? Where’s that dead goblin?
+
+“The Road Goes Ever On...”
+ 
+
+## 45 [dragoncymru on March 18, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2691702)
+
+‘The Seventh Level’
+
+This quest is just a fast run through Moria where you have to quest as much as possible so that the goblins don’t have time to swarm out of the tunnels and overwhelm you. In that way, the quest was very thematic although once you’ve figured that speed is of the utmost importance, it’s fairly easy to beat.
+
+Of course, since I don’t look at the encounter deck beforehand, I didn’t realise the first time out and even though my final Threat was really low with Dwalin’s Threat reduction when he kills an orc (handily almost all enemies in this quest are orcs), the swarming mechanic of those pesky Goblin Spearmen and Goblin Swordsmen meant that I had a huge swarm of goblins coming at me that just overwhelmed my dwarves. I also made the mistake of not exploring the ‘Goblin Tunnels’ Location that made any progress neglible!
+
+The ‘Book of Mazrabul’ Objective card is a great help on the first stage and is a natural card for Dain so that he always stays ready in the Quest phase. Dain rarely attacks so the attack restriction is not a problem. For this quest I also put ‘Narvi’s Belt on Bifur as I realised that it was more efficient with his card ability.
+
+For my second attempt I added another copy each of ‘Untroubled by Darkness’, ‘Ancestral Knowledge’ and ‘Durin’s Song’ to get more Willpower for questing. I also swapped the ‘Hidden’ Boon (Threat reduction isn’t needed with Dwalin here) for ’Go Ever On’, again for more questing power.
+
+This time I was very successful and finished the quest in 5 turns! I went as fast as possible, got quite a few allies out and just went for total questing. I think I was a bit lucky with my encounter deck however.
+Third time out and to make it more of a challenge I removed the Boons. Unfortunately I didn’t really get going. With a terrible hand of cards and absolutely no allies in sight at all, my 3 dwarf heroes soon got overwhelmed again by hordes of nasty goblins who stuck me with spears until the dwarves expired by round 6!
+
+Unfortunately, my last attempt, with no Boons again, was again unsuccessful for much the same reason – not being quick enough off the bat – even if I did get onto the second quest card this time.
+
+Overall, a fun quest but a bit hit and miss that depends on the amount of allies you can get out quickly.
+
+But can I hear drums? Perhaps it’s best to get out of here...??
+
+“The Road Goes Ever On...”
+ 
+
+## 46 [dragoncymru on March 22, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2697679)
+
+Preparing for a ‘Flight from Moria’.
+
+Another really easy preparation as I didn’t change a card from my deck, kept the same heroes, the same Boons and the same Erebor Haven too!
+
+Now I could be heading for a quick defeat, but since I don’t look at the encounter deck beforehand, I’m trying to maintain my ‘campaign’ play with the same Heroes. I did consider swapping out Dwalin and replacing him with Thalin. I could still use ‘Narvi’s Belt’ to access Spirit cards and my logic behind this was all the low hit point goblins that were coming out of the encounter deck in ’The Seventh Level’. If Thalin were questing, he would do a point of damage to them as they were coming off the deck so if you equipped him with ‘Unexpected Courage’ and then a ‘Dwarrowdelf Axe’, he could do another point of damage and kill the goblin before it drew its spear or sword. This could be useful in this scenario too but I have a feeling that Dwalin’s threat reduction might be even more important in this scenario with that nasty ‘Nameless Fear’ lurking in the shadows...
+
+Those drums are getting louder! Time to get my running shoes on I think...
+
+“The Road Goes Ever On...”
+ 
+
+## 47 [dragoncymru on March 25, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2702360)
+
+‘Flight from Moria’
+
+My first thought with this quest is how unique the Quest card mechanic plays. It is completely different from the usual setup which gives a really fresh feel and it also means that the tactic this time is not just to rush through the quest cards as quickly as possible (as i first thought). Unfortunately, the random nature of the quest deck means that you can either have a breeze-through or a real toil in getting out of the Mines!
+
+The first time out with this quest was successful although it almost wasn’t for two good reasons. As I’ve said before, I don’t read through the encounter or quest deck before I tackle it so when I started through the quest, I wasn’t at all sure of what could turn up, so when my second 2B quest card was ‘Escape from Darkness’ I thought that this was the ONLY way out. So my logic was to stay with this card and try to get the ‘Abandoned Tools’ Objective card from the encounter deck. Luckily, it didn’t take too long to come out (and also fortunately it didn’t appear as a Shadow card as that would’ve meant another trawl through the encounter deck a la Gollum escaping in ‘The Dead Marshes’). I was just chipping away with my Tools (and exhausting Bifur twice per round as I had an ‘Erebor Record Keeper’ at Erebor) when ‘New Devilry’ appeared and shuffled ‘Escape from Darkness’ back into the quest deck! I was aghast, and thought this could add another half hour to the game as I trolled through the quest deck again, but with an enormous amount of luck, it popped out again even after the shuffle (which was NOT fixed in anyway – honest!!).
+
+My second attempt, I changed none of my cards and exchanged my ‘Go Ever On’ Boon for ‘Resolve’. I kept my Boons in case my first attempt success was just due to pure luck. I guess it was as this time I got stomped on properly! An early ‘Hasty Council’ going into the Victory Pile meant that ‘The Nameless Fear’ had a Threat of 4 from the first turn and I just never got enough Willpower on the table before the locations piled up and then the goblins swarmed out of the tunnels and engulfed me – and a ‘Foe Beyond’ killed off Dwalin too!
+
+The third time out was a ‘worst nightmare’ scenario – even though I won! An early ‘Escape the Darkness’ quest card meant that I trod steadily through the Encounter deck waiting to get the ‘Abandoned Tools’ until, yes, you guessed, it came out as a Shadow card! Not looking forward to going through the Encounter deck again, I chose to bypass the Quest card and after a ‘Heading Up’ got ‘Blocked by Shadow’. Risking it, I didn’t get a Treachery card ‘instant lose’ but instead with my ‘Longbeard Mapmaker’ finished the quest card in 1 round!
+
+For my final attempt at the quest, I removed my starting Boons for a bit more challenge. This was a fun and successful play-through where everything went according to plan – this time to get as many Quest cards out in the Victory Pile! However by the end, ‘The Nameless Fear’ had a Threat of 7 which was a bit (appropriately) scary. Thank goodness I didn’t draw ‘A Foe Beyond’!
+
+So I managed to escape Khazad-dum and am looking forward to more dwarf-themed quests...
+
+Hang on, it seems like Arwen wants an escort over the Misty Mountains? Since when do dwarves escort elves...?
+
+“The Road Goes Ever On...”
+ 
+
+## 48 [dragoncymru on March 29, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2707991)
+
+Preparing for a trek up to ‘The Redhorn Gate’
+
+So a new cycle begins and, rather strangely, the narrative means that we’re out of the mines again! This new Adventure pack and cycle also introduces the new ‘Secrecy’ mechanic which is a cool rules addition.
+
+Our new hero for this pack is Elrohir. He’s a bit high cost until (Spoilers!) his twin brother enters in the next pack but it’s always nice to have another Noldor hero. Other new player cards include ‘Good Meal’ for any hobbits and lots of cards that play off the Secrecy mechanic like the useful ’Needful to Know’, ‘Timely Aid’ and ‘Taking Initiative’. The new ‘Bofur’ ally is very useful and ‘Keeping Count’ is incredibly thematic.
+
+My new Haven card for this Adventure pack is the most famous Haven of all – and thematic too:
+ 
+
+pic3485954_t.jpg [https://cf.geekdo-images.com/images/pic3485954_t.jpg] [https://www.boardgamegeek.com/image/3485954]
+
+ 
+
+pic3485955_t.jpg [https://cf.geekdo-images.com/images/pic3485955_t.jpg] [https://www.boardgamegeek.com/image/3485955]
+
+
+
+We haven’t needed any solo tweaks on player cards for ages, but there’s one in this pack, which now reads:
+
+Renewed Friendship - Response: After you play an Item or Title attachment on a hero you control, you may ready 1 of your heroes, draw 1 card, or lower your threat by 2.
+
+Caradhras calls and it’s getting chilly. Come on Arwen, get your snow-boots on...
+
+“The Road Goes Ever On...”
+
+## 49 [dragoncymru on April 1, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2713038)
+
+‘The Redhorn Gate’
+
+For this quest I decided to initially try the secrecy mechanic and fuse that to putting a Hero at a Haven – and keep some theme to the quest too! To this end, I played a mainly Leadership deck with Aragorn and Elrohir and then put Glorfindel in Rivendell. My starting Boons were ‘Hidden’, ‘Go Ever On’ (on Aragorn) and ‘Inspiration’.
+
+My first and second attempts both didn’t get very far before lots of enemies with high Defence swarmed over me. Even though I put Glorfindel in Rivendell, the amount of questing needed with Carhadras in the staging area is so high each round that Secrecy just didn’t work as I didn’t have enough allies out either. I also found out that ‘Taking Initiative’ is a rubbish card so swapped it out for ‘Lore of Imladris’.
+
+Third time out and what an epic game! The first encounter card was ‘Bitter Wind’ which got rid of all my resources in one stroke and I thought I was doomed from the start! But I struggled on and made some headway, getting onto the second quest card where ‘Freezing Cold’ got attached to Elrohir. Then when we got to the third quest stage the ‘Freezing Cold’ killed him off! Again I thought I was doomed (especially when a close escape from ‘Falling Stones’ almost killed Aragorn) but a quick appearance by Gandalf managed to save my skin and just in time, with 4 damage on him, Aragorn got Arwen over the mountains!
+
+I had once last attempt at the quest and kept my starting Boons. I did really well all the way through and got to quest card 3, cleared out Carhadras and got 7 progress tokens on the quest card before a nasty Mountain Warg got lucky and killed Aragorn! Too many locations in the staging area just made it impossible to go further...
+
+I thought this was a very enjoyable and thematic quest that starved you of resources (which I likened to warmth or provisions) and which really played up the treacherous weather and freezing cold in a dangerous trek across the mountains. The enemies and locations helped the theme too.
+
+But my road to Rivendell is in sight...
+
+“The Road Goes Ever On...”
+ 
+
+## 50 [dragoncymru on April 5, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2718045)
+
+Preparing to go along ‘The Road to Rivendell’
+
+Another new exciting quest this week and one that I remember has some really nasty Treachery cards...
+
+The new hero for this pack is Elladan, brother of Elrohir, and what a combo the two brothers make! With both in play, their Threat cost is much better value and if they’re escorting their sister then those resources flow! Other new cards from this pack include the excellent ‘Rivendell Blade’ and ‘Lure of Moria’, the useful ‘Out of the Wild’ and ‘Hail of Stones’ together with the fairly useless ‘Bombur’ and very expensive ‘Dunedain Wanderer’.
+
+But with the Spirit cards there is not one, but two solo tweaks from this set:
+
+Rider of the Mark - Action: Spend 1 Spirit resource to discard a shadow card dealt to an enemy you are engaged with. (Limit once per round).
+
+Song of Earendil - Attach to a Spirit hero. Response: After Song of Eärendil enters play, draw 1 card. Response: After you raise your threat, discard Song of Earendil to reduce your threat by the same amount.
+
+My Rivendell support card for this pack is:
+
+pic3496196_t.jpg [https://cf.geekdo-images.com/images/pic3496196_t.jpg] [https://www.boardgamegeek.com/image/3496196]
+
+My Heroes for this quest are going to be the twins Elladan and Elrohir plus Aragorn – so no Secrecy for me this game - with Rivendell as my Haven, my starting threat is 35!
+
+“The Road Goes Ever On...”
+
+## 51 [koriakin97 on April 5, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2718091)
+
+I think that this version of Song of Earendil is much too strong. It allows you to skip questing for 1 resource and 0 cards. Maybe "after you raise your threat from encounter card effect"? Or doomed keyword? There is a similar card right now (it's called Free Choice I think), it's cost 0 but doesn't draw you a card
+
+## 52 [dragoncymru on April 6, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2719896)
+
+Ok, I take your point. What about this:
+
+Song of Earendil - Attach to a Spirit hero. Response: After Song of Eärendil enters play, draw 1 card. Response: After you raise your threat outside of the quest phase, discard Song of Earendil to reduce your threat by the same amount.
+ 
+
+## 53 [koriakin97 on April 6, 2017](https://community.fantasyflightgames.com/topic/238441-the-road-goes-ever-on/?do=findComment&comment=2721311)
+
+Sounds interesting. It can always be used to cancel one point of threat at the end of the round, but if comboed it can easily go up to 3-4 threat. It's a shame that Hill troll and Ungoliant Spawn (her shadow effect) are not in this cycle, but as this card redraws itself it should always be at least playable.
+

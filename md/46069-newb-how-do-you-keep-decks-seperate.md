@@ -1,0 +1,65 @@
+# [newb, how do you keep decks seperate?](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/)
+
+## 1 [richsabre on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461693)
+
+complete newb on this so sorry for daft q.....how are people keeping decks seperate inbetween play? i.e. you need to keep the player decks under each influence seperate, and each type of encounter seperate for each scenario, are these what card sleeves are for?
+
+ 
+
+ta
+
+## 2 [Toqtamish on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461737)
+
+I plan on using different color sleeves for now and then when the LotR sleeves are released this summer will use a different one of each for the different decks. also a card storage box with dividers helps as you can separate the cards by spheres, encounter, quest, neutral etc.
+
+## 3 [sputang on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461880)
+
+I just use rubber bands for now.  I'll be getting a card case with dividers soon since I expect my collection to grow.
+
+## 4 [richsabre on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461932)
+
+noted...i guess ill wait for the sleeves to come out, considering the monthly expansions, we'll all have a hell of a lot of cards!
+
+## 5 [Toqtamish on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461959)
+
+I am using other sleeves I have in the mean time. You can use any card sleeves. Does not have to be LotR ones. I am using sleeves the same color as the spheres and using my Balrog sleeves for my Shadow deck.
+
+## 6 [Carnivean on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461989)
+
+Yeah I went coloured sleeves for the starter decks originally (red, blue, green, purple), black for the encounter cards, clear for scenario cards.  I have been using these for demoing in the store I go to.
+
+I started mixing the colours to make dual sphere decks, but kept the sleeves the colour of the primary sphere.
+
+With the "play deck" I will likely get some picture sleeves like the Ring sleeves coming.
+
+## 7 [Trump281 on May 1, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=461991)
+
+sputang said:
+
+I just use rubber bands for now.  I'll be getting a card case with dividers soon since I expect my collection to grow.
+
+
+
+ 
+
+EEK!  Never!  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+I use plasti-bands for all of my decks in all of my games.  SOOOOOO much better than using rubber bands.  I have a friend who really likes Hugo's Amzing Tape so you might look into that too. 
+
+## 8 [richsabre on May 2, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=462132)
+
+what surprised me was how thin the cards were, this being my first LCG, or any CCG for that matter, so i really do need to get some protection for them, cant have my precious (terrible pun i know) being creased!
+
+## 9 [Carnivean on May 2, 2011](https://community.fantasyflightgames.com/topic/46069-newb-how-do-you-keep-decks-seperate/?do=findComment&comment=462135)
+
+Well I have my playset in a folder, three of each card.  Demo decks in coloured sleeves for demos, encounter in black and have left the 2nd and 3rd encounter sets at the store in case they are needed. Everything is protected, no chances :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+You can get the sleeves on their own and put them in your own folder, or you can get folders with fixed sleeves in them.
+The Ultra Pro Pro-Binder with sleeves in there have 360 places for cards to go into, so should get the playset and the Mirwood stuff without a problem.  Then it will get in 3 full campaign sets (18 releases) or 2 deluxe expansions and 2 campaigns for LOTR.
+
+You are looking at less than $20 for about 18 months worth or releases
+
+All my Game of Throne and Warhammer Invasion are in the same folders ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+

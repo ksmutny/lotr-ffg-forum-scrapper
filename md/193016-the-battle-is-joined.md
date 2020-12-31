@@ -1,0 +1,2259 @@
+# [The Battle Is Joined](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/)
+
+## 1 [John Constantine on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1882540)
+
+https://www.fantasyflightgames.com/en/news/2015/11/6/the-battle-is-joined/ [https://www.fantasyflightgames.com/en/news/2015/11/6/the-battle-is-joined/]
+
+ 
+
+mec43_cardfan.png [https://images-cdn.fantasyflightgames.com/filer_public/c7/f0/c7f0a9e9-284e-46fc-a6a8-652d2a1932e8/mec43_cardfan.png]
+
+Edited November 6, 2015 by John Constantine
+
+## 2 [Bullroarer Took on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1882644)
+
+This quest is a force ten beating in solo.  I'm going through my second game and there is no way I'm not going to threat out.  Easily the hardest quest of the cycle including the box.  Glaurung should be pleased. 
+
+ 
+
+Question:  Lets I have a Ranger with Winged Foot and Quick Ear.  I exhaust the ranger to quest and call enemy.  A right bad @$$ comes out.  Can I ready with Winged Foot and then exhaust for Quick Ear?
+
+## 3 [Glowwyrm on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1882780)
+
+I don't see why not, since they're both responses and you're triggering them off of the same response.
+
+## 4 [John Constantine on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1882916)
+
+Yeah, I would rule it out as "yes", because both responses happen simultaniously, and when that happens - you decide the order.
+
+## 5 [Gizlivadi on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883161)
+
+Cool idea!
+
+## 6 [gandalfDK on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883218)
+
+No not possible, I would say. You cancel the card, so it won't 'reveal' anymore, hence Wingfoot doesn't work.
+
+## 7 [GrandSpleen on November 6, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883287)
+
+They talked about this question in the most recent Cardboard of the Rings podcast too.
+
+ 
+
+Anybody remember the ruling about damage cancellation?  Caleb wrote something like you don't put a point of damage on the character, then remove it.  You just cancel it, so from a mechanics standpoint it never happened.
+
+ 
+
+Similarly, Quick Ear 'cancels' the enemy card.  You don't reveal it and then unreveal it.  Treat it like it never happened... which means no Wingfoot.
+
+Edited November 6, 2015 by GrandSpleen
+
+## 8 [soullos on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883456)
+
+I don't see why not. Choose Wingfoot first and once you've satisfied the conditions for the response, use Quick Ears response. Before Quick Ears is even on the table, Wingfoot has already been satisfied. There's no take backs. That's my opinion.
+
+ 
+
+It would be nice if we had a Stack like Magic dictating the order of things so there's less confusion about these things. Anyone tried e-mailing Caleb and Matt about this?
+
+## 9 [Bullroarer Took on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883457)
+
+So you can have either ears or feet, not both.  :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]  Or can you?
+
+ 
+
+Here are the texts on the cards:
+
+ 
+
+Wingfoot:  "Attach to a Ranger hero. Response: After attached hero commits to a quest, name enemy, location, or treachery. If a card of the named type is revealed during this quest phase, ready attached hero."
+
+ 
+
+Quick Ear:  "Response: Exhaust a Dúnedain or Ranger hero to cancel an enemy card just revealed from the encounter deck. Then, shuffle it back into the encounter deck and reveal an additional encounter card."
+
+ 
+
+ 
+
+Quick Ear does say "JUST REVEALED".  So the card does have to be revealed before you can cancel it.  Therefore, Wingfoot has a chance to respond in my opinion.
+
+Edited November 6, 2015 by Bullroarer Took
+
+## 10 [GrandSpleen on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883599)
+
+For reference, here is the ruling I was referring to earlier.  Perhaps my interpretation is reaching a bit.  Quick Ear says "cancel an enemy card" and not "cancel the effects of an enemy card" (since you're getting rid of the whole card and not just its effects), which is something I do not think we have seen before.  So, not sure how this would interact with Wingfoot, and whether the card is still considered to have been revealed or not.  But here is the ruling:
+
+ 
+
+"When a player uses a Response to cancel an effect, the result is that the canceled effect never resolves. For example, when a player uses A Test of Will to cancel the ‘when revealed’ effects of The Necromancer’s Reach, the players do not deal 1 damage to each character in play and then remove 1 damage from each character in play. Instead, no damage is dealt.
+Similarly, if you use the Response effect on Raven-winged Helm to cancel the damage just dealt to Erkenbrand after triggering his Response effect, you do not place 1 damage on Erkenbrand and then remove it. Instead, the damage is not dealt at all. In which case, his cost has not been paid and you cannot resolve his effect.
+Visually, it looks like this:
+Damage is dealt by effect ——> Response effect cancels damage dealt ——> No damage is actually dealt
+Cheers,
+Caleb"
+
+## 11 [NathanH on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1883835)
+
+I believe it has previously been ruled that Wingfoot on a Tireless Ranger Eleanor can ready her before exhausting her to cancel a treachery, so I see no reason why this case should be any different.
+
+ 
+
+The ruling on Erkenbrand is arrant nonsense and should be ignored.
+
+ 
+
+Edit: Well, perhaps I am too harsh. But we don't like the ruling and would prefer the card to be written properly (via "if damage was dealt to Erkenbrand by this effect, cancel the shadow card").
+
+Edited November 7, 2015 by NathanH
+
+## 12 [soullos on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1884033)
+
+If you trigger Wingfoot first and then Quick Ears I think it should be legal. Wingfoot has already resolved and I don't see how Quick Ears would retcon when cancelling the enemy. If that's the case, wouldn't Quick Ears retcon itself since it cancelled the response it triggered off of initially? ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 13 [Ryodu on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1884057)
+
+> I believe it has previously been ruled that Wingfoot on a Tireless Ranger Eleanor can ready her before exhausting her to cancel a treachery, so I see no reason why this case should be any different.
+> 
+>  
+> 
+> The ruling on Erkenbrand is arrant nonsense and should be ignored.
+> 
+>  
+> 
+> Edit: Well, perhaps I am too harsh. But we don't like the ruling and would prefer the card to be written properly (via "if damage was dealt to Erkenbrand by this effect, cancel the shadow card").
+
+Caleb has said before, and I can see this being the case, that a lot of times the way the card is written seems pretty straight-forward. So I can see how one could argue that the reason Erkenbrand and Raven-Winged helm wouldn't work can be found on the card without having to ask the designer for a ruling, but I could see the other side as well. It's tough trying to keep everything perfectly worded :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+Also, I knew when I first saw the Helm that it had to be too good to be true lol.
+
+## 14 [GrandSpleen on November 7, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1884138)
+
+> I believe it has previously been ruled that Wingfoot on a Tireless Ranger Eleanor can ready her before exhausting her to cancel a treachery, so I see no reason why this case should be any different.
+> 
+>  
+> 
+>  
+
+ 
+
+Eleanor cancels "when revealed" effects and Quick Ear cancels the "card."  That seems like a massive difference in wording to me.
+
+## 15 [GrandSpleen on November 17, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897121)
+
+I went ahead and submitted this question to Caleb finally.  His reply is below, followed by the question that I submitted:
+
+ 
+
+Caleb wrote:
+"When a player card, such as The Door is Closed or Quick Ears, cancels an encounter card, play should proceed as if the canceled card were never revealed. That means if you cancel a Sorcery card with The Door is Closed, Thaurdir’s ability will not trigger. It also means that if you cancel an enemy card with Quick Ears, Wingfoot cannot trigger off of that enemy. 
+
+Cheers,
+Caleb"
+
+ 
+
+My question was:
+
+"Hi, Recently there have been a couple of Lore events that cancel cards, and they have some differences in wording compared to other cards. I'm adding emphasis below: The Door is Closed says "After an encounter card is revealed from the encounter deck, cancel ITS EFFECTS..." Quick Ears says "Exhaust a Dúnedain or Ranger hero to CANCEL AN ENEMY CARD JUST REVEALED from the encounter deck..." What gets canceled with these? Quick Ears has you cancel the "enemy card." If you play Quick Ears, can you still trigger the Response on Wingfoot (which requires an enemy to have been revealed, if you chose enemy)? Same question for The Door is Closed. This might interact with a previous ruling about canceling damage that was "just dealt" (previously ruled that if damage is canceled you can't trigger a response that keys off of damage being dealt). How about in a case like this: in The Battle of Carn Dum, Thaurdir has some nasty effects if a Sorcery-traited treachery card is revealed. If you use The Door is Closed, will they still occur? Or if you have a Goblin Archer from Khazad-dum in the staging area (deal 1 damage when an enemy is revealed), but you use Quick Ears? Sorry for the many examples, but thank you very much for your help!"
+
+## 16 [Bullroarer Took on November 17, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897283)
+
+Thanks for that.
+
+ 
+
+Flavor fail on the art btw.  (Did I already say that?)
+
+## 17 [danpoage on November 17, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897341)
+
+> I went ahead and submitted this question to Caleb finally.  His reply is below, followed by the question that I submitted:
+> 
+>  
+> 
+> Caleb wrote:
+> 
+> "When a player card, such as The Door is Closed or Quick Ears, cancels an encounter card, play should proceed as if the canceled card were never revealed. That means if you cancel a Sorcery card with The Door is Closed, Thaurdir’s ability will not trigger. It also means that if you cancel an enemy card with Quick Ears, Wingfoot cannot trigger off of that enemy. 
+> 
+> Cheers,
+> 
+> Caleb"
+> 
+>  
+> 
+> My question was:
+> 
+> "Hi, Recently there have been a couple of Lore events that cancel cards, and they have some differences in wording compared to other cards. I'm adding emphasis below: The Door is Closed says "After an encounter card is revealed from the encounter deck, cancel ITS EFFECTS..." Quick Ears says "Exhaust a Dúnedain or Ranger hero to CANCEL AN ENEMY CARD JUST REVEALED from the encounter deck..." What gets canceled with these? Quick Ears has you cancel the "enemy card." If you play Quick Ears, can you still trigger the Response on Wingfoot (which requires an enemy to have been revealed, if you chose enemy)? Same question for The Door is Closed. This might interact with a previous ruling about canceling damage that was "just dealt" (previously ruled that if damage is canceled you can't trigger a response that keys off of damage being dealt). How about in a case like this: in The Battle of Carn Dum, Thaurdir has some nasty effects if a Sorcery-traited treachery card is revealed. If you use The Door is Closed, will they still occur? Or if you have a Goblin Archer from Khazad-dum in the staging area (deal 1 damage when an enemy is revealed), but you use Quick Ears? Sorry for the many examples, but thank you very much for your help!"
+
+This doesn't answer the question to my satisfaction, because both responses (Wingfoot and Quick Ears) have the same trigger. So it seems like I should be able to use the Wingfoot response to ready the hero, THEN play Quick Ears. For that matter, I should be able to respond with Wingfoot and then exhaust some other character to pay for Quick Ears (to still benefit from the enemy for purposes of Wingfoot). They are both responses to the enemy being revealed, I am just choosing to use one before the other. I understand that Quick Ears makes it so that the enemy was never revealed, but that it not relevant when resolving the Wingfoot response because it (Quick Ears) hasn't happened yet. Surely cancellation does not also perform time travel to negate a previous response which as already resolved? Response resolution in this game becomes less intuitive to me all the time. :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+ 
+
+Just to clarify, the readying from Wingfoot is not even a response - it is actually a passive that is constantly looking for an enemy to be revealed. The response on Wingfoot is the attached character committing to a quest. This then creates a passive effect which is checking for an enemy to be revealed. The FAQ states that passive effects happen before anything else (other than forced) so it definitely seems like you could wait for this passive effect to ready your Wingfoot-ed hero and then pay the cost for Quick Ears (which is itself a response). With two effects that have the same timing, the first player has always been able to choose the order - I don't see why this should be any different.
+
+Edited November 17, 2015 by danpoage
+
+## 18 [koriakin97 on November 17, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897364)
+
+But when revealed effects are also resolved before responses, so strength of will wouldn't cancel them before they happen. So it seems that cancellation does some time travel
+
+## 19 [cmabr002 on November 17, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897376)
+
+>  
+> 
+> > I went ahead and submitted this question to Caleb finally.  His reply is below, followed by the question that I submitted:
+> > 
+> >  
+> > 
+> > Caleb wrote:
+> > 
+> > "When a player card, such as The Door is Closed or Quick Ears, cancels an encounter card, play should proceed as if the canceled card were never revealed. That means if you cancel a Sorcery card with The Door is Closed, Thaurdir’s ability will not trigger. It also means that if you cancel an enemy card with Quick Ears, Wingfoot cannot trigger off of that enemy. 
+> > 
+> > Cheers,
+> > 
+> > Caleb"
+> > 
+> >  
+> > 
+> > My question was:
+> > 
+> > "Hi, Recently there have been a couple of Lore events that cancel cards, and they have some differences in wording compared to other cards. I'm adding emphasis below: The Door is Closed says "After an encounter card is revealed from the encounter deck, cancel ITS EFFECTS..." Quick Ears says "Exhaust a Dúnedain or Ranger hero to CANCEL AN ENEMY CARD JUST REVEALED from the encounter deck..." What gets canceled with these? Quick Ears has you cancel the "enemy card." If you play Quick Ears, can you still trigger the Response on Wingfoot (which requires an enemy to have been revealed, if you chose enemy)? Same question for The Door is Closed. This might interact with a previous ruling about canceling damage that was "just dealt" (previously ruled that if damage is canceled you can't trigger a response that keys off of damage being dealt). How about in a case like this: in The Battle of Carn Dum, Thaurdir has some nasty effects if a Sorcery-traited treachery card is revealed. If you use The Door is Closed, will they still occur? Or if you have a Goblin Archer from Khazad-dum in the staging area (deal 1 damage when an enemy is revealed), but you use Quick Ears? Sorry for the many examples, but thank you very much for your help!"
+> 
+>  
+> 
+> Surely cancellation does not also perform time travel to negate a previous response which as already resolved?
+> 
+>  
+
+ 
+
+I believe this is where you are misunderstanding.  It does indeed perform time travel so I don't know why it wouldn't negate any passive, forced effects, or responses that could have triggered as a result of the event if it were not cancelled.  This is consistent with other rulings, I think.
+
+ 
+
+1.  If you aren't allowed to time travel, then cancelling one point of damage that was dealt to a character would not "revive" it if were to cause the character to be defeated.  They have ruled that you in effect negate the damage as if it never happened.
+
+ 
+
+2.  If you aren't allowed to time travel, then cancelling treacheries with A Test of Will would do very little if their effect was first applied. 
+
+ 
+
+I am sure there are a number of other examples of this as well.  However, perhaps there are examples of the opposing view point (not sure).  I do think that Caleb's ruling could cause some issues though.  Say you have a card eventually that allows you to trigger an effect when a character is dealt damage.  Let's say this effect allows you to search your deck, then shuffle, and that you already knew the top 5 cards of your deck (due to Imladris or something).  Then you play Gondorian Discipline to cancel that damage.  Well now, in order to roll everything back you have to find those same 5 cards or whatever and place them back on top of your deck to negate the first card you played.  While my example is possible to revert, I am sure there are other situations that would cause you to not know how to legally resolve the circumstance.
+
+Edited November 17, 2015 by cmabr002
+
+## 20 [soullos on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897701)
+
+Time traveling? Yeah, that won't complicate things further... :rolleyes: [//content.invisioncic.com/Mfantflight/emoticons/default_rolleyes.gif] 
+
+## 21 [GrandSpleen on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897831)
+
+I don't know if time traveling, or "rolling back" the game state, is the right way to look at this... because of:
+
+ 
+
+"When a player uses a Response to cancel an effect, the result is that the canceled effect never resolves. For example, when a player uses A Test of Will to cancel the ‘when revealed’ effects of The Necromancer’s Reach, the players do not deal 1 damage to each character in play and then remove 1 damage from each character in play. Instead, no damage is dealt."
+
+## 22 [ricedwlit on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897857)
+
+So its not so much a case of time travel as it is prevention: you are aware of what will happen and, through the player card, stop it from happening.
+
+An analogy: A card ("Clumsy person") is revealed which instructs you to push a glass off of your table onto a tile floor where it will shatter. However, a player then plays a card ("Quick reflexes") that allows you to catch any falling object. Net result: no broken glass. No time travel involved -just a cancelation of the glass shattering effect.
+
+## 23 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897866)
+
+> I don't know if time traveling, or "rolling back" the game state, is the right way to look at this... because of:
+> 
+>  
+> 
+> "When a player uses a Response to cancel an effect, the result is that the canceled effect never resolves. For example, when a player uses A Test of Will to cancel the ‘when revealed’ effects of The Necromancer’s Reach, the players do not deal 1 damage to each character in play and then remove 1 damage from each character in play. Instead, no damage is dealt."
+
+ 
+
+Yes, so if you play Quick Ears, it is as if no card was revealed. But only once you play Quick Ears. I'm not seeing the problem of readying your hero with Wingfoot first, if it is indeed the same trigger.
+
+ 
+
+So people seem to be saying that if you trigger Wingfoot first then play Quick Ears, you need to go back and undo the readying of your Wingfoot hero. I love stuff like this because they allow me to come up with ridiculous scenarios. Here we go:
+
+ 
+
+You have a Ranger hero with Wingfoot and Spiders-Web ("Each time attached hero readies, deal it 1 damage.") attached to him. Then an enemy is revealed and you ready your Ranger and deal him 1 damage, which happens to kill him. You also have a lore hero with Horn of Gondor attached and currently 0 resources in his pool. So you trigger the horn and give your lore hero a resource. Since this was a nested response triggering off the Wingfoot readying, we still have not moved on from the revealing of the encounter card, so there is still an opportunity to play Quick Ears. Luckily you now have a resource to afford Quick Ears so you play it and cancel the card that was revealed. Now what? You go back in time, bring your hero back to life, and undo the Horn of Gondor resource that allowed you to play Quick Ears in the first place? This is a paradox.
+
+## 24 [GrandSpleen on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1897933)
+
+Hmm... even if we manage to come up with a solution to this Quick Ears/Wingfoot problem (maybe a convincing argument for Wingfoot having to come after Quick Ears? -- it says "if," not "when" a card is revealed) -- we'll still run into this problem later on, whenever we get a Response that keys off of cards revealing.   Is it really intended that you roll back the game state if you trigger a cancellation response after triggering other responses?
+
+ 
+
+I guess we have some already: Merry (Spirit), Gimli (ally), Strider's Path (if we're treating The Door is Closed the same way we treat Quick Ears).
+
+ 
+
+I see a couple of options.. First: play as if the game can be rolled back.  If you accept that, there are going to be weird interactions down the line.  Second: add an entry to the FAQ that explains the word "cancel," maybe reversing this ruling, maybe forcing you to use any effects that say "cancel" before you use other effects with the same trigger, maybe preventing the use of "cancel" effects if any other player or encounter Response, Passive, or Forced effects have been triggered prior to using the cancel.
+
+## 25 [DukeWellington on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898054)
+
+I actually met the guy who does copy edit for many of the cards and I tried to explain this problem with wording to him, but he didn't seem to understand. This was back when people were debating whether or not Frodo died if he was damaged by Marsh Adder and then canceled the damage. Anyway, I greatly prefer the use of hypothetical voice to create replacement effects as is done in Magic the Gathering. So the language should be something like "whenever X would happen, instead Y happens". The use of the word would indicates clearly that it is a hypothetical scenario (it never actually takes place). As a result of that use of language there is no time travel, no rolling back the game state, no question whether or not Frodo dies (he doesn't). In the case of Seastan's crazy case study the hero dies and gives the resource from Horn of Gondor only if the enemy is actually revealed, not merely hypothetically revealed. Therefore once the hero is dead there is no longer an opportunity to play quick ears. That is how I would resolve it, but that is not how FFG resolves it. (As an aside, my interpretation would explain why honor guard cannot prevent t the damage derdingle does to himself and still allow for the armor bonus, etc.)
+
+## 26 [NathanH on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898082)
+
+It seems clear that, for the ruling to make sense, it must be the case that Quick Ears must necessarily resolve before Wingfoot. But I see no point within the framework to do this. I think this is because "revealed" is doing too much work. If there was a "preparing to be revealed" step, then Quick Ears could leap in at that point. We already sort-of have this in Thalin's passive step, which I guess was early warning that the framework was too fragile.
+
+## 27 [John Constantine on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898100)
+
+Nice rule loophole, everybody.
+
+## 28 [NathanH on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898106)
+
+As DukeWellington says, another good way to word Quick Ears would begin something like "When an enemy card would be revealed from the encounter deck..."
+
+## 29 [gandalfDK on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898185)
+
+> Caleb wrote:
+> 
+> "When a player card, such as The Door is Closed or Quick Ears, cancels an encounter card, play should proceed as if the canceled card were never revealed. That means if you cancel a Sorcery card with The Door is Closed, Thaurdir’s ability will not trigger. It also means that if you cancel an enemy card with Quick Ears, Wingfoot cannot trigger off of that enemy. 
+> 
+> Cheers,
+> 
+> Caleb"
+> 
+>  
+> 
+>  
+
+Seems pretty clear to me.  ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+But, as with many things, this is a cooperative game, so if you don't like the official ruling, you are allowed to say 'stick it' and house rule differently.  :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+Edited November 18, 2015 by gandalfDK
+
+## 30 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898255)
+
+So if you cancel an enemy card with Quick Ears, then Counter-Spell cancels your event card, how many layers of time travel do you go through? It feels like an Inception-Interstellar crossover so we may need to call in Christopher Nolan on this one. 
+
+## 31 [John Constantine on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898275)
+
+I wonder why the haven't done Disrupt like in the Call of Cthulhu LCG, or Interrupt like in the Game of Thrones LCG. That would have solved all the issues.
+
+## 32 [Fingolfin Fate on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898293)
+
+> So if you cancel an enemy card with Quick Ears, then Counter-Spell cancels your event card, how many layers of time travel do you go through? It feels like an Inception-Interstellar crossover so we may need to call in Christopher Nolan on this one. 
+
+A good one. A fan here, though not so much of the latest one.
+
+## 33 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898320)
+
+I really do think it is poor wording and that cancellation cards are meant to trigger before the card being revealed does anything. Unfortunately, all the cancellation cards say after it was "just revealed" making it really strange.  A Test of Will came out in the Core set before they really had a system for wording things so we could just chock it up to saying that they didn't realize the consequences of saying "just revealed" and instead meant it to resolve before it has a chance to be revealed.   Perhaps a FAQ update is in order because based on Caleb's ruling it really seems the card is supposed to be canceled before it does anything. 
+
+ 
+
+The awkward thing is that I still see no problem with Wingfoot resolving after you cancel a treachery's When Revealed effect with A Test of Will even if we accept that A Test of Will cancels the effects of a treachery before it is revealed.  Cancelling the effects of a treachery before it reveals does not stop it from being revealed right?  It seems that it does, though if you are not allowed to trigger Wingfoot.  But we also know that it doesn't...because keywords like Doomed and Surge would still affect you even if you had cancelled the When Revealed effects and the card must be revealed for those to happen.
+
+ 
+
+I would think the resolution would be:
+
+ 
+
+1. Cancel the When Revealed effects of the treachery with A Test of Will (before it is actually revealed)
+
+2. Reveal the treachery and Wingfoot readies the attached hero since you named Treachery and its passive effect comes before any Forced effects (such as keywords)
+
+3. Apply any relevant keywords such as Doomed/Surge
+
+ 
+
+Edit: Apparently I misread Caleb's ruling.  It seems he is only referring to the entire card being cancelled and not other cancellation effects like A Test of Will.  Let me re-read some things... :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+Edited November 18, 2015 by cmabr002
+
+## 34 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898343)
+
+Another issue. The ruling also seems to equivocate the two phrases:
+
+ 
+
+The Door is Closed: "After an encounter card is revealed from the encounter deck, cancel its effects"
+
+Quick Ears: "cancel an enemy card just revealed from the encounter deck" 
+
+ 
+
+Why can I not use Wingfoot with The Door is Closed? I am only cancelling the effects of the card, not the card itself.
+
+## 35 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898357)
+
+So it seems based on Caleb's ruling the resolution of Quick Ears / The Door is Closed! is as follows (despite the text saying after it was revealed):
+
+ 
+
+1. Look at the top card before you reveal it
+
+2. Cancel the effects/card with Quick Ears / The Door is Closed! before it is actually revealed
+
+3. Never reveal it and do not trigger any such effects that would trigger off it being revealed since the card itself was discarded or shuffled back into the encounter deck
+
+ 
+
+I suppose they really just need to release something in the FAQ that indicates that cards that cancel effects should all have the text "as it is being revealed/played" or something to that effect...
+
+ 
+
+This solves the problems the ruling makes.  It also solves the second issue you mentioned, Seastan.  Since in the case of The Door is Closed! the card is not yet revealed, and you discard it before it is revealed.  Granted, all of this assumes we change the wording on Quick Ears, The Door is Closed, Minas Tirith Lampwright, and A Test of Will (among others I think).
+
+ 
+
+However, this interpretation would muddy the waters a bit with Counter-Spell.  I am not sure how that would work.
+
+ 
+
+Edit: I suppose this interpretation also causes some problems.  If you never reveal the card, then shouldn't you still have to reveal one as required by the number of players in the game...lol.  They really should let us trigger responses first.
+
+Edited November 18, 2015 by cmabr002
+
+## 36 [NathanH on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898426)
+
+I think I will recommend to my partners the following structure for "revealing" encounter cards. If the card is cancelled or killed in 1), you stop immediately. Otherwise you follow all revelant steps. Once a card reaches 2), it cannot be cancelled in its entirity, only specific effects can then be cancelled.
+
+ 
+
+1) Encounter card is looked at and moves to the "About to be revealed" zone.
+
+a) Passive effects such as Thalin are triggered.
+
+b) Forced effects are triggered (can't think of any relevant one right now).
+
+c) Responses such as Quick Ears or Frodo Baggins [TBR] are triggered.
+
+ 
+
+The card has now reached the stage of being revealed. Thus:
+
+ 
+
+2) The card is revealed.
+
+a) Keywords such as Doomed trigger.
+
+b)Passive effects such as Wingfoot's ongoing effect are resolved.
+
+c) The "When Revealed" effect triggers. Cards without such an effect implicitly have "When Revealed: Nothing". All other Forced: When an encounter card is revealed... effects trigger simultaneously.
+
+c.1) When the "When Revealed" effect is about to be resolved, this can be interrupted by cards such as Test of Will. Since only the effect, not the fact of being revealed, is being cancelled, the sequence does not stop here.
+
+d) Responses to cards being revealed trigger [e.g. Ally Gimli].
+
+ 
+
+3) The card enters the Staging Area
+
+a) Passive effects such as Ranger Spikes trigger.
+
+b) Forced effects trigger.
+
+c) Responses trigger.
+
+ 
+
+I think I will also recommend errata of The Door Is Closed to "When an encounter card is about to be revealed from the encounter deck, cancel it."
+
+Edited November 18, 2015 by NathanH
+
+## 37 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898431)
+
+I am fairly certain keywords such as Doomed/Surge should be included in your step 3 and Wingfoot's passive effect should be step 2.  They both trigger on the card being "revealed" and since Wingfoot is a passive effect it should definitely come before Forced effects like Doomed/Surge.
+
+ 
+
+The other problem is your statement about stopping if the card is killed or otherwise removed.  If this is true, then the card is removed before it is revealed and you have not satisfied the requirement that the players must "reveal" X cards during the staging step.
+
+Edited November 18, 2015 by cmabr002
+
+## 38 [NathanH on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898441)
+
+I edited the sequence as you were replying! I'm not sure where Doomed and so on live in the framework. They don't seem to be Forced effects to me. I think it's easier to resolve them first, but I don't have a strong opinion on this.
+
+ 
+
+For your second point, I recommend changing "reveal" X cards to "add X cards to the 'preparing to be revealed' zone, and resolve the sequence for them".
+
+## 39 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898456)
+
+You're right.  I was thinking of When Revealed effects being Forced effects and incorrectly applied that to keywords.  I am also not exactly sure where keywords fall in timing structure.
+
+## 40 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898516)
+
+> 2) The card is revealed.
+> 
+> a) Keywords such as Doomed trigger.
+> 
+>  
+> 
+> 3) The card enters the Staging Area
+> 
+> a) Passive effects such as Ranger Spikes trigger.
+
+ 
+
+FAQ:
+
+ 
+
+Q: If there is an unattached Ranger Spikes (HoN17) in the staging area when an enemy with the ambush keyword is revealed from the deck, what happens? A: The Ranger Spikes will attach to that enemy, preventing the players from making the engagement checks for the ambush keyword.
+
+## 41 [Bullroarer Took on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898527)
+
+A couple years ago we were promised a clarified timing sheet.  Obviously we haven't received it.  I think that as the designers started to work on it they realized it was a rat's nest and decided to handle things case by case.  This is one of the reasons I say that the core set feels rushed.
+
+## 42 [John Constantine on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898562)
+
+I wouldn't say it's rushed. It's just not far-thought-over, or something, not sure I can present a proper term. To describe it in simple words: they haven't put much thought into what might happen in the future when they were designing core set.
+
+## 43 [danpoage on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898576)
+
+>  
+> 
+> >  
+> > 
+> > > I went ahead and submitted this question to Caleb finally.  His reply is below, followed by the question that I submitted:
+> > > 
+> > >  
+> > > 
+> > > Caleb wrote:
+> > > 
+> > > "When a player card, such as The Door is Closed or Quick Ears, cancels an encounter card, play should proceed as if the canceled card were never revealed. That means if you cancel a Sorcery card with The Door is Closed, Thaurdir’s ability will not trigger. It also means that if you cancel an enemy card with Quick Ears, Wingfoot cannot trigger off of that enemy. 
+> > > 
+> > > Cheers,
+> > > 
+> > > Caleb"
+> > > 
+> > >  
+> > > 
+> > > My question was:
+> > > 
+> > > "Hi, Recently there have been a couple of Lore events that cancel cards, and they have some differences in wording compared to other cards. I'm adding emphasis below: The Door is Closed says "After an encounter card is revealed from the encounter deck, cancel ITS EFFECTS..." Quick Ears says "Exhaust a Dúnedain or Ranger hero to CANCEL AN ENEMY CARD JUST REVEALED from the encounter deck..." What gets canceled with these? Quick Ears has you cancel the "enemy card." If you play Quick Ears, can you still trigger the Response on Wingfoot (which requires an enemy to have been revealed, if you chose enemy)? Same question for The Door is Closed. This might interact with a previous ruling about canceling damage that was "just dealt" (previously ruled that if damage is canceled you can't trigger a response that keys off of damage being dealt). How about in a case like this: in The Battle of Carn Dum, Thaurdir has some nasty effects if a Sorcery-traited treachery card is revealed. If you use The Door is Closed, will they still occur? Or if you have a Goblin Archer from Khazad-dum in the staging area (deal 1 damage when an enemy is revealed), but you use Quick Ears? Sorry for the many examples, but thank you very much for your help!"
+> > 
+> >  
+> > 
+> > Surely cancellation does not also perform time travel to negate a previous response which as already resolved?
+> > 
+> >  
+> 
+>  
+> 
+> I believe this is where you are misunderstanding.  It does indeed perform time travel so I don't know why it wouldn't negate any passive, forced effects, or responses that could have triggered as a result of the event if it were not cancelled.  This is consistent with other rulings, I think.
+> 
+>  
+> 
+> 1.  If you aren't allowed to time travel, then cancelling one point of damage that was dealt to a character would not "revive" it if were to cause the character to be defeated.  They have ruled that you in effect negate the damage as if it never happened.
+> 
+>  
+> 
+> 2.  If you aren't allowed to time travel, then cancelling treacheries with A Test of Will would do very little if their effect was first applied. 
+> 
+>  
+> 
+> I am sure there are a number of other examples of this as well.  However, perhaps there are examples of the opposing view point (not sure).  I do think that Caleb's ruling could cause some issues though.  Say you have a card eventually that allows you to trigger an effect when a character is dealt damage.  Let's say this effect allows you to search your deck, then shuffle, and that you already knew the top 5 cards of your deck (due to Imladris or something).  Then you play Gondorian Discipline to cancel that damage.  Well now, in order to roll everything back you have to find those same 5 cards or whatever and place them back on top of your deck to negate the first card you played.  While my example is possible to revert, I am sure there are other situations that would cause you to not know how to legally resolve the circumstance.
+> 
+>  
+
+ 
+
+You are misunderstanding my point. There is no need for A Test of Will to "time travel" as it cancels the effect. I am not disputing that canceling an effect is treated like the effect never happened. My point was that the timing is muddled because the passive effect from Wingfoot should apply immediately (readying the hero), but that you still have a response window to play Quick Ears. If you do then choose to play Quick Ears it seems very weird that a passive effect which has already been resolved as a side effect of the original effect would also magically "unresolve" itself (e.g. you have to exhaust the hero you just readied). I understand why Caleb is ruling it this way, because in LCGs cancelation has always been absolute - but this creates a messy set of response rules. This means that Quick Ears not only cancels the revealed enemy (which is intuitive), but it also requires you to "unwind" any passive effects which also triggered from the enemy being revealed (e.g. Thalin, Ithilien Tracker, Wingfoot, etc.), which is decidedly less intuitive.
+
+ 
+
+I am not even saying that this is the wrong ruling - but it concerns me that this game seems to become vastly more complex with time. Just to be clear, game complexity is not a purely hypothetical or pedantic argument. When I tried modeling the game rules in software, I quickly realized just how complex this game is. Looked at another way, this complexity is a blessing as it all but guarantees that this game will only exist in physical form.
+
+## 44 [Gizlivadi on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898622)
+
+Dan, I think your signature is very fitting for this thread.
+
+## 45 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898756)
+
+
+
+
+Edit: Updated flowchart is found here: https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing [https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing]
+
+
+Edited November 20, 2015 by Seastan
+
+## 46 [Mndela on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898789)
+
+Where does The-One-Ring go (Black Riders -> Shadow of the Past)?, in step 4?
+
+## 47 [danpoage on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898800)
+
+Yes, The One Ring works like a combination of The Door Is Closed and Eleanor (but the card shuffles into the deck and is replaced). The Silver Rule also applies here as once you shuffle the canceled card back into the encounter deck, you skip the remaining steps of that card's resolution.
+
+ 
+
+Thanks, Seastan. This is an excellent summary of the rules around revealing encounter cards. The way that Quick Ears and The Door Is Closed interact with the rules is at the heart of my point about the game's escalating complexity.
+
+Edited November 18, 2015 by danpoage
+
+## 48 [isthar on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898829)
+
+Life would be simpler if it was well.. simplified!
+
+ 
+
+Cancelling SHOULD be what Caleb said: "behave as if it was never there in the first place".
+
+If the cards had only been of two types:
+
+ 
+
+a) Cards that just pretend you never saw the card. NO CARD CAN EVER TRIGGER ON THE CARD THAT GOT CANCELLED. The end. Easy to explain - you never ever even saw it!
+
+b) Cards that cancel clearly ONLY the When Revealed effect, and everything ELSE happens.
+
+ 
+
+Oh well.
+
+## 49 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898840)
+
+I think your structure looks good Seastan.  Here are some more keywords to keep in mind when resolving them through this structure.  I also note below, there might be a necessity to add a bit more detail to the structure (I can't believe I just said that :o [//content.invisioncic.com/Mfantflight/emoticons/default_ohmy.png]).
+
+ 
+
+1. Guarded - I think this resolves identically to Ambush in your structure.  It specifies you resolve the guarded effect when it "enters the staging area".
+
+ 
+
+2.  Hide X (This one is particularly noteworthy because I think you would still have to make the Hide test even if you ended up discarding it with The Door is Closed!).  The rules on Hide tests explicitly state that the Hide test comes before any when revealed effects or forced effects on the same card, BUT it still happens "When an encounter card is revealed".  I think there is room for debate that The Door is Closed could cancel or not cancel the Hide test as well...
+
+ 
+
+3. Prowl X - When does the actual effect of prowl happen?  If you only had 1 Lore resource, could you use it to negate the entire card with The Door is Closed!? Or would you lose that resource first.  Prowl uses the same structure as Hide "When an encounter card with Prowl X is revealed..." but unlike Hide tests, it does not explicitly state that it must come before When Revealed or Forced effects on the same card.
+
+ 
+
+4. Underworld X - Underworld X triggers when a location "enters play".  It says nothing about "when it is revealed".  I believe there was a ruling about when a card enters play during the staging step due to that enemy that makes an attack when it "enters play" in Into Ithilien.  I think we need to include in the timing structure for when something "enters play" as it seems distinctly different than "revealed" and "enters staging area".  If I recall the ruling about that enemy in Into Ithilien, I believe the enemy was considered to be "in play" before it entered the staging area.  I cannot remember if it came before or after it was "revealed".  I think it happens immediately before after your Step 1 (so that Thalin and Expecting mischief can damage it first)...but I think that makes things awkward and more complicated...
+
+ 
+
+5.  Villagers X - This follows the same structure as Underworld X.  "When it enters play".
+
+Edited November 18, 2015 by cmabr002
+
+## 50 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898851)
+
+Regarding the Underworld example.  Keep in mind that there is the card "Sewers" which has Underworld 1 and also has a When Revealed effect.  This means that if you resolve Underworld 1 before you have a chance to cancel the card with The Door is Closed, the rules on Underworld X say when a location with Underworld X leaves play then you reveal each card underneath it.  This might mean that if you indeed place the 1 card underneath Sewers when it "enters play" for Underworld, that even if you cancelled it, it would not cancel the Underworld part...and you would still have to reveal the card that was placed underneath it since it has now "left play".
+
+Edited November 18, 2015 by cmabr002
+
+## 51 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898913)
+
+The key to new/unlisted keywords is that under this guide, they would always initiate in step 2. Then they would be carried out according to the rules in the rulebook for that specific effect.
+
+ 
+
+Prowl happens "when it is revealed". It would be carried along with Wingfoot I think. I should probably rename that step.
+
+Hide also happens "when it is revealed". In accordance with the rulebook, this must resolve before Step 5 (Resolving the when revealed effects). So this is also in the Wingfoot step. 
+
+ 
+
+I feel like "enters play / enters the staging area" is the same trigger, unless you can find a ruling that separates these.
+
+## 52 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898925)
+
+After reading Underworld X and Villagers X, I think that "enters play" is meant the same way as "enters the staging area". It talks about placing cards underneath it or adding tokens to the cards, which don't make sense if the card is in some limbo state waiting to be cancelled. For that reason I don't think cancelling an underworld card would mean that you still need to reveal  and resolve X underworld cards.
+
+## 53 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898943)
+
+> After reading Underworld X and Villagers X, I think that "enters play" is meant the same way as "enters the staging area". It talks about placing cards underneath it or adding tokens to the cards, which don't make sense if the card is in some limbo state waiting to be cancelled. For that reason I don't think cancelling an underworld card would mean that you still need to reveal  and resolve X underworld cards.
+
+ 
+
+That would simplify things, but how can an enemy take damage if it is not in play?  Thalin and Expecting Mischief can damage out of play enemies under the current construct.  The fix here would be that the enemy/location is in play at some early stage, but the keywords that say "when something enters play" need to have errata that says it "enters the staging area" instead.
+
+Edited November 18, 2015 by cmabr002
+
+## 54 [sappidus on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1898946)
+
+> A Test of Will. Cancel the "When revealed" effect. In other words, ignore Step 5 of this chain. So effects in Step 1 and Step 2 are unaffected.
+
+This whole framework is awesome work, but I'm a little confused by the wording of your clarification. It implies that A Test of Will will cause Step 5 to be ignored, but that would mean the resolution of, say, the Doomed keyword would never happen. Which is not the case, as Doomed DOES resolve. Did you mean Step 6? Edited November 18, 2015 by sappidus
+
+## 55 [Seastan on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899042)
+
+>  
+> 
+> > A Test of Will. Cancel the "When revealed" effect. In other words, ignore Step 5 of this chain. So effects in Step 1 and Step 2 are unaffected.
+> 
+> This whole framework is awesome work, but I'm a little confused by the wording of your clarification. It implies that A Test of Will will cause Step 5 to be ignored, but that would mean the resolution of, say, the Doomed keyword would never happen. Which is not the case, as Doomed DOES resolve. Did you mean Step 6?
+> 
+>  
+
+ 
+
+Yeah, I've been frantically editing this thing since I posted it, occasionally forgetting to change some numbers.
+
+## 56 [cmabr002 on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899057)
+
+I found clarification on what "enters play" means and you're right.  If you look up the Ambush enemies, it says this exact thing on the card
+
+ 
+
+>  
+> 
+> Ambush (After this enemy enters play, each player makes an engagement check against it.)
+
+ 
+
+Due to this, and due to knowing when Ambush resolves based on prior rulings, we can say that an enemy necessarily enters play AFTER Thalin/Expecting Mischief.  This is odd, however, as it seems that the enemies/locations damaged/progressed by cards like Thalin/Expecting Mischief/Warden of Arnor all happen in some unspecified non in play and non out of play limbo state where enemies/locations are allowed to be defeated/explored.
+
+ 
+
+If it is in play, which we have proven it is not, it would necessarily enter play before Thalin/Expecting Mischief
+
+If it is out of play, cards cannot interact with it as per the Core set rule book.
+
+ 
+
+Therefore, it is neither in play, nor out of play.  I feel like this might have some negative ramifications and follow up questions and cause more confusion than it is worth. 
+
+ 
+
+> Quest Points: The number of progress tokens that must be placed on this location to fully explore the location and discard it from play.
+
+ 
+
+Obviously Warden of Arnor is allowed to explore a location with only 1 quest point, however it is impossible to "discard it from play" if it is not in play.  Hence, why I think locations and enemies enter a limbo state that is neither in play, nor out of play and may be explored/defeated as if they were in play.  This would be consistent with the rulings as we know, and fit the construct above.  I think it is a bit of a reach on my part to "make up" this limbo state.  But based on the current state of the game/rulings, it seems to exist, in theory.  It might be worth noting it.
+
+Edited November 18, 2015 by cmabr002
+
+## 57 [danpoage on November 18, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899067)
+
+> I found clarification on what "enters play" means and you're right.  If you look up the Ambush enemies, it says this exact thing on the card
+> 
+>  
+> 
+> >  
+> > 
+> > Ambush (After this enemy enters play, each player makes an engagement check against it.)
+> 
+>  
+> 
+> Due to this, and due to knowing when Ambush resolves based on prior rulings, we can say that an enemy necessarily enters play AFTER Thalin/Expecting Mischief.  This is odd, however, as it seems that the enemies/locations damaged/progressed by cards like Thalin/Expecting Mischief/Warden of Arnor all happen in some unspecified non in play and non out of play limbo state where enemies/locations are allowed to be defeated/explored.
+> 
+>  
+> 
+> If it is in play, which we have proven it is not, it would necessarily enter play before Thalin/Expecting Mischief
+> 
+> If it is out of play, cards cannot interact with it as per the Core set rule book.
+> 
+>  
+> 
+> Therefore, it is neither in play, nor out of play.  I feel like this might have some negative ramifications and follow up questions and cause more confusion than it is worth. 
+> 
+>  
+> 
+> > Quest Points: The number of progress tokens that must be placed on this location to fully explore the location and discard it from play.
+> 
+>  
+> 
+> Obviously Warden of Arnor is allowed to explore a location with only 1 quest point, however it is impossible to "discard it from play" if it is not in play.  Hence, why I think locations and enemies enter a limbo state that is neither in play, nor out of play and may be explored/defeated as if they were in play.
+
+Yes, this was something that I brought up to Caleb way back when he clarified the timing of Thalin's passive effect. It seems odd to me that an enemy could die before it has even entered play and that damage can be assigned to it while the card is still in "limbo". The thing that makes this especially problematic is that "Immune to player card effects" only applies while a card is in play - which implies that Thalin could effect such enemies revealed from the encounter deck since they are not technically in play while his passive effect is damaging them.
+
+ 
+
+This game is starting to accumulate some rather interesting rules cruft. It's fine once you understand the errata, and is especially benefitted by efforts like Seastan's above (which absolutely should be part of the rule back). The real challenge comes when trying to explain a particular ruling to new or more casual players. I remember when I was trying to explain to Mrs. Beorn one of the timing issues with Thalin and she looked at me like I was making the rules up. Not that I can blame her, as some of these corner cases feel almost arbitrary.
+
+## 58 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899075)
+
+So I just made a massive re-edit. I came across a ruling that pointed out the Prowl resolves before when revealed effects, meaning you couldn't use test of Will to cancel the when revealed effect if it got rid of your resource to do so. But this can't work in the case of Quick Ears, which is supposed to cancel the entire card including keywords. So despite A Test of Will and Quick Ears using the exact same wording as their trigger, we need to put Quick Ears ahead of Prowl and A Test of Will after.
+
+ 
+
+I found it easier to just go through every card and effect case by case based on official rulings rather than try to sort out the wording mess. Here is version 2.
+
+ 
+
+https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing [https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing]
+
+Edited November 20, 2015 by Seastan
+
+## 59 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899078)
+
+>  
+> 
+> >  
+> > 
+> > > 
+> > 
+> >  
+> > 
+> >  
+> > 
+> > > 
+> 
+> The thing that makes this especially problematic is that "Immune to player card effects" only applies while a card is in play - which implies that Thalin could effect such enemies revealed from the encounter deck since they are not technically in play while his passive effect is damaging them.
+
+ 
+
+This is exactly the kind of thing I was referring to when I said "It might cause more problems than it is worth", but I hadn't thought of an actual in game problem to list.  You raise a really good question with this.  Was it ever ruled on that cards like Thalin can defeat an enemy immune to player card effects?  I assume the answer, if it was ruled on was "No".  If that is the case, is it possible for us to fit this into the above guide?
+
+ 
+
+I cannot find in the rules explicitly that a location/enemy is immune to player card effects only if it is in play.  However, I believe you are carrying to ruling over from Beorn/Fortune or Fate since its text box is blank when in the discard pile.
+
+ 
+
+I think in describing interactions within the limbo state, saying "may interact with cards in this state as if they were in play" would indicate that the text of immune to player card effects would be active and as such, Thalin/Expecting Mischief/Warden of Arnor could not interact with them.  This would mean the enemy has not yet "entered play", but it is considered to be "in play", similar to how they say an enemy is considered to be "engaged", but it never actually engaged you.
+
+Edited November 18, 2015 by cmabr002
+
+## 60 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899087)
+
+Hey Seastan, with the newest edit, it makes it seem like Eleanor would negate Surge since you only list Surge in step 12.  I'm probably just reading it incorrectly.
+
+## 61 [sappidus on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899093)
+
+I presume that Warden of Arnor keeps on getting special treatment from you all due to the ruling that makes it akin to Expecting Mischief. (See https://boardgamegeek.com/article/19454378#19454378 [https://boardgamegeek.com/article/19454378#19454378] )
+
+ 
+
+But it seems to me that it's an issue if you state that a 1-quest-point location (like Tharbad Hideout or Streets of Tharbad of the BGG question) explored via Warden of Arnor doesn't enter play at all, since then you wouldn't be able to use A Watchful Peace ("Response: After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck.").
+
+ 
+
+And what about Leave No Trace in this situation? Did we really "explore" a location that never entered play? Or None Return'ing an Eastern Crows killed by a questing Thalin?
+
+## 62 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899105)
+
+An enemy is considered to be engaged (but has not engaged).  An enemy is defeated.  It is no longer considered to be engaged with you, but did not formally "disengage you".
+
+ 
+
+An enemy is considered to be in play (but has not entered play).  An enemy is defeated.  It is no longer considered to be in play, but it did not formally "leave play".
+
+ 
+
+As such, I do not think you would be be able to trigger such effects, so the theoretically, limbo state gets very complicated and for that reason, seems that we cannot include it in Seastan's guide.  We would have to get clarification from the developers. 
+
+ 
+
+Does this problem go away if they tell us that Thalin/Expecting Mischief/Warden of Arnor do not happen first?  It might be better for them to reverse that ruling if it's really this messy...
+
+## 63 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899106)
+
+> Hey Seastan, with the newest edit, it makes it seem like Eleanor would negate Surge since you only list Surge in step 12.  I'm probably just reading it incorrectly.
+
+ 
+
+Thanks, let me fix that.
+
+## 64 [sappidus on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899112)
+
+> Does this problem go away if they tell us that Thalin/Expecting Mischief/Warden of Arnor do not happen first?  It might be better for them to reverse that ruling if it's really this messy...
+
+ 
+
+It kind of seems like Sauron's revenge: what you just listed are almost all the official rulings that went the players' way for once. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 65 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899120)
+
+>  
+> 
+> > Does this problem go away if they tell us that Thalin/Expecting Mischief/Warden of Arnor do not happen first?  It might be better for them to reverse that ruling if it's really this messy...
+> 
+>  
+> 
+> It kind of seems like Sauron's revenge: what you just listed are almost all the official rulings that went the players' way for once. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+> 
+>  
+
+ 
+
+Hey! They reversed Blood of Numenor and Gondorian Fire too!  What's it matter if we lose a few more? :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 66 [soullos on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899182)
+
+I wonder if this game could've benefited from a "stack" like Magic has, where things are waiting to resolve but can be interacted with and creates an order of operations working with the newest item on the stack resolving first. So in this case an Enemy is revealed and placed on the bottom of the stack. Effects that key off an enemy being revealed, like Thalin's damage, or Wingfoot, or the enemy itself (like Angmar Orcs). Before the whole thing resolves from top to bottom, the players can now respond with card effects and responses. Quick Ears is played ontop of the stack. It resolves first, canceling the enemy. The stack checks to see "if true, resolve, otherwise, ignore" each item on the stack, and those effects that relied on the now canceled enemy is ignored. The initial trigger is no longer true.
+
+ 
+
+With Wingfoot being a player response, a player can just "stack the deck" so it resolves before Quick Ears, but at least with a Stack, we can manage and see the order of effects waiting to resolve. To me it's just clearer that way with no time traveling needed. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] But wishful thinking I guess haha. (It's not too late FFG, WotC didn't implement the stack for Magic when it was first released, it was later added in 6th Edition ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] ).
+
+Edited November 19, 2015 by soullos
+
+## 67 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899192)
+
+> I presume that Warden of Arnor keeps on getting special treatment from you all due to the ruling that makes it akin to Expecting Mischief. (See https://boardgamegeek.com/article/19454378#19454378 [https://boardgamegeek.com/article/19454378#19454378] )
+> 
+>  
+> 
+> But it seems to me that it's an issue if you state that a 1-quest-point location (like Tharbad Hideout or Streets of Tharbad of the BGG question) explored via Warden of Arnor doesn't enter play at all, since then you wouldn't be able to use A Watchful Peace ("Response: After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck.").
+> 
+>  
+> 
+> And what about Leave No Trace in this situation? Did we really "explore" a location that never entered play? Or None Return'ing an Eastern Crows killed by a questing Thalin?
+
+ 
+
+According to my (probably incorrect) guide, the card does not enter play until it enters the staging area, quite late in the chain. This means that a card can't "leave play" until this happens, and so the effects you mentioned (A Watchful Peace, Leave No Trace) couldn't trigger.
+
+## 68 [danpoage on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899204)
+
+>  
+> 
+> > I don't know if time traveling, or "rolling back" the game state, is the right way to look at this... because of:
+> > 
+> >  
+> > 
+> > "When a player uses a Response to cancel an effect, the result is that the canceled effect never resolves. For example, when a player uses A Test of Will to cancel the ‘when revealed’ effects of The Necromancer’s Reach, the players do not deal 1 damage to each character in play and then remove 1 damage from each character in play. Instead, no damage is dealt."
+> 
+>  
+> 
+> Yes, so if you play Quick Ears, it is as if no card was revealed. But only once you play Quick Ears. I'm not seeing the problem of readying your hero with Wingfoot first, if it is indeed the same trigger.
+> 
+>  
+> 
+> So people seem to be saying that if you trigger Wingfoot first then play Quick Ears, you need to go back and undo the readying of your Wingfoot hero. I love stuff like this because they allow me to come up with ridiculous scenarios. Here we go:
+> 
+>  
+> 
+> You have a Ranger hero with Wingfoot and Spiders-Web ("Each time attached hero readies, deal it 1 damage.") attached to him. Then an enemy is revealed and you ready your Ranger and deal him 1 damage, which happens to kill him. You also have a lore hero with Horn of Gondor attached and currently 0 resources in his pool. So you trigger the horn and give your lore hero a resource. Since this was a nested response triggering off the Wingfoot readying, we still have not moved on from the revealing of the encounter card, so there is still an opportunity to play Quick Ears. Luckily you now have a resource to afford Quick Ears so you play it and cancel the card that was revealed. Now what? You go back in time, bring your hero back to life, and undo the Horn of Gondor resource that allowed you to play Quick Ears in the first place? This is a paradox.
+> 
+>  
+
+ 
+
+Fantastic! Gödel would be proud, Seastan - you've just proved the incompleteness of the game. I will now formalize this.
+
+Beorn's Law:
+
+ 
+
+Any LCG with a large enough card pool to be interesting has rule loopholes which create paradoxes and break the game.
+
+## 69 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899233)
+
+> I wonder if this game could've benefited from a "stack" like Magic has, where things are waiting to resolve but can be interacted with and creates an order of operations working with the newest item on the stack resolving first. So in this case an Enemy is revealed and placed on the bottom of the stack. Effects that key off an enemy being revealed, like Thalin's damage, or Wingfoot, or the enemy itself (like Angmar Orcs). Before the whole thing resolves from top to bottom, the players can now respond with card effects and responses. Quick Ears is played ontop of the stack. It resolves first, canceling the enemy. The stack checks to see "if true, resolve, otherwise, ignore" each item on the stack, and those effects that relied on the now canceled enemy is ignored. The initial trigger is no longer true.
+> 
+>  
+> 
+> With Wingfoot being a player response, a player can just "stack the deck" so it resolves before Quick Ears, but at least with a Stack, we can manage and see the order of effects waiting to resolve. To me it's just clearer that way with no time traveling needed. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] But wishful thinking I guess haha. (It's not too late FFG, WotC didn't implement the stack for Magic when it was first released, it was later added in 6th Edition ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] ).
+
+ 
+
+And thus we would satisfy Clarke's Third Law of Card Games: "Any sufficiently advanced ruleset is indistinguishable from Magic"
+
+## 70 [NathanH on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899474)
+
+>  
+> 
+> > After reading Underworld X and Villagers X, I think that "enters play" is meant the same way as "enters the staging area". It talks about placing cards underneath it or adding tokens to the cards, which don't make sense if the card is in some limbo state waiting to be cancelled. For that reason I don't think cancelling an underworld card would mean that you still need to reveal  and resolve X underworld cards.
+> 
+>  
+> 
+> That would simplify things, but how can an enemy take damage if it is not in play?  Thalin and Expecting Mischief can damage out of play enemies under the current construct.  The fix here would be that the enemy/location is in play at some early stage, but the keywords that say "when something enters play" need to have errata that says it "enters the staging area" instead.
+> 
+>  
+
+ 
+
+This is the way I plan to think about it. Damaging enemies that are not in play doesn't appeal to me!
+
+Edited November 19, 2015 by NathanH
+
+## 71 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899654)
+
+>  
+> 
+> >  
+> > 
+> > > After reading Underworld X and Villagers X, I think that "enters play" is meant the same way as "enters the staging area". It talks about placing cards underneath it or adding tokens to the cards, which don't make sense if the card is in some limbo state waiting to be cancelled. For that reason I don't think cancelling an underworld card would mean that you still need to reveal  and resolve X underworld cards.
+> > 
+> >  
+> > 
+> > That would simplify things, but how can an enemy take damage if it is not in play?  Thalin and Expecting Mischief can damage out of play enemies under the current construct.  The fix here would be that the enemy/location is in play at some early stage, but the keywords that say "when something enters play" need to have errata that says it "enters the staging area" instead.
+> > 
+> >  
+> 
+>  
+> 
+> This is the way I plan to think about it. Damaging enemies that are not in play doesn't appeal to me!
+> 
+>  
+
+ 
+
+I like cmabr002's suggestion, so I will repeat it here. The enemy is "considered to be in play" so it can take damage, but it has not yet "entered play". This is similar to the construct we already have with engagement. An enemy cannot leave the staging area but is "considered to be engaged" with you does not "engage you" but you can still damage it with attacks.
+
+## 72 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899820)
+
+I have done a bit more research on what "defeating" and "exploring" mean to try to come to a resolution.  For the purposes of this, I am assuming that when the rulebook/player cards/encounter cards use the determ "defeated" or "destroyed" they are entirely synonymous and there is no distinguishable difference between the two terms (Please correct me if this is wrong).  I have good news and bad news!
+
+ 
+
+>  
+> 
+> Hit Points: The amount of damage required to destroy this card.
+
+>  
+> 
+> Quest Points: The number of progress tokens thatmust be placed on this location to fully explore the location and discard it from play.
+
+ 
+
+The good news...
+
+ 
+
+>  
+> 
+> P.20 Rule Book - Any time one of these cards has 0 hit points, it is immediately defeated. Defeated characters are placed in their owner’s discard pile, and defeated enemies are placed in the encounter discard pile.
+
+ 
+
+This means that the enemy can be "defeated" and placed in the discard pile.  Nothing seems to indicate the enemy must "leave play" so this works quite nicely with the "considered to be in play" framework.
+
+ 
+
+The bad news...
+
+ 
+
+I can find no such text explaining what "exploring" means without it also requiring you "discard it from play" as opposed to "place it in the discard pile".  Due to this, it seems that a location must necessarily leave play when it is explored however, I'm not sure what you do if it is not actually in play.  For the sake of consistency, it might be better to treat locations/exploring in the same way we can seemingly treat enemies/defeated (destroyed).  This would allow us to move forward with the current guide and the assumption that enemies/locations are "considered to be in play".  Again, this might be too much of a reach and this may have unintended consequences.  At best, this is a bandaid... 
+
+ 
+
+Here is an attempt at discussing how a location that is "considered to be in play" might resolve if it can have progress placed on it, it can be explored (not leave play), and then only leave play once it has formally "entered play".
+
+ 
+
+1. Location with 1 Quest Point has 1 progress placed on it "as it is revealed" by Warden of Arnor. 
+
+2. The location is considered "explored", however it cannot be "discarded from play" since it is not yet "entered play".  Effects that trigger off a location being "explored" may trigger here, however effects that trigger off a location "leaving play" may not.
+
+3. The location resolves its (currently step 4) keywords
+
+4. The location resolves its When Revealed effects
+
+5. The location formally enters play and is a) immediately discarded from play (due to having required progress), b) has Underworld X applied, c) has Villagers x applied.  Due to all these effects being passive effects, the first player can choose the order that is most beneficial.
+
+ 
+
+Or...we can just treat it like we can treat enemies and make it much simpler :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 73 [NathanH on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899930)
+
+Remind a forgetful and confused fellow: When Thalin defeats Eastern Crows, do they go to the discard pile or back into the deck?
+
+ 
+
+I seem to think they go into the discard pile, but I can't work out why they should.
+
+## 74 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1899956)
+
+> Remind a forgetful and confused fellow: When Thalin defeats Eastern Crows, do they go to the discard pile or back into the deck?
+> 
+>  
+> 
+> I seem to think they go into the discard pile, but I can't work out why they should.
+
+ 
+
+I am fairly certain Caleb said the crows goes into the deck.  With that said, I am not sure if it first goes to the discard pile and then the Eastern Crows trigger shuffling themselves into the encounter deck, or if the Eastern Crows immediately shuffles into the deck without ever going into the discard pile.
+
+ 
+
+I think what you are remembering is that Eastern Crows does not trigger Surge if is defeated by Thalin.
+
+ 
+
+Edit: Come to think of it...isn't Eastern Crows the entire reason the developers ruled that Thalin's ability damages enemies before they do stuff like Surge?  If Thalin didn't damage the Eastern Crows before Surge, you would create an infinite loop if Eastern Crows was the last card in the encounter deck.  So this card alone, is why they ruled the way they did regarding Thalin perhaps...
+
+Edited November 19, 2015 by cmabr002
+
+## 75 [NathanH on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900200)
+
+OK, that's good. Everything just about seems to work OK now.
+
+## 76 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900212)
+
+My only concern is that I still do not feel like Thalin/Warden of Arnor can affect cards that are Immune to Player Card Effects.  If we "consider them to be in play" then we should also consider the "Immune to Player Card Effects" to be active and thus immune to Thalin/Warden of Arnor.
+
+ 
+
+It's slightly different than Fortune or Fating Beorn.
+
+## 77 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900411)
+
+Trying to decide where to put "Immune to Player card effects".
+
+ 
+
+Should The Door is Closed be able to cancel Secluded Glade [http://hallofbeorn.com/Cards/Details/Secluded-Glade-HoN]?
+
+Should Quick Ears be able to cancel Morgul Wraith [http://hallofbeorn.com/Cards/Details/Morgul-Wraith-TLoS]?
+
+## 78 [gandalfDK on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900418)
+
+Immume to player cards only kicks in when a card is placed in the staging area and is thus 'active'.
+
+I would say that there thus is an option to cancel them, same for the One Ring. The text isn't active yet, because first you check etc.
+
+That is for The Door is Closed.
+
+Quick Ears, well I don't dare say anything about that.
+
+Ah what the hell, won't they just die already..
+
+## 79 [NathanH on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900443)
+
+I would feel like I was cheating if I damaged an immune-to-player-cards card with Thalin. I have no strong opinion about Frodo Baggins [TBR], The Door Is Closed, or Quick Ears.
+
+ 
+
+Edit: I feel like I would be sad if Minas Tirith Lampwright's effect wouldn't cancel an Immune to player cards card. I don't really have any good reason for this, but it would make me sad.
+
+Edited November 19, 2015 by NathanH
+
+## 80 [Seastan on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900444)
+
+> Immume to player cards only kicks in when a card is placed in the staging area and is thus 'active'.
+> 
+> I would say that there thus is an option to cancel them, same for the One Ring. The text isn't active yet, because first you check etc.
+> 
+> That is for The Door is Closed.
+> 
+> Quick Ears, well I don't dare say anything about that.
+> 
+> Ah what the hell, won't they just die already..
+
+ 
+
+Is this the consensus? Some people seem to believe that "Immune to player card effects" protects cards from Thalin, Warden of Arnor, etc.
+
+## 81 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900471)
+
+> Immume to player cards only kicks in when a card is placed in the staging area and is thus 'active'.
+
+ 
+
+Unfortunately, we don't have an answer here.  I think both interpretations are valid.  For reference the quote from the Land of Shadow rule insert about Immune to Player Card Effects says this:
+
+ 
+
+> Immune to Player Card Effects: Cards with the text “Immune to player card effects” ignore the effects of all player cards. Additionally, cards that are immune to player card effects cannot be chosen as targets of player card effects.
+
+ 
+
+We know from prior rulings (Beorn/Fortune or Fate) that the card must be "in play" in order for its immunity to be in effect.  However, if we are to assume that cards are "considered to be in play" during the staging step in order for them to take damage and have progress placed on them, we must also assume that in considering that they are in play, their game text must also be active.  I think this would also apply to those cards that say this:
+
+ 
+
+Dreary-Hills.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Dreary-Hills.png]
+
+ 
+
+If we say this card's game text is not active, then Warden of Arnor could place 1 progress here and it would not require you to discard a card.  Also, If Eastern Crows game text is not active, then why is its game text active when Thalin destroys it - Can we find confirmation of this ruling - I'm not sure if it was confirmed?  It seems that we have a precedent that the cards are somehow in play even though they never actually "entered play".  The term entered play is specific in its meaning.  It, apparently, means "entered the staging area or a players engagement area".  This is shown by the ruling that Ambush happens "when it enters play" and we've been told that ranger spikes can attach before Ambush triggers.  This means that enters play = entering the staging area (and also a players engagement area in the case that the card added to your engagement area somehow bypassed the staging step - numerous cards do this).
+
+Edited November 19, 2015 by cmabr002
+
+## 82 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900488)
+
+Here is what I found on Eastern Crows + Thalin:
+
+ 
+
+ 
+
+> booored maybe you are remembering that "discarded" and "defeated" are different (i.e., you can't trigger Landroval if Borormir uses his self-discarding action because he wasn't "defeated")
+> 
+>  
+> 
+> But official replies from Nate, along with the game manual, that "defeated" means a character leaving play as a result of damage tokens being placed on it.
+> 
+>  
+> 
+> "Defeated and destroyed both refer to a character or enemy receiving damage that reduces its hit points to zero, and then being placed in the appropriate discard pile."
+> 
+>  
+> 
+> origin thread is here: http://www.boardgamegeek.com/article/7608788#7608788 [http://www.boardgamegeek.com/article/7608788#7608788]
+> 
+>  
+> 
+> edit: if "defeated" referred only to damage from combat, Landroval couldn't save heroes who die from Treachery card effects either.
+
+ 
+
+1. Thalin damages an enemy and that damage is enough to place it in the discard pile
+
+2. The Eastern Crows is defeated and placed in the appropriate discard pile
+
+3. The Eastern Crows triggers its effect (or it does not if we argue that its game text is blank).
+
+## 83 [cmabr002 on November 19, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900503)
+
+Ignore what I had posted here....lol
+
+Edited November 19, 2015 by cmabr002
+
+## 84 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900509)
+
+Check out this thread: https://community.fantasyflightgames.com/topic/138736-thalin-forcedskeywords/ [https://community.fantasyflightgames.com/topic/138736-thalin-forcedskeywords/]
+
+## 85 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900518)
+
+Yup, I was just reading that...Apparently Thalin and when exactly various effects trigger has already been discussed.  No official ruling.
+
+ 
+
+However, I might add we overlooked Toughness as a keyword.  It seems Dont Be Hasty should be able to trigger before Toughness applies, but I also feel like Thalin should not be able to damage it before Toughness applies????
+
+## 86 [wolframius on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1900857)
+
+Hello,
+
+ 
+
+I'm a bit intimidated about posting my ruling idea as the first post ever in this forum, but here we go:
+
+ 
+
+What about giving emphasis to the word "just revealed" in Quick Ears? I know that probably the phrasing was only to clarify that you cannot cancel an enemy present in the staging area.
+
+ 
+
+But what if that "just" also pose a timing limitation? You can play the card only as the very first thing after an enemy is revealed from the enocunter deck, before any shenanigans with other responses. I know that the rules say that you can manage the order of the responses as you wish, but with this interpretation, the loophole that Seastan brought up would be break, as you have to play quick ears before anything else. If you "do stuff" in the meantime the card is not "just revealed" anymore, after all.
+
+## 87 [caelenvasius on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901027)
+
+> I wonder why the haven't done Disrupt like in the Call of Cthulhu LCG, or Interrupt like in the Game of Thrones LCG. That would have solved all the issues.
+
+ 
+
+Star Wars LCG and Game of Thrones LCG have the "Interrupt" trigger for a reason. I'm just as surprised as you are that the LotR LCG designers didn't build that into the core framework, considering the core set had A Test of Will in it...
+
+ 
+
+ 
+
+> Yup, I was just reading that...Apparently Thalin and when exactly various effects trigger has already been discussed.  No official ruling.
+> 
+>  
+> 
+> However, I might add we overlooked Toughness as a keyword.  It seems Dont Be Hasty should be able to trigger before Toughness applies, but I also feel like Thalin should not be able to damage it before Toughness applies????
+
+ 
+
+Toughness triggers when the possessing card receives damage, meaning Thalin's "free damage" triggers it. I don't see why Don't Be Hasty is relevant to the Toughness timing though...
+
+ 
+
+EDIT:
+
+...especially since an enemy possessing any value of Toughness makes it effectively immune to Thalin's single point of damage.
+
+Edited November 20, 2015 by caelenvasius
+
+## 88 [sappidus on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901037)
+
+> Toughness triggers when the possessing card receives damage, meaning Thalin's "free damage" triggers it. I don't see why Don't Be Hasty is relevant to the Toughness timing though...
+> 
+>  
+> 
+> EDIT:
+> 
+> ...especially since an enemy possessing any value of Toughness makes it effectively immune to Thalin's single point of damage.
+> 
+>  
+
+ 
+
+I think what cmabr002 is saying is akin to the following...
+
+ 
+
+Thalin is questing and spots an enemy coming. Which enemy is it? What text is on his card? Thalin doesn't care, he's super-fast! The enemy doesn't have a moment to say one damned thing, including, "Yo, Thalin, I'm Tough, you can't hurt me!" or "Yo, Thalin, I'm immune to all things player card!" So at light speed Thalin pings the guy for 1 point of damage regardless -- by the time Toughness can resolve, or immunity can be in effect, it's too late.
+
+ 
+
+This is an awkward reading, but the designers opened it up with the Eastern Crows ruling. Stupid crows!
+
+## 89 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901049)
+
+I think what caelenvasius is saying is that you could think of Toughness as a response to receiving damage that cancels X points of damage. So Toughness isn't active when Thalin goes to apply the damage, but the damage itself triggers the Toughness response...
+
+## 90 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901222)
+
+> I think what caelenvasius is saying is that you could think of Toughness as a response to receiving damage that cancels X points of damage. So Toughness isn't active when Thalin goes to apply the damage, but the damage itself triggers the Toughness response...
+
+ 
+
+Both interpretations are equally valid, in my opinion. 
+
+ 
+
+If its game text isn't active, Toughness cannot apply.
+
+ 
+
+If its game text is active, Toughness would apply.
+
+ 
+
+I think it makes more sense for cards game text to be active "as they are being revealed" since they can take damage and such...It really seems odd to me that as an enemy is being revealed its only active parts of the card are the "enemy" card type and its hit points.  I assume both these parts are active as Thalin would be unable to damage it otherwise.
+
+ 
+
+Unrelated to Toughness...I realized last night that Surge complicates the guide quite a bit.  It does not just create a passive effect in Step 4.  There are actually numerous encounter card effects that cause the card to "gain surge".  Most of these happen at the same timing as the passive effect on Wingfoot. 
+
+ 
+
+>  
+> 
+> Bolg: The first Goblin revealed each round gains surge.
+
+ 
+
+Now, theoretically, we could eventually have a card that says "After an enemy enters play, discard it from play".  So let's say we reveal a Goblin enemy (it gains Surge due to Bolg).  Now, we play that theoretical card and discard the enemy after it "enters play".  We know discarding it does not prevent Surge from triggering due to how Eleanor works. 
+
+ 
+
+Sadly...this means we have to put "Surge. A special case. Consider Surge to be initiated now but only resolve it after this card fully resolves, even if this card leaves play from an effect like Eleanor." in EACH step of our guide...which is...ugly.
+
+ 
+
+I think this mostly applies to Doomed also with Doomed applying immediately and not just at the end like Surge.
+
+Edited November 20, 2015 by cmabr002
+
+## 91 [sappidus on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901234)
+
+If you compiled all of this into one big rules query to Caleb/Matt -- say, Seastan cleaned up and finalized his guide to revealing and asked, "Does this cover it?" -- I like to imagine the response would just be a link to a new FFG press release about LotR LCG 2.0. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+ 
+
+(...please don't make them reboot...)
+
+## 92 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901256)
+
+> If you compiled all of this into one big rules query to Caleb/Matt -- say, Seastan cleaned up and finalized his guide to revealing and asked, "Does this cover it?" -- I like to imagine the response would just be a link to a new FFG press release about LotR LCG 2.0. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+> 
+>  
+> 
+> (...please don't make them reboot...)
+
+ 
+
+Maybe they are just trying to outdo the US tax law as the most complicated rule book in history :o [//content.invisioncic.com/Mfantflight/emoticons/default_ohmy.png]
+
+Edited November 20, 2015 by cmabr002
+
+## 93 [NathanH on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901269)
+
+I noticed some time ago that cards that "gain surge" or "gain doomed" as part of their When Revealed effect have apparently missed their chance to resolve these keywords. I think at the moment we can safely say "well, we know what this is supposed to mean, it doesn't cause trouble".
+
+ 
+
+Formally, I would say that if a card gains Doomed or Surge as part of some effect, after the window for resolving these keywords has passed, these keywords resolve / begin to resolve immediately after the current effect is resolved, before anything else happens.
+
+Edited November 20, 2015 by NathanH
+
+## 94 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901280)
+
+> I noticed some time ago that cards that "gain surge" or "gain doomed" as part of their When Revealed effect have apparently missed their chance to resolve these keywords. I think at the moment we can safely say "well, we know what this is supposed to mean, it doesn't cause trouble".
+> 
+>  
+> 
+> Formally, I would say that if a card gains Doomed or Surge as part of some effect, after the window for resolving these keywords has passed, these keywords resolve / begin to resolve immediately after the current effect is resolved, before anything else happens.
+
+ 
+
+I just wish they had told us Eleanor discarding the card means none of its effects can trigger even though it technically only canceled the "When Revealed" effects.  It being discarded negates any future effects the card might have had since it is now out of play...but that's not what they told us so we have this mess :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 95 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901288)
+
+The Bolg wording is similar to the Expecting Mischief wording isn't it? So it would gain surge at that step and would have the surge keyword by the time it got to the keyword step.
+
+ 
+
+But you are right, there are cards that "gain Doomed/Surge" as part of their when revealed effects. thanks for pointing that out. I think I have a solution but I might end up messing up other rulings.
+
+## 96 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901315)
+
+Yeah, you're right, it is more akin to Expecting Mischief for Bolg.
+
+## 97 [isthar on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901402)
+
+Are you guys realizing how much trouble is caused by this "but the text isn't active" thing? KISS should be applied here. Yes, text is active! Or we create all these existential questions... 
+
+ 
+
+I stand with:
+
+ 
+
+immune to player effects cards - no shenanigans. you can't interact with it.
+
+ 
+
+otherwise I'm with everyone on the flowchart... it seems to have things covered.
+
+## 98 [Fingolfin Fate on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901487)
+
+> Are you guys realizing how much trouble is caused by this "but the text isn't active" thing? KISS should be applied here. Yes, text is active! Or we create all these existential questions... 
+> 
+>  
+> 
+> I stand with:
+> 
+>  
+> 
+> immune to player effects cards - no shenanigans. you can't interact with it.
+> 
+>  
+> 
+> otherwise I'm with everyone on the flowchart... it seems to have things covered.
+
+I disagree. I know the above–mentioned problems can be painful but I enjoy deck–building for hero Beorn, finding possible combos.
+
+## 99 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901492)
+
+Ok I have edited it. Let me know what you think.
+
+## 100 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901549)
+
+I think the latest update looks pretty good.  Here are some concerns:
+
+ 
+
+1. I have sent FFG a question regarding Toughness and Eastern Crows game text being active or not because I feel it has such a major impact on how we play that we need to know the answer.  Depending on the answer, I will follow up and ask about Immune to Player Card Effects, and various other effects.  I hope the decision will be consistent.
+
+ 
+
+2. In the current guide, we do have Toughness/Peril (keywords) before Don't Be Hasty.  I assume the argument here is that Toughness/Peril are not "resolved" so Don't Be Hasty cannot activate before?  I only ask, because while currently I do not think it matters, suppose the hero you ready with Don't Be Hasty has a theoretical attachment "When this hero readies, deal 1 damage to an enemy".  This might allow you to damage the enemy, bypassing its Toughness.  My personal opinion is that Toughness/Peril do not "resolve" so Don't Be Hasty cannot trigger before it, but want to make sure such an argument has no unintended consequences.
+
+## 101 [sappidus on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901606)
+
+Although part of me thinks that perhaps we should all take a breath while cmabr002's official query is still pending, I did want to ask: we are considering "Immune to player card effects" as essentially just text on a card, as opposed to an all-encompassing ban-hammer? It does seem a little against the spirit of the idea of such immunity. Are there other times besides these very specific situations involving them being revealed where we can do anything to these cards? [EDIT: I think Seastan edited the framework while I was writing this, so I retract the question about immunity.]
+
+ 
+
+(I realize that we all like being able to Fortune or Fate hero Beorn and therefore generally accept that particular ruling.)
+
+ 
+
+Also, does Minas Tirith Lampwright really have the status of a "cancellation" effect?
+
+Edited November 20, 2015 by sappidus
+
+## 102 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901642)
+
+It is not an entire "ban-hammer" as you say.  You can Shadow of a Past a card immune to player card effects since they said we can Fortune or Fate Beorn.  I do think the cards should be immune as they are being revealed, but I think we need clarification, to be sure.  It simply comes down to both interpretations being valid with the information we have.
+
+ 
+
+Minas Tirith Lampwright does not use the word cancellation, but it does say "discard it without resolving its effects".  So yeah, not sure what to make of it.
+
+## 103 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901658)
+
+> I think the latest update looks pretty good.  Here are some concerns:
+> 
+>  
+> 
+> 1. I have sent FFG a question regarding Toughness and Eastern Crows game text being active or not because I feel it has such a major impact on how we play that we need to know the answer.  Depending on the answer, I will follow up and ask about Immune to Player Card Effects, and various other effects.  I hope the decision will be consistent.
+> 
+>  
+> 
+> 2. In the current guide, we do have Toughness/Peril (keywords) before Don't Be Hasty.  I assume the argument here is that Toughness/Peril are not "resolved" so Don't Be Hasty cannot activate before?  I only ask, because while currently I do not think it matters, suppose the hero you ready with Don't Be Hasty has a theoretical attachment "When this hero readies, deal 1 damage to an enemy".  This might allow you to damage the enemy, bypassing its Toughness.  My personal opinion is that Toughness/Peril do not "resolve" so Don't Be Hasty cannot trigger before it, but want to make sure such an argument has no unintended consequences.
+
+ 
+
+Thanks for submitting the question. I sent Caleb 20 or so questions but I have a feeling I overwhelmed him  :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+ 
+
+As for #2, I agree. Immunity, Peril, and Toughness are not keywords that "Resolve"
+
+## 104 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901663)
+
+Right now, both Step 2 and Step 4 descriptions are similar.  It seems they both mention "the card is now considered to be in play".  I think you intended to delete that from step 4 since you recently added it to Step 2.
+
+Edited November 20, 2015 by cmabr002
+
+## 105 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901681)
+
+Just to note, if cards with "immune to player card effects" are not immune to player card effects during staging, it completely trivializes Fog on the Barrow-downs.  For that reason alone, I feel the cards with "immune to player card effects" must be immune as they are being staged.  All you have to do is include 3 copies of Warden of Arnor in your deck and you obliterate that quest...that feels really really wrong.
+
+Edited November 20, 2015 by cmabr002
+
+## 106 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901691)
+
+> Just to note, if cards with "immune to player card effects" are not immune to player card effects during staging, it completely trivializes Fog on the Barrow-downs.  For that reason alone, I feel the cards with "immune to player card effects" must be immune as they are being staged.  All you have to do is include 3 copies of Warden of Arnor in your deck and you obliterate that quest...that feels really really wrong.
+
+ 
+
+This is a strong argument. Currently I do have Immunity preventing progress.
+
+## 107 [Seastan on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901694)
+
+Bookmarkable link: https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing [https://docs.google.com/document/d/18Z-F6r0f2aIlEF8QTuVgHuGQYKsObkxyGwwM4_W978Y/edit?usp=sharing]
+
+## 108 [cmabr002 on November 20, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1901787)
+
+I like this google docs.  Now I don't have to pester you for minor things :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 109 [caelenvasius on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902679)
+
+>  
+> 
+> > I think what caelenvasius is saying is that you could think of Toughness as a response to receiving damage that cancels X points of damage. So Toughness isn't active when Thalin goes to apply the damage, but the damage itself triggers the Toughness response...
+> 
+>  
+> 
+> Both interpretations are equally valid, in my opinion. 
+> 
+>  
+> 
+> If its game text isn't active, Toughness cannot apply.
+> 
+>  
+> 
+> If its game text is active, Toughness would apply.
+> 
+>  
+> 
+> I think it makes more sense for cards game text to be active "as they are being revealed" since they can take damage and such...It really seems odd to me that as an enemy is being revealed its only active parts of the card are the "enemy" card type and its hit points.  I assume both these parts are active as Thalin would be unable to damage it otherwise.
+> 
+>  
+
+To my knowledge, only cards face down in the deck, in the discard pile, and "out of play" have blank text. As soon as a card is revealed, looked at, or put into play, it's text is active.
+
+If "looked at" cards were blank, Murder at the Prancing Pony's "Taken By Surprise" would never trigger.
+
+If cards in that odd interim state between "revealed" and "in play" (which is when "when revealed" effects happen) no cards with "when revealed" effects would ever trigger, since their box is blank.
+
+ 
+
+> In the current guide, we do have Toughness/Peril (keywords) before Don't Be Hasty.  I assume the argument here is that Toughness/Peril are not "resolved" so Don't Be Hasty cannot activate before?
+
+ 
+
+The full rules text classifies "Peril" as a keyword, with a trigger of "when revealed" and a resolution of "the player must resolve the staging of the card [i.e. the remainder of the card's abilities and text] on his own without conferring with the other players. The other players cannot take any actions or trigger any responses during the resolution of that card's staging." (italics mine) This allows Don't Be Hasty! to trigger it's "interrupt" before Peril resolves and isolates the revealing player.
+
+ 
+
+The full rules text for Toughness is ever so slightly more ambiguous, but it works like this: it's a keyword, same as the rest, which triggers "each time it is assigned any amount of damage." It's resolution is "reduce the amount of damage it takes by X" where X is the value of Toughness. Basically, it should read "When this enemy receives any amount of damage, reduce the damage by X." So, assuming the card text is active when the enemy is revealed from the deck (protip: it is), committed!Thalin deals 1 damage to it. This triggers Toughness, which reduces the damage by X; since Toughness is always ≥1, Thalin's 1 point of damage is negated.
+
+## 110 [cmabr002 on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902700)
+
+>  
+> 
+> >  
+> 
+>  
+> 
+> > In the current guide, we do have Toughness/Peril (keywords) before Don't Be Hasty.  I assume the argument here is that Toughness/Peril are not "resolved" so Don't Be Hasty cannot activate before?
+> 
+>  
+> 
+> The full rules text classifies "Peril" as a keyword, with a trigger of "when revealed" and a resolution of "the player must resolve the staging of the card [i.e. the remainder of the card's abilities and text] on his own without conferring with the other players. The other players cannot take any actions or trigger any responses during the resolution of that card's staging." (italics mine) This allows Don't Be Hasty! to trigger it's "interrupt" before Peril resolves and isolates the revealing player.
+> 
+>  
+> 
+> The full rules text for Toughness is ever so slightly more ambiguous, but it works like this: it's a keyword, same as the rest, which triggers "each time it is assigned any amount of damage." It's resolution is "reduce the amount of damage it takes by X" where X is the value of Toughness. Basically, it should read "When this enemy receives any amount of damage, reduce the damage by X." So, assuming the card text is active when the enemy is revealed from the deck (protip: it is), committed!Thalin deals 1 damage to it. This triggers Toughness, which reduces the damage by X; since Toughness is always ≥1, Thalin's 1 point of damage is negated.
+> 
+>  
+
+ 
+
+I think you're right regarding Peril.  I think it definitely resolves.  However, for the sake of trying to come up with the correct interpretation, there is one small difference between Peril and the other keywords like Doomed, Prowl, and Hide.  Peril uses the present tense of reveal while all three of the others use the past tense.  While this may not mean anything, it could mean that Peril comes before the other three immediate keywords in our guide. And if it does, it means it has to push Don't Be Hasty forward too in order to trigger before Peril resolves.
+
+ 
+
+I'm more inclined to believe that the different usage of the word "reveals" versus "revealed" is irrelevant and we should put it with the other keywords.
+
+I agree with Toughness.
+
+Edited November 21, 2015 by cmabr002
+
+## 111 [Mndela on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902704)
+
+My doubt still is: Can Door is close cancel Foe Beyond? Seems so in the seastan's doc. Isnt?
+
+ 
+
+Foe Beyond is a treachery from Flight from Moria, it says: 'this effect cannot be canceled'
+
+ 
+
+A-Foe-Beyond.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/A-Foe-Beyond.png]
+
+ 
+
+The-Door-is-Closed.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/The-Door-is-Closed.jpg]
+
+Edited November 21, 2015 by Mndela
+
+## 112 [cmabr002 on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902717)
+
+That's a good point Mndela...that's pretty awkward.
+
+ 
+
+I think if we take A Test of Will for example, it actually works pretty similarly.  We have been told that A Test of Will cancels the "When Revealed" effects of a treachery as if it never happened.  By that logic, A Test of Will should be able to cancel Foe Beyond too, right? 
+
+I think Foe Beyond, incorrectly has the text "This effect cannot be cancelled" within the "When Revealed" effect, and it should actually be a passive ability.  I'm not really sure, though.
+
+## 113 [sappidus on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902720)
+
+I'm not sure how we square away that Thalin can trigger before Surge (in the case of Eastern Crows) but after Toughness without assuming one of the following:
+
+1. Time travel, with Toughness triggering on damage that has already been dealt -- and I thought the whole original point of all this was to avoid time travel -- or
+
+2. "Toughness" isn't really a keyword, but really something like a passive effect like "Immune to player card effects". This is what Seastan's framework currently espouses.
+
+Although perhaps I'm a little hazy on the distinctions between dealing and assigning and placing damage... Or a lot hazy. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 114 [Seastan on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902742)
+
+I can add in a line in step 2 that says to check the "When revealed" effects for the phrase "cannot be cancelled", and if so treat it as Immune to player card effects...
+
+## 115 [cmabr002 on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902745)
+
+> I'm not sure how we square away that Thalin can trigger before Surge (in the case of Eastern Crows) but after Toughness without assuming one of the following:
+> 
+> 1. Time travel, with Toughness triggering on damage that has already been dealt -- and I thought the whole original point of all this was to avoid time travel -- or
+> 
+> 2. "Toughness" isn't really a keyword, but really something like a passive effect like "Immune to player card effects". This is what Seastan's framework currently espouses.
+> 
+> Although perhaps I'm a little hazy on the distinctions between dealing and assigning and placing damage... Or a lot hazy. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+Keywords have no single operating structure.  They all operate differently and how they operate is based on the definition of that particular keyword.  In the case of Toughness, there is no formal "activation", it just is a passive effect that whenever it is assigned damage (this is before the damage is placed on the card) it reduces that amount by X.  So if we assume the card text on it is active, then its Toughness is allowed to be active and assigned damage should be reduced accordingly.
+
+ 
+
+The main difference between Toughness and other keywords is that no where in the definition of Toughness does it say "When this card is revealed" or "When this card enters play".
+
+## 116 [cmabr002 on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902747)
+
+> I can add in a line in step 2 that says to check the "When revealed" effects for the phrase "cannot be cancelled", and if so treat it as Immune to player card effects...
+
+ 
+
+Seems ridiculous, but sadly necessary.  I think it is clearly the intent of the designers that if the card effect says it cannot be cancelled (even if it is within the When Revealed effect text) then it cannot be cancelled...
+
+## 117 [NathanH on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902750)
+
+Perhaps the card can be cancelled, but the When Revealed effect remains floating around, a forlorn phantom haunting us from beyond the grave (or Discard Pile)  :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]  :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 118 [caelenvasius on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902756)
+
+For A Foe Beyond vs. cancelation cards, it seems to me that because the card text is active (since it has been revealed), but hasn't been triggered yet, text that states that the effect cannot be canceled (as is the case in A Foe Beyond) quite simply cannot be canceled by cards that state "cancel the effect," such as The Door is Closed and A Test of Will. Even Frodo [TBR] can't stop it, since the text on Frodo states "cancel the effects."
+
+Edited November 21, 2015 by caelenvasius
+
+## 119 [caelenvasius on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902761)
+
+Sorry for double post. This one responds to posts made while I was posting the prior one...just like this thread is discussing, it's all a big timing issue!
+ 
+
+> I'm not sure how we square away that Thalin can trigger before Surge (in the case of Eastern Crows) but after Toughness without assuming one of the following:
+> 
+> 1. Time travel, with Toughness triggering on damage that has already been dealt -- and I thought the whole original point of all this was to avoid time travel -- or
+> 2. "Toughness" isn't really a keyword, but really something like a passive effect like "Immune to player card effects". This is what Seastan's framework currently espouses.
+> 
+> Although perhaps I'm a little hazy on the distinctions between dealing and assigning and placing damage... Or a lot hazy. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+Toughness does not trigger when the card is revealed, which makes it unlike Surge, Doomed, and Peril. Instead, it triggers when that card receives damage, as stated in the expanded text. It doesn't time travel, and it technically isn't a passive ability either since it has a trigger (though because it isn't Forced/Reaction/etc. it necessarily slots into the "passive" section of the timing window). In all honesty, Toughness shouldn't even be on Seastan's framework, since its trigger is not dependent on when it is revealed, merely that the card text is active (meaning that the card is not in the discard pile, encounter deck, or out of play--please note that "in the victory display" is not "out of play"). Seastan has placed Toughness in his framework simply to elucidate that it is capable of triggering at that point.
+ 
+
+> I can add in a line in step 2 that says to check the "When revealed" effects for the phrase "cannot be cancelled", and if so treat it as Immune to player card effects...
+
+This is an oddment that seems to necessitate more thought. FrodoTBR, The Door is Closed, and A Test of Will state "cancel the effects", which A Foe Beyond expressly forbids. However, Quick Ears and Minas Tirith Lamplight do not cancel the effects of a card, they cancel the card itself, thus bypassing the text on A Foe Beyond.
+
+ 
+
+Ugh...
+
+Edited November 21, 2015 by caelenvasius
+
+## 120 [sappidus on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1902792)
+
+Seastan, don't forget that Surge stacks. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] (As written, step 13 makes it sound like Surge doesn't stack.)
+
+Edited November 21, 2015 by sappidus
+
+## 121 [DukeWellington on November 21, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903058)
+
+How is toughness not a passive ability?
+
+## 122 [caelenvasius on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903326)
+
+> Toughness does not trigger when the card is revealed, which makes it unlike Surge, Doomed, and Peril. Instead, it triggers when that card receives damage, as stated in the expanded text. It doesn't time travel, and it technically isn't a passive ability either since it has a trigger (though because it isn't Forced/Reaction/etc. it necessarily slots into the "passive" section of the timing window).
+
+
+
+It is a keyword, as defined in the full rules text, which has a specific trigger also outlined in the full rules text, and it has a resolution defined in the full rules text. This by definition makes it not a passive ability, since passive abilities lack triggers.
+
+ 
+
+For example, "immune to player card effects" is not dependent on a card targeting it to activate. Beregond's cost lowering ability is not dependent on an armor or weapon card being played on him. Repeat ad nauseam for all cards with passive abilities.
+
+ 
+
+The true definition of the Toughness keyword is irrelevant to this thread though. If it were a passive ability, it would "turn on" as soon as the card text became active. If it were a keyword, it would also "turn on" as soon as the card text became active, though its effects don't resolve until they are triggered. As I stated later in the above-quoted post, Toughness is in the framework simply because at Step 2 it is capable of being triggered.
+
+ 
+
+I suggest for future posts we stick to relevant things.
+
+Edited November 22, 2015 by caelenvasius
+
+## 123 [DukeWellington on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903347)
+
+You are brutally, epically wrong and the prospect of explaining why already exhausts me because I know you will fruitless argue the point for no reason and with no gain. I can probably list 10 passive abilities that have triggers. By your logic the you could argue that attack and defense statistics on characters are "triggered" abilities (I say this because toughness is very similar to defense). By your logic you can describe "immune to player card effects" as a cancelation effect that triggers whenever you try to use player card effects. Thus, that is not technically a passive ability either.
+
+Edited November 22, 2015 by DukeWellington
+
+## 124 [caelenvasius on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903370)
+
+Printed Cost, printed sphere, printed card type, Willpower, Attack, Defense, and Health are all statistics, which are referenced by framework effects. They are not passive abilities, and they are certainly not triggered abilities.
+ 
+
+--------------------------------------------------
+ 
+
+> By your logic you can describe "immune to player card effects" as a cancelation effect that triggers whenever you try to use player card effects. Thus, that is not technically a passive ability either.
+
+ 
+
+> [...] passive abilities lack triggers.
+>  
+> For example, "immune to player card effects" is not dependent on a card targeting it to activate.
+
+ 
+
+I'm not sure how you can reconcile these two quotes. It's like you didn't actually read what I posted. If a card with an "immune to player cards" ability is in play (i.e. not i the encounter deck, discard pile, or "out-of-play"), the ability is on. It certainly does not "trigger" when a player card is played. As per FAQ §1.47, that card does not "cancel the effects" of player cards, it merely ignores them entirely. Additionally, card effects that ask for a target (ex. core set Gandalf's Response) may not target those cards. It is important to note that placing progress tokens on an active location via questing successfully, traveling to a new active location as normal during the Travel Phase, engaging the enemy as normal during the Engagement Phase, and standard attacks made during the Combat Phase (as well as those prompted by an encounter or quest card effect) are not "card effects," they are "framework effects," and thus are not affected by "immune to player card effect" abilities.
+
+ 
+
+--------------------------------------------------
+
+Toughness is unlike Defense, and here's why: When you attack, you compare the attacker's Attack value to the defender's Defense value, the positive difference of which is dealt as damage. Simply put, Defense is not "damage reduction," it is a comparative statistic. Toughness is instead damage reduction, in that whenever a card with Toughness receives damage, regardless of the source, the incoming damage is reduced by its Toughness value. Ranger Bow actions, Poisoned Stakes, Forest Patrol, core set Gandalf response, Anborn (Ld) response, Beechbone Response, Descendant of Thorondor Response, Beorning Beekeeper Response, Dwarrodelf Axe Response, hero Boromir's second action (the discard one), Farmer Maggot's Response, Expecting Mischief, Firefoot's "excess damage" Response, Fresh Tracks, etc...none of these are immune to the damage reduction capabilities of the toughness keyword. None of these can get around it. Thalin cannot either.
+
+ 
+
+--------------------------------------------------
+
+ 
+
+If you want to debate further, be my guest.
+
+Edited November 22, 2015 by caelenvasius
+
+## 125 [NathanH on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903421)
+
+Local Trouble [Heirs of Numenor] is a good example of a passive ability with a "trigger".
+
+## 126 [DukeWellington on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903472)
+
+Caelenvasius. You are a typical intellectual bully. There are people on these forums, like GrandSpleen, who have been doing these discussions in depth for months, if not years. They have demonstrated far more knowledge, consistently, than anything I have seen from you. I saw you first comment here like a day ago. All of a sudden you are flooding the forums with long posts that come across as arrogant, condescending, and self important, but not smart. People like you win debates by focusing on minute and largely irrelevant details and by drawing distinctions without and significant difference, then mock and belittle others for not noticing the same small aspect. Yet, often, these small details are merely arbitrary descriptive strategies that mean very little. I shall answer your questions in the most complete and destructive way I can because I want you to either develop some humility or stop posting on these forums.
+
+Here we go. According to the philosopher William James the meaning of a word or phrase is significant only in its practical use. If two words end up with the same practical use then the two words really mean the same thing. It is interesting to note, for instance, that when the words "and" and "but" are transcribed using symbols from symbolic logic the words are represented by the same symbol because in logical mechanisms the two words offer no difference in their practical use.
+
+Let's apply that to our discussion here. I stated that the phrase "immune to player card effects" can be described as a triggered ability, using the same logic you employed to call toughness a triggered ability. I never said that it IS described that way, but merely that it CAN BE (it is like you didn't bother to read what I said). You did not refute this point, nor, honestly, appear to understand it. My point was that the designation of toughness as a passive ability or not a passive ability was entire arbitrary. It was not a logically necessary conclusion based on whether or not the ability included a trigger.
+
+You said, "I'm not sure how you can reconcile these two quotes," referring to a claim you made and a claim I made. I am not sure why reconciling those two quotes is my job. It seemed abundantly clear according to standard communication techniques that the expressed purpose of my claim was to contradict your claim. By the very nature of my attempt to contradict you it would seem that I would want to put forth a statement that could not be reconciled with your statement as it would, you know, contradict it. But nevertheless let me attempt to do something similar to what I think you meant to say.
+
+I think you meant to say that my thesis was already refuted by your comment, and since I had failed to address what you had said the burden of proof was still on me. Okay, so what is your point? It seems that you are saying that "immune to player card effects" is passive because it is always there. It doesn't just pop up when triggered. For the life of me, I have no clue how you think that this is any kind of valid argument. In what sense does toughness "go away" when it is not being triggered? How exactly is immunity more present than toughness? Honestly, it is just bizarre.
+
+You attempt to refute my point by saying that immunity does not "cancel" player card effects; it "ignores" them. Wow, zing. Because there is a noticeable difference between cancel and ignore?? Even if it does ignore the effects, isn't the act of ignoring triggered?
+
+You said, "it certainly does not 'trigger' when a player card is played." This is an error on several levels. First, of course immunity triggers when a player card is played. How is it not? If it wasn't triggered then the player card would work. Second, I never said it triggered of a player card anyway; I specifically said it triggered off player card effects, canceling them. All you did was assert that I was wrong, but asserting something doesn't make it true, even when done condescendingly. This point is made very clear by your own reasoning in the following section.
+
+You go on to explain how toughness works in contrast to defense (as though I don't already know). You make it very clear that all damage is reduced by toughness. Oh, so you mean it is on all the time? So, you mean it certainly doesn't "trigger" when a player card is played? Yeah, I know. That was my point.
+
+If you wish to debate further I would love to teach you more about basic rules of logic and argumentation, even if it is with a person who claims to know better.
+
+## 127 [cmabr002 on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903572)
+
+For reference, I'm quoting Toughness (from The Road Darkens rule sheet).
+
+ 
+
+>  
+> 
+> Toughness is a new keyword in The Road Darkens Saga Expansion. An enemy with the toughness keyword reduces the amount of damage it takes by X each time it is assigned any amount of damage.
+
+ 
+
+Nazgul of Minas Morgul [http://hallofbeorn.com/Cards/Details/Nazgul-of-Minas-Morgul-TMV] - This is the closest card I can find to Toughness that is also a passive ability that "triggers" if you will.
+
+ 
+
+>  
+> 
+> Reduce any amount of damage dealt to Nazgul of Minas Morgul to 1.
+
+ 
+
+Nazgul of Minas Morgul has a passive effect and while it is similar to Toughness it does have a slightly different wording.
+
+ 
+
+Rescue Iarion [http://hallofbeorn.com/Cards/Details/Rescue-Iarion-TLR] - This card's When Revealed effect creates a passive effect that has a trigger.
+
+ 
+
+>  
+> 
+> When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him.
+
+ 
+
+ 
+
+I think the confusion here is that Passive, Forced, Response, and Action all have in-game definitions.  Any definition of these words that the English language permits are irrelevant for the purposes of this game.  Simply put, a passive effect is one in which the text has no preceding defining text, a Forced effect is one in which the card has the "Forced:" text preceding its effect, a Response is an effect in which the card has the "Response:" text preceding its effect, and an Action is an effect in which the card has the "Action:" text preceding its effect.
+
+ 
+
+Unfortunately, the rules on Toughness do not explicitly tell us what kind of effect it is.  In my opinion, it must be passive effect since the definition excludes any use of the text "Forced:, Response:, or Action:".
+
+ 
+
+Edit: Where it gets confusing, is that we know from prior rulings is that Actions:, Responses, and other various card effects can initiate passive effects (such as Expecting Mischief).
+
+Edited November 22, 2015 by cmabr002
+
+## 128 [caelenvasius on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903603)
+
+> Caelenvasius. You are a typical intellectual bully. [...] [you] mock and belittle others [...] I want you to either develop some humility or stop posting on these forums.
+> 
+>  
+> 
+> [...]
+> 
+>  
+> 
+> I would love to teach you more about basic rules of logic and argumentation, even if it is with a person who claims to know better.
+
+Not once in my refutation did I personally attack you, only your statements (which need I remind you is valid in the debate field). I would however ask that you kindly refrain from character assassinations in the future. Such comments are unkind and unnecessary, especially considering that they do not further the purpose and goals of this thread. I have not once in this thread, or indeed this board, mocked or belittled anyone. Everyone is treated with respect and neutrality until such time as they prove that they don't deserve it (at which point, instead of indulging myself, I ignore them, removing the problem before it becomes as such). Arguing with folk in a place of debate is not intrinsically disrespectful and it is most certainly not akin to bullying. It is instead for the sake of furthering concepts and the goals of this thread to establish a cleaner and more reliable framework.
+
+ 
+
+I will agree that humility is not one of my strong points, in personal interactions or in online ones. I feel strongly about what I know, and I wish to share it with those around me, especially when their goals align with mine. I'm not so stubborn as to believe myself infallible (for example, my play group had been playing the Guarded keyword a bit incorrectly for sometime), but I'm not changing my opinions and statements based on incomplete or ill-stated comments, or assumptions based on false understandings. And indeed it is irksome when I spend a great amount of my free time to add to the topic, even to the point of taking a concept down to its very base level and someone like yourself refuses to see it as valid (remembering that validity and correctness are not synonymous) and instead of trying to advance the debate, descend to personal attacks and mockery.
+
+ 
+
+> I never said that it IS described that way, but merely that it CAN BE (it is like you didn't bother to read what I said).
+
+You ascribed that capability to my logic in the prior posts. That is was I was refuting; I have never described immunity as a triggered ability, and have always kept the delineation between triggered and passive abilities clear and distinct. Saying that somehow I confused my own reasoning, when I clearly have not, is asinine and untrue.
+
+ 
+
+> My point was that the designation of toughness as a passive ability or not a passive ability was entire arbitrary. It was not a logically necessary conclusion based on whether or not the ability included a trigger.
+
+Except that it's very much not arbitrary in the slightest. By definition, a triggered ability cannot be passive. It needs must be active all the time (if inactive then the trigger and its resolution effectively cease to exist) but that in and of itself does not make it passive. By the same token, a passive ability by its definition must not have a trigger. It must be constant from the time the text is active until such time as the text is inactive.
+
+ 
+
+To this end, by its very text, "immune to player card effects" must be passive. The text does not say "when a player card effect targets or would otherwise effect this card, ignore it." This would make it a triggered ability. Instead, it simply constantly ignores player card effects, despite the existence or non-existence of relevant player card abilities.
+
+ 
+
+And yes, I again used "ignore" instead of "cancel." Why? It's more than just how the developers have written it in the FAQ; "cancel the effect" and "ignore the effect" are completely separate things. In the former, the effect is treated as if it never happened (thus canceling it for all possible targets in the case of a board-wide effect). In the latter, the effect simply doesn't exist for that one card (thus not preventing it from affecting other potential targets in the case of a board-wide effect).
+
+ 
+
+Let's take for example the passive ability of the Lore hero Pippin, which states: "Each enemy in play gets +1 engagement cost for each Hobbit hero you control." Let's say Pippin's controller also controls the heroes Merry and Sam. There are three enemies in play, one of which is immune to player card effects. If immunity was a "cancel" effect, for as long as that enemy remained in play, the other two enemies would not increase their engagement cost, since canceling Pippin's ability means it [temporarily] ceases to exist. As immunity is "ignore" instead, the other two enemies increase their engagement cost by three as per Pippin's ability, but the immune enemy does not.
+
+ 
+
+I hope this clears up my point about cancel vs ignore.
+
+ 
+
+> You said, "I'm not sure how you can reconcile these two quotes," referring to a claim you made and a claim I made. I am not sure why reconciling those two quotes is my job. [...] that I would want to put forth a statement that could not be reconciled with your statement as it would, you know, contradict it.
+
+By making a claim to one thing, when evidence had long clearly shown another, they are not reconcilable. [Need I remind you that "reconcilable" does not mean "in agreement," as you seem to think, but rather "capable of being compatible," as in "the refutation is relevant to the refuted statement?"] The burden of proof of why your statement is meaningful thus falls on you. If I very clearly state in post 122 [https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/page-7#entry1903326] that ""immune to player card effects" is not dependent on a card targeting it to activate," and you try to state that I wrote something else entirely ("By your logic you can describe "immune to player card effects" as a cancelation [sic.] effect that triggers whenever you try to use player card effects."), you're either grossly misreading/misunderstanding, or you're making an improper conflation.
+
+ 
+
+Either way, the burden of proof falls on you. How does "immunity text does not require player card effects to be active" mean the same thing as "immunity text triggers when a player uses a player card effect?"
+
+ 
+
+> In what sense does toughness "go away" when it is not being triggered?
+
+It does not, nor does any other ability "go away"—at least until the card is out of play, at which point the card's text box is for all intents and purposes blank (or in the rare case that a card effect instructs you to treat the text box as if it were blank). It merely waits active but unresolved until triggered, like all other triggered abilities. In the case of Toughness, the trigger being "the card with Toughness receiving damage."
+
+ 
+
+> How exactly is immunity more present than toughness?
+
+Passive abilities are by their nature more emanant than triggered abilities, since the former does not require the fulfillment of a prerequisite to resolve and continues to be active for the duration of the effect. Only when the prerequisite effect has occurred does a triggered ability become present, at least as far as its game effects are concerned, and once it is finished resolving it returns to inactivity. Once more, the distinction lies clearly within the nature of "triggered ability" itself.
+
+ 
+
+One may think of it like this: any ability has two separate but related binary switches as components. The first one, labeled "card text is active," must be on for the second switch, labeled "card text is resolving" to also be on. Should the first switch turn off, the second one defaults to off as well. For passive abilities, images that the switches have a bar that connects them, such that they turn on or off simultaneously: as long as the card is active, the ability is resolving. Should the card become inactive, so does the ability. Triggered abilities lack that bar, and have additional levels of complexity: the second switch does not turn on automatically, but instead must be manually flipped (by fulfilling the prerequisite trigger). Then, once the switch has finished cycling, it defaults back to off.
+
+ 
+
+Now, imagine that these switches control the flow of power to a light source, one that is labeled "presence" (to borrow your word). Both switches must be on for the light to receive power. For the passive set of switches, it's easy for it to be "on" since all that it requires is the first switch to be flipped. The triggered light is on far less often than the passive one though, for not only must both switches be flipped separately, but the second one must be continuously re-flipped for the light to be on. Thus, the passive light is more emanant (or present) than the triggered one.
+
+ 
+
+> You make it very clear that all damage is reduced by toughness. Oh, so you mean it is on all the time? So, you mean it certainly doesn't "trigger" when a player card is played?
+
+First of all, Toughness does not trigger upon the playing of a player card. I'll forgive you for that one, since you spent the few paragraphs prior discussing immunities. Moving on...
+
+ 
+
+To reference my "switch" example above, Toughness as a keyword is active while it is in play (i.e. the first switch), but is not triggered until damage is applied (i.e. the second switch). This is taken straight from the full rules text for the keyword, presented here, though swapped around for your edification and convenience: "each time [an enemy with Toughness] is assigned any amount of damage[, reduce] the amount of damage it takes by X." Thus, taking damage constitutes as a trigger, and reducing the damage by X constitutes a response. If the card with Toughness is not taking damage, Toughness is not resolving, despite the text itself being active. This, in keeping with all of the definitions and examples above, makes Toughness a triggered ability.
+
+ 
+
+As a further example, let us examine the Surge keyword. The full rules text for Surge state that it resolves "when revealed." Thus, if a card is added to the staging area, or to a player's engagement area, without being "revealed" first, Surge cannot resolve. To parrot the phrasing I used a few sentences ago, if the card with Surge is not being revealed, Surge is not resolving, despite the text itself being active.
+
+ 
+
+------------------------------
+
+ 
+
+I do hope that this veritable mountain of text clarifies my position, and their relation (or lack thereof) to your comments, beyond a shadow of a doubt. There was, in all honesty, some amount of confusion that added to the troubles, at least some of which I'm for to blame; hence, my long-winded, carefully crafted post. Rest assured, I am not angry at you for disagreeing with me—indeed, I like pleasant debates more often than not—but I do dislike character assassinations and mocking tone, especially when I'm being deadly serious.
+
+ 
+
+I look forward to your response (absolutely zero sarcasm intended), but I hope that when it comes it is civil and on topic.
+
+ 
+
+[Edited for minor spelling and grammar.]
+
+Edited November 22, 2015 by caelenvasius
+
+## 129 [caelenvasius on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903648)
+
+> Local Trouble [Heirs of Numenor] is a good example of a passive ability with a "trigger".
+
+Unfortunately, it is not.
+
+ 
+
+Here is the full text:
+
+> When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: 'When attached hero exhausts, readies, or triggers an ability, raise its controller's threat by 1.')
+
+What we have here is in fact two separate triggered abilities, each unique to which form the card takes.
+
+ 
+
+First, is the "when revealed" effect, during which the card is a Treachery card. The trigger is being revealed, and its resolution is its attachment to the hero specified by the remaining text in that sentence.
+
+ 
+
+The phrase "counts as" denotes the card's transition from a Treachery to a pseudo card type, "Condition." While the card is in this later form, it gains a separate triggered ability. The trigger is the attached hero exhausting/readying/triggering an ability, the resolution of which is raising said hero's controller's threat by 1.
+
+ 
+
+------------------------------
+
+ 
+
+> Nazgul of Minas Morgul [http://hallofbeorn.com/Cards/Details/Nazgul-of-Minas-Morgul-TMV] - This is the closest card I can find to Toughness that is also a passive ability that "triggers" if you will.
+> 
+>  
+> 
+> > Reduce any amount of damage dealt to Nazgul of Minas Morgul to 1.
+> 
+>  
+> 
+> Nazgul of Minas Morgul has a passive effect and while it is similar to Toughness it does have a slightly different wording.
+> 
+>  
+
+I would still hesitate to call this a passive ability, though the written form of it is closer to an actual passive ability than any of us have heretofore presented. The reason why is that the text has a sort of built-in trigger, though its not quite printed as such; that being "being dealt damage." I will say though that this answer is a bit trickier to be specific on, so take the answer with a grain of salt. However, it is one of the exceedingly few cards I've seen that approach a "gray area" between the two types of abilities. Granted, I have yet to go through the entire card pool (and have little desire at the moment to do so).
+
+ 
+
+> I think the confusion here is that Passive, Forced, Response, and Action all have in-game definitions.  Any definition of these words that the English language permits are irrelevant for the purposes of this game.  Simply put, a passive effect is one in which the text has no preceding defining text, a Forced effect is one in which the card has the "Forced:" text preceding its effect, a Response is an effect in which the card has the "Response:" text preceding its effect, and an Action is an effect in which the card has the "Action:" text preceding its effect.
+> 
+>  
+> 
+> Unfortunately, the rules on Toughness do not explicitly tell us what kind of effect it is.  In my opinion, it must be passive effect since the definition excludes any use of the text "Forced:, Response:, or Action:".
+> 
+>  
+> 
+> Edit: Where it gets confusing, is that we know from prior rulings is that Actions:, Responses, and other various card effects can initiate passive effects (such as Expecting Mischief).
+
+
+
+Unfortunately, the timing of these abilities wasn't the main point of irritation here. Indeed, I had covered the peculiarity of timing Toughness a number of posts ago [https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?p=1902761]:
+
+ 
+
+> Toughness does not trigger when the card is revealed, which makes it unlike Surge, Doomed, and Peril. Instead, it triggers when that card receives damage, as stated in the expanded text. It doesn't time travel, and it technically isn't a passive ability either since it has a trigger (though because it isn't Forced/Reaction/etc. it necessarily slots into the "passive" section of the timing window).
+
+Emphasis mine.
+
+ 
+
+Nevertheless, I appreciate the input.
+
+## 130 [cmabr002 on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903671)
+
+I do not think I was arguing for the timing window, but I'm not a debate professional.
+
+ 
+
+See FAQ section 1.36.  Triggered abilities are abilities that have a bold trigger
+
+ 
+
+>  
+> 
+> (1.36) Triggered abilities vs. Passive abilities
+> 
+>  
+> 
+> Triggered abilities are abilities on cards that have a bold trigger word such as Action or Response. These abilities are only applied when they are triggered. Passive abilities are abilities on cards that have an ongoing effect without a bold trigger word. Because passive abilities don’t have a trigger they are always active and cannot be “triggered”.
+
+ 
+
+We also know that Forced effects are triggered effects due to the following:
+
+ 
+
+>  
+> 
+> Core Rule Book p.23 - They are denoted by a bold “Forced:” trigger on a card. These effects initiate and resolve immediately, whenever their specified prerequisite occurs.The enemy card Marsh Adder provides an example of a forced effect that must be triggered whenever its specified trigger (“each time Marsh Adder attacks”) is met.
+
+ 
+
+Marsh Adder's game text:
+
+ 
+
+> Forced: Each time Marsh Adder attacks you, raise your threat by 1.
+
+ 
+
+Now, the reason there is confusion is because Toughness says "each time this enemy is assigned damage" (which, yes, is the same sentence structure as Marsh Adder) sounds like a trigger.  However, that is irrelevant, because my argument states that it is not a trigger simply because it does not have the bold trigger preceding its text as outlined and defined in 1.36 of the FAQ. 
+
+ 
+
+For example, if Marsh Adder's game text had "Forced:" removed from it, it would now be a passive effect since it no longer is defined as a triggered effect since it has no "bold trigger".
+
+ 
+
+Edit: I may be wrong here regarding your argument, but I think the reason that there is any confusion at all is because you are defining the word "trigger" as you understand it to be defined in the English language.  Likely, your definition is accurate, for English, but the developers have defined triggered abilities, in the context of this game, and using any other definition is a fallacy (of some sort that I cannot remember since it has been many many years since I took a debate class).
+
+Edited November 22, 2015 by cmabr002
+
+## 131 [sappidus on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903677)
+
+Man, this was so much more fun when Seastan was attaching Spiders-web and Wingfoot to the same hero and creating closed-loop time warps.
+
+Then again, I'm the guy who wanted to Test of Will a Ranger of the North, so I guess I'm biased. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 132 [NathanH on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903699)
+
+> Unfortunately, the rules on Toughness do not explicitly tell us what kind of effect it is.  In my opinion, it must be passive effect since the definition excludes any use of the text "Forced:, Response:, or Action:".
+
+ 
+
+Toughness is a keyword, one of the 6 card effects possible on an encounter card (Rulebook, p.23). Keywords seem to have the right to behave more-or-less how they want, on a case-by-case basis.
+
+ 
+
+>  
+> 
+>  
+> 
+> Unfortunately, it is not.
+
+ 
+
+The portion of Local Trouble that is in effect when it is a condition attachment is a passive effect (more correctly, a "Constant effect"---rulebook, p.23. I don't know why we started calling them passives). We can determine this by noting that there are six types of card effects that appear on encounter cards (rulebook p.23). The effect in question is not a forced effect, not a response, not a keyword, not a travel effect, and not a shadow effect, so by exhaustion it must be a constant effect.
+
+ 
+
+I'm not exactly sure why they didn't make it a Forced effect, but perhaps they wanted to make sure that it applied before any other effect. Hopefully they will never print a player card with a passive effect that would lower threat by 1 when a hero does something, because then we have an annoying question on our hands.
+
+## 133 [NathanH on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903708)
+
+Bleh, stupid NathanH
+
+Edited November 22, 2015 by NathanH
+
+## 134 [cmabr002 on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903716)
+
+>  
+> 
+> > Unfortunately, the rules on Toughness do not explicitly tell us what kind of effect it is.  In my opinion, it must be passive effect since the definition excludes any use of the text "Forced:, Response:, or Action:".
+> 
+>  
+> 
+> Toughness is a keyword, one of the 6 card effects possible on an encounter card (Rulebook, p.23). Keywords seem to have the right to behave more-or-less how they want, on a case-by-case basis.
+> 
+>  
+> 
+> >  
+> 
+>  
+
+ 
+
+Yes, keywords have the right to behave any way they want.  However, they are still subject to the rules defined as we know it (unless the developers state otherwise).  I am probably wrong (since I haven't verified it), but I think all keywords thus far have passive effects because none of them have any bold triggers.  Just because they happen (intentionally avoiding using the word "trigger") at different times based on each keyword's definition does not inherently make them passive or triggered, though.  Again, this is simply because the developers have defined passive for us.  They have also defined "triggered abilities" for us.  Due to this, we have to operate under the assumption that anything without a bold trigger is therefore not "triggered" even if some prerequisite must be met for it to occur such as "entering play" for Ambush.  Ambush's ability is passive even though it happens "when it enters play".
+
+ 
+
+Defining something as passive currently serves two functions:
+
+ 
+
+1.  It tells us when to resolve it if there are multiple effects with the same prerequisite and;
+
+2.  It tells us it is not triggered (as defined in 1.36 of the FAQ)
+
+## 135 [DukeWellington on November 22, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1903875)
+
+Let's take Beregond as an example, since this was admitted as a passive ability. My entire point is that it's designation as a passive ability is entirely arbitrary. It can either be written as a "response" (triggered ability) or "passive" ability simply by how the text appears on the card.
+
+As a triggered response it would appear as: Response: When playing an armor or weapon card on Beregond, reduce the cost of that card by 2.
+
+If written that way absolutely nothing in the game would change. Clearly, Beregond's ability has a trigger. Yet Caelenvasius said that his ability is not dependant on a card being played on him. Clearly, Caelenvasius is wrong. He tried to counter this by talking about global buffs, like Pippen's because global buffs are the one passive effect that does not have a trigger (that U can thint of right now). He seems to want passive abilities to be something very similar to global buffs. They are not. They are simply abilities that do not include a "forced" or "response" text.
+
+I will grant that in the case of global buffs ignore is a better word than cancel, and for that reason it makes more sense to write immunity as a passive effect rather than a "response", but he will have to change his designation of Beregond's ability from passive to triggered to remain consistent. In the same way, toughness just works better as a keyword rather than a "forced" effect, which it also could have been written as.
+
+To me cmabr002 completely ended the debate when he used the rules to clarify exactly how the terms are defined. Caelenvasius may WANT the definition of passive abilities to include some concept of not having a trigger, but according to the clear declaration of the designers this is simply not the case. End of story.
+
+Everything else that was said was basically irrelevant.
+
+Edited November 22, 2015 by DukeWellington
+
+## 136 [leptokurt on November 23, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1904588)
+
+> Hello,
+> 
+>  
+> 
+> I'm a bit intimidated about posting my ruling idea as the first post ever in this forum, but here we go:
+> 
+>  
+> 
+> What about giving emphasis to the word "just revealed" in Quick Ears? I know that probably the phrasing was only to clarify that you cannot cancel an enemy present in the staging area.
+> 
+>  
+> 
+> But what if that "just" also pose a timing limitation? You can play the card only as the very first thing after an enemy is revealed from the enocunter deck, before any shenanigans with other responses. I know that the rules say that you can manage the order of the responses as you wish, but with this interpretation, the loophole that Seastan brought up would be break, as you have to play quick ears before anything else. If you "do stuff" in the meantime the card is not "just revealed" anymore, after all.
+
+Not sure if anyone has answered to this yet, so:
+
+ 
+
+Hi there, welcome to the forums! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+I'm no expert in these timing shenigans (and I don't take them too seriously), but I guess mechanic wise you can do stuff before this card and still handle it as if it the encounter card was "just" revealed, as the other effects technically happened at the same time (and thus not between).
+
+ 
+
+Now I hope I am not totally wrong..  <_< [//content.invisioncic.com/Mfantflight/emoticons/default_dry.png]
+
+## 137 [wolframius on November 23, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1904790)
+
+>  
+> 
+> > Hello,
+> > 
+> >  
+> > 
+> > I'm a bit intimidated about posting my ruling idea as the first post ever in this forum, but here we go:
+> > 
+> >  
+> > 
+> > What about giving emphasis to the word "just revealed" in Quick Ears? I know that probably the phrasing was only to clarify that you cannot cancel an enemy present in the staging area.
+> > 
+> >  
+> > 
+> > But what if that "just" also pose a timing limitation? You can play the card only as the very first thing after an enemy is revealed from the enocunter deck, before any shenanigans with other responses. I know that the rules say that you can manage the order of the responses as you wish, but with this interpretation, the loophole that Seastan brought up would be break, as you have to play quick ears before anything else. If you "do stuff" in the meantime the card is not "just revealed" anymore, after all.
+> 
+> Not sure if anyone has answered to this yet, so:
+> 
+>  
+> 
+> Hi there, welcome to the forums! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> 
+>  
+> 
+> I'm no expert in these timing shenigans (and I don't take them too seriously), but I guess mechanic wise you can do stuff before this card and still handle it as if it the encounter card was "just" revealed, as the other effects technically happened at the same time (and thus not between).
+> 
+>  
+> 
+> Now I hope I am not totally wrong..  <_< [//content.invisioncic.com/Mfantflight/emoticons/default_dry.png]
+> 
+>  
+
+Rule-wise you are 100% right, I was just offering a sort of "backdoor" to the loop by exploiting the particular phrasing on Quick Ears (which is not present in all the encounter cancellation effects, by the way).
+
+## 138 [Seastan on November 23, 2015](https://community.fantasyflightgames.com/topic/193016-the-battle-is-joined/?do=findComment&comment=1904994)
+
+>  
+> 
+> >  
+> > 
+> > > Hello,
+> > > 
+> > >  
+> > > 
+> > > I'm a bit intimidated about posting my ruling idea as the first post ever in this forum, but here we go:
+> > > 
+> > >  
+> > > 
+> > > What about giving emphasis to the word "just revealed" in Quick Ears? I know that probably the phrasing was only to clarify that you cannot cancel an enemy present in the staging area.
+> > > 
+> > >  
+> > > 
+> > > But what if that "just" also pose a timing limitation? You can play the card only as the very first thing after an enemy is revealed from the enocunter deck, before any shenanigans with other responses. I know that the rules say that you can manage the order of the responses as you wish, but with this interpretation, the loophole that Seastan brought up would be break, as you have to play quick ears before anything else. If you "do stuff" in the meantime the card is not "just revealed" anymore, after all.
+> > 
+> > Not sure if anyone has answered to this yet, so:
+> > 
+> >  
+> > 
+> > Hi there, welcome to the forums! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+> > 
+> >  
+> > 
+> > I'm no expert in these timing shenigans (and I don't take them too seriously), but I guess mechanic wise you can do stuff before this card and still handle it as if it the encounter card was "just" revealed, as the other effects technically happened at the same time (and thus not between).
+> > 
+> >  
+> > 
+> > Now I hope I am not totally wrong..  <_< [//content.invisioncic.com/Mfantflight/emoticons/default_dry.png]
+> > 
+> >  
+> 
+> Rule-wise you are 100% right, I was just offering a sort of "backdoor" to the loop by exploiting the particular phrasing on Quick Ears (which is not present in all the encounter cancellation effects, by the way).
+> 
+>  
+
+ 
+
+Welcome to the forums  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+The problem is that the phrasing is inconsistent with official rulings, so we can't just look at the phrasing and know what to do. A Test of Will uses the "just revealed" phrase, yet we have a ruling [https://boardgamegeek.com/thread/1023430/prowl-timing-vs-test-will] that says that the Prowl keyword triggers before it and can leave you with no resources to play A Test of Will. Meanwhile the Quick Ears ruling, which also uses "just revealed", has to resolve before anything in order for it to make sense.
+

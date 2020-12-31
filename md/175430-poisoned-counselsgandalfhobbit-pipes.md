@@ -259,3 +259,37 @@ I believe that is correct, and I actually think that the developers were very ca
 
 I understand that you're not a developer, and neither am I, however the logic we built here seems flawless; it derives logical conclusions from words with pre-established definitions, in other words, I don't believe another logical interpreation would be valid and, in fact, if the developers were to twist our conclusion it would be due to arbitrariness, not logical reasoning.
 
+## 26 [GrandSpleen on March 19, 2016](https://community.fantasyflightgames.com/topic/175430-poisoned-counselsgandalfhobbit-pipes/?do=findComment&comment=2113039)
+
+Yeah, having a faceup card in your player deck would be analogous to peeking at the encounter deck with scry effects, which does not trigger when revealed effects.
+
+## 27 [CJMatos on March 20, 2016](https://community.fantasyflightgames.com/topic/175430-poisoned-counselsgandalfhobbit-pipes/?do=findComment&comment=2114075)
+
+I have to agree in this one with cmabr002 and GrandSpleen.
+
+ 
+
+Having Gandalf hero in play and, as a consequence, the top card of deck turn faced up, isn't the same as revealing the top card of your deck.
+
+ 
+
+Same applies to effects like Denethor [http://hallofbeorn.com/Cards/Details/Denethor-Core] and Henamarth Riversong [http://hallofbeorn.com/Cards/Details/Henamarth-Riversong-Core] that don't reveal the card from encounter deck.
+
+ 
+
+So i would say, in my opinion, that Gandalf Hero + Vilya is possible
+
+## 28 [Slothgodfather on March 21, 2016](https://community.fantasyflightgames.com/topic/175430-poisoned-counselsgandalfhobbit-pipes/?do=findComment&comment=2115684)
+
+There is a difference between functionally revealed and game-mechanically revealed.   When you look at the top card of the encounter deck, it is functionally revealed to you, but it doesn't trigger any game-mechanics of a card being revealed.   The same difference is being applied to Gandalf's ability.  While it is functionally revealed to everyone, it isn't "revealed" in a game-mechanic sense.   
+
+ 
+
+As for the Flame event, it has the format "Do X to do Y, Z also happens".   If Y isn't possible, you cannot trigger the effect.  Sam is different since his is "If X happens, do Y. Also do Z."
+
+ 
+
+If it had been "If X happens, do Y then do Z" because of the use of "then", Y would need to resolve successfully before you could finish the sentence and do Z.
+
+Edited March 21, 2016 by Slothgodfather
+

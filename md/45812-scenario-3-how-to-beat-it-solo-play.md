@@ -1,0 +1,343 @@
+# [Scenario 3 - How to beat it? (Solo Play) ](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/)
+
+## 1 [faith_star83 on April 26, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=459297)
+
+And again, after the really helpful and interesting discussions in the Scenario 2 thread I was wondering what everybody's approach to the thrid scenario is. i tried it about four time so far, but still wasn't succesful.
+
+I think the biggest problem that Solo players face is the Prisoner. Loosing one hero right from the start makes the whole scenario extremely difficult. I think the key is to steadily recruit an ally a turn. But resources are so scarce.
+
+The next difficulty I had is the fact that thanks to three objects I tend to start with a staging area that has either a very high threat level (due to many locations) or is full with enemies...or both! Worse: Caught in the Web on one of the remaining two heroes even before I start playing. Happened to me twice already.
+
+So far almost always my biggest problem was that I
+
+1) Didn't have enough characters for questing, defending and attacking so that my threat level and wound counter seemed to increase almost exponantially.
+
+2) Didn't have enough resources to put out allies.
+
+The threat level is my biggest enemy, though. Since I start with 3 cards in the staging plus a fourth one and only two heroes (and maybe one ally) I cannot commit to questing and fighting....
+
+My take to this at the moment is a Leadership / Spirit deck in hopes of plenty of resources and threat reduction! Didn't work out so far though...all too often I'm stuck with a handful of cards that I cannot play because the prisoner is the only resource source. I start to believe that this scenario might be actually easier with a single-sphere deck!
+
+Please share your experiences if you have time and will. Always interesting to read how fellow solo-players fare. This weekend I'll finally be able to enjoy some multiplayer action, though!
+
+Btw, I just always assumed that Treachery cards attached to the objective are played instantly with the starting set-up (two heroes, once prisoner and six handcards). Is that correct? I also didn't use Eleanor's special ability since there are no player actions in the setup phase.
+
+## 2 [faith_star83 on April 27, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=459757)
+
+Seriously, I had about another 5 goes, but it's not even close. Most of the times I lose before being able to put any quest counters on the quest.
+
+Anybody had any success in solo mode with this one? I played a two player game and we finished it easily using two multi-sphere decks. But in solo mode it seems just impossible with only 2 heroes and 4 encounter cards in the staging area from the beginning!
+
+I am a bit disappointed since I had high hopes in the game's single-player mode, but it's clearly scaled for multi-player. Don't get me wrong I love the game, the mechanics and the feel of it. And I really love the scenarios provided and the ideas and how they were realized (objects and prisoner and stuff). But I'm just had that solo-mode seems to be almost unmanageable with only once core set.
+
+I am looking forward to ear any other player's experiences with this quest in solo mode...
+
+## 3 [jhaelen on April 27, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460097)
+
+faith_star83 said:
+
+I am a bit disappointed since I had high hopes in the game's single-player mode, but it's clearly scaled for multi-player.
+
+
+
+I cannot say much about the third scenario yet, having tried it only twice yet. The first game wasn't that bad since two of the attached cards were treachery cards that had little effect.
+
+Solo play has some serious problems. First you only have three heroes, but combining spheres is a must which makes resourcing tricky. If you lose your only source of one resource type half your deck is suddenly useless. So, for solo play to work, there need to be more cards that grant you resources of a different type.
+
+Second, surge effects are extremely potent against a solo player. Having to put an additional card in the staging area is a 100% increase in difficulty. Every additional player reduces the threat of surges; for four players adding a fifth card means only an increase by 25%.
+
+I'm not sure how that problem can be fixed at all by releasing more cards. Introducing special rules that only apply in solo play may be required, e.g. a rule that introduces a hard cap on the number of cards than can be put into the staging area in a single turn and/or limiting the number of cards that can be in the staging area at one time.
+
+Then again I haven't yet tried using the optional rule to not use Shadow cards. Maybe that's all that's needed to make solo play feasible?
+
+I guess, I maý end up doing what I do when playing Arkham Horror solo: play several investigators at the same time, i.e. in LotR use several decks. That will also result in deck builds that are equally useful in multi-player games.
+
+## 4 [Acererak on April 27, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460114)
+
+There is only one way I am aware of to beat this quest in solo mode with just one deck : play the nightmare level challenge.
+
+If you do well, you will arrive to the last quest with Allies and Attachments on the table which will be crucial to survive. No easy feat (specially managing Threat), but with a good deck constructed, possible. And loads of fun. Of course, there is some debate about what to reset and whatnot in between quests, since rules are a bit vague in explaining this mode. Hopefully, more details will be added in the future, since the game enters a whole new level, believe me. Your Heroes actually evolve!
+
+Otherwise, the huge penalties for a solo player that the prisoner mechanic, the Objective cards penalties and the Surge monsters put on you are by all means unbearable.
+
+ 
+
+## 5 [mason240 on April 27, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460177)
+
+jhaelen said:
+
+faith_star83 said:
+
+ 
+
+Solo play has some serious problems. First you only have three heroes, but combining spheres is a must which makes resourcing tricky. If you lose your only source of one resource type half your deck is suddenly useless. So, for solo play to work, there need to be more cards that grant you resources of a different type.
+
+Second, surge effects are extremely potent against a solo player. Having to put an additional card in the staging area is a 100% increase in difficulty. Every additional player reduces the threat of surges; for four players adding a fifth card means only an increase by 25%.
+
+I'm not sure how that problem can be fixed at all by releasing more cards. Introducing special rules that only apply in solo play may be required, e.g. a rule that introduces a hard cap on the number of cards than can be put into the staging area in a single turn and/or limiting the number of cards that can be in the staging area at one time.
+
+
+
+Given that the scenario says that the whole player group can only play one ally per round, I think it scales to being almost as hard with 4 players. Yes, you only lose 1/12 of your heroes instead of 1/3, but now you have a 4:1 encounter card : ally ratio, as opposed to 1:1.
+
+I have yet to play it with more then one player, but I would think 2 players (with only 1 player using a dual-sphere deck, reducing your chance of losing the 1 Lore hero to 1 in 6) would be the optimal number of players. 
+
+## 6 [Entropy42 on April 28, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460516)
+
+Acererak said:
+
+There is only one way I am aware of to beat this quest in solo mode with just one deck : play the nightmare level challenge.
+
+
+
+I'm still trying to get this cleared up, but I'm fairly sure you don't get to keep things that you've played to the table.
+
+## 7 [Acererak on April 28, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460519)
+
+Entropy42 said:
+
+Acererak said:
+
+ 
+
+There is only one way I am aware of to beat this quest in solo mode with just one deck : play the nightmare level challenge.
+
+ 
+
+ 
+
+I'm still trying to get this cleared up, but I'm fairly sure you don't get to keep things that you've played to the table.
+
+
+
+When you find some form of official answer please let us know.
+
+Until then, it´s open to debate, I guess. Since you don´t reshuffle your card deck, it would be next to impossible if you also had to discard your allies and attachments. Which on top of that, would not be very consistent with having to keep your wounds and threat level....
+
+I am playing NOT drawing a new card hand of six in between adventures and keeping my Resources, although neither of this is covered in the rules.
+
+I tried it with three players and all three adventures were a cake walk. Solo, it´s a different story, and highly recommended.
+
+In any case, this mode needs some reworking and clarification, as I can see great future once new cycle starts coming out. Probably some special rules will be needed as well.
+
+## 8 [Entropy42 on April 28, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460528)
+
+Acererak said:
+
+Entropy42 said:
+
+ 
+
+Acererak said:
+
+ 
+
+There is only one way I am aware of to beat this quest in solo mode with just one deck : play the nightmare level challenge.
+
+ 
+
+ 
+
+I'm still trying to get this cleared up, but I'm fairly sure you don't get to keep things that you've played to the table.
+
+ 
+
+ 
+
+When you find some form of official answer please let us know.
+
+Until then, it´s open to debate, I guess. Since you don´t reshuffle your card deck, it would be next to impossible if you also had to discard your allies and attachments. Which on top of that, would not be very consistent with having to keep your wounds and threat level....
+
+I am playing NOT drawing a new card hand of six in between adventures and keeping my Resources, although neither of this is covered in the rules.
+
+I tried it with three players and all three adventures were a cake walk. Solo, it´s a different story, and highly recommended.
+
+In any case, this mode needs some reworking and clarification, as I can see great future once new cycle starts coming out. Probably some special rules will be needed as well.
+
+
+
+I just read it as basically pretending you are setting up a new game, only your heroes start with (potentially) more damage and higher threat.  That still doesn't make it clear to me what you do with your existing hand, but I'll be sure to post if I find out anything else. 
+
+And yes, I agree that it is extremely difficult solo if you lose your allies.  With the 30 card decks it is probably impossible if you don't have a Spirit deck to reduce your threat and let you reshuffle, but we have done well so far with just the Spirit/Tactics precons (2 players) and resetting all allies/attachments.
+
+The game is selling extremely well, so hopefully FFG will really devote the people necessary to balance the various game modes.
+
+## 9 [jhaelen on April 28, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=460647)
+
+I've tried the third scenario a total of eight times now; four times using the Leadership/Lore deck I've succeeded with in the second scenario, then four times with a Leadership/Spirit deck (Aragorn, Theodred, Eowyn).
+
+In my latest attempt I got as far as the third story phase when my threat level reached 50. So far I've been rather unlucky with my card draws (no Gandalf, only one threat reduction), so I actually think the scenario may be easier to beat than the second.
+
+So far either Aragorn or Theodred ended up as prisoners. In the former case the game is over quickly, in the latter case you've got a real chance: Eowyn goes questing, Aragorn defends - and if you get the Steward of Gondor you also have sufficient resources. The Nazgul can be very nasty, though. I've been wondering if maybe replacing Theodred with Gimli might actually be better:
+
+By the time the prisoner is freed you should already have more resources than you'll ever need and the biggest priority becomes killing the Nazgul. Even if you don't put any Tactics card in the deck, Gimli might be the most helpful Hero. And even if you do, you could simply use them to feed Eowyns ability if you draw any before Gimli is freed.
+
+## 10 [Entropy42 on April 29, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=461076)
+
+Does anyone else think its stupid that the prisoner is random?  At this point in the game, the only thing that has been randomly determined is your hand and what hero is captured.  If you have Eowyn in your deck and she is captured, the game is probably over, so you might as well just choose a new 'random' hero until the game chooses the one you want to lose.  Personally, I don't like that a random element like that can so strongly influence the difficulty of the scenario before you even get to play a card, essentially making it randomly "unwinnable".  I guess it just means the correct strategy for this quest is to have 3 heroes that are all of equal importance, so that you can randomly lose any of them without the penalty being much stronger/weaker. 
+
+1st turn Caught in a Web on this quest is also an instant loss, as far as I can tell.
+
+## 11 [Acererak on April 29, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=461084)
+
+Defnitely random prisoner is a huge impact to a solo deck. So much, I actually end up chosing which Hero is the Prisoner since otherwise is a sure loss as you point out (not that I have managed to beat this scenario at all anyway). Wish they had another mechanic, but cannot think which. It works fine for multi player though, since the impact is not so final.
+
+## 12 [scottindeed on April 29, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=461105)
+
+I just beat this quest ligitimately with a solo deck! 
+
+I used the pure Lore deck (with three Gandalfs).  With the imprisoned hero, I figured it best to go with a single sphere so that the effect on your resource and card play isn't as severe.
+
+My imprisoned hero was Denethor, but we eventually managed to get through to rescue him.  I gave Gandalf's map to Beravor to get to the second quest card, which ment she would be used purely for questing from now on.  Once I had Denethor (and a few allies by this time), I was using his ability every turn to look at the quest deck.  Most of the time I would keep the card, but use the knowledge he provides to plan my questing and defending strategy.  I saw off the Nazgul in short order thanks to Gandalf inflicting 4 damage and my heroes seeing him off in combat.  Luckily he didn't draw any Shadow Effect so he didn't pick off an Ally.
+
+Once I had done all 15 progress on the second quest card I had to decide who to give the remaining Objectives to.  Luckily Glorfindal had Self Preservation by this time, so he could off-set the damage done by the Shadow Key every turn.  Denethor got the Torch.
+
+In the final stage of the quest I had two Forest Snares to trap the two Dungeon Jailors that were hanging around.  I had to just commit to the Quest as best I could (still using Denethor to peak at the deck).  The Torch Objective ment I only had about three more turns to win.  The Orc tokens that appeared I absorbed either undefended or with an Ally card.
+
+I also had Protector of Lorien, but I insisted on playing how I think it is intended, as once per round.
+
+## 13 [Acererak on April 29, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=461123)
+
+scottindeed said:
+
+ 
+
+I just beat this quest ligitimately with a solo deck! 
+
+I used the pure Lore deck (with three Gandalfs).  With the imprisoned hero, I figured it best to go with a single sphere so that the effect on your resource and card play isn't as severe.
+
+My imprisoned hero was Denethor, but we eventually managed to get through to rescue him.  I gave Gandalf's map to Beravor to get to the second quest card, which ment she would be used purely for questing from now on.  Once I had Denethor (and a few allies by this time), I was using his ability every turn to look at the quest deck.  Most of the time I would keep the card, but use the knowledge he provides to plan my questing and defending strategy.  I saw off the Nazgul in short order thanks to Gandalf inflicting 4 damage and my heroes seeing him off in combat.  Luckily he didn't draw any Shadow Effect so he didn't pick off an Ally.
+
+Once I had done all 15 progress on the second quest card I had to decide who to give the remaining Objectives to.  Luckily Glorfindal had Self Preservation by this time, so he could off-set the damage done by the Shadow Key every turn.  Denethor got the Torch.
+
+In the final stage of the quest I had two Forest Snares to trap the two Dungeon Jailors that were hanging around.  I had to just commit to the Quest as best I could (still using Denethor to peak at the deck).  The Torch Objective ment I only had about three more turns to win.  The Orc tokens that appeared I absorbed either undefended or with an Ally card.
+
+I also had Protector of Lorien, but I insisted on playing how I think it is intended, as once per round.
+
+ 
+
+ 
+
+ 
+
+Congrats!! Great to see someone finnally made it. Interesting. The time I made it further in this quest was also with full Lore deck and Denethor as prisoner. I am afraid if you get Glorfindel as Prisioner you might as well reshuffle and start over....
+
+ 
+
+I agree with you that a mono sphere seems to ease the burden of the prisoner mechanic a bit. And Protector of Lorien can definitely be played as many times as you spend cards on it. Higher difficulty if you limited that way. Kudos to you.
+
+ 
+
+One or two core sets, by the way?
+
+## 14 [scottindeed on April 30, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=461329)
+
+Thanks!  I have just one core set, but as I said i added all three Gandalfs to the deck.
+
+## 15 [faith_star83 on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462247)
+
+Once again: Frustrated.
+
+Winning scenario 3 just seems so random. I think the luck factor has been often-discussed already, but I really start to become disappointed with how bad scenario 3 works in solo-mode.
+
+Today I took my core set and sat down, determined to beat scenario 3. After reading scottindeed's comment I chose the lore single-deck as it comes in the core set and added 2x Gandalf. The chose is obvious: Strong questers, card draw and healing provide valuable tools in order to beat this scenario. I think speed is of the essence, since we want to free the prisoner as fast as possible and we have to keep our threat low.
+
+I didn't manage. I played exactly 10 rounds, about 5 of which I actually didn't even bother to play to the end. I took notes and it's just crazy how bad my draws where: In all 10 rounds I had 6 times (!) setup phase Jailkeeper, 3 times setup phase Ungoliath's Spawn and 3 times setup phase Caught in a web. Also I encountered a total of 4 Hummerhorns and 3 times Chieftain Ufthak in the first 5 turns. I managed to get rid of the caught in a web within 2 turns two times whough gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif]Of course I still lost!
+
+I lost two times because I had to leave an enemy undefended and hit Dol Guldur Orcs as a shadow card instantly killing of a hero. Two times I lost to an undefended hero hitting Ungoliath's Spawn as a shadow card.
+
+On the other hand, I had to play 3 times without a single ally (despite mulligan) to make things more difficult.
+
+When looking at this I cannot help but think that in a run where you can actually win this so many conditions have to met, that I feel stupid trying over and over again until finally everything comes together the way I want it. I could as well just play with an open encounter deck and just pick the cards that fit the situation best.
+
+I really hope there will be some better solo mode decks in the future!
+
+## 16 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462276)
+
+No one ever said it would be easy. Or even that it is supposed to be possible to beat all 3 scenarios in solo play. Considering it is the hardest quest it should be very difficult to beat solo. I am playing scenario 1 again with the same deck I beat it with last night and get destroyed by all the locations the deck keeps getting out, I have 4 in the staging area plus a beastmaster and have already traveled to one location which I cannot get any progress on becuz of all of the locations adding threat in the staging area. I like that it is hard solo.
+
+## 17 [Shub-Niggurath on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462292)
+
+Surely it must be possible to beat solo.
+
+## 18 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462298)
+
+It is as someone has done it. It is just very difficult to do.
+
+## 19 [richsabre on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462313)
+
+i agree with above....id rather have the game too difficult than too easy, all the more reason to keep going back, which i wouldnt do if i knew i was 7/10 times going to win.  personally i think that new solo rules will emerge, but till then im satisfied.
+
+## 20 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462315)
+
+Absolutely, if the game was too easy I would stop playing. If it is too hard it gives me more of an incentive to keep playing to beat it. I just finished a game not that long ago and lost due to 50 threat and already I want to play again and have built another deck version. And it is more fun than housework.
+
+## 21 [scottindeed on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462455)
+
+I have to say I got extremely lucky with my win on this one, as I've played it many times since with Mono Lore and failed -  though I came exceedingly close a couple more times this weekend with them.
+
+I had the Nazgul in a Forest Snare and made the fatal mistake of not killing it before advancing to the last quest card.  With the massive ramp up of my Threat from taking the objective cards, plus the effect of the Torch ment i ran out of time to finish him off!  I'd cleared all the progress on the third quest card as well!
+
+## 22 [scottindeed on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462459)
+
+Also I can forsee the Core Set scenarios only getting easier with time as more and more killer cards and combos present themselves, so in a way they're future proofing early on, ensuring that you'll still be able to come back to them with new decks and tactics.
+
+## 23 [jhaelen on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462469)
+
+Shub-Niggurath said:
+
+ 
+
+Surely it must be possible to beat solo.
+
+ 
+
+Of course it's possible. It's possible in the same way it is possible to win the jackpot in a lottery.
+
+ 
+
+There is a point when a game is so frustratingly diificult that it stops being fun. I've had the same feeling that faith_star83 had:
+
+If a game starts 'on the wrong foot' there's really no point to continue playing. But basically doing a mulligan ten times until you start with the only cards that give you a miniscule chance of winning is silly. Then you really might as well pick the cards right away.
+
+@richsabre: you mention that winning 7 out of ten times would feel too easy to you. That's an interesting thing to say because it indicates you feel it should be possible to give a win/loss ratio for a scenario by saying 'it's x out of ten'. For scenario 3 it is very likely that x will be significantly smaller than 1. So maybe you should have written winning 70 out of 100 times would feel to easy to you gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+I hope someone will eventually come up with a killer-strategy for playing scenario 3 but I doubt it. Please prove me wrong, someone! lengua.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/lengua.gif]
+
+## 24 [TrooperShark99 on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462476)
+
+I have not beaten scenario 3 in 5-6 tries with 2 different decks in Solo, and that is exactly the way I want it.  If you could beat a level 5 scenario in Solo mode with some level of consistency using only the cards available in the core set, I would be very worried about this game long term.  Expension packs will increase deck focus, synergy and efficiency, they will allow you to customize your tools to the expected challenge of a given mission or quest, I do not want this to be to easy, and it looks like that will be the case.  A level 5 quest in Solo mode should be borderline un-playably hard with access to 15 cards per sphere to solve them in a 50 card legal deck.  We have hundred's of different cards coming our way to help us finish the job, that is my opinion anyway.
+
+Threat reduction is so critical to success in the two harder scenarios that playing spirit (with the card pool we have now) is alost a must.  You can get lucky with a non Spirit deck, but to have a somewhat consistent deck hitting a few Gandalf's to lower Threat, but a deck with access to Spirit is key for both question and threat reduction success with the core set card pool.  Expension packs will open up new avenues I am sure and that is key to keeping me interested, I want to have to walk back through the 2 harder scenario's in the core set for the next few expensions with various brew's, if I felt I had solved it with access to 15 cards from each sphere (many of those not 3 of's - I have 2 core sets, not 3), I would be worried about the viabilitiy of this game in solo mode.
+
+## 25 [jhaelen on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462530)
+
+Troopershark said:
+
+I have not beaten scenario 3 in 5-6 tries with 2 different decks in Solo, and that is exactly the way I want it.  If you could beat a level 5 scenario in Solo mode with some level of consistency using only the cards available in the core set, I would be very worried about this game long term.
+
+
+
+If I hadn't beaten scenario 3 in 5-6 tries but won it in the 7th try it would be exactly the way I want it. But I've tried it 30 times now! There is a point where it stops being fun and I've passed it a while ago.
+
+I never even got to the second stage except when using a Leadership/Spirit deck featuring Eowyn and Aragorn (well, and Theodred but he's not really important).
+
+I only ever reached the third stage when Theodred ended up being the prisoner (which happened in nine games, so far). I've reached the third stage five times so far (i.e. in more than 50% of the games where Theodred was the prisoner!). In two of those attempts I have been very close to winning which is why I think it _should_ be doable. But so many things have to go your way - you need to be very lucky indeed - too lucky for my taste.
+
+But as I mentioned in the other thread: Playing two decks solo may be the way to go for me.
+
+## 26 [TrooperShark99 on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462532)
+
+
+The point I was trying to make was that if I was able to come up with a deck that could beat the third scenario without a sick amount of luck I would be disapointed with the game.  I will keep deck building and trying to beat it, because it allows me to learn the cards and pick up new card interactions, and I expect to be able to beat it when the "fellowship" card options expend.  If I could beat a level 5 scenario with a 30-35 card deck with 15 or so filler cards that don't really help all that much, the game would suffer later on.  It's just my opinion.
+
+## 27 [faith_star83 on May 2, 2011](https://community.fantasyflightgames.com/topic/45812-scenario-3-how-to-beat-it-solo-play/?do=findComment&comment=462534)
+
+I agree basically with Troopershark, but just don't forget: Per expansion we get 9 unique player cards and 1 hero. That's 2.25 cards per sphere not counting the hero. So for the expansions to have a profound influence in deckbuilding will take a while. But we get new quests and hopefully there will be some that are awesome and playable in solo mode.
+
+I agree that the game should be too difficult if anything, but it's not really the difficulty that's bothering me, but the randomness of how pieces have to fall together in order the create some winning conditions. It turns deck building more or less pointless.
+
+I have to say this is my first lcg so maybe core sets are supposed to be rather introductory and not very fun on their own. I'll keep buying packs at least throughout the first cycle to see how the game develops, because I do love the game and its mechanics!
+
+Scenario 3 gives a difficulty of 7, altough we don't know how high difficulty can get, this should be probably seven times harder than scenario 1. And already scenario 1 is not a 100% win scenario...
+

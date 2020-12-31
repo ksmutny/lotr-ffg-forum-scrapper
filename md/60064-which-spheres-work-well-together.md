@@ -1,0 +1,208 @@
+# [Which spheres work well together?](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/)
+
+## 1 [tripecac on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590243)
+
+I've just started building my first 2-sphere decks, and arbitrarily picked Leadership and Spirit.  I guess I'm doing okay, but what I wonder if if there are known "good" and "bad" combinations of spheres. 
+
+For example, it seems to be common knowledge that Tactics is pretty awful by itself.   Which of the other 3 spheres is most likely to "help" it? 
+
+Is the effectiveness of certain spheres (and sphere pairings) scenario-dependent?  Or are there good general combos?
+
+Also, do the new player cards in the adventure packs radically alter the spheres' strengths, or do they simply add more variety?
+
+## 2 [Stenun on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590246)
+
+All of them work well together, to be honest.  And, unless your playing Solo, all of them work well by themselves.
+
+My pure Tactics deck is often used with a friend's pure Spirit deck.  He goes questing, I go killing.  So I wouldn't say there was a "bad" spehere in any way unless you're looking for a Solo deck.  And if that's the case, you need to combine spheres no matter what.
+
+## 3 [richsabre on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590249)
+
+tripecac said:
+
+ 
+
+I've just started building my first 2-sphere decks, and arbitrarily picked Leadership and Spirit.  I guess I'm doing okay, but what I wonder if if there are known "good" and "bad" combinations of spheres. 
+
+For example, it seems to be common knowledge that Tactics is pretty awful by itself.   Which of the other 3 spheres is most likely to "help" it? 
+
+Is the effectiveness of certain spheres (and sphere pairings) scenario-dependent?  Or are there good general combos?
+
+Also, do the new player cards in the adventure packs radically alter the spheres' strengths, or do they simply add more variety?
+
+ 
+
+ 
+
+depends on what you want.....i prefer lore/spirit as i like to take enemys down by other means apart from fighting them,
+
+just look at what each one has to offer i.e.
+
+spirit- questing, treachery prevention
+
+lore- healing card draw and encounter deck peeking
+
+tactics-fighting defending
+
+leadership- all round and buffing up stats
+
+ 
+
+so if you take that as a start point just buil your deck around that
+
+and yes i would say ad packs do change it- especially tactics and spirit- tactics get eagles which are great and spirit get rohan which are also great
+
+when building decks its best to think around what the quest is asking of you- is it full of bad locations? treachery cards? nasty enemies?
+
+then take the spheres and the best bits listed above and sort of cross reference them and youve got your match
+
+well thats how i do it, i usually do double spheres, but i guess the priciples the same
+
+also your choice can depend on your hero choice- so do you really need denethor in a quest- like rhosgobel? if so then youve got your lore sphere, then you may think, oh dunhere looks good for this as there are alot of high engagement value enemies which i dont want lingering in the staging area- so then you have spirit- your 2nd sphere- and do the same for your 3rd
+
+of course it gets a bit more complex with song cards as you can mix and match- but these points are a good start
+
+## 4 [SiCK_Boy on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590260)
+
+I don't think there are any sphere that work best together in a generic / default sense. Too many factors influence the way spheres work together.
+
+As for AP, I think their main influence is on Lore. Lore becomes very strong once you have Rivendell Minstrel as it gives you access to all Songs cards.
+
+I think your best shot is to consider your overall aim. If you don't know yet what your playstyle is (I'm pretty much a Spirit / Lore player), then you can look at it from your hero's perspective (just decide which heroes you want to play and build your deck around them). Looking at it from the scenario's perspective (you'll want Lore if playing Journey to Rhosgopel) can also work, as pointed out earlier.
+
+Overall, I see Leadership as mostly a support sphere (that is, a lot of cards you can splash, but I'd never play 2 leadership heroes, for example). Spirit would also be a splash if it wasn't for Northern Tracker (you need heavy spirit resource production to play him, and he's always good against all scenarios); unless you aim to play Rohan (which is spirit intensive by nature). Tactics can make a great deck on its own in multiplayer; otherwise, it's rarely worth splashing it (yes, Tactics is good at fighting, but all spheres are able to up to a point; Tactics doesn't have anything unique, as opposed to Lore with healing or Spirit with Treachery cancelation, for example).
+
+## 5 [tripecac on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590276)
+
+I'm playing solo.
+
+Right now I am finding Anduin very hard with Tactics+Lore and am wondering if it's not a good combo.
+
+Are most of the later quests this painful?
+
+Should I consider forgetting pure solo and start playing with 2 decks?
+
+## 6 [muemakan on February 5, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590283)
+
+ Love leadership/lore, like spirit/tactics.
+
+## 7 [plueschi2 on February 6, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590320)
+
+muemakan said:
+
+ Love leadership/lore
+
+
+
+This.
+
+I have to agree though, that no certain combination is better than any other. But, Leadership plus Lore is the most beginner friendly in my opinion as you have access to the two strongest aspects of the game: Resource generation and card draw. Overall I find Leadership/Lore to be a very reliable combination, usually not the fastest deck around, but can deal with any situation and keeps staying in the game (thx to healing).
+
+## 8 [tripecac on February 6, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590322)
+
+I've been playing with Leadership/Spirit, and I was hoping to get Tactics/Lore working so that I could have 2 "working" decks to play with.
+
+If I switch to Leadership/Lore, then the other deck would be Tactics/Spirit.  Is that a decent combo, or is it not beginner-friendly?
+
+## 9 [plueschi2 on February 6, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590327)
+
+ Spirit/Tactics is less beginner friendly in my opinion.  The point being exactly the same as with Leadership/Lore, just opposite: You have no noticeable resource acceleration and pretty limited card draw. This means two things: You have to be that much more strict with deckbuilding, so that you don't end up with cards that you cannot pay for and the cards in your hand better be the right ones for the given situation.
+
+This is not saying however that a Spirit/Tactics deck is weak, far from it, they have pretty powerful and "focused" cards. For example it has been noted on several threads that Leadership allies are somewhat pricey for what they do. This gets offset by the fact, that they have the best resource acceleration in the game so it evens out.
+
+If you want to build a Spirit/tactics deck, I'd say try to fill in these gaps as much as possible, eg bring Horn of Gondor and Radagast (with some Eagles and probably the Riddermarks Finest) and definitely take 3x Ancient Mathom and if you decided to go the eagle route then also 3x The Eagles are coming. Bring 3x A Test of Will since you cannot heal or get rid of Caught in a Web an the like. And I'd probably take Boromir any day in that constellation, just saying :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] 
+
+## 10 [richsabre on February 6, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590355)
+
+tripecac said:
+
+I'm playing solo.
+
+Right now I am finding Anduin very hard with Tactics+Lore and am wondering if it's not a good combo.
+
+Are most of the later quests this painful?
+
+Should I consider forgetting pure solo and start playing with 2 decks?
+
+
+
+keep at it man, anduin is hard even compared to much later quests, there are at least 2 easier than it, if not 3 or 4 in my opinion
+
+## 11 [ZillaGod on February 6, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590412)
+
+ I'm having the exact same issues, thanks everyone for your input. I'm going to give it another try right now!
+
+## 12 [tripecac on February 7, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=590858)
+
+I just tried Anduin with a Leadership/Lore deck and won pretty easily. Of course, I know there's a big element of luck, and that if/when I try it again, I'll probably lose 5 times in a row. However, it felt good to get all those resources and cards, and made the Gandalf/Sneak Attack combo feel a lot less miraculous! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Not sure if it's worth trying Tactics/Spirit against Anduin next... I suppose the threat reduction can help offset the wimpy questing, but I'm worried that it will just be frustrating/depressing!
+
+## 13 [Budgernaut on February 7, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=591180)
+
+tripecac said:
+
+I just tried Anduin with a Leadership/Lore deck and won pretty easily. Of course, I know there's a big element of luck, and that if/when I try it again, I'll probably lose 5 times in a row. However, it felt good to get all those resources and cards, and made the Gandalf/Sneak Attack combo feel a lot less miraculous! :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Not sure if it's worth trying Tactics/Spirit against Anduin next... I suppose the threat reduction can help offset the wimpy questing, but I'm worried that it will just be frustrating/depressing!
+
+
+
+The only time I've won Anduin solo so far is with Spirit/Tactics. It took me three tries to get it right. The main idea was pumpingup Dûnhere's attack with Tactics attachments and keep threat low to prevent engagement of enemies. I'd say give it a try! Of course, there are other Spirit/Tactics combos that don't rely on Dûnhere.
+
+## 14 [tripecac on February 7, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=591263)
+
+Awesome idea!  I'll give that a try today...
+
+## 15 [tripecac on February 9, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=592385)
+
+I just finally beat Anduin with Spirit/Tactics.  After about 10 tries.  What a great finally to finally get it under control.
+
+The hero combo which did it for me was Eowyn, Dunhere, and Legolas.  Dunhere got a +1 attack, which helped him whittle away at the troll and everything else.  And I got a couple of gandalfs and one of those threat reduction cards pretty early on.  By the time my threat finally hit 30 I had a ton of allies out, so I was able to keep the second stage under control.  Legolas was key to keep the progress flowing.
+
+Great feeling to finally be done!
+
+ 
+
+## 16 [Budgernaut on February 9, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=592415)
+
+Congratulations! I'm glad you were able to pull off a win. I didn't realize how finicky a 50-card Spirit/Tactics deck from just 1 Core Set could be. I played 6 games today with a Spirit/Tactics deck against Anduin. I used Thalin instead of Legolas. I only won one of the games which gives me a 2/9 win percentage for that deck on that quest. I'm thinking it's time I buy some new cards or rethink my strategy.
+
+## 17 [tripecac on February 10, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=592766)
+
+I tried a few different hero combinations before finally winning with Eowyn, Dunhere, and Legolas.
+
+Eowyn is pretty much a no-brainer, so I kept her at all times.
+
+I found Gimli to be useful against the trolls only when with the +4 armor.  But that didn't happen very often,   And IMO his ability to (usually) survive one troll attack plus his attack strength bonuses... just weren't worth the extra threat.
+
+Dunhere was great, because he could quickly kill snipers and other low-defense attackers in the staging area.  This was key to keeping the staging threat down during the long Anduin chase.  Lego was key to quickly progressing through locations.  And he had a good attack strength.
+
+And of course there were the allies.  Northern trackers were awesome.  Great for defending against normal enemies, and great at knocking out locations in the staging area.  I had 2 of them in play when I won, which definitely helped!
+
+I found that using 2 spirit and 1 tactics hero worked best.  Aside from allies, there's only a couple tactics cards that really help improve chances, but there's *lots* of spirit cards which help out. 
+
+I think one thing that would be a big help is 2 core sets.  I really wish I had 3 of all the cards I found useful.  Then I'd get rid of some of the borderline cards.
+
+Haven't cracked the adventure packs yet... Maybe some of those cards will help as well. 
+
+## 18 [richsabre on February 10, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=592816)
+
+tripecac said:
+
+Haven't cracked the adventure packs yet... Maybe some of those cards will help as well. 
+
+
+
+i find most of the adventure packs quests easier than anduin
+
+## 19 [divinityofnumber on February 11, 2012](https://community.fantasyflightgames.com/topic/60064-which-spheres-work-well-together/?do=findComment&comment=593023)
+
+ I really enjoy a Spirit/Tactics combination. 
+
+If you get unexpected courage on Gimli, and have a couple of trackers in play, you can quest like a boss and kill just about anything relatively easily. Plus, you can also attack things that are in the staging area, and get some damage on them before letting Legolas and Gimli at them. 
+
+I had played Escape from Dol Guldur many times, and was crushed with all of the other combinations of decks. Spirit and Tactics seems like an awesome combination!
+
+I finally beat Escape from Dol Guldur for the first time last night, using the 30 card core set Spirit and Tactics decks. It felt awesome. 
+

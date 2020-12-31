@@ -1,0 +1,427 @@
+# [Guarded, Surge, and Unwinnable Games](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/)
+
+## 1 [Runix on September 27, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701471)
+
+The Hunt for Gollum
+
+The Hunt Begins
+
+Setup: Reveal 1 card per player from the encounter deck, and add it to the staging area.
+
+Signs of Gollum.  Guarded.
+
+Signs of Gollum.  Guarded.
+
+The East Bank.  Threat 3
+
+Gladden Fields.  Threat 3
+
+GG
+
+From the FAQ:
+
+(1.01) Encounter Keywords
+Surge, Doomed, and Guarded keywords should be resolved any time the card on which they occur enters play, including during setup.
+
+This is, to put it bluntly, a stupid ruling, in that it creates totally unwinnable situations in opening startups.  And what's more, it would be incredibly easy to fix:  either get rid of randomize setups (which are a recipe for wildly varying difficulty), or give players a chance to "mulligan" by reshuffling and starting over if two or more Guarded or Surge cards show up in the starting setup (I rather suspect that most players already do just that.)
+
+I'm not expecting the developers to fix all of the problems with the design of this game.  But it would be nice to see some indication - any indication, really - that the developers are at least aware of the won-or-lost-within-the-first-three-rounds tendency that seriously cripples this game, and make some sort of effort to work on fixes for it.
+
+## 2 [ArachneJericho on September 27, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701524)
+
+I wonder if limiting the maximum number of cards played in set-up to the number of players is a good idea. Sure, someone gets to miss out on drawing a card from the encounter deck, but I don't think that's a pleasure missed.
+
+## 3 [Dam the Man on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701686)
+
+I'm sorry, but LOL if 6 threat in the staging area after setup is gg. Especially with the location manipulators available. Hell, since you were playing HFG, why not 2x Signs into 2x Hunters (each with 6 threat and 6 attack) to start off with?
+
+## 4 [richsabre on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701760)
+
+varying difficulty is not a mistake but an important part of keeping this game replayable. not only that but with the current card pool such set up give reasons for experienced players to come back for a challenge
+
+rich
+
+## 5 [schmoo34 on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701813)
+
+Psst.
+
+ 
+
+Go ahead and skip the surge and play the game anyways…there are no secret cameras in your room and nobody will arrest you…
+
+ 
+
+*this message will self destruct*
+
+## 6 [Valyrian Steel on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701827)
+
+ I'm slightly confused since neither of those locations have any of those keywords? I can understand the general argument though.
+
+I agree with Rich that the randomness provides challenge and replayability. Sometimes the encounter deck does deal a difficult/impossible starting scenario, but I think this game shines best when you are presented with seemingly insurmountable odds and are able to pull it out. I've had many instances since this game came where I thought I was done and was able to win.
+
+Not to sound bad, but I also have to agree with Dam this the setup you listed is not very difficult. I would be quite happy with that one actually. 
+
+## 7 [Valyrian Steel on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701829)
+
+ Edit: I know the signs have guarded and all but I was referring to the surge and doomed keywords which are the actual difficult ones to deal with.
+
+Post Edit: I don't know how to actually edit my original post haha
+
+## 8 [Ted Sandyman on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701903)
+
+Ive got to agree with Rich and Valery too. There is no better feeling than being on the verge of defeat then pulling a trump card out to get you out of trouble and eventually win the game. If the quests were predictable and beatable every time i wouldnt come back to it at all, thats what makes this hobby so fascinating.
+
+## 9 [Mr Coffee on September 28, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=701922)
+
+Although I may not put it as bluntly as Dam, I have to agree.  Two guarded cards by locations to start the game would be a welcome sight actually.  Way too many site control options for that to be considered an auto-loss (N. Tracker, Snoburn Scout, Blade of G, Lorien guide, Strength of Will, Power in the Eerth, Secret Paths, Ride to Ruin, West Road Traveller, Ancestral Knowledge, Ravenhill Scout, Bombur, etc…)  I think that pretty coveres options for every sphere… and that's just direct interaction with locations and progress tokens… you still have to consider all the willpower options for boosting your questing to help get rid of those sites….
+
+## 10 [ArachneJericho on September 29, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=702253)
+
+Karma kicked me arse. I now agree; 6 Threat after set-up is nothing compared to Hill Troll, Hill Troll, Marsh Adder, Eastern Crows surging Gladden Fields over the first four turns.
+
+(What would reliably counter THAT? I guess one could snare three times, and Feint a lot, but chances are very, very low.)
+
+But… it was still fun. It let me know that Journey Down the Anduin hadn't lost its bite. It let me know that every win against that scenario is to be treasured. And it made me humble to know that an Elrond/Vilya deck won't solve everything that comes its way.
+
+## 11 [Runix on October 1, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703294)
+
+ I'm beginning to think that this game is a magnet for gluttons for punishment, which would neatly explain both the design of the scenarios and the meager size of the player base.
+
+Yes, you are correct, in that two Hunters from Mordor would be worse.  So would drawing three Crows in a row, followed by two Signs of Gollum guarded by Hunters from Mordor.  And I am sure there are worse combinations than that.  But that isn't even the point.  (Although I will note that a rapid pile-up of Locations is particularly brutal, as unlike Enemies and Treacheries, they cannot quickly be cleared out of the staging area - and once the total threat of Locations in the staging area exceeds your questing ability, you're finished, as nothing short of a very timely appearance of a Northern Tracker will save you.)
+
+The point is, it's bad design for a game to be so luck-dependent that my ability to play the game so frequently has no impact on the outcome.  If I wanted to play a purely luck-based game, I'd play Chutes and Ladders or Candyland.  You can lose Chutes and Ladders despite your best efforts, but that does not in any way make it hard - it's just because it is purely random.
+
+For games which are clearly catered to players who appreciate challenges, that is bad design.  A good design would make some effort to moderate the amount of luck in the very early stages of the game.  This game does not do that.  Adding a "you lose" card to the game does not make it more challenging, it makes it a bad game.  Doomed, Surge, Trolls showing up in setup or on the first turn, etc., do not make the game more challenging, it just makes it far more luck-dependent.  Yes, they can generate the rare come-from-behind victory, but for every one of those, there will be any number of I-never-stood-a-chance games.  I'm willing to play the odds to a certain extent, but not if there is such a significant chance of going into a game with no chance of winning.
+
+## 12 [richsabre on October 1, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703311)
+
+interesting you should say that the number of impossible set-ups outnumber the standard ones
+
+i have played hundreds of games, and this is not what i have encountered, probably the opposite, but i think it does depend on the quest- some are better designed than others, the main one that comes to mind is dol guldur - not THAT is most certainly luck dependant, however i think that this was something the ffg devs took feedback on, and we have seen nothing of the like since
+
+remember this game is still in its early years- it has been improving vastly over the last packs, and hiers of numenor certainly looks amazing, and for those on the fence i would say stick around- it looks quite revolutionary in its design
+
+rich
+
+## 13 [bollywongaloid on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703636)
+
+Runix said:
+
+For games which are clearly catered to players who appreciate challenges, that is bad design.  A good design would make some effort to moderate the amount of luck in the very early stages of the game.  This game does not do that.  Adding a "you lose" card to the game does not make it more challenging, it makes it a bad game.  Doomed, Surge, Trolls showing up in setup or on the first turn, etc., do not make the game more challenging, it just makes it far more luck-dependent.  Yes, they can generate the rare come-from-behind victory, but for every one of those, there will be any number of I-never-stood-a-chance games.  I'm willing to play the odds to a certain extent, but not if there is such a significant chance of going into a game with no chance of winning.
+
+
+
+I have to admit, I agree with a lot of what you are saying.  I like to think I'm a good player, and feel like i know what I'm doing when it comes to deck building and strategy.  Which makes it all the more frustrating when you lose to nothing but sheer bad luck.  At the end of the day, you can only prepare for worst eventualities so much; for example, you could have every shadow-beating card in your deck (burning brands, dark knowledge, hasty stroke etc) and mulligan for them to get them in your hand, but at the end of the day, if you dont draw them and that sleeping sentry shafts you, then you're going to be frustrated.  I've had too many of these situations where I feel I've done all in my power to prepare for the worst and it's still happened.
+
+That said, I love this game and don't think i'm gonna be able to put it down for a loong while, no matter how much grief the wife gives me.  I feel that the satisfaction my playing partner and I get from seeing everything come together is something hard to come by in most card games. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 14 [Dain Ironfoot on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703766)
+
+so, if we are losing due to "bad luck," perhaps it is the case we win based on not-so-bad cards coming off the encounter deck (i.e., we are "lucky")? ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+## 15 [ArachneJericho on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703783)
+
+I don't think this game is entirely luck-based. Look at Passage Through Mirkwood, the scenario that kicked all of our early arses. We had to learn how to construct for it and play it properly back in the days before expansion packs came out, and now we beat it fairly reliably if not all the time.
+
+And I think also about the Elrond/Glorfindel/etc deck I played. Before I had a hold of the combos involved, I lost regularly; but it's a whole 'nother story now.
+
+These days I'll browse through an encounter deck before playing it to get a feel for the strategy involved---key cards to kill, bad enemies, not so bad enemies, how bad shadow effects are. 
+
+However, it is the case that the Mirkwood cycle quests tend to be less well-designed than the Hobbit quests. If I look at Conflict at the Carrok, that's far more random and destructive than the later We Must Away Ere Break of Day. They replaced the hardness introduced by randomness with a hardness induced by mechanics. (I have been thinking a lot about those two quests and may put my thoughts further into words and such.)
+
+If anything, individual quests are what should be rated for randomness or not. Every quest is an entirely different game. Some are worse than others.
+
+So I would say that the game had/has some growing pains, rather than that we're all doomed masochists.
+
+(Hm, would a series of articles on rating of and musing on quests be of interest to anyone? I have some basic deck types now that I know how to play, so…)
+
+## 16 [Dain Ironfoot on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703822)
+
+ArachneJericho said:
+
+I don't think this game is entirely luck-based. Look at Passage Through Mirkwood, the scenario that kicked all of our early arses. We had to learn how to construct for it and play it properly back in the days before expansion packs came out, and now we beat it fairly reliably if not all the time.
+
+And I think also about the Elrond/Glorfindel/etc deck I played. Before I had a hold of the combos involved, I lost regularly; but it's a whole 'nother story now.
+
+These days I'll browse through an encounter deck before playing it to get a feel for the strategy involved---key cards to kill, bad enemies, not so bad enemies, how bad shadow effects are. 
+
+However, it is the case that the Mirkwood cycle quests tend to be less well-designed than the Hobbit quests. If I look at Conflict at the Carrok, that's far more random and destructive than the later We Must Away Ere Break of Day. They replaced the hardness introduced by randomness with a hardness induced by mechanics. (I have been thinking a lot about those two quests and may put my thoughts further into words and such.)
+
+If anything, individual quests are what should be rated for randomness or not. Every quest is an entirely different game. Some are worse than others.
+
+So I would say that the game had/has some growing pains, rather than that we're all doomed masochists.
+
+(Hm, would a series of articles on rating of and musing on quests be of interest to anyone? I have some basic deck types now that I know how to play, so…)
+
+
+
+i would love to see your thoughts re: the comparison!
+
+## 17 [Runix on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703826)
+
+richsabre said:
+
+
+interesting you should say that the number of impossible set-ups outnumber the standard ones
+
+
+
+I actually do not think that's the case - for some, like The Hunt for Gollum (one of my favorites, truth be told), bad setups are a rarity. But it is a very frustrating rarity nonetheless. Like I said, it's something like a "You Lose" card; it doesn't matter how often it comes out of the deck, it matters that it's a possibility in the first place. Granted, the number of extremely difficult setups (which could theoretically be beat) is larger than the number of truly impossible setups, but the point is still the same.
+
+It's not the presence of luck - it's that, in some cases, but particularly in the setup, luck plays too powerful a role. I prefer chess, not craps, and I think most players feel the same.
+
+I think the game is - very slowly, and in fits and starts - improving. But one serious problem is that the starter set is so bad. I've said it before, but I suspect most players who pick up the starter set run into the brick wall of unwinnable scenarios (good luck with Anduin or Dol Guldur using just one Core Set), throw it into the corner, and never look at it again.
+
+I love this game too - although, to be honest, it's mixed with a certain amount of hate. But overall, I worry that FFG has more or less written off making this game accessible for a large player base, and instead is increasingly catering to a shrinking playerbase of players who love brutal challenges and aren't particularly bothered by nearly unwinnable situations.
+ 
+
+## 18 [richsabre on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703833)
+
+Runix said:
+
+richsabre said:
+
+
+interesting you should say that the number of impossible set-ups outnumber the standard ones
+
+ 
+
+ 
+
+ 
+
+I actually do not think that's the case - for some, like The Hunt for Gollum (one of my favorites, truth be told), bad setups are a rarity. But it is a very frustrating rarity nonetheless. Like I said, it's something like a "You Lose" card; it doesn't matter how often it comes out of the deck, it matters that it's a possibility in the first place. Granted, the number of extremely difficult setups (which could theoretically be beat) is larger than the number of truly impossible setups, but the point is still the same.
+
+It's not the presence of luck - it's that, in some cases, but particularly in the setup, luck plays too powerful a role. I prefer chess, not craps, and I think most players feel the same.
+
+I think the game is - very slowly, and in fits and starts - improving. But one serious problem is that the starter set is so bad. I've said it before, but I suspect most players who pick up the starter set run into the brick wall of unwinnable scenarios (good luck with Anduin or Dol Guldur using just one Core Set), throw it into the corner, and never look at it again.
+
+I love this game too - although, to be honest, it's mixed with a certain amount of hate. But overall, I worry that FFG has more or less written off making this game accessible for a large player base, and instead is increasingly catering to a shrinking playerbase of players who love brutal challenges and aren't particularly bothered by nearly unwinnable situations.
+ 
+
+
+
+i agree with the core set- dol guldur is terrible, i only just won that with some friends the other day in a 3 player game, i have never won solo. anduin is great but is certainly not for the beginner, so you are definatly right when you say players hitting a wall in the core set…..ive seen many players turn up and leave on the forum due to the difficulty..
+
+still its a hard balance to get. ffg not only need to bring new players in but also cater to those who have been here from the start and need a challenge, otherwise it is we who will go away (ok i wont, but i know some who will).
+
+so i think the best thing to do is in the reprints for the core put in another mirkwood level quest, which eases players in better
+
+i dont think ffg have written the game off for newcomers, but i do find it strange that the hobbit packs- that were aimed at bringing 'filmys' into the game, were so fecking hard that even experienced players with the whole card pool find the hard to win
+
+rich
+
+## 19 [John85 on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703868)
+
+richsabre said:
+
+ 
+
+richsabre said:
+
+i dont think ffg have written the game off for newcomers, but i do find it strange that the hobbit packs- that were aimed at bringing 'filmys' into the game, were so fecking hard that even experienced players with the whole card pool find the hard to win
+
+rich
+
+
+
+I know they wouldn't even if it were true, but I don't think FFG ever actually said that they were releasing The Hobbit Saga packs to bring "'filmys' into the game". From what I've heard about it through, if that was the plan they either failed terribly, or made a ton off of new players buying all of the back APs.
+
+## 20 [richsabre on October 2, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=703905)
+
+John85 said:
+
+richsabre said:
+
+ 
+
+ 
+
+richsabre said:
+
+i dont think ffg have written the game off for newcomers, but i do find it strange that the hobbit packs- that were aimed at bringing 'filmys' into the game, were so fecking hard that even experienced players with the whole card pool find the hard to win
+
+rich
+
+ 
+
+ 
+
+I know they wouldn't even if it were true, but I don't think FFG ever actually said that they were releasing The Hobbit Saga packs to bring "'filmys' into the game". From what I've heard about it through, if that was the plan they either failed terribly, or made a ton off of new players buying all of the back APs.
+
+
+
+true- but it is a coincidence, but i wont sidetrack this thread with that as theres no real way to know. either way im happy we are getting them, but again i see a good few players with only the hobbit pack and core asking why its so hard, which is of course that the packs difficulty is tailored for all the card pool…again a difficult balance as ffg needs to TRY and tailor quests for varying card pools, and at the same time encourage people to buy up packs
+
+rich
+
+## 21 [Runix on October 17, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=710913)
+
+ArachneJericho said:
+
+Karma kicked me arse. I now agree; 6 Threat after set-up is nothing compared to Hill Troll, Hill Troll, Marsh Adder, Eastern Crows surging Gladden Fields over the first four turns.
+
+(What would reliably counter THAT? I guess one could snare three times, and Feint a lot, but chances are very, very low.)
+
+But… it was still fun. It let me know that Journey Down the Anduin hadn't lost its bite. It let me know that every win against that scenario is to be treasured. And it made me humble to know that an Elrond/Vilya deck won't solve everything that comes its way.
+
+
+
+Just to follow up on this:  I think your karma paid me a visit as well.  I thought, "Say, I haven't played Anduin in a while", sat down to play it and . . . Dol Guldur Orcs and Hill Troll in the setup, Eastern Crows surging into Hill Troll in the Quest phase, all by the end of Turn 1.
+
+It wasn't fun.  I think we have different definitions of "fun".  I don't have to win for it to be fun, but I do have to feel like I actually have a chance, and I didn't.
+
+Anduin is just a bad scenario.  After having played it many times, I have come to a simple conclusion:  if I get Snare on the first turn or two, and no other big enemies show up, it's an absolute cakewalk.  No Snare and/or lots of other big enemies making an appearance, and I'm dead by the third turn.  That isn't fun, it's just dumb luck.
+
+## 22 [Runix on October 17, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=710935)
+
+richsabre said:
+
+still its a hard balance to get. ffg not only need to bring new players in but also cater to those who have been here from the start and need a challenge, otherwise it is we who will go away (ok i wont, but i know some who will).
+
+
+
+I agree, but I think FFG is completely and totally blowing that balance - it is all catering to the hardcore players at this point.  I do think that having a few extremely challenging quests is good - e.g., Battle for Laketown - if for no other reason than to silence the usual "this game is too easy, I'm bored" forum trolls.  But it isn't just Battle for Laketown and Massing at Osgiliath - it's virtually every scenario that's been released since Khazad-dum, with average difficulty somewhere in the "7" range.
+
+This is not, in any way, shape or form, an accessible game for new gamers - and it's getting worse, not better.  FFG is obviously abandoning new players and selling to a shrinking player base of gluttons for punishment, and there are no signs they even think of it as a problem.
+
+At this point, I am not inclined to put any more money into this game until FFG actively makes an effort to sell to a wider range of gamers than just the ones who think that difficulty "10" scenarios are a dream come true.
+
+## 23 [richsabre on October 17, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=710948)
+
+it would be interesting to hear from someone who had bought and played the core set recently without any input from players here or on other forums
+
+it seems that many players find the game impossible but then easier after some tips…ive often gave a deck list to someone new who has went on to win, or tweaked their own decks with my advice and it has helped them, and thinking back over the last year and a half i think this just common now, but it makes me think…..is this what a game should be like? where you have to rely on guidance….perhaps some find this a fun aspect, but many i guess are put off by the difficulty early on.
+
+i am no glaurung (sorry glaurung i mean no offense by that- but you are the perfect example for those who want harder quests)….i think i am in the middle/hard level ground here….i would prefer harder than, lets say hunt for gollum, quests, but certainly nowhere near lake town, or even the riddle quest. but thats not to say i want them all middling either, but that is obvious.
+
+what ffg really need to do is introduce those cards that were rumoured a while back- the ones where you can add in to make the quests more difficult….then experienced players like myself and others can boost the 'standard' quests up, but they are still accessible to newer players.
+
+rich
+
+## 24 [Ellareth on October 18, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=711496)
+
+richsabre said:
+
+it seems that many players find the game impossible but then easier after some tips…ive often gave a deck list to someone new who has went on to win, or tweaked their own decks with my advice and it has helped them, and thinking back over the last year and a half i think this just common now, but it makes me think…..is this what a game should be like? where you have to rely on guidance….perhaps some find this a fun aspect, but many i guess are put off by the difficulty early on.
+
+
+
+ 
+
+ 
+
+If you are looking for fun hour or two game with couple of nerd friends, casually playing once or twice a month, probably the worst possible game to buy.
+
+If you are like me (and probably many others, including you) who likes to bang their heads against brickwall for entire weekend and call it fun, probably one of the best games to buy.
+
+When I started out, I didn't even know there were these excellent forums to ask questions and must have spent weeks after weeks to solo Passage through Mirkwood with a condammable Tactics deck.
+
+Eventually managed to win around 70% of games when I finally started to block with heroes rather than sacrifice allies early game, and quested with Legolas as well once my allies were up.
+
+Then tried Spirit and failed even harder, until I mulliganed for Gandalf or Galadhrim's Greetings and abused Dunhere, managing to win almost every game including first turn Ungoliant couple of times.
+
+Would I have had easier time beating Passage through Mirkwood had I had better card pool or custom deck (namely Leg/Gimli/Eowyn deck, was so proud to figure out this combo…. then saw atleast two dozen decks featuring same heroes online) or even pointer or two from someone more experienced (just quest with Legolas, more often it's location that kills, not enemies)? Probably….. but would I have became as a huge fan of this game as I am now? Probably not.
+
+Eh, after typing my comment I don't know if any of this is relevent to what you were saying (you were looking for input of new players, not reflection from old ones), but this popped into mind when I read whether that early learning curve is a good thing or bad thing.
+
+## 25 [Cunir on October 18, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=711723)
+
+i think it's better that they try and make the quests too hard instead of too easy, though, because if they make the quests too easy right now, they will just get even easier as time goes on (as the card pool increases). and nobody will ever play them.
+
+but if they make them too hard, the chances are they will become a little easier as we get more cards. so we will play them again.
+
+if i was in charge though, i would probably still tweak the rules a little bit. especially for solo players.
+
+## 26 [zeroheroix on October 21, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=712953)
+
+richsabre said:
+
+it would be interesting to hear from someone who had bought and played the core set recently without any input from players here or on other forums
+
+it seems that many players find the game impossible but then easier after some tips…ive often gave a deck list to someone new who has went on to win, or tweaked their own decks with my advice and it has helped them, and thinking back over the last year and a half i think this just common now, but it makes me think…..is this what a game should be like? where you have to rely on guidance….perhaps some find this a fun aspect, but many i guess are put off by the difficulty early on.
+
+i am no glaurung (sorry glaurung i mean no offense by that- but you are the perfect example for those who want harder quests)….i think i am in the middle/hard level ground here….i would prefer harder than, lets say hunt for gollum, quests, but certainly nowhere near lake town, or even the riddle quest. but thats not to say i want them all middling either, but that is obvious.
+
+what ffg really need to do is introduce those cards that were rumoured a while back- the ones where you can add in to make the quests more difficult….then experienced players like myself and others can boost the 'standard' quests up, but they are still accessible to newer players.
+
+rich
+
+
+
+ 
+
+New to the forums- but wanted make a short response to this (I could go on for a long time!) If you want to read- you can skip the first 3 paragraphs that really discuss my "noobness" to the game.
+
+I just picked up this game two months ago and I have really been enjoying it.  I'm in college, so the amount of time I can put into it is sometimes minimal.  But I really enjoy this game for when I need to take a break from work- but still want to keep my brain going.  I also LOVE playing for that sense of accomplishment when you finally do win, thus, I do enjoy the difficulty at times.  I love those games that go so well, where it seems that every card drawn is somehow crucial to winning.  BUT, I cannot say that this is always my overall experience.  Before I get into that- I would like to talk about me as a newbie to the game first and put my overall experience out there.
+
+When I first started playing I bought only the core set.  Opened it up, beat the first quest on the first try with a Tactics only deck.  Thought hey, this is pretty cool and super easy.  But then, I realized I was not playing the game correctly even after basically STUDYING the booklet (I would have been that kid who goes into a test thinking he's going to ace it, but receives an F instead).  I then sat down on my computer and watched about 20-30 minutes of someone playing and explaining the game.  When watching this, the game REALLY clicked instantly.  The video creator discussed strategy, but rather minimally.  If anything- he basically just gave a context as to how to think about the game/cards (and I disagreed with some his views right off the bat).  Essentially, though, the video really just helped me understand the fundamentals of the game.  I better understood the mechanics, and I could begin questing properly.  BUT, I must admit that I CONSTANTLY had to look up definitions to cards/examples while playing.  I got used to this pretty quickly, and as I figured out some cards I could begin to better understand others.  When I buy the expansion packs, I tend to try to play with the cards- and then look them up online afterwards to see what other people have to say (sometimes I find what I need, sometimes-ehh).  For instance- the songs cards immediately REALLY threw me off, and I don't really use them anymore (I think only instance is at carrock sometimes to get some leadership in there)
+
+After the video, I jumped back into the game and beat the first quest with Tactics ionosphere deck again on first try, but correctly.  I repeated this with Leadership, but decided not to monosphere with spirit or lore.  I then moved on to Anduin, and booooy did it get tough quick!  But I enjoyed this, because it instantly made me to start deck building- and I adhered to the 50 card limit.  With limited options, it's quite easy to start deck building at the beginning- the game really just gets you to explore how the spheres mix.  I REALLY think the core does a good job at presenting the spheres in the core.  I then, after a few tries, did beat Anduin with a Leadership+Spirit deck, and since then I have also beat it with Tactics/Lore, and a trisphere deck (excluding tactics).  Yet, I have also had many, many losses. Some decks have worked better than others, but I always struggle to have one single deck really get me through the game.    
+
+There's essentially a good and a bad that I have figured from this game.  BTW, I now own entire Mirkwood cycle- I play one at a time and am currently at EM.
+
+1) The game is, varyingly randomized= leads to many different experiences.  I like games like Carrock/Rhos, that seem to set up the map and the expectations right off the map. Anduin does this too.  But, I am not always a fan of having to randomly draw more than one card on the first try (as in, draw card to begin 1A, then again in first quest phase-- this just leads to too much randomness).   I really enjoy how some of the early packs seem to set up scenarios more- often the more setup through out, the more I like it.  I love in Golum's first pack how you get to kind of choose the experience.  Etc. etc.    
+
+I do like how different quests get you to build new decks- out ruling the 'one deck to rule them all' idea (while I'm sure it's pretty possible, I often use a certain deck of my own).  Also as the packs go along, new decks become apparent.  I enjoy experimenting with the new decks, and I love how a new deck can really create a whole new experience to a quest.  I really enjoy trying out new heroes, and often I can be surprised by the results.  
+
+I have recently spent 15+ games of Rhos., and I have tried many different decks… this will lead me to the neg.
+
+2) The varying randomization= bull sometimes.  I'm not talking about, oh no bad draw right away.  Not just one here or there- but the reoccurring, aggh there's nothing to do with all these draws.  I agree fully that you should try to build decks around scenarios (ie. the thread recently made on sleeping scentry). I do realize this randomness is one of the core elements of the game, and sometimes I think it can only be fixed by changing the mechanics.  
+
+I have only played Rhos. solo (I play with one deck, and don't like to control two- makes me feel like I have a multi. personality disorder or something).  I have won sometimes, lost others.  But every single time, I feel like there was a strong element of luck.  I usually play with a combination of Tactics w/ one other sphere (even trisphere sometimes).  Yet, no matter what the experience- I feel like it often comes down to not being able to deal with the treachery cards.  Sometimes I just don't get through the deck fast enough.  Other times, I'm lucky and I get the objectives right away and just breeze through.  IDK, but I feel like this is all sloppy game mechanics.  I can build multiple decks- great- but if different decks yield really similar results, then I start to get a bit annoyed.  I don't know how Rhos. fairs for others solo- but I just think it is kind of broken.  Perhaps others have decks that win it all the time- but for me, even if a game is going REALLY well- a treachery card or bad scenario can just screw me over.
+
+ 
+
+So essentially, this is my experience so far.  I love the game, I really do.  But sometimes, I just need to walk away.  I really want to be able to "conquer" each quest until I move on, but I have realized that this is not the way to play the game.  Sometimes you just have to move on.  I'm realizing, and I'm sure this will strengthen, that some games just are not meant for solo-players.  The only way I can see this game really gearing in differences versus amount of players is drying to minimize randomness, and create more set-up scenarios (even so far, I can already start to notice this).
+
+I would also like to have more cards to deal with treacheries.  They can just be BS.  I don't always want to play spirit in my deck as a solo-player, but sometimes I'm forced to.  If not, then I have to cross my fingers too often sometimes.  I'm sure this goes better in two player… but even then, I wish that all spheres could somehow deal with treacheries better.  I also am hoping that the packs overall card pool seem more linked- I get drifts in the Mirkwood cycle, but sometimes there just seems to be bad cards/overly redundant… idk, entirely different conversation.
+
+I have played the game two player some (with my girlfriend over a break).  And I must admit, I REALLY enjoyed the game more.  I really look forward to sitting down during winter break and playing it.  I like deck building solo- there's a lot of strategy- but it is often limited by some restrictions (they all have to serve some sort of basic function, etc.).  I think with two people that there is a lot more chance of variety.  
+
+ 
+
+Anyways so yeah, I just really wanted to write a good deal and thought this was a nice post to reply to.  
+
+This game has a bit of a learning curve.  You reach a happy place.  You accept that the randomization can be bull- and that's a big part of the fun, but it sometimes does seem almost broken.  I think a little more set-up would be fine.  But I do enjoy the idea that this game is NOT meant to be won all the time.  The idea of LOTR isn't sure victory- hence why I like how Rohan is a sacrificial deck.  LOTR is about surpassing great odds (something I think the board game also really shows well).  
+
+ 
+
+Themewise, this game is just great! Couldn't be happier with it and I'm excited for future games.
+
+ 
+
+## 27 [richsabre on October 21, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=712971)
+
+thanks alot for taking the time to post that
+
+what you say seems very much like what i was feeling when the game first came out- i loved it, but it was frustrating at time
+
+i think its worth saying that, in general, the bad sides you say do get better with the later packs……some are worse, but in general ffg seems to address problems that are picked up during play
+
+i think that hiers of numenor will especially change this and add new elements to the game
+
+quests like rhosgobel are nice in theme, but as a solo player i agree they are poorly designed, but this is something that most people will agree with. also quests like emyn muil are the opposite- far to linear and easily winnable.
+
+i think ffg are finding the sweet spot between the two.
+
+rich
+
+## 28 [mr.thomasschmidt on October 21, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=712975)
+
+ Glad it wasn't a long answer ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] hehe nicely put though
+
+## 29 [richsabre on October 21, 2012](https://community.fantasyflightgames.com/topic/71873-guarded-surge-and-unwinnable-games/?do=findComment&comment=712978)
+
+mr.thomasschmidt said:
+
+ 
+
+ Glad it wasn't a long answer ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] hehe nicely put though
+
+ 
+
+ 
+
+haha- i once wrote something of that length a while back- i went to post it and the **** forum did that thing where it doesnt load and then goes to a blank page….argh…..
+

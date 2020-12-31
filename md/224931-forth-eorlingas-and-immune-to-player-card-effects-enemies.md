@@ -408,3 +408,265 @@ While I essentially agree with cmabr002 that it is often fruitless to quibble ab
 
 i.e., he only gets his bonus when "targeting", which the FAQ says he cannot do to the Immune enemy.
 
+## 26 [dalestephenson on October 31, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2482463)
+
+A reasonable interpretation.  The FAQ says not that immune enemies can't be targeted, only that they can't be targeted by player card effects -- you *can't* attack an enemy, immune or not, without targeting it, but an immune enemy *can* be targeted for an attack if they are engaged, even if staging.
+
+ 
+
+So the question then becomes what the "when doing so" means on Dunhere's card.  If it means "When Dunhere targets enemies in the staging are and attacks alone", I think it should qualify.  If it means "When Dunhere *uses his ability* to target enemies in the staging area and attacks alone", it definitely doesn't.  And rethinking this, I agree the latter is more likely to be the intent of the card.
+
+## 27 [JanB on October 31, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2482644)
+
+>  
+> 
+>  
+> 
+> Hi Jan,
+> 
+> You cannot attack an enemy that is immune to player card effects in the staging area because the game does not afford players those kind of attacks as a normal framework action. Therefore any player card ability that allows you to attack an enemy in the staging area, such as Haldir or Hands Upon the Bow, would not work on Host of Angmar because it would be immune to those effects.
+> 
+> However, the ranged and sentinel keywords do not target the enemy, rather they affect the character they appear on and allow it to take advantage of framework actions that no enemy is immune to. So you can use sentinel to defend the Host of Angmar while it is engaged with another player, and you can use ranged to attack it.
+> 
+> The Host can be tackled a couple of different ways: 1. You can dog-pile it with a lot of characters, including your friend’s ranged characters, combining their total attack. Cards like For Gondor! can help with this strategy by giving each attacking character +1 ATK. Or, 2. You can build up several super high attack strength heroes with lots of attachments that grant attack bonuses, such as Gondorian Fire and The Black Arrow. Since the Host’s engagement cost is 50, an event like Unseen Strike can help in a pinch.
+> 
+> I would say that having several characters with the ranged keyword is very important in a multiplayer game so you can pile on the attack strength regardless of who the Host is engaged with.
+> 
+> Cheers,
+> 
+> Caleb
+
+## 28 [shosuko on November 1, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2483735)
+
+Thanks JanB, and I think that enforces what I was saying.
+
+ 
+
+cmabr002 - It is not a grey area to talk about what a character can and cannot due.  While this game has a rocky rules element that often causes us to seek clarification, I think this one is pretty clear.  There is the game framework, and there are character abilities.  The game frame work allows a player to attack an enemy they are engaged with, or with ranged to attack an enemy engaged with another player.  Same with sentinel.  This is by the game framework, and is not a card ability.  Just as dealing damage is a game framework effect, so you can damage cards that are immune to player card effects, because the damage is not a card effect but a framework mechanic.
+
+ 
+
+Quick Strike has been ruled to allow a framework attack - meaning you could make an attack from a character you can make an attack with, against an enemy they could attack.  Forth Eorlingas, Hands Upon the Bow, ect all apply a player card effect which modifies the framework attack to extend it to the staging area.  I see a clear distinction between these two things now.  Ranged and Sentinel aren't card abilities, they are traits of a card which dictate their framework interaction, but Haldir's ability to shoot the staging area is a player card effect, because it is an ability on the card which adds an effect the basic rules of the game don't have.
+
+ 
+
+I'm as much for a comprehensive rules document, with as much errata as needed to give us a clearer, more consistent game experience, but I think in this situation it is pretty cut and dry.
+
+ 
+
+edit - 
+
+ 
+
+1.  Would you say Eowyn could typically attack an enemy that is immune to player card effects and engaged with another player?
+
+- Eowyn cannot typically attack an enemy that is immune to player card effects and engaged with another player because you can typically only attack an enemy engaged with you when you don't have the ranged trait.
+
+2.  Would you say Eowyn with a Dunedain Cache could typically attack an enemy that is immune to player card effects and engaged with another player? 
+
+- As Dunedain Cache gives the ranged trait - and ranged character can typically attack an enemy that is engaged with another player - Eowyn with DC can attack an enemy engaged with another player that is immune to player card effects.  The card effect that gives her ranged effects her, the framework extends her ability to attack an enemy engaged with another player.
+
+3.  Would you say Eowyn with Forth Eorlingas! could typically attack an enemy that is immune to player card effects and is in the staging area?
+
+- Forth Eorlingas applies a player card effect to create the ability to make an attack into the staging area.  As this is a player card ability that does not follow the game framework rules for attacks, you cannot attack an enemy that is immune to player card effects.
+
+ 
+
+Bonus - Tactics Eowyn is definitely one of the best cards in the game.  Which quest would you recommend to get the most use out of her +9 attack for 1 turn with say, Path of Need in play on the active location?
+
+Edited November 1, 2016 by shosuko
+
+## 29 [Fingolfin Fate on November 4, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2487844)
+
+So the newly spoiled Oath of Eorl works against immune enemies as well? It seems it is just the same as Quick Strike.
+
+## 30 [dalestephenson on November 4, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2487999)
+
+I think Oath of Eorl would certainly work, since it doesn't target enemies at all, merely alters the order of operations within a phase.
+
+## 31 [shosuko on November 4, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2488688)
+
+Yeah, this looks like Oath of Eorl will be legal against immune cards, again the reason is because it isn't changing who you can attack, or how you can attack, only when you can attack.
+
+## 32 [Distractionbeast on November 7, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2492409)
+
+Well, the designers get the final official say on all matters, but I'm going to have to deny any correlation to the actual text.  There is little consistent wording between these examples.  Sorry, Matt and Caleb.  I love you guys, but the explanation really doesn't clear this up.
+
+Dunhere's ability is passive and does NOT target enemies at all.  It clearly says that Dunhere can target enemies in the staging area when he attacks.  It is altering his ability to perform a normal attack.  On the other hand, if it read "Choose an enemy in the staging area..." then I could understand the immunity.
+
+Forth Eorlingas could go either way, since it also does NOT target enemies, but just modifies the framework.  Saying that characters can be declared as attackers against enemies in the staging area does not target the enemies.  But I can accept that the designers simply intend it that way.
+
+Hands Upon the Bow uses the targeting as part of its effect.  It does NOT "allow the character to target", but rather directs the player to target the enemy, hence the immunity would apply.  Haldir's effect is structured similarly.  Unfortunately, Quick Strike's wording is almost identical.  Relying on the logic that an eligible target indicates a "normal" attack versus whatever other kinds there are is to read more into the text than is there and without the foundational consistency, we're just reduced to requesting a list of card effects which are affected by immunity and referring to it as we play.
+
+Long term, this is one area where the designers should focus on to develop a consistent vocabulary as classic M:tG did long ago.  In that game, the term "target <cardtype>" always indicated a targeting whereas broad, general effects did not trigger immunities.  
+
+Just for the record, as a rule, Matt and Caleb are knocking this game out of the park (in a good way), so take this as very constructive criticism from a big fan.
+
+## 33 [GrandSpleen on November 8, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2493289)
+
+> Dunhere's ability is passive and does NOT target enemies at all. 
+
+ 
+
+I always thought that they wrote this passage in the FAQ specifically for Dunhere, whose card uses the word "target" :
+
+ 
+
+"Additionally, cards that are immune to player card
+
+effects cannot be chosen as targets of player card
+effects. This means that any player card that uses a
+form of the words “target” or “choose” cannot choose
+a card that is immune to player card effects as its
+target."
+ 
+Dunhere and immunity never really bothered me, but the identical wordings of Quick Strike and Hands Upon the Bow always did.  Quick Strike should not work against immune enemies.
+
+## 34 [shosuko on November 8, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2493405)
+
+> Well, the designers get the final official say on all matters, but I'm going to have to deny any correlation to the actual text.  There is little consistent wording between these examples.  Sorry, Matt and Caleb.  I love you guys, but the explanation really doesn't clear this up.
+> 
+> Dunhere's ability is passive and does NOT target enemies at all.  It clearly says that Dunhere can target enemies in the staging area when he attacks.  It is altering his ability to perform a normal attack.  On the other hand, if it read "Choose an enemy in the staging area..." then I could understand the immunity.
+> 
+> Forth Eorlingas could go either way, since it also does NOT target enemies, but just modifies the framework.  Saying that characters can be declared as attackers against enemies in the staging area does not target the enemies.  But I can accept that the designers simply intend it that way.
+> 
+> Hands Upon the Bow uses the targeting as part of its effect.  It does NOT "allow the character to target", but rather directs the player to target the enemy, hence the immunity would apply.  Haldir's effect is structured similarly.  Unfortunately, Quick Strike's wording is almost identical.  Relying on the logic that an eligible target indicates a "normal" attack versus whatever other kinds there are is to read more into the text than is there and without the foundational consistency, we're just reduced to requesting a list of card effects which are affected by immunity and referring to it as we play.
+> 
+> Long term, this is one area where the designers should focus on to develop a consistent vocabulary as classic M:tG did long ago.  In that game, the term "target <cardtype>" always indicated a targeting whereas broad, general effects did not trigger immunities.  
+> 
+> Just for the record, as a rule, Matt and Caleb are knocking this game out of the park (in a good way), so take this as very constructive criticism from a big fan.
+
+Certainly there isn't any correlation to the wording on the cards.  They tried that, and like some other things... they had to change their stance on it again.
+
+The only question you need to ask is "If it were attack phase, and I had no card effect in play, could I attack this target"  If the answer is yes, then you can use a card ability to initiate that attack.  If the answer is no, then there is a player card effect in play, and the targeted card is immune.
+
+ 
+
+This is the only way that works consistently with the printed cards, and allows the quests and such to work "as intended."  This basically just allows Quick Attack to work, but if there is any other card effect which works like QA where it simply allows the attack to happen, but doesn't change anything about what that attack would be, then it would also work.
+
+Edited November 8, 2016 by shosuko
+
+## 35 [cmabr002 on November 8, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2493590)
+
+>  
+> 
+> > Well, the designers get the final official say on all matters, but I'm going to have to deny any correlation to the actual text.  There is little consistent wording between these examples.  Sorry, Matt and Caleb.  I love you guys, but the explanation really doesn't clear this up.
+> > 
+> > Dunhere's ability is passive and does NOT target enemies at all.  It clearly says that Dunhere can target enemies in the staging area when he attacks.  It is altering his ability to perform a normal attack.  On the other hand, if it read "Choose an enemy in the staging area..." then I could understand the immunity.
+> > 
+> > Forth Eorlingas could go either way, since it also does NOT target enemies, but just modifies the framework.  Saying that characters can be declared as attackers against enemies in the staging area does not target the enemies.  But I can accept that the designers simply intend it that way.
+> > 
+> > Hands Upon the Bow uses the targeting as part of its effect.  It does NOT "allow the character to target", but rather directs the player to target the enemy, hence the immunity would apply.  Haldir's effect is structured similarly.  Unfortunately, Quick Strike's wording is almost identical.  Relying on the logic that an eligible target indicates a "normal" attack versus whatever other kinds there are is to read more into the text than is there and without the foundational consistency, we're just reduced to requesting a list of card effects which are affected by immunity and referring to it as we play.
+> > 
+> > Long term, this is one area where the designers should focus on to develop a consistent vocabulary as classic M:tG did long ago.  In that game, the term "target <cardtype>" always indicated a targeting whereas broad, general effects did not trigger immunities.  
+> > 
+> > Just for the record, as a rule, Matt and Caleb are knocking this game out of the park (in a good way), so take this as very constructive criticism from a big fan.
+> 
+> The only question you need to ask is "If it were attack phase, and I had no card effect in play, could I attack this target"  If the answer is yes, then you can use a card ability to initiate that attack.  If the answer is no, then there is a player card effect in play, and the targeted card is immune.
+> 
+>  
+
+ 
+
+The problem with this statement is that Ranged is a card effect.  So it's not so simple.  Thankfully, the developers cleared that up for us by telling us Ranged and Sentinel are not affected immune despite being card effects.  What Distractionbeast said is true although I think it would be easier to move forward making a list of effects that are not affected by immunity and to just assume everything else is until told otherwise.  Although, that still requires us to ask.
+
+ 
+
+>  
+> 
+> Relying on the logic that an eligible target indicates a "normal" attack versus whatever other kinds there are is to read more into the text than is there and without the foundational consistency, we're just reduced to requesting a list of card effects which are affected by immunity and referring to it as we play.
+
+ 
+
+In summary (due to developer clarification):
+
+ 
+
+1.  Quick Strike, Ranged, and Sentinel are NOT affected by immune. 
+
+2.  Additionally, damage cancellation and resource pools are eligible to be manipulated even if that character is immune.
+
+3.  Immunity does not apply while out of play, although the victory display may be an exception to this rule (not sure)
+
+## 36 [shosuko on November 8, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2494800)
+
+Ranged is not a card effect.  As discussed before, Ranged simply invokes the game rules which dictate who can attack who.  I think it's pretty easy to see the difference between Haldir's Ranged keyword, and the ability he has to exhaust and target an enemy not engaged with you for an attack.
+ 
+
+> Keywords are used as shorthand for common game effects that appear on a number of cards. The keywords and their role in the game are explained below. Keywords are denoted textually, usually at the beginning of a card’s rules text.
+> 
+>  
+
+ 
+
+Ranged and Sentinel are both described in this area.  Also you can see the difference easily on cards, as they are always separate from any ability text.
+
+Edited November 8, 2016 by shosuko
+
+## 37 [Kakita Shiro on November 8, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2494801)
+
+> Ranged and sentinel are traits, like Gondor is a trait.
+
+Technically, Ranged and Sentinel are keywords not traits.
+
+## 38 [cmabr002 on November 9, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2495302)
+
+> Ranged is not a card effect.  As discussed before, Ranged simply invokes the game rules which dictate who can attack who.  I think it's pretty easy to see the difference between Haldir's Ranged keyword, and the ability he has to exhaust and target an enemy not engaged with you for an attack.
+> 
+>  
+> 
+> > Keywords are used as shorthand for common game effects that appear on a number of cards. The keywords and their role in the game are explained below. Keywords are denoted textually, usually at the beginning of a card’s rules text.
+> > 
+> >  
+> 
+>  
+> 
+> Ranged and Sentinel are both described in this area.  Also you can see the difference easily on cards, as they are always separate from any ability text.
+
+ 
+
+You should probably edit the bold part.  To clear up your mistake, I've edited it for you in the quote above.  As I said before, the developers have cleared up this interaction for us (between Ranged and Immunity) so we can move forward, but to say it is "cut and dry", clear, or any other such similar word, is just being disingenuous at best.
+
+ 
+
+>  
+> 
+> On the hero and player cards, card effects fall into one of 5 categories: constant effects, actions, responses, forced effects, and keywords.
+
+## 39 [Lecitadin on November 9, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2496065)
+
+So... can Haldir attack immune enemies or not?  :unsure: [//content.invisioncic.com/Mfantflight/emoticons/default_unsure.png]
+
+## 40 [dalestephenson on November 9, 2016](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2496088)
+
+Haldir can attack immune enemies if they are engaged with him (framework attack) or another player (ranged framework attack).  He cannot use the action printed on his hero card to attack immune enemies.
+
+## 41 [JanB on February 24, 2017](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=2655508)
+
+Asked Caleb about Haldir's action - if it considered as a ranged attack when attacking an enemy engaged with another player:
+
+> Quote
+> 
+> Hi Jan,
+> 
+> Haldir's effect targets an enemy. Enemies that are immune to player card effects cannot be targeted by player card effects. Therefore, an enemy that is immune to player card effects cannot be targeted by Haldir’s effect.When Haldir uses his effect, it is not considered a ranged attack. Ranged attacks are described in the core rules under the Ranged keyword. When a character with the Ranged keyword declares an attack against an enemy engaged with another player via the Ranged keyword, that is a ranged attack. When you declare Haldir as an attacker via his ability, that is different.
+> I hope you’re enjoying The Siege of Annuminas!
+> 
+> Cheers,Caleb
+
+## 42 [Bobbymcbobface on April 2, 2020](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=3922937)
+
+> On 11/4/2016 at 7:28 AM, dalestephenson said:
+> 
+> I think Oath of Eorl would certainly work, since it doesn't target enemies at all, merely alters the order of operations within a phase.
+
+I just wanted to clarify: Oath of Eorl can be used to attack "immune to player card effects" enemies engaged with you before they attack?
+
+## 43 [Alonewolf87 on April 2, 2020](https://community.fantasyflightgames.com/topic/224931-forth-eorlingas-and-immune-to-player-card-effects-enemies/?do=findComment&comment=3922941)
+
+> 3 minutes ago, Bobbymcbobface said:
+> 
+> I just wanted to clarify: Oath of Eorl can be used to attack "immune to player card effects" enemies engaged with you before they attack?
+
+That card basically change of the normal order of the framework step of the round, so yes. The normal declaration of an attack against an enemy during the players attack step of the Combat Phase is part of the game framework and you can choose eligible "immune to player card effects" enemies. Note that this still doesn't let you attack immune enemies in the staging area with let's say Dunhere or Forth Eorlingas (but you can combine Forth Eorlingas/Dunhere and Oath of Eorl to attack non-immune enemies in the Staging Area I guess)
+

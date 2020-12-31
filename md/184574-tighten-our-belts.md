@@ -1,0 +1,100 @@
+# [Tighten Our Belts](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/)
+
+## 1 [John Constantine on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727060)
+
+Tighten-Our-Belts.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Tighten-Our-Belts.jpg]
+
+ 
+
+Lets talk this card, I don't think I've seen it getting any publicity at all.
+
+ 
+
+So, does anybody uses it? How is it? 
+
+## 2 [gandalfDK on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727062)
+
+Yeah,  I use it.
+
+ 
+
+It's awesome. In a trisphere deck, going from 1-1-1 to 3-3-3 gives such a headstart.
+
+## 3 [Gizlivadi on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727066)
+
+I like threads like these. I've never used Tighten Our Belts except for a couple times, and it wasn't very effective. Not because it's a Refresh action, but because it requires a hero not to spend resources. That's very restrictive for a normal Leadership aggro deck or portion of a deck. I think it works better with Lore and Spirit, probably something like secrecy or even Silvan. The thing is that normally I'll just play something cheap that turn with the one or two resources I have available of that sphere, and if running Leadership and Steward, with even more. For tri-sphere I could see being effective. Hobbits might like it a lot. 
+
+## 4 [John Constantine on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727107)
+
+The biggest problem I see with this card is getting through entire turn without spending anything. It couild be pretty hard. You'll probably need someone like Beorn to manage. Then yet again, Beorn wouldn't be able to enjoy the benefits of this card.
+
+## 5 [koriakin97 on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727115)
+
+I run 3 copies of this card in my Aragorn (tactics) halbarad idraen deck. I have few cost 1 cards, so this usually gives me 3 resources for one card and allows me to play cards like sword that was broken on second turn.
+
+## 6 [Noccus on August 8, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727130)
+
+Yes I've seen it being put to good use quite a few times by one of my buddies in multi-player.
+
+It's mostly a opening hand card, to use on yourself.
+
+But I've also seen it used effectively midway through a game and on other players.
+
+ 
+
+So, a good utility card imo, better in multi player then solo.
+
+## 7 [entMoot on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727190)
+
+This is definitely a card on my to-test list.
+
+ 
+
+With the 0-cost doomed cards, many free attachments and allies available, as well as cost-reducing heroes like Beregond, Grima, Theoden (Spirit), I think there are getting to be a decent number of things to do while stock piling resources for a later turn.
+
+## 8 [Teamjimby on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727297)
+
+I like it in multiplayer.  In 3 or 4 player, on any given turn there is a good chance that you'll be able to give someone 2 or 3 resources.  The only decks I've used it in solo or 2 player are tri-sphere.  In particular, a silvan deck with Celeborn, Galardiel, and lore.  There are very few cards you can actually play for 1 in that deck unless you have Nenya or O Lorien, so it can be 3 resources right off the bat.  Like others have said, it can be great at the beginning.
+
+## 9 [Raven1015 on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727492)
+
+As others have said, it's a great tri-sphere card, especially in the opening hand.
+
+## 10 [Rob_Oz on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727555)
+
+Works quite well in Fog on the Barrow Downs if its in your opening hand. It could also be useful in a scenario like Druadan Forest where you may find yourself with out resources due to encounter card effects.
+
+As others have mentioned, it can also be used fairly well in multiplayer to give another player resources when that player may not want to play a card on Turn 1. I've used it a little bit this way and it is pretty strong to be able to have 3/3/3 resources on Turn 2, especially if you have resource laundering available (Envoy of Pelagir, for example). I could also see it working with Spirit Theoden or Damrod. Those heroes could allow for a 0 cost play (1 cost Rohan ally or a Trap becomes 0) while still allowing the player to benefit from Tighten Our Belts next turn. Whether its good enough to play on a regular basis is harder to say.
+
+Edited August 9, 2015 by RobOz
+
+## 11 [Eu8L1ch on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727639)
+
+Aside from the 1st turn use with a tri-sphere you already mentioned, I think it's a very good card as a backup plan for decks that rely on Steward of Gondor for resource acceleration, because it can really help you when the Steward doesn't show up T1. Usually those decks are very resource intensive, so those 3 resources could make a lot of difference.
+
+Also good if you're going for 'booming' decks like dwarves or outlands that would have a slow round 1 anyway.
+
+All in all a great card, in my opinion, also considering the fact that there are few resource generation effects not linked to traits.
+
+ 
+
+ 
+
+I think this is one of the best cards we had in the last packs, design-wise, since it encourages you to be creative (use 0-cost cards, special effects, choose carefully decks it might fit in) but it rewards you for doing so (2-3 resources is a significant advantage), so it's not a card you'll want in all decks but it definetly has its usefulness and it doesn't force you to put it in a specific deck type.
+
+## 12 [Mndela on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1727643)
+
+To me is a very good card. Even in bysphere. 1 leader resource pool, and other 2 of any other sphere.
+
+## 13 [divinityofnumber on August 9, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1728201)
+
+Good in a Secrecy build that includes Leadership. If you run Sam G., you can play Bill the Pony for free, and there is that other Secrecy 2 character that is free if your are in secrecy mode. Also, you have things like Timely Aid to spam in an ally for 1-cost. In a build like that, you can often play an ally or two for free on the first turn and then use Tighten Our Belts and really have an explosive second turn. 
+
+## 14 [bubblepopmei on August 14, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1736520)
+
+I use this often in my Leadship/Tactics deck with Imrahil, Mablung, and Hama. Even if I use resources from 1 hero, dropping it still nets 2 resources for nothing.
+
+## 15 [DukeWellington on August 15, 2015](https://community.fantasyflightgames.com/topic/184574-tighten-our-belts/?do=findComment&comment=1736711)
+
+^ exactly. You don't have to spend nothing to make it worthwhile.
+

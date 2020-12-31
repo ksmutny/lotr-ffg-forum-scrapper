@@ -429,3 +429,166 @@ Sorry for my english, but as i understand, those examples are correct?:
 
 It seems yes, that is what happens, based on the recent ruling quoted above.
 
+## 26 [Teamjimby on January 25, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2011876)
+
+What happens if you combine these two cards?  Galadriel boosts Bilbo, Bilbo boosts Galadriel, loop continues.  Infinite willpower on both of them?
+
+The-Lucky-Number.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.png]Nenya.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbor%27s-Secret/Nenya.jpg]
+
+Edited January 25, 2016 by Teamjimby
+
+## 27 [NathanH on January 25, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2012300)
+
+Oh dear.
+
+## 28 [cmabr002 on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2012494)
+
+Looks like we have a problem.  But, yes, they would both have infinite willpower under the current ruling.
+
+## 29 [sappidus on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013029)
+
+But... but... if I don't OWN infinite progress tokens, I can't place them on the quest! After all, quest cards can take an arbitrary number of tokens above their completion requirements. So, since I am actually unable to place the tokens, I can't say I can proceed to the next quest card!
+
+Also: I would love errata to Nenya that added the phrase "(other than Bilbo Baggins)", since can you imagine the confusion on new players' faces when reading the FAQ for the first time? :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 30 [Ecthelion III on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013036)
+
+Throw in a Tale of Tinuviel and with a Dunedain hero you've got an Infinite Willpower Triangle Extraordinaire! (patent pending)
+
+## 31 [Teamjimby on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013067)
+
+> Throw in a Tale of Tinuviel and with a Dunedain hero you've got an Infinite Willpower Triangle Extraordinaire! (patent pending)
+
+I thought about that too, but Tale says printed willpower.
+
+## 32 [Authraw on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013114)
+
+This is awesome.
+
+*tries to figure out how to use this for infinite attack*
+
+## 33 [Seastan on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013151)
+
+> *tries to figure out how to use this for infinite attack*
+
+ 
+
+Elf-Friend and Fair and Perilous on Bilbo?
+
+## 34 [PocketWraith on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013471)
+
+> > *tries to figure out how to use this for infinite attack*
+> 
+>  
+> 
+> Elf-Friend and Fair and Perilous on Bilbo?
+
+Plus Quick Strike to attack during the Quest phase.
+
+(Unless the idea is purely to have infinite attack rather than to actually use it. Or I suppose if you're doing the Battle stage of Bo5A, then it applies)
+
+## 35 [Authraw on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2013901)
+
+Or Nor Am I a Stranger + Herugrim. We can go 100% combotastic by giving Bilbo ranged and using Hands Upon the Bow to kill enemies during staging.
+
+## 36 [sappidus on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014120)
+
+Random thought experiment: how to get infinite Defense with this.
+
+ 
+
+The only way I can think of is to:
+
+ 
+
+...be playing mono-Spirit
+
+...as the non-first player in multiplayer, so that Bilbo is being controlled by someone else
+
+...Bilbo has a Song of Traveling attached to make him a Spirit character
+
+...do the infinite Willpower shenanigans
+
+...play Against the Shadow (this is why Bilbo can't be a hero you control)
+
+ 
+
+Against-the-Shadow.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/Against-the-Shadow.png]
+
+ 
+
+(Technically, Desperate Alliance could let you have one non-Spirit hero while pulling off this super-easy combo.)
+
+ 
+
+Obviously this would be of limited use, since rare is the attack that occurs during the Quest phase. (Can it even happen during the Hobbit sagas?) But hey, I BROKE THE **** SIEGE QUEST CARD OF Bo5A! ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Edited January 26, 2016 by sappidus
+
+## 37 [Teamjimby on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014514)
+
+FYI:
+
+> Hi Jim,
+> This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+> Cheers,
+> Caleb
+> 
+>  
+
+## 38 [JanB on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014561)
+
+> What happens if you combine these two cards?  Galadriel boosts Bilbo, Bilbo boosts Galadriel, loop continues.  Infinite willpower on both of them?
+> 
+> The-Lucky-Number.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.png]Nenya.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbor%27s-Secret/Nenya.jpg]
+
+ 
+
+Hi Jan,
+
+This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+
+Cheers,
+
+Caleb
+
+ 
+
+## 39 [Ecthelion III on January 26, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014846)
+
+> > What happens if you combine these two cards?  Galadriel boosts Bilbo, Bilbo boosts Galadriel, loop continues.  Infinite willpower on both of them?
+> > 
+> > The-Lucky-Number.png [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.png]https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbor's-Secret/Nenya.jpg [https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Celebrimbors-Secret/Nenya.jpg]
+> 
+>  
+> 
+> Hi Jan,
+> 
+> This issue is under review and will likely be addressed in the next FAQ update due out soon. Needless to say, infinite willpower is not acceptable in The Lord of the Rings: The Card Game. I suggest while players wait for the next FAQ update they resolve lasting effects created by player cards as being resolved at the time they trigger and not recalculated if the game state changes.
+> 
+> Cheers,
+> 
+> Caleb
+
+Welp, looks like the ruling on Gondorian Fire and Blood of Numenor may just have gone out the window AGAIN!!! (or maybe not; what was the last verdict on that?)
+
+## 40 [Kakita Shiro on January 27, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2014999)
+
+> Welp, looks like the ruling on Gondorian Fire and Blood of Numenor may just have gone out the window AGAIN!!! (or maybe not; what was the last verdict on that?)
+
+They previously wanted you re-calcuate as the board state changed, which is what raised this combo.
+
+## 41 [Seastan on February 3, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2029491)
+
+Resolved by newest FAQ:
+
+ 
+
+>  
+> 
+> (1.55) Lasting Effects There are two classes of lasting effects in the game: those created by player cards and those created by encounter cards. Each class is handled differently as follows: A lasting effect created by a player card ability must be calculated at the time that the ability is triggered, and that effect is not recalculated if the game state changes. For example: If a player triggers the Quest Action on Nenya (RM 121) to add Galadriel’s (RM 112) 4 willpower to another hero until the end of the phase, that +4 willpower bonus will not be recalculated if Galadriel’s willpower is increased later that phase. A lasting effect created by an encounter card ability, is recalculated if the game state changes. For example: Part of the ‘when revealed’ ability on Poisoned Vapour (ToS 61) reads: “Until the end of the combat phase, treat each damaged character’s text box as if it were blank (except for Traits).” If Aragorn (ToS 1) had 1 damage at the time Poisoned Vapour was revealed, his text box would be treated as if it were blank. However, if that damage was healed, his text box would no longer be considered blank. If he was damaged again, his text box would be treated as if it were blank until the end of the combat phase
+
+## 42 [Slothgodfather on February 3, 2016](https://community.fantasyflightgames.com/topic/192449-all-characters-get-x-until-end-of-round-persistent-or-current/?do=findComment&comment=2030659)
+
+I'm glad I finally got around to reading this thread but I wish I'd stopped after the infinite will power was discovered.   Would have been awesome to show to my group since we are going through the hobbit saga quests right now.   
+

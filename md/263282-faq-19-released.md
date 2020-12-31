@@ -1,0 +1,2396 @@
+# [FAQ 1.9 Released](https://community.fantasyflightgames.com/topic/263282-faq-19-released/)
+
+## 1 [Jekzer on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080727)
+
+https://www.fantasyflightgames.com/en/news/2017/11/15/a-map-for-your-journeys/ [https://www.fantasyflightgames.com/en/news/2017/11/15/a-map-for-your-journeys/]
+
+Let's discuss things in a separate thread.
+
+I wanted to highlight some of the cards:
+
+Boromir: I think he will still be played a lot. It was a logical decision to me.
+
+Out of the Wild: the same. Trivializing the encounter deck can be fun at first (when you first see the engine working), but boring in the long term.
+
+Háma: this one hurts. A lot.
+
+Caldara: and this one. It means that players will need think a lot more the moment to "resurrect" her.
+
+Let's wait what Seastan is capable to break in the future :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png].
+
+Edited November 15, 2017 by Jekzer
+
+## 2 [GLADSUM on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080743)
+
+Hama parts painful for me. :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png] But agree, OP sometimes. 
+
+I never use Caldara before. So not problem. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 3 [GrandSpleen on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080765)
+
+Wow they finally clipped Boromir's wings.  That was long overdue.  It removes the main overpowered use of Boromir, which was to have him single-handedly take care of all the defending and attacking. 
+
+The Hama and Caldara ones hurt.
+
+Out of the Wild --- outside of a crazy combo deck, I think this errata makes the card a little stronger, because it now combos with Keen as Lances better (as noted in the FAQ).
+
+ 
+
+## 4 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080787)
+
+I like the errata on Wandering Took, Out of the Wild, and Wingfoot.  They seem rational and don't really damage the "common case".
+
+TaBoromir is significantly less powerful now, especially since his readying is typically always in the same phase.  He's no longer sufficient assurance against multi-attack shadows.
+
+Caldara decks just took a brutal hit.  While I'll agree Arwen/Imrahil/Sword-Thain makes her more powerful, Caldara decks were little-used (my impression) before she got that support despite the ability to recur her.  I think removing Fortune or Fate from the game when played would've been a bit friendlier, allowing multiple uses (at least with multiple core sets) but not infinite uses.
+
+Hama's nerf hurts worse.  I can see where recurring Thicket of Spears may be a problem, but allowing Hama to use his ability (at the cost of a discard) three times all game doesn't seem very compelling to me.  *Most* tactics events just aren't that powerful IMO.  Having Thicket of Spears remove itself from the game would seem a better way to remove the corner case without affecting the common usage.
+
+We Are Not Idle has a major impact on dwarf decks.  Not an auto-include anymore, I think.
+
+## 5 [Network57 on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080841)
+
+So now that we've errata'd Boromir, can we nerf some of the anti-Boromir (but really screw over everybody else worse) encounter effects they've had to design around him since Cycle 1?
+
+## 6 [Bullroarer Took on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080853)
+
+I'm really surprised that Burning Brand didn't get quenched in this far reaching errata.
+
+## 7 [13nrv on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080876)
+
+More than one month with no news and now stupid errata like the previous on horn of gondor ... Well, it is time to go elsewhere !
+
+## 8 [Authraw on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080883)
+
+Wow, this is great! A lot of these have been a long time coming. 
+
+It does make my next half-written blog post somewhat awkward, but it also gives me a great topic for the next one... 
+
+## 9 [GrandSpleen on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080886)
+
+There are three uncontroversial rules clarifications that appear at the end of the document, but not on the 'list of changes' at the beginning of the document.  (Pretty sure they're new, but I'm not 100% sure-- either they're new, or they were in the previous FAQ, but they forgot to change the text color to black in this version)
+
+Here they are:
+
+Q: Can I use Proud Hunters (H 32) to add resources to Beorn’s (OHaUH 1) resource pool even though he is immune to player card effects? A: Yes. A hero’s resource pool is a separate game element from the hero card, so cards that target Beorn’s resource pool (and not Beorn) are not affected by his immunity to player card effects.
+
+Q: Can I play Elevenses (DC 36) after resolving a quest since characters are considered to be committed to the quest until the end of the quest phase? A: No. Elevenses says “Play only after the staging step” which means it is only playable immediately after the staging step ends.
+
+Q: Are there any player cards that allow me to attack an enemy in the staging area if it is immune to player card effects? A: No. None.
+
+## 10 [Rouxxor on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080908)
+
+The biggest change in the game ever. Boromir, Caldara and Hama are really damage. I think that I won't use the two last anymore.
+
+I think that a similar change for Gandalf, changing one per phase to once per round would be as reasonable since vilya deck is one of the few toptiers deck staying untouched since the beginning of the game.
+
+## 11 [phosg\u00e8ne on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080915)
+
+What the point here ?
+
+Seriously boys... it's a cooperative game... if you don't like to see Decks with Caldara, Boromir or Wingfoot + Eleanor/Merry II just don't play with the guy who brought those decks. End of story...
+
+ 
+
+New players will not now anything about the FAQ so they will continue (and hopefully don't be disgusted of the game) to play Boromir "as it is writtent" to win the first scenarios
+
+Old players will applied or not those rules.
+
+ 
+
+I won't because it's pointless to "errate" old cards just for one type of decks. If I can defeat a scenario with a specific combo ! Nice for me ! But next time i'll try something else and move. If players just play regularly the same combo to win I understand, but I don't want to play with you.
+
+ 
+
+Everything is needed to make a world ! Even stupid decision :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 12 [JYoder on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080922)
+
+ 
+
+The Proud Hunters / Beorn ruling doesn't really seem intuitive to me, but I won't complain.
+
+ 
+
+The new 1.57 reads: "A player is immediately eliminated from the game the moment his threat reaches his threat elimination level regardless of card effects in play."
+
+Doesn't "regardless of card effects in play" technically and completely negate Favor of the Valar? I'm sure that wasn't the intent, but reads like it.
+
+ 
+
+## 13 [monkeyrama on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080936)
+
+Have only had a very quick look, but on balance I'm not mad at any of these changes. It might be because I don't use many (or even any) of the cards the way that they are being errata'd against, but they all seem fine. Boromir can still do some shenanigans around exhausting to fulfil card effects, but can't now dominate the combat phase without other cards to help, Caldara was a bit silly anyway, and the Out of the Wilds errata is, in my view, a big boost to the card when used normally. Hama is a bit painful, but I guess it was a way to fix it.  We are not Idle needed that fix. It's now no longer a silly card. 
+
+Bit sad about Wingfoot. I never tried one of those silly Wingfoot exploit decks, and now I can't. Oh well. It's still a solid card.
+
+## 14 [Rouxxor on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080937)
+
+> 25 minutes ago, GrandSpleen said:
+> 
+> There are three uncontroversial rules clarifications that appear at the end of the document, but not on the 'list of changes' at the beginning of the document.  (Pretty sure they're new, but I'm not 100% sure-- either they're new, or they were in the previous FAQ, but they forgot to change the text color to black in this version)
+
+I tend so say that Proud Hunter wasn't released at the time of the previous FAQ so they are new ruling ^^.
+
+> 4 minutes ago, JYoder said:
+> 
+> The new 1.57 reads: "A player is immediately eliminated from the game the moment his threat reaches his threat elimination level regardless of card effects in play."
+> 
+> Doesn't "regardless of card effects in play" technically and completely negate Favor of the Valar? I'm sure that wasn't the intent, but reads like it.
+
+This is relevant. I would say that the ruling say "you are eliminated if you reach 50 unless a player card say specifically otherwise (since player cards overules game rules). Of course we should play as Favor of the Valar still work.
+
+## 15 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080942)
+
+I'm sad because I was working on a Hama deck where I use his ability to toss Elven Light.  At three times per game, it's not so compelling anymore.
+
+Really, I think the answer to "recurring X" is to remove X.  Removing Fortune and Fate when used would naturally limit Caldara.  Removing We Are Not Idle would prevent infinite resources.  Removing Thicket of Spears would prevent Hama from recurring it indefinitely.  And in all cases it wouldn't affect the normal usage.
+
+## 16 [monkeyrama on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080951)
+
+> Just now, dalestephenson said:
+> 
+> I'm sad because I was working on a Hama deck where I use his ability to toss Elven Light.  At three times per game, it's not so compelling anymore.
+> 
+> Really, I think the answer to "recurring X" is to remove X.  Removing Fortune and Fate when used would naturally limit Caldara.  Removing We Are Not Idle would prevent infinite resources.  Removing Thicket of Spears would prevent Hama from recurring it indefinitely.  And in all cases it wouldn't affect the normal usage.
+
+That's true. I do wonder if the drive to limit the cards in the way that they did wasn't to get them to roughly the same level of power as similar card types (so We Are Not Idle now functions like many other resource generators, and so recycling it is less bad, whereas even a single good use of the old We Are Not Idle could net 10+ resources). I think Hama is the most poorly handled, but I'm surprised that Caldara wasn't once per game in the first place. Plus ça change...some new broken combo will no doubt be discovered!
+
+## 17 [NathanH on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080960)
+
+What do I think of all this?
+
+ * Wandering Took: Sensible.
+ * Boromir: First his horn and now Boromir himself. Probably going to ignore this one, or consider "three times per phase". Boromir is fun, and I like having fun.
+ * Out of the Wild: Sensible.
+ * Hama: We haven't used Hama very often, and probably wouldn't abuse Thicket of Spears if we did, so I think we will just ignore this because major card changes to disallow pathological edge cases are bad.
+ * We Are Not Idle: Don't really have an opinion on this. Probably a sound change
+ * Caldara: We only have two copies of Fortune and Fate so it's not a big deal either way. Caldara is really strong but also really fun, so I think we will probably bounce between using and ignoring this change.
+ * Wingfoot: Long overdue, not for stopping a weird edge exploit (because errata for such purposes is bad) but rather because the card is such a headache from a rules point of view and the new version is much neater while being basically the same in almost all normal situations.
+ * Proud Hunters: Seems weird.
+ * Elevenses: Whatever.
+ * Attacking immune enemies in staging: This clarification is actually false, because there are cards that allow you to attack immune enemies in the staging area if they are considered to be engaged with you, but this is just being picky and it is welcome to have a simple rule to refer to here.
+ * Immediate elimination: Fair enough. Also, Favour of the Valar creates a replacement effect for being eliminated, so isn't affected by this ruling.
+
+## 18 [DarthJalapeno on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080967)
+
+I just bought my third core set to have at least one copy of all cards as written :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+ 
+
+Also it's going to be a pain remembering how many times I've used Hama as my memory takes a hit with all the stress comming off the encounter deck.
+
+Edited November 15, 2017 by DarthJalapeno
+
+## 19 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080973)
+
+We are not Idle is roughly comparable to Captains Wisdom now -- a card and 1 resource per hero versus 2 resource for a single hero.  But We Are Not Idle was a dwarf-deck staple, and Captain's Wisdom was pretty rarely used.
+
+It's true that the top end of We Are Not Idle is very high, you could exhaust ten dwarves to get ten resources -- but let's face it, if you've got ten dwarves in your swarm and Dain on the table, you don't *need* massive resources to steamroll the quest.  That's just win more.  We Are Not Idle is most useful early, like playing an Erebor Record Keeper for 1 resource, using We Are Not Idle with it to get the resource back (and potentially on a different sphere), and playing a 2-cost dwarf to get to the magic five dwarves on turn one.  In its new form, you have to exhaust a hero in planning phase to get to five, and that's a high cost to pay early.  While limiting the top-end abusiveness, they also nerfed the early-game utility.
+
+## 20 [Rajam on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080978)
+
+> 47 minutes ago, GrandSpleen said:
+> 
+> Q: Are there any player cards that allow me to attack an enemy in the staging area if it is immune to player card effects? A: No. None.
+
+Wasn't Quick Strike an exception? Seems it isnt...
+
+## 21 [PocketWraith on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3080979)
+
+> Just now, Rajam said:
+> 
+> Wasn't Quick Strike an exception? Seems it isnt...
+
+Quick Strike doesn't allow you to attack the staging area.
+
+## 22 [JusticeLizard on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081016)
+
+Last night I finished a saga campaign.  I used Hama and thicket, the other player used Caldara and all of her tricks.  Each game only lasted 7 turns so I'm not sure if we even exceeded the new limits, but I can only imagine what would of happened if we had said "let's get together Wednesday" instead of Tuesday.
+
+## 23 [Bullroarer Took on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081019)
+
+I have to change a deck that I had developed for Assault on Dol Guldur.
+
+## 24 [Authraw on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081020)
+
+> 30 minutes ago, dalestephenson said:
+> 
+> We are not Idle is roughly comparable to Captains Wisdom now -- a card and 1 resource per hero versus 2 resource for a single hero.  But We Are Not Idle was a dwarf-deck staple, and Captain's Wisdom was pretty rarely used.
+> 
+> It's true that the top end of We Are Not Idle is very high, you could exhaust ten dwarves to get ten resources -- but let's face it, if you've got ten dwarves in your swarm and Dain on the table, you don't *need* massive resources to steamroll the quest.  That's just win more.  We Are Not Idle is most useful early, like playing an Erebor Record Keeper for 1 resource, using We Are Not Idle with it to get the resource back (and potentially on a different sphere), and playing a 2-cost dwarf to get to the magic five dwarves on turn one.  In its new form, you have to exhaust a hero in planning phase to get to five, and that's a high cost to pay early.  While limiting the top-end abusiveness, they also nerfed the early-game utility.
+
+I think the key combo here was with Lure of Moria, which makes We Are Not Idle free resources past the third Dwarf. I agree with your statement that it loses early game utility now, though. I have to reevaluate it with the errata, but my gut tells me that it's usually going to end up on the cutting room floor. 
+
+Or perhaps I'll never use it for its text except as a deck thinner. Not sure, I'll be interested to find out. 
+
+Edited November 15, 2017 by Authraw
+
+## 25 [GrandSpleen on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081053)
+
+I wouldn't want a limitation on Fortune and Fate as a solution to Caldara.  That is only 1 of 2 possible ressurection cards currently in the card pool.  Future cards would have to take Caldara into account and limit themselves accordingly too.  (Houses of Healing is Lore and not likely an include in a monospirit Caldara deck, although it's not impossible --- but it can could be included in a companion deck to great effect, so any limit on Fortune and Fate would also have to be applied to this and other ressurect cards)
+
+## 26 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081062)
+
+I don't actually really want a solution to Caldara.  Yes, she's potentially powerful.  But that's why Caldara decks are so much more popular than they were before.  I don't think abolishing a power deck type is necessarily a step forward for the game...
+
+But if we have a solution, I'd prefer a card-based limit rather than a hero-based limit.  I'm fine with resurrection cards removing themselves from the pool -- they're expensive cards that are unlikely to be recurred in the first place unless you're exploiting a discard ability, and limiting the discard ability immediately makes the hero worse.  Companion decks can resurrect Caldara more easily but also dilute the impact of her effect. 
+
+## 27 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081074)
+
+So impact numbers on the seriously affected cards:
+
+Hama decks at ringsdb: 189.  All less powerful than they were yesterday
+
+Caldara decks at ringsdb: 123.  All less powerful than they were yesterday.
+
+TaBoromir decks at ringsdb: 283.  All less powerful than they were yesterday.
+
+We Are Not Idle decks at ringsdb: 483.  Almost all (few may just use it for shrinking the deck) less powerful than they were yesterday.
+
+And for the beneficiaries:
+
+Out of the Wild/Keen as Lances decks at ringsdb: 94 decks.  Some portion of those (those not intending to recur OOTW) more powerful than they were yesterday.
+
+Fringe cases:
+
+Wandering Took/Song of Earendil/Vanish from Sight: 7 decks
+
+Wingfoot/Eleanor/Doughty Ranger: 3 decks
+
+Other Doughty Ranger decks: 2 decks
+
+## 28 [CaffeineAddict on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081080)
+
+A bit sad about Boromir and Hama, as I used to use them a fair bit, but I don't actually remember the last time I played either of them, so It's not terrible either. I never tried a Caldara deck, and I probably never will. 
+
+They all seem fairly sensible, to be honest.
+
+## 29 [Bullroarer Took on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081122)
+
+Dale, How many OotW combined with Scroll of Isildur for recurrence?
+
+## 30 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081142)
+
+I count 49 decks that combine OOTW with Scroll of Isildur, 30 of which use Keen As Lances.  One of my decks (Rossiel deck) falls in that category, since it's a monosphere deck I wanted SoI in there.  But it wasn't targetting Out of the Wild in particular, starting at 19 threat I only had 2 turns for its secrecy discount, and there are *lots* of green events to recur.
+
+## 31 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081156)
+
+i'm not going to be polite, nor makes friends, and i honestly don't mind, coz let's say it... FFG and designers like caleb are poison to their own games. wich is amazing by the way ! (the game i mean !) (but wich could be so much better with the right manager...)
+
+1st :  I don't mind the BAN, please yourself if you feel like it. Maybe this time you will read what people are actually saying to you ? (coz about your game, looks like you never read our returns...)
+
+Caleb ? Sir ? Are you playing your own game sometimes ?
+
+Those nerfs, are just such a poor work... Escpecially for archetype that are alive for many cycles / years now... So What's the point... ?
+
+I'm not saying boromir did'nt need a small adjustement but this... It's like if Sean Bean just died once again...
+
+And Hama... ?  What's that for a "nerf" ? And Caldara... what's that poor rework... ?
+
+how about reworking the "smart" way for a change ?
+
+Fact is, lukas (star wars destiny - Thank god that one left the boat !) and caleb are the same kind of designers :   They actually might not playing their own game like they should... or listen their playtesters, like they should... ?
+
+So Caleb... ? Who are the next ones ? Aragorn tactic ? (Wich is even better/worst to the game than Boromir ?) Nor Elrond maybe ? (coz he's healing WAY TOO MUCH don't you think ? It's not a good stuff for our game right ? You surely have to nerf those aswell !)
+
+and how about nerfing Bilbo and Dori ? coz they're so usefull to this game right ?
+
+So basically, you nerf Hama, for basically what... 1 card ? One combo that you don't like ? Ticket of spears... A combo that is alive for Years now.. And that no one cares about anymore... Coz people learn to play with, or without it... So basically, if you don't like ticket combo, Why don't you just bloody Nerf that Thicket like some others cards :  With a simple "add to victory display" after using... ?????
+
+That way you kill that "annoying" combo, but you still keep Hama alive !
+
+But no... You just make it the no brainer way... And kills an other hero...
+
+3 Heroes are strongly nerfed (or killed here), but have you ever played any of the nightmares or very hard quest in your own game ? Don't you realize that some of those "O.P" archetypes / heroes, are needed ? Like an "Evil Necessary ?" Do you ? No... of course you don't...
+
+Sorry to be that "hatred guy" but someday people have to stand up against too many bull ! not especially for this game, but for many of ffg games out there !
+
+This is not a new way of making bull for you, as i remember the Nerf for "Horn of Gondor" wich has been made for like what... 2 decks "abusing" it ? **** yeah, such a great vision of making the job there aswell !
+
+Caleb... Lukas... Same fight... Really...
+
+And If i just want to say you thank you ! for creating this game ! Coz we all love it, A LOT !
+
+But maybe, now, it's just the time to leave the boat and or AT LEAST, listening to the people trying to work with you ! Giving you advices on cards / quests during the creation process...
+
+Coz nerfing just coz christmass is nice ! really ! especially with your tight vision of the game, but have you ever thought about :
+
+BOOSTING some cards and Heroes for a change ?
+
+Cards Like... i don't know :   Bilbo (wich cost 9 instead of 6 or 7 like he should ?) for exemple ?
+
+Nor like DORI wich is one of the bullshitiest character ever created ?
+
+Or even small cards like those "Rangers from the north" that we shuffle into the encounter decks wich got NO BLOODY SHADOW EFFECT ON THEM ? (would have been great you know... to have a simple "shadow effect that says :  deal 2 damage to the defending character" don't you think ?)
+
+And the Roomcream on the cake is probably :  your amazing way of choosing your heroes :   TOM COTON !!!!???????!!!!????? Really... Really FFG ? TOM COTON... ? Is that how you want to ends up your Saga... ? With a hobbit that no bloody one cares about ? interresting ability sure... BUT How about Frodo and Sam v2 ? Or Bilbo V2 (a real playable version of bilbo ?) No ? really, you prefer a TOM COTON to end your saga story... ? Waaaaaaah... what an Amazing choice here... i can even say that this choice is probably the Designer Award Winner of the century !
+
+God... So many award around you ffg...
+
+Anyway... I'm probably just a raging guy right ? You all got right, those are just masterpiece works and reworks !
+
+Keep up the good works guys... I can't wait the next changes to come in 3 years !
+
+BTW, Nerfing a Co Op game, especially when you make it the poor and bad way... it's a piece of art in itself ! Good Job on that ! ^^
+
+I wish that at least :  you offer something else than .pdf for those nerfed and reworked cards... Something like a Pack on Print on demand, contening all those crap your reworks for us.. That we could purchase for you to make money for your awesome job !
+
+Take care everyone.
+
+I'm done with ffg for a long while now.
+
+Edited November 15, 2017 by Aorakis
+
+## 32 [Calvadur on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081163)
+
+I rarely agree with the errata FFG makes (for player cards, as broken encounter cards are much more harmful than player cards), but let's see:
+
+Wandering Took: Now in line with blue mountain trader. Can't complain.
+
+Boromir: Lost his ability and now has a build in armored destrier for 1 threat. Still usable, but ofc much weaker. The theme took a hit for me, too. It was always easy to imagine Boromir giving everything to stop the endless stream of enemies, now the former brave suicidal gondorian combat machine is more like "hey I could block his hit and counterattack, did anyone EVER hear of such madness?" And I will ignore the Errata for the last three quests of the Saga. FFG, you will not destroy my carefully buffed trio^^ Will be interesting in how many decks he will make it after that. He isn't weak, but the glory of his past will always overshadow him I fear.
+
+Out of the Wild: The decks based around controlling the encounter deck shouldn't really be hit.
+
+Háma: If the only reason for this change is the one explained in the article I can only completely disagree. One card makes combat obsolete? Sure nerf Háma he really is the prob... Hm? Wait, the card actually making this possible is thicket of spears? Nah looks fine to me just keep it this way... As some others have pointed out you could just make thicket remove itself. Or at least make Háma remove the recycled card. But don't limit him. You already discard a card AND pay for the event. But why do I argue, every deck with Háma had to be butchered, because of one combo. Sure changing him now frees up "design space", would be interesting how many concepts were scrapped because someone was like"Dude! You can't print this, totally broken with Háma!" (but maybe I misjudge Háma and there are tons of OP combos, if someone can think of other ones that require a limitation of Háma, I'd be pleased to read them, but shame on FFG for not at least calling them out...)
+I may not like them, but I observe 99% of the errata. Looks like Háma makes the 1%...
+
+We Are Not Idle: Still 0 cost? Check! Still draws a card? Check! Still and auto include and still an amazing combo with lure of moria? CHECK! Shows how strong the card was/is. How many dwarf decks run Dain and how often his he still ready at the end of the round? Pretty save bet this card will generate value by round two, as this didn't get changed into a ressource phase action (did it?) After love of tales it was a matter of time as this one didn't even require a gimmique deck. 
+
+Caldara: I have very limited experience with Caldara decks, but I always thought that the ability to get extreme expensive allies out insanly early was what makes her so strong. Ok you can only do it once per game now, what obviously makes her much worse, but does that really limit the deck that much? I'd still give her a chance, if I'd play the deck :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+It is also funny how FFG says that Caldara is nerved because now way to many cards support her. Good Job! Who would have thought that something like spirit Imrahil would increase her power. Totally blame this on FFG, stuff like Arwen might not be obvious in their interaction with Caldara and are cool on their own, but did we really need a third Imrahil with very little theme, a card you can't think of without Caldara partying through your head and very limited use elsewhere? They just pushed her over the edge and, because every card that overperforms sooner or later gets errata, did not care.
+
+Wingfoot: Whatever. Way to annoyed about Háma, the shortsighted design of cards like spirit Imrahil that are now used to justify the Caldara nerf and dismanteling of Boromir to think much about this one...
+
+ 
+
+I am a little sorry that I cannot really appreciate the thought they put into this as they hoped, but I fear I'm a dead loss concerning errata :S
+
+Edited November 15, 2017 by Calvadur
+
+## 33 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081166)
+
+While I'm no fan of some of the errata, I want to say that Dori is an interesting and thoroughly underrated hero, and I think Tom Cotton is a fine addition to the ranks of Hobbit heroes.  The last thing I want is for Caleb to stop designing.
+
+## 34 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081174)
+
+the only thing he should design, is quests (wich are sometimes really nice and great) and the other only thing he should do, would be to :  listen what his playtesters are telling him ! That might actually help a lot during the creating process... (avoiding some crap héroes, broken cards, post erratas...)
+
+And i forgot to say that, even when he's a card in a card game :  Sean bean find the way to be a dead man !
+
+Edited November 15, 2017 by Aorakis
+
+## 35 [JonG on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081215)
+
+> 26 minutes ago, Aorakis said:
+> 
+> i'm not going to be polite, nor makes friends, and i honestly don't mind, coz let's say it... FFG and designers like caleb are poison to their own games. wich is amazing by the way ! (the game i mean !) (but wich could be so much better with the right manager...)
+> 
+> (SNIP)
+> 
+> Take care everyone.
+> 
+> I'm done with ffg.
+
+I hear what you're saying Aorakis, but if you don't like these amends then just ignore them. I've never played with any of the previous changes made by the designers, and have no intention of ever doing so. In fact I've never read any of the FAQs and I've been playing since the beginning!
+
+I don't know if your post means that you are dumping the game but that's a shame if you are. It's too good to drop. 
+
+ 
+
+## 36 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081235)
+
+> 12 minutes ago, JonG said:
+> 
+> I hear what you're saying Aorakis, but if you don't like these amends then just ignore them. I've never played with any of the previous changes made by the designers, and have no intention of ever doing so. In fact I've never read any of the FAQs and I've been playing since the beginning!
+> 
+> I don't know if your post means that you are dumping the game but that's a shame if you are. It's too good to drop. 
+> 
+>  
+
+
+Well, i like the game a lot, the basic mechanic, the solo playable options, the co op, we got a really nice community here in belgium and some of our people are making this community to live by making 4 to 6 events a years, just for this game !
+
+But as a fan, i don't really agree all those changes they're making... just coz, many of those are just a bad work, a really poor work...
+
+If changes are needed fine, even if this game is not a competitive wich makes those changes/nerfs questionnable...
+
+But changes if they has to be done, could be done much more smartly...
+
+Like not nerfing Horn of gondor for 2 decks (including one that got More than 300 cards in his deck "yeah i never saw that deck on any table i played... they had to nerf that for fure !) nor That Hama's Nerf for what... One card that SIR C Bullcrap did not like to see played ?
+
+I'm not against changes and nerf, but they have to make those smarter than what they're doing.
+
+Coz, and that's for sure, i'll never apply hama's rework ever...
+
+Same for caldara and boromir, there were smarter ways of reworking those aswell...
+
+But they never listen the testers or guys that are bringing real and interresting solution... They're just doing it the way they want.. And here, i say They, but the problem is just a guy that likes having right all along and all the time... (and i'm not talking about me... ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png] )
+
+Edited November 15, 2017 by Aorakis
+
+## 37 [JJ48 on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081255)
+
+> 2 hours ago, DarthJalapeno said:
+> 
+> I just bought my third core set to have at least one copy of all cards as written :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+> 
+>  
+> 
+> Also it's going to be a pain remembering how many times I've used Hama as my memory takes a hit with all the stress commingled off the encounter deck.
+
+Would Hama ever have a reason to have Progress tokens on him?  If not, you could use those to track usage.
+
+## 38 [JYoder on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081261)
+
+> 23 minutes ago, Aorakis said:
+> 
+> i'm not going to be polite, nor makes friends...
+
+Sooo... just to be clear... you're saying you don't like the changes!? :rolleyes: [//content.invisioncic.com/Mfantflight/emoticons/default_rolleyes.gif]
+
+I'll be contrary and say I like the changes. Sure, buffing some poor cards would be great, but nerfing OP cards is better. I've not played with Boromir for 2 years because he's lame and boring. And while I'm a bit bummed about Hama, I realize I haven't used him for 2 years either, as the recycle effect can be so potent due to some amazing Tactics events. (However, I'm not a big NM player, so for those players, I can somewhat sympathize.)
+
+Still, if it's that big a deal, play how you want. A tirade accomplishes nothing, and it's obvious Caleb loves the source material and wants the best for players, but they can't please everyone. Also, I say bring on chars like Tom Cotton, which is unexpected and fun. And it's a pro that he's not a pre-existing Hobbit, that way you can try him with any of the prior Hobbits.
+
+## 39 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081300)
+
+I haven't played with Hama yet -- I was constructed a deck to do so when this nerf came along :(.
+
+From my mind, buffing poor cards is better than nerfing "OP" cards.  It expands the universe of usable cards, which nerfing does not -- and if the nerf goes too far (e.g. Master of Lore) it actually shrinks the universe of usable cards.
+
+But if you felt that Caldara/Boromir/Hama was overpowered and boring and you haven't played with them in years -- does this new errata make you want to dust them off and build decks around them?  If so, then the errata really did benefit you -- if not, then the errata is just ruining someone else's fun.
+
+## 40 [Seastan on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081303)
+
+> 1 hour ago, Aorakis said:
+> 
+>  
+
+Complaining about the errata and the design direction is one thing. Calling people disgusting names is another. There is no excuse for your personal insults directed at the developers. You say you don't mind if you get banned and your post gets deleted. I say, delete it yourself.
+
+## 41 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081351)
+
+Complaining about the errata and the design direction is one thing. Calling people disgusting names is another. There is no excuse for your personal insults directed at the developers. You say you don't mind if you get banned and your post gets deleted. I say, delete it yourself.
+
+
+Thanks, love your work btw !
+
+
+Before it dies, i bring you my best deck ever !
+
+I passed ALL THE QUEST IN THE GAME with it ! Even nightmares and those quest from Arkham Horror LCG !
+
+Simply to good to be not nerfed !
+
+http://ringsdb.com/decklist/view/6882/song-of-caleb-1.0 [http://ringsdb.com/decklist/view/6882/song-of-caleb-1.0]
+
+Edited November 15, 2017 by Aorakis
+
+## 42 [Lecitadin on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081372)
+
+Wow... Those erratas make some quests now really, really hard to beat in pure solo nightmare mode...
+
+In a positive twist, maybe we can call it replayability value?...
+
+I do wish they would have nerfed up some heroes, like lore Bilbo or tactics Dori.
+
+## 43 [Gizlivadi on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081406)
+
+I'm mostly fine with these erratas except for Caldara. Sure, the deck was top-tier and could beat almost anything, but it was still not invincible and also an iconic, fun and powerful deck. What's wrong with that? I'm reminded of the COTR Law Offices when they invited Matt to defend Caldara, and it was so great. She went from being one of the most neglected heroes on release to one of the best, female and FFG-created at that! ... to finally become unplayable in solo again. Why ruin some of your best achievements? Caldara was not invincible at all to me.
+
+As I said, some of these erratas we saw coming and most are fine. I'm good with these as long as the developers give us some actually good general purpose playable cards and not niche, quirky binder-fodder as has been the case for most of the last couple of cycles.
+
+## 44 [Authraw on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081422)
+
+> 19 minutes ago, Lecitadin said:
+> 
+> Wow... Those erratas make some quests now really, really hard to beat in pure solo nightmare mode... 
+
+I was thinking something along those lines too. Did you have any particular thoughts in mind when you said this, out of curiosity? 
+
+I just defeated Blood of Gondor with a Boromir deck, for instance, and I think it just got a lot harder. 
+
+## 45 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081433)
+
+And here is a Funny recap from a belgian event we made last weekend :
+
+On 22 players (wich is a lot for an event in small belgium)
+
+Do you want to know how many boromir, caldara and hama were played ?
+
+Boromir :  Zéro / None / Nada
+
+Caldara :  Zéro / None / Nada
+
+Hama :  1 (with gandalf hero, and no thicket spears into it...)
+
+So... i'm not sure FFG actually understand that a Hero like Boromir nor caldara, are more like a heroes, that advanced players, are (i mean were...) using to make some Nightmares or really hard quest...
+
+or as i said :  some necessary evil heroes !
+
+Like Glorfindel 2 for exemple. he's a necessary evil to this CO-OP (not competitive, if they ever forgot about that aswell...) game...
+
+Those kind of heroes, nor decks (like the Caldara one) are a necessary in this game, specially If players want to succeed some of the hardest quest they're purchasing...
+
+(I'm not even sure FFG plays those once and after they made it to be honest...)
+
+So my question is :  what are the next nerfs to come then ?
+
+Fast Outlands decks ? Wich can brings like 8 allies into play turn one ? Will they put a Ruling about "you can now only bring/play 4 allies max per turn into play per turn ?" or just nerf Denethor 2 and A very good tale ?
+
+How about Aragorn tactic decks ? Wich can just destroy every enemy into play in a blink of an eye... ?
+
+And about Hama... This is probably one of the worst rework ever made in the card game history...
+
+When ffg will realize that this game is not a competitive game, and that this game need some broken cards/decks into it for the sake of the hardest quests succeeding... They will make a huge step to sanity.
+
+(Aswell as giving a boost to those sleeping and useless cards we've got... Specially iconics heroes such as bilbo and who deserve their glorious days for the sake of middle earth...)
+
+Edited November 15, 2017 by Aorakis
+
+## 46 [JYoder on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081444)
+
+> 43 minutes ago, dalestephenson said:
+> 
+> From my mind, buffing poor cards is better than nerfing "OP" cards.  It expands the universe of usable cards, which nerfing does not
+
+You make a good point. Certainly, buffing poor cards would be most welcome, no question.
+
+ 
+
+> 43 minutes ago, dalestephenson said:
+> 
+> But if you felt that Caldara/Boromir/Hama was overpowered and boring and you haven't played with them in years -- does this new errata make you want to dust them off and build decks around them?  If so, then the errata really did benefit you -- if not, then the errata is just ruining someone else's fun.
+
+I'm definitely open to now using Boromir without feeling lame, as he'd feel thematic rather than superhuman. I suppose the same for Hama, though I never purposefully tried to avoid him; I must have been doing so subconsciously. As for Caldara, I never had a desire to try her Prince Imrahil / Sword-thain shenanigans, so no strong opinion. I appreciate that she's harder to setup, but really, triggering her ability even once with such cards seems quite effective as your "big turn," so triggering more than once seems some anti-climatic to me.
+
+However, again, this is all coming from a non-NM player, and it's those who will probably feel the biggest sting.
+
+ 
+
+## 47 [13nrv on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081461)
+
+I'm definitively done with errata on this game.
+
+I can't understand why developer just kill cards ... No sense !
+
+Caldara has been totally crushed and in the news they said, she stay powerfull ... Sorry but no.
+
+Caldara and Boromir are strong, i agree. But i play these heroes on NM and on NM quest there are just balanced. I have so much fun with them. So like JonG, i will just ignore errata which i think is a mistake like the errata on Horn of Gondor.
+
+I don't play Hama with Thicket of spears. I play it on solo and NM ... It's difficult, tactic and so fun. But no way to play it now with this errata.
+
+No these errata on heroes are so bad and hurts too much.
+
+Like Dalestephenson, i prefer errata on weaker card in order to extend the universe of possible not reduce it.
+
+I am very dissapointed by the developper direction ... It's a coop game not a competitive one.
+
+And like i said ... More than one month with no news and no release and now these errata ... yes dissapointed and angry.
+
+## 48 [GrandSpleen on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081476)
+
+Caldara's just an aggro hero now.  That's fine by me. 
+
+You can still get a turn 1 Sword-Thained Emery (get 1 resource per Arwen's ability to pay for Sword-thain) and end round 1 planning phase with Caldara in discard, spirit Imrahil on the table and in hero status (so, 4 heroes) plus 2 additional spirit allies also on the table for free.  Honestly, if you think Caldara is no longer powerful.... 
+
+She's a little more like Galdor now.  And spirit Denethor.  Aiming to get you set up early.  Biggest impact in the first rounds of the game.  Set up, get ahead of the encounter deck, and stay there.
+
+edit: in fact, resurrection now seems like an optional include in a Caldara deck.  If you're getting Imrahil in return and you're already using Sword-thain, you've got 4 heroes on the table, plenty of resources.  Fortune or Fate doesn't really do much for you other than bringing back Caldara's meager stats.
+
+Edited November 15, 2017 by GrandSpleen
+
+## 49 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081510)
+
+> 26 minutes ago, GrandSpleen said:
+> 
+> Caldara's just an aggro hero now.  That's fine by me. 
+> 
+> You can still get a turn 1 Sword-Thained Emery (get 1 resource per Arwen's ability to pay for Sword-thain) and end round 1 planning phase with Caldara in discard, spirit Imrahil on the table and in hero status (so, 4 heroes) plus 2 additional spirit allies also on the table for free.  Honestly, if you think Caldara is no longer powerful.... 
+> 
+> She's a little more like Galdor now.  And spirit Denethor.  Aiming to get you set up early.  Biggest impact in the first rounds of the game.  Set up, get ahead of the encounter deck, and stay there.
+> 
+> edit: in fact, resurrection now seems like an optional include in a Caldara deck.  If you're getting Imrahil in return and you're already using Sword-thain, you've got 4 heroes on the table, plenty of resources.  Fortune or Fate doesn't really do much for you other than bringing back Caldara's meager stats.
+
+
+Yeah, good luck with that on the hardest nightmares !
+
+
+ 
+
+Edited November 15, 2017 by Aorakis
+
+## 50 [13nrv on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081524)
+
+If i want to do some aggro on a full spirit deck ... Well Caldara is now not a good option.
+
+I think that the comnbination of Erestor/Denethor leadership hurts the game much than a Caldara.
+
+Caldara can win 1/6 on Five armies NM.
+
+Erestor/Denethor/Hirluin win 5/6 on five armies NM and 6 turn max.
+
+So no these errata are really bad and litterally kill an emblematic archetype.
+
+No she is far far far from a Galdor or a Denethor ... These two guys allow very agressive decks, just combine them ... Yeah draw and ressource, you explode turn one ... always ...
+
+Caldara need a good first hand now, you have to bring Sword Thane & Prince Imrahil quickly in order to use it correctly. But if you haven't these allies in hand quickly and the encounter is agressive ... you will just loose. Before this errata, we can use Caladara before Thane or Imrahil coz you can ressurect her and reuse after at full power. Now, it's just chance not player skill.
+
+No Caldara is now just bad in comparison of other aggro decks.
+
+## 51 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081530)
+
+In order to end round one with four heroes plus two free allies, you need the following:
+
+1) Sword-thain in your opening hand (and Arwen as one of your heroes)
+
+2) Emery in your opening hand
+
+3) Imrahil and two other allies in your discard.
+
+Arwen + Emery gives you four cards in discard, one of which you can choose -- if Eowyn or Cirdan is the third spirit hero, that can go to five cards in discard, two of which are chosen.  But it's not likely.  Best case (Arwen-Cirdan-Elanor) has about a 17% chance of both Emery and Sword-Thain in the first eight cards, and only around 10% chance in the first six (when you have to decide if you'll mulligan) -- and even if those comes together, you either need Imrahil to be in the first eight or in the next three cards, *plus* two other allies to come out (probably in the Emery discard) who aren't Emery or Imrahil.  I'd expect that to come together 1 time in 20, if that.
+
+Most of the time, using Caldara on turn one will give you two heroes and two allies drawn from your first eight cards -- and you can never use Caldara again.  Good for a fast start?  Sure.  Overpowering?  Not hardly.  Since it's once per game, the temptation would be to stall until you have a Sword-Thain and Imrahil already in play so that you can get your four allies, but until then you're limping along with a 2-wp spirit hero with no special powers and definitely not being aggro.
+
+## 52 [Aorakis on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081535)
+
+As 13nrv said, and believe me, he's probably one of the best players in this game, with tons of experience and very good decks created who played thousands of games, mainly against big nightmarish ones (basically the kind of player ffg should listen to.. In order to make the game a better experience...) (and i'm sure he's not the only one out there that might gave very good advices to those designers.. wich seems to got some Deaf Trouble on many ffg games apparently...)
+
+So, surely I'm going to just ignore those erratas. Especially in a cooperative game !
+
+It's mainly non-sense, especially when they "hit" that hard where it's not needed (hama nor caldara for exemple)
+
+And believe me, i hate Caldara's deck wich i found to be too good ! (But i can see and understand that she's needed to this game !) (like boromir, glorfindel 2 and denethor 2 are needed)
+
+As i said above :  those heroes and archetype are a necessary evil in order to face the hardest quests in the game !
+
+The Hama problem was the Thicket, not hama himself ! He is (was) an interesting hero, with that nerf, he's not anymore, At all ! he just cost nine with the Rohan trait like Dori tactic is just a dwarf sleeping in my cardbox... I really don't get why he has been sentenced to death...
+
+So sorry, but not with me... And hopefully not on any of our events !
+
+Coz yes ! FFG ! We love this game ! And make it to live here for you during our events ! We got a very nice, friendly and strong community around your game here !
+
+So, someday, it would be nice of you to listen to the right people wich actually knows your game better than you (and i'm defenatly not talking about myself here, coz they're are at least 4 people here that might be those perfect person for you to get advice from). With strong experience from it, and let them helps you in order to improve your game, and not just make bad call and ruins 3 archetypes in a single non-sense swing...
+
+Here, they're not making good works or changes, they're mainly penalizing the players that likes to play the hardest challege in the game...
+
+And has other people says :  Boosting some cards up, is probably one the best move you could ever make... But apparently, you're not that kind of designers...
+
+Edited November 15, 2017 by Aorakis
+
+## 53 [Seastan on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081560)
+
+> 7 minutes ago, Aorakis said:
+> 
+> 
+> Here they're not making good works or changes, they're mainly penalizing the players that like to play the hardest challege in the game....
+
+As someone who likes to play the hardest challenges of the game, i don't see it that way. With these errata, now they're even harder! :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] I've already figured out how to beat them with Caldara and Boromir anyway. Where'e the fun in doing it over and over? Now we have a new challenge.
+
+## 54 [dalestephenson on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081566)
+
+Are you sure you aren't just telling yourself that because of your guilt in causing the errata? :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 55 [Seastan on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081573)
+
+I've done plenty of critiquing of the errata already (not here). it could've been done better. But as far as I'm concerned I have little to do with the Boromir/Caldara/Hama errata. I may have a popular Boromir deck but it's not like his power would've remained hidden without me around.
+
+## 56 [13nrv on November 15, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081581)
+
+> 3 minutes ago, Seastan said:
+> 
+> As someone who likes to play the hardest challenges of the game, i don't see it that way. With these errata, now they're even harder! :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] I've already figured out how to beat them with Caldara and Boromir anyway. Where'e the fun in doing it over and over? Now we have a new challenge.
+
+Good to see that developers please some players.
+
+But not me, i prefer new cards in order to have new challenges or different challenge.
+
+And once again, i prefer errata on weaker card in order to use it on harder challenge ...
+
+And last point, my current life don't allow me to play as much as before. So when a new NM is released, i like to play it with my Caldara deck and have a good time. So new challenge for you but bad news for me.
+
+## 57 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081602)
+
+so except for Thicket of spears :  you really believe hama needed a rework that hard ?
+
+For what ? Feint ? Foe Hammer ? Wait no longer ?
+
+Are those cards killing the game or making the 1000% win on every quest once you plays him with those cards... ?
+
+I'm defenatly not sure...
+
+Hama as been butchered here, not reworked...
+
+Just make that Thicket out of play once played, problem solved ! (for all those crying players that found it soooo broken that they could also just NOT playing that combo... ?)
+
+and Hama would still be alive (wich he is... As i'm not going to apply this poo...r rework)
+
+So no, that kind of reworks are not good no... not at all ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+
+About Boromir, i've played it 3 times, found him boring and easy to play, and i just put it back into my cardbox.
+
+But i reckon he was useful, as caldara !
+
+
+And here, i'm looking even further, with fear...
+
+As the next might be what ? Denethor 2 ? Wich makes tons of Flash Decks possible with that Steward of gondor ?
+
+So what ? Will they finaly nerf an other coreset cards 100000 years after ? When it's not even necessary needed ? Or will they just cut Denethor's head off ?
+
+And then ? Who's next ? Arwen (2 ressources is too strong) ? Eowyn 2 (6 cost is too less) ? Glorfindel 2 (5 COST ? WHAT ???) and Elrond (too much heal here...) Gandalf (who's that guy with those dragon Stats ?) perhaps ?
+
+And surely Aragorn Tactic, wich is probably one of the O.P.iest hero of the game got a Clock Ticking above his head for sure...
+
+FFG got plenty of smarter solutions to make this game better, they chose the axe and the blood bath...
+
+Edited November 15, 2017 by Aorakis
+
+## 58 [Seastan on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081605)
+
+> 1 minute ago, 13nrv said:
+> 
+> Good to see that developers please some players.
+> 
+> But not me, i prefer new cards in order to have new challenges or different challenge.
+> 
+> And once again, i prefer errata on weaker card in order to use it on harder challenge ...
+> 
+> And last point, my current life don't allow me to play as much as before. So when a new NM is released, i like to play it with my Caldara deck and have a good time. So new challenge for you but bad news for me.
+
+Objectively speaking, the hardest possible challenges the game has to offer shouldn't be able to all be beaten with the same deck in a couple attempts right? You may have less time to play now - so do I. But I disagree that the solution is to have one deck that answers everything. The hardest possible challenges should reward devoted deckbuilding and experienced gameplay in my opinion, even if that leaves me out.
+
+## 59 [Seastan on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081615)
+
+> 3 minutes ago, Aorakis said:
+> 
+> so except for Thicket of spears :  you really believe hama needed a rework that hard ?
+
+I was sad to see Hama get hit. I would have preferred something more like what has been suggested - remove Thicket from the game when played. But someone else mentioned something I had not considered: the existence of Hama severely limits what hind of Tactics events can be printed. Tactics events can never be too strong, because what if someone plays Hama and uses it every turn? I think he has been quite damaging to sphere actually.
+
+## 60 [dalestephenson on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081621)
+
+No, Boromir's power is not hidden.  Nor has it been secret for all the FAQs since he was released.  Why they chose to take him down now is a mystery to me.  As for other errata:
+
+At ringsdb.com, the oldest deck with Wingfoot/Doughty Ranger combo is this one:
+
+http://ringsdb.com/decklist/view/5519/doughty-eleanor-combo-1.0 [http://ringsdb.com/decklist/view/5519/doughty-eleanor-combo-1.0]
+
+Unless there's an earlier version, maybe Otter should take a bow.  But the Wingfoot errata is pretty reasonable, I thought.
+
+For We Are Not Idle, again no secret for a long, long time, I'll give credit to Rouxxor and his Solo First Turn Win.  Very creative, but it was inevitable it would leave to grief.
+
+Caldara's downfall was probably the ruling that Prince Imrahil ally counts for her ability.
+
+Your Hama's Thicket deck is one of the most popular Hama/Thicket decks on ringsdb (and has a youtube video for it), but it's not the oldest -- nor was this a secret either.  It's a combo of an old hero with a core set card, for crying out loud.  Still, it's Amarthiul and the Dunedain cards that really made this practical.
+
+Atura Slash has the most-liked Out of the Wild deck, but doesn't talk about recurring Out of the Wild to nerf the deck in the description.  It seems like there was a deck (blog post?) that talked about removing the deck entirely, but I can't remember who or where that was.
+
+## 61 [Seastan on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081631)
+
+ 
+
+> 2 minutes ago, dalestephenson said:
+> 
+> Atura Slash has the most-liked Out of the Wild deck, but doesn't talk about recurring Out of the Wild to nerf the deck in the description.  It seems like there was a deck (blog post?) that talked about removing the deck entirely, but I can't remember who or where that was.
+
+I'll take the heat for the Out of the Wild errata. But unless you were running it it an infinite combo deck, that card just got better.
+
+## 62 [Crabble on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081634)
+
+> 1 minute ago, Seastan said:
+> 
+>  
+> 
+> I'll take the heat for the Out of the Wild errata. But unless you were running it it an infinite combo deck, that card just got better.
+
+Thats right and I really like the fact it's just better now :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 63 [dalestephenson on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081636)
+
+> 3 minutes ago, Seastan said:
+> 
+> I was sad to see Hama get hit. I would have preferred something more like what has been suggested - remove Thicket from the game when played. But someone else mentioned something I had not considered: the existence of Hama severely limits what hind of Tactics events can be printed. Tactics events can never be too strong, because what if someone plays Hama and uses it every turn? I think he has been quite damaging to sphere actually.
+
+If he played it for free from the discard I could see that.  But since he has to discard a card *and* pay full price for the event, in a sphere with little card draw and little resource acceleration I don't know how much of a problem it really is.
+
+For my money, the best Tactics event released since the core is Wait No Longer, and Hama is perfect for recurring it in a solo deck.  If you can keep hitting enemies and killing them, you'd never have to reveal a card in staging.  OTOH, since it's solo, I don't think that possibility should bother anyone from FFG.
+
+## 64 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081637)
+
+well, to me, even if i reckon the big work and genious you bring into your decks, i defenatly find it harder to have a deck that might fight most of the quests in the game, that just make a deck, that is going to be specifically build against a quest. Wich is to me, somehow easier to beat that quest once you just think your deck against it, and then you never play that deck coz he's not good for the next quests...
+
+It's defenatly two different schools.
+
+But in none of those, these kind of hard nerfs were needed.
+
+As i said, in our last event :  No Caldara, No Boromir, and just One Hama with no spears...
+
+Not like they were making this game bad right ? It's only a choice, to play them or not.
+
+And are ffg tired to think that a Co-Op game, need that much of hard nerfs... ?
+
+It's not like we were in Star Wars Destiny were FN and Captain Phasma were destroying all fun in the game and during tournaments...
+
+LOTR is a co op game... I really don't get it...
+
+So to me, like they say in "THE NEW STAR !" Tv show :  ITS A NO ! :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 65 [NathanH on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081641)
+
+Something unusual about the Boromir and Caldara changes is that they don't seem aimed at any particular OP combo, but rather they specifically designed to reduce the general power of the card. This seems to be an entirely new approach.
+
+## 66 [Rajam on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081645)
+
+> 1 hour ago, GrandSpleen said:
+> 
+> Caldara's just an aggro hero now.  That's fine by me. 
+> 
+> You can still get a turn 1 Sword-Thained Emery (get 1 resource per Arwen's ability to pay for Sword-thain) and end round 1 planning phase with Caldara in discard, spirit Imrahil on the table and in hero status (so, 4 heroes) plus 2 additional spirit allies also on the table for free.  Honestly, if you think Caldara is no longer powerful.... 
+> 
+> She's a little more like Galdor now.  And spirit Denethor.  Aiming to get you set up early.  Biggest impact in the first rounds of the game.  Set up, get ahead of the encounter deck, and stay there.
+> 
+> edit: in fact, resurrection now seems like an optional include in a Caldara deck.  If you're getting Imrahil in return and you're already using Sword-thain, you've got 4 heroes on the table, plenty of resources.  Fortune or Fate doesn't really do much for you other than bringing back Caldara's meager stats.
+
+Yep, they nerfed Caldara and KILLED Fortune or Fate
+
+## 67 [Seastan on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081655)
+
+> 3 minutes ago, NathanH said:
+> 
+> Something unusual about the Boromir and Caldara changes is that they don't seem aimed at any particular OP combo, but rather they specifically designed to reduce the general power of the card. This seems to be an entirely new approach.
+
+Yes. This is one of my critiques of the errata. If part of the intention was to nerf the power decks, then it seems pointless to only target half of them. Erestor/LeDenethor and Elrond/Vilya decks were right up there with those two.
+
+## 68 [13nrv on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081662)
+
+> 11 minutes ago, Seastan said:
+> 
+> Objectively speaking, the hardest possible challenges the game has to offer shouldn't be able to all be beaten with the same deck in a couple attempts right? You may have less time to play now - so do I. But I disagree that the solution is to have one deck that answers everything. The hardest possible challenges should reward devoted deckbuilding and experienced gameplay in my opinion, even if that leaves me out.
+
+Caldara can answer to many challenge ... But the answer is always complicated and need some reflexion. Each game is intensive.
+
+You know my Fast Outland deck, i don't play it anymore ... Brainless ... Draw/Ressource/Put ally/Quest/Kill Ennemies and again until win. Well as you said no challenge and so boring.
+
+Caldara is really different from that. Each game is totally different. I need concentration on each game to choose the good option. The gameplay of Caldara need experience and skills.
+
+For the devoted deckbuilding, i will say point of view ... I build a deck around an idea and after i play it against a quest to test it. But i never build against a scenario except specific ones (like Dol Guldur NM, Rhosgobel NM or Lonely Mountain NM).
+
+So i don't want errata, i want new cards for new idea.
+
+## 69 [Rajam on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081668)
+
+New Caldara decks be like:
+
+The Song of Requiem
+
+Main Deck
+
+Hero (1)
+Caldara (The Blood of Gondor)
+
+Ally (0)
+
+Attachment (0)
+
+Event (4)
+3x  Desperate Alliance (On the Doorstep)
+1x  Justice Shall Be Done (A Storm on Cobas Haven)
+
+Player Side Quest (0)
+
+1  Heroes,  4  Cards
+Cards up to A Storm on Cobas Haven
+
+Deck built on http://ringsdb.com. [http://ringsdb.com.]
+
+ 
+
+Main Strategy: Give Caldara to someone else and call it a day. Don't waste precious heroes' spots on the decks that actually matter
+
+## 70 [13nrv on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081674)
+
+> 4 minutes ago, Seastan said:
+> 
+> Yes. This is one of my critiques of the errata. If part of the intention was to nerf the power decks, then it seems pointless to only target half of them. Erestor/LeDenethor and Elrond/Vilya decks were right up there with those two.
+
+Totally agree with that !
+
+Gandalf decks are also powerfull, Noldor too ... Doomed deck with lore Aragorn are very strong. I win against most of NM quest with these decks ... And often easily than Caldara or a Boromir deck.
+
+## 71 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081677)
+
+> 8 minutes ago, Seastan said:
+> 
+> I was sad to see Hama get hit. I would have preferred something more like what has been suggested - remove Thicket from the game when played. But someone else mentioned something I had not considered: the existence of Hama severely limits what hind of Tactics events can be printed. Tactics events can never be too strong, because what if someone plays Hama and uses it every turn? I think he has been quite damaging to sphere actually.
+
+
+Well, i found Oath of Eorl Pretty Bunker and same for that 4 cost (don't recall the name) that makes a hero (or all heroes if in valour) to don't get bowed during the combat phase to be much better than a ticket of spear, and let's say it, i never saw those card to be a problem with hama. Same with wait no longer, wich is a pretty awesome card that i like playing a lot.
+
+This Hama has been butchered way too hard in my opinion... he defenatly wasn't the biggest LOTR problem i reckon... and defenatly don't need that hard Joffrey's Lanister Execution...
+
+And as many mention... If it's strong or boring, just don't play it ! not like there wasn't tons of awesome stuff to do in this game
+
+I.M.O,  Heroes like Bilbo, Dori, Bolger, are a biggest concern in this game as they should be revised even just a bit ! (even if yes, for brainstormer like you, who likes turning mud to gold, those kind of bad (let's say it) cards are a good challenge to be made from)
+
+So as other mentions, i think ffg should start boosting some cards, nor at least heroes up... It might make the same job, by opening wider the building possibilities, wich i'm sure you would love aswell
+
+## 72 [stimpaksam on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081683)
+
+If anyone is interested I used GeckoTH's templates to create the cards in question with their updated errata. Feel free to download and print them out or whatever.
+
+https://www.dropbox.com/s/2fkfgqqof6tg3kr/FAQ v1.9 Card Errata.rar?dl=0 [https://www.dropbox.com/s/2fkfgqqof6tg3kr/FAQ%20v1.9%20Card%20Errata.rar?dl=0]
+
+Edited November 15, 2017 by stimpaksam
+
+## 73 [PsychoRocka on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081709)
+
+I'm not very vocal on here anymore but just wanted to add my two cents. I definitely agree with those saying these changes are overkill and that the actual offending cards (Thicket of Spears, Fortune and Fate etc) should have received errata rather than the hero cards. As Dalestephenson listed, an absolute TON of decks are affected by these changes and now every single player who uses any of those three heroes needs to rethink any decks he may have them in and whether or not they are still worth including/running. To do this to three separate, quite popular heroes is quite a big deal and seems like one of the biggest changes to the game we have ever received.. doing this during such a quiet period and such a lull in news or new content seems like awful timing as well.. rubbing salt in the wound if you will. 
+
+To be completely honest I too feel like they are not playtesting enough and are also not taking harder quests and nightmare scenarios into consideration. Sometimes you need to use everything at your disposal to even stand a chance against harder nightmare quests and removing several powerful combos from the game while also seriously nerfing three heroes (even when not running said combos) doesn't help in this regard at all. 
+Hama is definitely hit the hardest because even if you aren't using the Thicket of Spears combo Hama is not at the same level he once was and has been nerfed across the board. Why they did this instead of simply nerfing Thicket of Spears I have no idea. 
+
+Also the main problem with the whole "don't like the new changes? don't play with them!" outlook is that many players of the game, myself included, will look at this as cheating and/or playing the game incorrectly. Regardless of the fact that the game is co-op or single player most players still want to play the game as intended without breaking or ignoring any rules. Achieving victory while bending or breaking the rules is for many not a real victory at all.
+On top of this new player cards and new scenarios are obviously going to be designed with all past errata in mind so ignoring errata on certain player cards may really mess with the game allowing further unintended combos or interactions. 
+
+> 6 hours ago, Network57 said:
+> 
+> So now that we've errata'd Boromir, can we nerf some of the anti-Boromir (but really screw over everybody else worse) encounter effects they've had to design around him since Cycle 1?
+
+Also couldn't agree with the above more, if strong heroes and combos that have been around forever are going to receive errata does this mean that future quests (or at least harder ones and nightmare packs) are no longer going to feature as many encounter cards that directly mess with or target these player archetypes and combos? What about already existing quests and encounter cards that do so?
+
+All of this being said I do need to add that I agree with and value the errata given to Wingfoot, We Are Not Idle, Out of the Wild (this is great as it actually boosts Keen as Lances as well which is used in the same victory display deck type) and Wandering Took. Wingfoot is still a great card just not totally broken when given to Eleanor and We Are Not Idle and Out of the Wild are still great cards just cannot be abused anymore. 
+
+## 74 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081722)
+
+> 4 minutes ago, 13nrv said:
+> 
+> Totally agree with that !
+> 
+> Gandalf decks are also powerfull, Noldor too ... Doomed deck with lore Aragorn are very strong. I win against most of NM quest with these decks ... And often easily than Caldara or a Boromir deck.
+
+
+My fear is going that way.
+
+What will happen' when they will finaly nerf and rework those ones aswell ?
+
+coz the list is long :  Gandalf, Erestor, Denethor 2, Galadriel (she's laughing at threat right ?), Aragorn LORE and TACTIC, Elrond...
+
+It could end in a pure non-sense butchering fest...
+
+Reworking some cards ok, butchering heroes and entire archetypes... Is defenatly not a good way of thinking / doing...
+
+## 75 [PocketWraith on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081723)
+
+> 4 hours ago, Aorakis said:
+> 
+> I'm not going to be polite, nor make friends, and I honestly don't mind, 'cause let's say it... FFG and designers like Caleb are poison to their own games.
+
+I have no idea if Caleb or anyone else from FFG will read this thread, but on the off-chance they do I just want to say that Aorakis is definitely not representative of the community in general. Personally, I disagree with two of the errata, and I do find them disappointing in that respect, but I still think in general that Caleb and FFG are doing a fantastic job with this game.
+
+I wouldn't normally feel the need to make a point of this, but I wanted to present a very definite counterpoint to this unwarranted and over the top vitriol, so again, if Caleb or anyone else at FFG reads this: Ignore the haters, you're doing fine.
+
+## 76 [Rajam on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081730)
+
+Alternative erratas:
+
+Caldara: Remove Fortune or Fate after being used. No need to errata Caldara
+
+Háma: Remove a card instead of discard a card to return a tactics event to your hand, and/or remove the tactics event you returned to your hand after you use it.
+
+ 
+
+With the Errata on Caldara, some people might think twice before buying further core sets to get extra copies of Fortune or Fate since that card is now dead. FFG is firing against their own products here.
+
+ 
+
+BTW will we ever see positive erratas? Spirit Pippin, Lore Bilbo, plenty of never-used cards from the first cycles, etc ¿?
+
+## 77 [PsychoRocka on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081732)
+
+> 18 minutes ago, Seastan said:
+> 
+>  
+> 
+> > 23 minutes ago, NathanH said:
+> > 
+> > Something unusual about the Boromir and Caldara changes is that they don't seem aimed at any particular OP combo, but rather they specifically designed to reduce the general power of the card. This seems to be an entirely new approach.
+> 
+> Yes. This is one of my critiques of the errata. If part of the intention was to nerf the power decks, then it seems pointless to only target half of them. Erestor/LeDenethor and Elrond/Vilya decks were right up there with those two.
+> 
+>  
+
+Yeah see I feel like this is the biggest issue with this errata. Why were only certain heroes and power decks targeted? What is the point of only nerfing a few power decks but leaving all the rest intact? Are we going to see every single other hero that is at a similar power level receive errata in the near future? 
+
+## 78 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081745)
+
+> 20 minutes ago, PocketWraith said:
+> 
+>  
+> 
+>  if Caleb or anyone else at FFG reads this: Ignore the haters, you're doing fine.
+
+Wich they will ! Don't worry !
+
+And No, they are never listening to what people might have to say to them or suggest to them even when it's asked and doing politely ! They just make whatever they want ! coz it's their game, their choice, period .
+
+And to be a nice and gentle sheep, as you are, i edited my post 10hours ago before i posted it ! So don't worry ! i'm such a cool guy now !
+
+I listened to my old friend Billy Zane ! He's a cool dude !
+
+See ? i can change and make myself a better person !
+
+So hey ! Maybe some day, ffg will make decent coresets with some decent design process during the evolving of the game (wich dont lead to heroes heads flying into the air and or FN/Phasma in some tournaments...)
+
+You know, stuff like REAL PLAYTEST (a serious lack that is occuring in every of their cards games)
+
+Cheers Buddy !
+
+PS : 
+
+And by they way, as yoda said, dark side is not stronger, blablabla... how about making positive reworks on forgotten cards, nor heroes that actually might be happy to get out of the dusty cage ?
+
+It might make a huge difference aswell, and people might like that better than those "nerfs" wich are just reducing the pleasure especially here for the big nightmares players...
+
+Where boosting some of our useless heroes, might just open some new windows that might be a really good breathe for the game ! But no... Apparently, it's too much work to make a bilbo to cost 6...
+
+As FFG would say that those new heroes and cards are apparently once again, already made for that... Even when half of those are just going straight into the Dusty Cage once the pack is opened...
+
+Edited November 16, 2017 by Aorakis
+
+## 79 [13nrv on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081756)
+
+> 11 minutes ago, PsychoRocka said:
+> 
+> Yeah see I feel like this is the biggest issue with this errata. Why were only certain heroes and power decks targeted? What is the point of only nerfing a few power decks but leaving all the rest intact? Are we going to see every single other hero that is at a similar power level receive errata in the near future? 
+
+Good questions and no answer.
+
+Even if new card will come like new powerfull spirit allies for a Caldara deck, these new allies will fit also in an Elrond deck like Glofindel ally.
+
+So i really don't understand the errata on heroes.
+
+## 80 [Lecitadin on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081762)
+
+> 2 hours ago, Authraw said:
+> 
+> I was thinking something along those lines too. Did you have any particular thoughts in mind when you said this, out of curiosity? 
+> 
+> I just defeated Blood of Gondor with a Boromir deck, for instance, and I think it just got a lot harder. 
+
+Yep, some quest like Blood of Gondor or Escape from Dol Goldur, your usual super tough quests.
+
+Maybe Imrahil tactics with his allies ability could be a good replacement.
+
+And maybe the erratas should not affect nightmare play? I'm thinking about that house rule.
+
+Edited November 16, 2017 by Lecitadin
+add comment
+
+## 81 [Yepesnopes on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081770)
+
+I like some erratas here like the ones on wingfoot and Boromir.
+
+Acording to Caleb's reasoning, I find the errata on Hama unnecessary. Errate Thicket instead!!! "...add to the victory display", or "...remove from the game". I find Hama one of the most enjoyable heroes if the tactics sphere, you can make decks full of interesting decissions round to round.
+
+Also, I ask the developers to rethink some cards.
+
+Horn of Gondor: When an enemy is revealed, exhaust horn of gondor to add a resource"
+
+Brok Ironfist!! Radagast cunning, Dori, Bilbo... and so on
+
+Make usless cards great again!!
+
+## 82 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081799)
+
+And yeah : i surely over reacted ! And i'm going to say that i'm half sorry for it ! (and that "half part" made me to edit my original post few hours ago)
+
+but let's say it :  and i'm not the only one i can assure you that :  I'm slowly, but surely tired about FFG management these past months.
+
+It start with lotr, with the basic lack of news... nor interresting news i would say.
+
+Then it continues with Star Wars Destiny, wich was nice, then quite fast turn out to be messing up by such a terrible managing process that turn the game to TONS of reworked cards, so you basically buy a game with SOOOOO MANY cards that turns out to get an incorrect text (coz nerfed) that you just feel to be just a bank account number for FFG...
+
+They're just taking your money every 3 months while in the same time, they are just not making any good work for the good sanity of the game you're purchasing...
+
+And i have to say that that SWD game is the worst exemple of what a CCG or DiceCCG could be ! I never, EVER, have seen such a poor PLAYTEST work in any card game i've played... NEVER !
+
+(Wich is a shame as the game is initially quite fun !) (wich makes those lack of managing even more frustrating)
+
+
+So surely, when today i read those reworks here... on my probably favorite solo-co-op game, and when i saw their reasons for nerfing a hero like Hama or destroying an entire archetype like Caldara (wich i don't even like and that's something to be said) coz they think it's too much broken for some foggy reasons or just for 1 card... well it surely get my patience to be combusted a bit quicker...
+
+And that during all of that, you're still waiting for some news about the Pack 4 for the last Cycle... that seems to be the phantom of the ghost opera... YEAH... it might slowly turn a cool dude, into a Fireball !
+
+Then i also realize that we are paying for games where the basic quality (and here 'im speaking about the paper quality and even worst, those plastic Box for adventure packs and EVEN WORST that Arkham horror Dunwich Box in wich you can't even stock your cards into coz it's such a poor and low cost quality of packaging that i just feel like ffg is just laughing at me while counting my money in their bed at night...)
+
+So yeah... all in all... I have to get FFG Director on the line, to gently explaim him, what could be great for him to change and please his players so they actually would feel to be part of the game, and not just part of their wallet !
+
+
+SO, all of that to Say, sorry if some of you found my style to be Furious and Furious ! A movie with like 3 vin Diesel into it ! and that i'm actually a very cool guy.
+
+But someday, someone will have to say to them that we're also paying for their games AND LIVING, and we might want to be heared from time to time.
+
+If i have only Three things or advices to say to them, those would be : 
+
+1) Listen to your community, They're making your living you know ? Especially those who know your games better coz they're playing those way more than you are. So they can gave you precious returns ! Those people are the blood of your games, and might help you to improve them so they could be a waaay much better experiences for everyone !
+
+2) PLAYTEST ! PLAYTEST !!! PLAAAAYTESTTTTT !!! seriouly ! And get return from those players and pro players that are knowing the game better than you, they might say to you "hey, careful with this card, it might turn out to be a problem with this card..." nor "hey, that quest you made, it's a bit messy on these regards... what about making those this way ?" and then, PLAYTEST EVEN MORE !
+
+3) Make Less ! But Better ! I always found your way of producing (especially with those versus games) to be much too faster to be healthy for your own games. The more cards you make, the more dusty and Broken ones you're making... If you reduce your speed even to 2/3 from the actual speed of releasing, you might just put more effort into the Point 1 and 2, and therefore you got a much better overall quality...
+
+If i ever had to make a company, those 3 points would be my honor and blood identity !
+
+But hey... who am i apart that raging guy right... ?
+
+Edited November 16, 2017 by Aorakis
+
+## 83 [Network57 on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081837)
+
+> 26 minutes ago, Aorakis said:
+> 
+> And yeah : i surely over reacted ! And i'm going to say that i'm half sorry for it ! (and that "half part" made me to edit my original post few hours ago)
+> 
+> but let's say it :  and i'm not the only one i can assure you that :  I'm slowly, but surely tired about FFG management these past months.
+> 
+> It start with lotr, with the basic lack of news... nor interresting news i would say.
+> 
+> Then it continues with Star Wars Destiny, wich was nice, then quite fast turn out to be messing up by such a terrible managing process that turn the game to TONS of reworked cards, so you basically buy a game with SOOOOO MANY cards that turns out to get an incorrect text (coz nerfed) that you just feel to be just a bank account number for FFG...
+> 
+> They're just taking your money every 3 months while in the same time, they are just not making any good work for the good sanity of the game you're purchasing...
+> 
+> And i have to say that that SWD game is the worst exemple of what a CCG or DiceCCG could be ! I never, EVER, have seen such a poor PLAYTEST work in any card game i've played... NEVER !
+> 
+> (Wich is a shame as the game is initially quite fun !) (wich makes those lack of managing even more frustrating)
+> 
+> 
+> So surely, when today i read those reworks here... on my probably favorite solo-co-op game, and when i saw their reasons for nerfing a hero like Hama or destroying an entire archetype like Caldara (wich i don't even like and that's something to be said) coz they think it's too much broken for some foggy reasons or just for 1 card... well it surely get my patience to be combusted a bit quicker...
+> 
+> And that during all of that, you're still waiting for some news about the Pack 4 for the last Cycle... that seems to be the phantom of the ghost opera... YEAH... it might slowly turn a cool dude, into a Fireball !
+> 
+> Then i also realize that we are paying for games where the basic quality (and here 'im speaking about the paper quality and even worst, those plastic Box for adventure packs and EVEN WORST that Arkham horror Dunwich Box in wich you can't even stock your cards into coz it's such a poor and low cost quality of packaging that i just feel like ffg is just laughing at me while counting my money in their bed at night...)
+> 
+> So yeah... all in all... I have to get FFG Director on the line, to gently explaim him, what could be great for him to change and please his players so they actually would feel to be part of the game, and not just part of their wallet !
+> 
+> 
+> SO, all of that to Say, sorry if some of you found my style to be Furious and Furious ! A movie with like 3 vin Diesel into it ! and that i'm actually a very cool guy.
+> 
+> But someday, someone will have to say to them that we're also paying for their games AND LIVING, and we might want to be heared from time to time.
+> 
+> If i have only Three things or advices to say to them, those would be : 
+> 
+> 1) Listen to your community, They're making your living you know ? Especially those who know your games better coz they're playing those way more than you are. So they can gave you precious returns ! Those people are the blood of your games, and might help you to improve them so they could be a waaay much better experiences for everyone !
+> 
+> 2) PLAYTEST ! PLAYTEST !!! PLAAAAYTESTTTTT !!! seriouly ! And get return from those players and pro players that are knowing the game better than you, they might say to you "hey, careful with this card, it might turn out to be a problem with this card..." nor "hey, that quest you made, it's a bit messy on these regards... what about making those this way ?" and then, PLAYTEST EVEN MORE !
+> 
+> 3) Make Less ! But Better ! I always found your way of producing (especially with those versus games) to be much too faster to be healthy for your own games. The more cards you make, the more dusty and Broken ones you're making... If you reduce your speed even to 2/3 from the actual speed of releasing, you might just put more effort into the Point 1 and 2, and therefore you got a much better overall quality...
+> 
+> If i ever had to make a company, those 3 points would be my honor and blood identity !
+> 
+> But hey... who am i apart that raging guy right... ?
+
+I think you think Caleb and Lukas are the same person, and work for Asmodee Marketing instead of designing games for FFG...
+
+## 84 [Aorakis on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081843)
+
+> 4 minutes ago, Network57 said:
+> 
+> I think you think Caleb and Lukas are the same person, and work for Asmodee Marketing instead of designing games for FFG...
+
+
+And they probably are yeah !
+
+And i can't say that i won't be happy to see caleb leaving ffg and join Lukas in the Magic The gathering team ! They might both make marvelous stuff for that company !
+
+Edited November 16, 2017 by Aorakis
+
+## 85 [Authraw on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3081962)
+
+I just realized that something I have been expecting is missing: an errata to allow you to change Heroes for the Land of Shadow quests. As it stands we still have to keep the same Heroes we used during Treason of Saruman. :( [//content.invisioncic.com/Mfantflight/emoticons/default_sad.png]
+
+## 86 [GrandSpleen on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082106)
+
+Happy that design space has opened up now that Hama's day is done.
+
+The more I ruminate on each of these, the less I'm bothered.  Pleased with many of the errata.
+
+## 87 [wehehe on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082158)
+
+I think the errata on Háma is really rough and poorly thought. What about something like this?
+
+"You can play any event card attached to Háma as if it were in your hand. When you play an event card attached it to Háma, remove it from game.
+
+Response: After Háma is declared as an attacker, discard a card from your hand to attach a tactics event card from your discard pile to him."
+
+With that, I think Háma would have been nerfed, without being deadly wounded as he is now, allowing you to recycle each event you play, but just once.
+
+Edited November 16, 2017 by wehehe
+
+## 88 [dalestephenson on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082254)
+
+If Hama was really nerfed to "open up design space" rather than to get rid of a specific interaction with Thicket of Spears, then it means FFG expects this game to be going for a good long while yet.  After all, the next cycle is surely already designed by now.  What New And Totally Awesome Tactics Events will be coming our way without the terror of Hama looming over them?
+
+It'd be easier to take nerfing of popular heroes if it had come with positive errata to unpopular heroes.  I'd mourn the loss of Caldara and Eomer less if Bilbo had his threat reduced or SpPippin had his all-hobbit restriction removed.
+
+## 89 [JonG on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082260)
+
+> 12 hours ago, PsychoRocka said:
+> 
+> Snipped below
+
+It was me that wrote the original comment that you replied to regarding ignoring rule changes. I thought in response I would just make these comments:
+
+PsychoRocka said: To do this to three separate, quite popular heroes is quite a big deal and seems like one of the biggest changes to the game we have ever received.. doing this during such a quiet period and such a lull in news or new content seems like awful timing as well.. rubbing salt in the wound if you will.
+
+It may also mean though that the forthcoming announcement isn't some big rule change - it could be argued that this is a positive sign at least to players who want to keep things pretty much the same.
+
+PsychoRocka said: Also the main problem with the whole "don't like the new changes? don't play with them!" outlook is that many players of the game, myself included, will look at this as cheating and/or playing the game incorrectly. Regardless of the fact that the game is co-op or single player most players still want to play the game as intended without breaking or ignoring any rules. 
+
+I think these are perfectly legitimate arguments. Obviously though if it's a choice between ignoring what you don't like or dropping out of the game, then I'm all for ignoring (or at least twisting) the rules!
+
+ 
+
+Edited November 16, 2017 by JonG
+
+## 90 [monkeyrama on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082265)
+
+Since the FAQs seem to come less than once a year, I think the fears of many heroes being errata'd are a little over-stated. It took them *many* years to actually get around to doing something to Boromir or Caldara: by all means I think it's fair to criticise how they errata'd them, but I really doubt that another tranche of erratas are coming down the pipe that soon (rightly or wrongly). I feel like I should add that since I don't tend to use these heroes at all, I am much less affected by the errata, and I concede quite happily the points made by others about Caldara and Hama in particular - they seem a little clumsy. Boromir, on the other hand, seems much less bad, at least in relation to the source material. He wasn't *that* epic in the books...and perhaps it's about time Faramir started to look better in comparison :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] 
+
+On the quality of the boxes etc., doesn't this have something to do with Asmodee buying FFG? There was definitely a price hike after Asmodee came along, and since Asmodee owns *many* board game companies they are getting close to a monopoly they seem to be acting with a bit more disregard for overall quality etc. I wouldn't really put the designers of LOTR in the firing line for those kinds of decisions, although I was disappointed more generally to see FFG get absorbed by Asmodee.
+
+## 91 [dalestephenson on November 16, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3082281)
+
+> 11 hours ago, Aorakis said:
+> 
+> If i have only Three things or advices to say to them, those would be : 
+> 
+> 1) Listen to your community, They're making your living you know ? Especially those who know your games better coz they're playing those way more than you are. So they can gave you precious returns ! Those people are the blood of your games, and might help you to improve them so they could be a waaay much better experiences for everyone !
+> 
+> 2) PLAYTEST ! PLAYTEST !!! PLAAAAYTESTTTTT !!! seriouly ! And get return from those players and pro players that are knowing the game better than you, they might say to you "hey, careful with this card, it might turn out to be a problem with this card..." nor "hey, that quest you made, it's a bit messy on these regards... what about making those this way ?" and then, PLAYTEST EVEN MORE !
+> 
+> 3) Make Less ! But Better ! I always found your way of producing (especially with those versus games) to be much too faster to be healthy for your own games. The more cards you make, the more dusty and Broken ones you're making... If you reduce your speed even to 2/3 from the actual speed of releasing, you might just put more effort into the Point 1 and 2, and therefore you got a much better overall quality...
+
+I know your rant mixes in Star Wars: Destiny which I'm not familiar with except to know it's a competitive game, and so will have very different issues.  But just from the standpoint of LOTR I'd say:
+
+On Point 1 -- Consider the *entire* community since it's a co-op game.  There's no shortage of people in the community who would like nerfs for power cards, and as we've seen some are both fine with the errata and wishing that more had been done.  But the changes impact *hundreds* of published decks, and ramping down specific overpowered combos only has major benefit for non-coordinated multiplayer players -- a situation which *many* players of the game never encounter.  The first rule of errata should be "First, do no harm."
+
+On Point 3 -- Forget the "Make Less! But Better" slogan.  My chief complaint against LOTR right now is the long delay in new content.  I'm quite happy with the new content we get.  Make More! More! More!  This is a slow-growing game and each AP only typically gives two cards to each sphere.
+
+On Point 2 -- I have no reason to expect that "lack of playtesting" had *anything* to do with these errata.  Not one of the cards changed was released in the last two cycles, and only one of the changes was justified by referring to a card released in the last two cycles (Doughty Ranger).  Frankly, if Imrahil ally dramatically enhances Caldara or We Are Not Idle dramatically powers up dwarven swarm, they are doing *what they were designed to do*.  It's not remotely plausible that Imrahil wasn't designed specifically for use with Caldara, or that We Are Not Idle wasn't designed specifically for dwarven swarms.
+
+## 92 [zeromage on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3083609)
+
+Gandalf and Elrond SHOULD. Be silly powerful. If they errata them I'd have a HUGE problem. 
+
+I wonder why Gloin wasn't errata'ed.
+
+## 93 [Yepesnopes on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3083896)
+
+Notice that the official reason for the errata on Hama is the combo with thicket, arguments such as "room for new card design" are pure especulation.
+
+## 94 [burek277 on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084049)
+
+I'm far from a "competitive" LOTR LCG player, but there is just so much misunderstanding of card game design here that I felt like I had to say something.
+
+1) The designers are idiots, they don't care about the game or the players, they just want to destroy the game.
+Seriously? Why would they want to do that? It's their job and their passion to design the game. They spend more time on it than anyone else and they want to do what's best for the game - to keep it fresh, interesting and viable. If you don't understand this, you need a reality check.
+
+2) Designers should listen to the most experienced players, they know what's best for the game.
+No, they know what's best for the way they play the game. Someone who has all the cards and has played all the quests numerous times is already invested in the game. Designers need to appeal to a much larger audience.
+
+3) They should have nerfed the tools (ie. Thicket of Spears), not the engines (ie. Hama).
+This is almost always the wrong approach to fixing problematic combos. One of the cards has a unique effect that turned out to be too powerful without a limit (per turn, phase, game etc.). The other just happened to be strong when combined with it. If you nerf the tool, there's always the danger that another tool will be found. Maybe it will be a bit less powerful, maybe another will be printed, maybe it will stop them from printing another one. If you nerf the engine, you actually work on solving the problem.
+
+4) Why did they only nerf some cards and not all the others?
+They nerfed a few heroes and a few cards and people here are already losing their minds. They point of errata is not to make all cards/options have the same power level or viability. It's to provide a fresh perspective, new challenges, and make the game better.
+
+## 95 [Lecitadin on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084067)
+
+I think that we will be surprised to see how good Boromir still is.
+
+For Caldara, I think they basically killed her : to put a max a 4 allies after a few turns, don't know about that... But Caldara decks always bugged me because they always lack attack power (in nightmare mode).
+
+## 96 [NathanH on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084208)
+
+Positive result of the FAQ: Boromir no longer breaks Assault on Osgiliath.
+
+## 97 [dalestephenson on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084256)
+
+> 2 hours ago, burek277 said:
+> 
+> 3) They should have nerfed the tools (ie. Thicket of Spears), not the engines (ie. Hama).
+> This is almost always the wrong approach to fixing problematic combos. One of the cards has a unique effect that turned out to be too powerful without a limit (per turn, phase, game etc.). The other just happened to be strong when combined with it. If you nerf the tool, there's always the danger that another tool will be found. Maybe it will be a bit less powerful, maybe another will be printed, maybe it will stop them from printing another one. If you nerf the engine, you actually work on solving the problem.
+> 
+> 4) Why did they only nerf some cards and not all the others?
+> They nerfed a few heroes and a few cards and people here are already losing their minds. They point of errata is not to make all cards/options have the same power level or viability. It's to provide a fresh perspective, new challenges, and make the game better.
+
+While *certainly* errata is intended to make the game better, errata has a substantial practical cost:
+
+It makes the written text on all copies of the cards incorrect, and it potentially affects the play of every deck/quest using the affected cards.
+
+So I don't agree -- at all -- that "providing a fresh perspective, new challenges, and make the game better" is *sufficient* reason for an errata.  I think a fair argument could be made that nerfing Steward of Gondor would do all three of those things, from the perspective of a new player who walks down to the store and buys the entire fully-errataed card pool.  But it would be a disaster, because it would affect vast numbers of existing decks and dramatically weaken the Leadership sphere for new players buying the core set.  Prior to the Horn of Gondor nerf, there's really no examples at all of errata targeting a popular card based on general power level with the full card pool, errata was targeted to recently released cards that didn't work as intended (Thror's Map, Ravens of the Mountain, Blue Mountain Trader) or cards that were part of a "problematic combo".
+
+What is a "problematic combo" in the sense of this game?  Since the game is not competitive, IMO the *only* "problematic combo" worth considering is one that harms *other players* in uncoordinated multi-player games (by "harm" I mean makes the game less interesting for them -- a griefer running a doomed deck in uncoordinated multi-players isn't a problem the designers can or should solve).  Hama and the original Feint was such a combo against Shadow and Flame -- Feint received an errata, and the problem was solved.  Rouxorr's amazing first turn win deck would be a great example:
+
+https://hallofbeorn.wordpress.com/2017/07/04/deck-solo-first-turn-win/ [https://hallofbeorn.wordpress.com/2017/07/04/deck-solo-first-turn-win/]
+
+As a solo or coordinated-multiplayer deck, the deck *isn't* a problem.  No one who doesn't want to play it will play it, and aside from its novelty value it would not be interesting to play.  But it *would* be a problem if someone brought the deck to a meetup so the other players had the joy of watching the deck blow the quest away while they did nothing at all, so that it would produce errata was inevitable.
+
+At the heart of every problematic LOTR engine is either events that can be recurred by drawing the whole deck, or attachments that don't exhaust.  There's a lot of cards that could be nerfed to prevent the combo -- I think the obvious one would be to hit Rod of the Steward so that it is "Action: exhaust Rod of the Steward and spend 2X resources to draw X cards".  But the nerf to We Are Not Idle certainly also does the job.  (Note that We Are Not Idle/Lure of Moria is still a net resource gain if you can get to 4+ dwarf heroes, but the infinite resource loop required *two* plays of We Are Not Idle with 14 dwarves.) . I prefer attachment exhaustion as a fix whenever possible for a simple reason: it always preserves the common case.
+
+For errata, the slogan to "optimize the common case" should be adhered to.  Nerfing We Are Not Idle prevents the infinite resource combo, but the *way* it did it affects the hundreds of decks using the card for the purpose it was originally designed for.  Having it self-remove preserves the common usage entirely, but eliminates it as a reliable engine component.  Limiting the resource gain (example -- errata to "Exhaust up to three dwarf characters to receive that many resources....") would limit the top-end power of the card while making it exactly as useful as before in the critical first turns.  Having Horn of Gondor *exhaust* when it gives a resource would have preserved its original utility while making it useless for problematic combos.
+
+This brings us to Hama, whose ability, though potentially powerful, is quite costly -- it requires an attack, it requires a discard, it gives you an event at the point where it's not immediately useful, and you have to pay the cost of the event. The potential for Hama/Thicket  was there from Hama's introduction, and Hama's inherent limitations meant that a Hama/Thicket deck circa Dwarrowdelf would use the single card it drew and the three resources it collects to do nothing but play Thicket.  Is this unfair to other players because it does nothing but deal with enemies?  Not really, any dedicated multiplayer combat deck does the same thing.  The only issue is that it doesn't allow those poor engaged enemies to ever get a chance to attack, so like Eleanor/Wingfoot it is "removing a part of the game" entirely.  And *that* issue is created *entirely* by Thicket of Spears, one of only three events that can do that, and the only one Hama can recur.
+
+So you can "fix" Hama, which confines the number of times the event can ordinarily be played to nine times, or you could fix Thicket of Spears and confine the number of times it can be played to three.  The vast majority of Hama decks at ringsdb do *not* have Thicket of Spears in it, so optimizing for the common case suggests nerfing the unpopular card.
+
+But what about other potential (hypothetical) cards that are just too powerful to be played every turn?  A fix that caused the event used to disappear or even bottom decked (like with the Records) would fix that while preserving the common case -- and further, I'm skeptical there is or will be a card that's "just too powerful" to recur every turn that *isn't* a problem if you play it four turns in a row, as the "fixed" Hama can.  Ironically, the broken Hama is probably now most useful exactly to a deck designed to recur expensive tactics events, and with the various recursion/search cards that exist can likely do that reliably.  With the three-use limit, who is going to use Hama to opportunistically pick up The Eagles Are Coming?
+
+Edited November 17, 2017 by dalestephenson
+
+## 98 [cfmcdonald on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084470)
+
+> 1 hour ago, dalestephenson said:
+> 
+> But what about other potential (hypothetical) cards that are just too powerful to be played every turn?  A fix that caused the event used to disappear or even bottom decked (like with the Records) would fix that while preserving the common case -- and further, I'm skeptical there is or will be a card that's "just too powerful" to recur every turn that *isn't* a problem if you play it four turns in a row, as the "fixed" Hama can.  Ironically, the broken Hama is probably now most useful exactly to a deck designed to recur expensive tactics events, and with the various recursion/search cards that exist can likely do that reliably.  With the three-use limit, who is going to use Hama to opportunistically pick up The Eagles Are Coming?
+
+This is exactly right. The "fix" to Hama now makes a Hama + Thicket combo relatively *more* powerful as a way of using Hama. Shutting down the whole combat phase for 4 turns off one copy off Thicket is still great, and probably covers half the game. It barely solves the problem it was intended to solve. Meanwhile someone who wants to use him in a 'normal' way to recur Feint/Goblin-Cleaver, etc., gets screwed. 
+
+Edited November 17, 2017 by cfmcdonald
+
+## 99 [Rajam on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084588)
+
+Honestly the best errata to apply at this point is that all attachments should exhaust when you trigger an action or a response with them. This will prevent several headaches for the game designers in the future
+
+## 100 [banania on November 17, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3084634)
+
+I haven't read all the reactions.
+
+I find all the erratas to be pretty fair but for two points:
+
+ 1. Caldara. Ok, I get it. Caldara was über powerful, and I only played her in a kind of crappy thematic deck to avoid breaking the game. For this kind of decks, Caldara's just a random useless hero
+ 2. Hama. That errata is really rough. I played only a couple of times the Thicket of Spear combo. It was fun. Then, we took it against Stone of Erech. HEY HELLO Shadow-maaaaaaaaaaaaaaan http://hallofbeorn.com/LotR/Details/Shadow-man-TSoE [http://hallofbeorn.com/LotR/Details/Shadow-man-TSoE] !!!!!!! So not that strong after all. Never played the combo again. And deadly with that kind of effect (or those that blank text of heroes). I used Hama for his flexibility to recycle lots of nice Tactics events (such as Foe-hammer) without having the feel it breaks the game.
+
+Overall, as it's a cooperative game, I think the designers are just wrong on some of these erratas. I would rather give errata to cards that limits or constrained deckbuilding rather than cards that are part of a weird specific combo breaking the game.
+
+In short, I just can't understand how in the **** Caldara (remember what everybody was saying when she was first out) got errata'ed but no freaking Spirit Glorfindel.
+
+Edited November 17, 2017 by banania
+
+## 101 [Aorakis on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085205)
+
+Funny fact :  They Think for a long time before doing those nerf...
+
+Then they still just kills 2 heroes in the sake of ... What ? A better Meta ? (In a co op game ?) A CO - OP Game ! It's pointless... Useless... Ridiculous...
+
+And what ? I should be thankful coz we're gonna get a Cycle 8 ? Full POO ! that's what it is...
+
+They killed hama for Hama (coz he's waaay too strong ? really ?) and hypothetical cards that could come...
+
+...Hmmm But... We already have those powerfull cards you know ??? (Oath of Eorl / Hour of wrath / wait no longer) ! And i never saw any hama deck Abusing those to the point where it was bad for this game !
+
+AND LET'S BE REALISTIC... Lotr the card game is a CO OP game ! In wich players are mainly playing it, Alone, or with very good friends ! So if something is Boring, or not fun coz too good for their playstyle... They just don't play it !
+
+There's no need to kill heroes in public place just coz 10 guys complained about combos or 2 guys made youtube vidéos where they break and destroy some quests...
+
+That's a point Sir Caleb should work on... His game is good, just let the players have fun ! It's not a **** competitive game ! There are no competition anywhere nor tournament where players are massively meeting and fighting against your quest, getting a reward at the end of the day coz they made the best score on some quests of yours !
+
+Just relax Grace ! fart a good one, deep breathe and let people have fun ! just let those harder quest players have some fun with boromir and caldara on those big nightmares ! there's nothing bad in that ! We are not in Star Wars Bloody Destiny ! There's no Meta except the one in your imaginary head !
+
+And if you ever decide to errate some cards, at least don't say you took some long time to do or think about doing it...
+
+Coz if those exemples here are those you thought a long time about... I don't want to see what you can do when it's done in a rush or without "reflexion..." Those could be so Cra... wait for it... pendary !
+
+The only thing you manage to do here, is losing players (4 around my community) wich where big fans of the game and brought absolutely everything even those nightmare quests and FellowKits...
+
+Sir... You own those players a minimum of consideration, and your bad works on some erratas (especially those 3 heroes) are just so poor with so poor and late thinking that it's nothing but an insult to those players that are also making you a minimum of living.
+
+That's my last message, i'm actually selling this game on ebay too. i'm deeeeeeeply Tired about ffg horsepooing everywhere.
+
+After Destiny wich is the worst balanced and full of erratas after only less than year game... This...
+
+LOTR LCG was my favorite solo-coop card game, for the mechanics, the universe, the replayability... Then you just make it worst in a simple bloodbath.
+
+Seriously Goodbye FFG...
+
+There are plenty of games out there with much better designers that are not making useless changes where it's not even needed.
+
+And i defenatly hope that you will, someday learn to just read what people are telling you, that would be a great start for your community. You would look like that guy that actually cares about his players and not just a 16 years old kid that saw 4 videos on youtube in wich his little baby quests that he created, are getting powned by 3 combos decks wich is not even a threat to this game or for the fun players have playing it and deceide in a puberty crisis to just make an exemple in public...
+
+Caleb... Joffrey Lannister... Same fight... They're juste killed Sean Bean and his friends coz they can !
+
+So... Who's Next my Grace ?
+
+Coz now i'm just looking my heroes and i'm just waiting for the next ones to be sacrificed on the wall of the useless changes.
+
+
+I'm done with this.
+
+LIke Roger said "I'm too old for this..."
+
+Take care readers.
+
+And don't forget to vote for the best deck of the entire multiverse ! He needs it ! For the sake of the "Meta"
+
+http://ringsdb.com/decklist/view/6882/song-of-caleb-1.0 [http://ringsdb.com/decklist/view/6882/song-of-caleb-1.0]
+
+Edited November 17, 2017 by Aorakis
+
+## 102 [JYoder on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085230)
+
+> 10 minutes ago, Aorakis said:
+> 
+> I'm done with this.
+
+Promise?
+
+ 
+
+## 103 [Network57 on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085400)
+
+> 2 hours ago, JYoder said:
+> 
+> Promise?
+> 
+>  
+
+I'm surprised you managed to read that far. I gave up after 2 paragraphs.
+
+## 104 [ppsantos on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085528)
+
+Nerfing the "We Are Not Idle"  ('Heroes, instead of characters) the way FFG did it is too harsh.  If the concern was  too much resources generated when you exhaust dwarf characters, then perhaps a hard limit on the number of resources to be gained (say equal to number of your Dwarf heroes) could have been imposed.  So, instead of gaining resources equal to dwarf heroes you exhaust, you still gain resources equal to the number of dwarf characters exhausted, up to number of dwarf heroes you control (which is max 3).
+
+## 105 [Aorakis on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085787)
+
+> 15 hours ago, JYoder said:
+> 
+> Promise?
+> 
+>  
+
+Not with this topic no, with this game and ffg games in general ! I'm gonna spend my money where developpers are actually competant and cares for real about their community, where they're not just errating cards for personnal vendetta against some youtube vidéo where they saw their quest beated by 4 decks in the all game...
+
+That guy wich i'm not going to say his name anymore, don't even play his game except on some promo "covenant" videos full of mistakes.
+
+he should do like me, and forget about his game ! Then join the magic the gathering designers, there he could create tons of cards and nerf them for better reasons than what he did in this co-op game where the need was close to ZERO...
+
+Enjoy your weekend, and thanks again grace the Almighty, for the outsanding full of brain reflexion works you made here ! Hope you're gonna live a long Numenorean life so we get even more of those erratas ! Can't wait for the next ones !
+
+Edited November 18, 2017 by Aorakis
+
+## 106 [JusticeLizard on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085789)
+
+I have been thinking about the errata for a few days.  At first I was shocked and dismayed.  I don't like per game abilities.  Having a blank text box is about my least favorite think to have happen to a character.  I give tactics Eowyn a pass because having 4 willpower in that sphere is almost an ability itself.  Lore Aragorn however, I never use even though you could drop your threat by double digits.  But as I thought about it, I realized the thing that actually bugs me about the errata isn't that it ruined Hama and Caldara, but that it didn't really effect them in the way it was supposed to.  Caldar hasn't been slowed at all from up ending the game balance on turn 2 with Arwyn, Irahil, and another ally Sword Thaned.  And a Hama deck can still shut down one third of the encounter deck for 4 turns, longer if you draw another thicket or a record.  Boromir is another story, but I'm cool with that.  Now I feel the errata is not that big a deal after all.
+
+> 15 hours ago, Aorakis said:
+> 
+> That's my last message, i'm actually selling this game on ebay too. i'm deeeeeeeply Tired about ffg horsepooing everywhere.
+> 
+> After Destiny wich is the worst balanced and full of erratas after only less than year game... This...
+> 
+> LOTR LCG was my favorite solo-coop card game, for the mechanics, the universe, the replayability... Then you just make it worst in a simple bloodbath.
+> 
+> Seriously Goodbye FFG...
+
+I can see how the necessity of nerfing a co-op game could be argued, but waiting the game (or at least threatening to), that is just insane.
+
+## 107 [banania on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085807)
+
+keepocalm.JPG [//content.invisioncic.com/Mfantflight/monthly_2017_11/keepocalm.JPG.e212f6f06b545d26c792e15afdbe5501.JPG] [//content.invisioncic.com/Mfantflight/monthly_2017_11/keepocalm.JPG.e212f6f06b545d26c792e15afdbe5501.JPG]
+
+## 108 [Seastan on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085811)
+
+> 16 hours ago, Aorakis said:
+> 
+> 
+> AND LET'S BE REALISTIC... Lotr the card game is a CO OP game ! In wich players are mainly playing it, Alone, or with very good friends ! So if something is Boring, or not fun coz too good for their playstyle... They just don't play it !
+>  
+
+Something = errata? Looks like you solved your own problem. 
+
+## 109 [Chrysagon on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085817)
+
+> 10 hours ago, ppsantos said:
+> 
+> Nerfing the "We Are Not Idle"  ('Heroes, instead of characters) the way FFG did it is too harsh.  If the concern was  too much resources generated when you exhaust dwarf characters, then perhaps a hard limit on the number of resources to be gained (say equal to number of your Dwarf heroes) could have been imposed.  So, instead of gaining resources equal to dwarf heroes you exhaust, you still gain resources equal to the number of dwarf characters exhausted, up to number of dwarf heroes you control (which is max 3).
+
+I agree. This would have been a more agreeable 'fix', although I didn't think there was a problem in the first place.  Why now? It takes a card that has been out there for years with no apparent complaints from the community (as far as I know) and fixes a problem that didn't exist. In this case, Caleb forgets that the large population of players are not diehard serious players who want the greatest challenge (which I respect) but are those who just play to have fun. This card is fun when I play a Dwarf deck. Now, no more. 
+
+Edited November 18, 2017 by Chrysagon
+
+## 110 [RegisF on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085871)
+
+May be it's time for some to learn how to play without broken cards ? :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png] And don't cry too much there is still Glorfindel 2.
+
+With the nerf Caldara is less powerfull but way more roleplay (she can't die multiple times).
+
+I'm not a fan of Hama, I always found the card not roleplay but it's still playlable.
+
+I am more disappointed by Not idle nerf.
+
+Edited November 18, 2017 by RegisF
+
+## 111 [Bunston on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3085925)
+
+We Are Not Idle is still a 0 cost draw 1 card, so it's still really good. The ability to exhaust up to 3 Dwarf heroes for a resource each is just icing on the cake. Lure of Moria and Strength of Arms made the old We Are Not Idle too good, I agree with the nerf.
+
+## 112 [RegisF on November 18, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3086019)
+
+> 1 hour ago, Bunston said:
+> 
+> We Are Not Idle is still a 0 cost draw 1 card, so it's still really good. The ability to exhaust up to 3 Dwarf heroes for a resource each is just icing on the cake. Lure of Moria and Strength of Arms made the old We Are Not Idle too good, I agree with the nerf.
+
+Yeah you are right. It's still à good card.
+
+## 113 [PocketWraith on November 19, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3086140)
+
+https://wardenofarnor.wordpress.com/2017/11/18/faq-1-9-was-released-and-i-have-opinions/ [https://wardenofarnor.wordpress.com/2017/11/18/faq-1-9-was-released-and-i-have-opinions/]
+
+## 114 [Onidsen on November 19, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3086194)
+
+> 1 hour ago, PocketWraith said:
+> 
+> https://wardenofarnor.wordpress.com/2017/11/18/faq-1-9-was-released-and-i-have-opinions/ [https://wardenofarnor.wordpress.com/2017/11/18/faq-1-9-was-released-and-i-have-opinions/]
+
+That's about my feeling too. I wonder if the Caldara problem could have been resolved by reversing the Imrahil ruling.
+
+With Hama, I think I'd prefer removing the tactics events from the game after they recurred
+
+## 115 [Bullroarer Took on November 19, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3086329)
+
+Re Hama I feel that there could have been a less heavy handed way to solve the problem.  I thought of the "exile" the event method too.  Maybe the "put the event on the bottom of the event deck" method like the scrolls/maps do would be best.  Anyway, I agree that there should have been a better way, but I know there are things I don't know.
+
+Caldara... she was an archetype for years.  I have a hunch Caleb looked ahead and felt that she was closing of the development space.
+
+The timing is strange to me.  Almost as if the designer(s) felt that they needed to put out SOMETHING even though ANA was sitting on their hands.  Cirith Gurat is past 10 months now.  A new record.  Yay?  I mean, it looks like we are soon to get a NON-UNIQUE Quickbeam hero, which would probably warrant errata.  Why not wait for that?  Caleb said he was going to clarify the Vilya for X cost issue... nope.
+
+Anyway, I abused Boromir for years, but I accept that it was time to move on.  (In my defense I never used Fire or Blood... They were just gilding the lily.)
+
+ 
+
+P.S.  Erestor To The Sea is insane.
+
+## 116 [Seastan on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088099)
+
+> On 11/15/2017 at 2:54 PM, 13nrv said:
+> 
+> So when a new NM is released, i like to play it with my Caldara deck and have a good time. So new challenge for you but bad news for me.
+
+ 
+
+> On 11/15/2017 at 3:23 PM, 13nrv said:
+> 
+> Caldara can answer to many challenge ... But the answer is always complicated and need some reflexion. Each game is intensive.
+> 
+> You know my Fast Outland deck, i don't play it anymore ... Brainless ... Draw/Ressource/Put ally/Quest/Kill Ennemies and again until win. Well as you said no challenge and so boring.
+> 
+> Caldara is really different from that. Each game is totally different. I need concentration on each game to choose the good option. The gameplay of Caldara need experience and skills.
+> 
+> For the devoted deckbuilding, i will say point of view ... I build a deck around an idea and after i play it against a quest to test it. But i never build against a scenario except specific ones (like Dol Guldur NM, Rhosgobel NM or Lonely Mountain NM).
+> 
+> So i don't want errata, i want new cards for new idea.
+
+You want a reactive-style deck with Caldara that you can use against any nightmare quest? Well, it still exists: http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0 [http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0]
+
+## 117 [donkler on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088185)
+
+I'm noticing that the FAQ is extremely inconsistent with when the errata entries replace card text completely, only modify a part of it, or show a new addendum. Looking solely at the FAQ, it's hard to know if Out of the Wild retains its ability to add an encounter card to the victory display. Seems like it would be much better if every entry always included the full card text as it is now supposed to be.
+
+## 118 [13nrv on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088463)
+
+> 3 hours ago, Seastan said:
+> 
+>  
+> 
+> You want a reactive-style deck with Caldara that you can use against any nightmare quest? Well, it still exists: http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0 [http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0]
+
+As usual Seastan, well done but ...
+
+Yes but :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+As i said before, i don't play devoted deck to a quest. This is why i like the old Caldara. I take my deck, sit down, pick up a random Nightmare quest and play hard for more than one hour ... and victory or defeat is never acquire.
+
+Modify a deck for a particular quest wasn't an exercice i like. For me (no judgement for the others, i just explain what i like in the game), it's like puzzling. My old version don't need lot of side. It was just (much more) harder against some quests.
+
+This new deck is good but for me, it's far from the gameplay, i like to play with Caldara. As you said, it's Caldara 2.0 and i dislike this new version of Caldara. And this kind of gameplay is not new for me and definitively wasn't something i like to play.
+
+Last point, they litterally killed a gameplay, i liked so much.
+
+I don't want errata that killed deck i like to play. 
+
+I accept errata wich lower the power of an archetype but not killed the gamplay of the card. For example, i found errata on Boromir and We are not idle not bad.
+
+If the developper want to give to us new gameplay, please give new cards or give errata on some powerless cards.
+
+Again well done but i am far from acceptance phase and for me Caldara will rest in the binder because that i like with her has been killed.
+
+Edited November 20, 2017 by 13nrv
+
+## 119 [Yepesnopes on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088510)
+
+> 2 hours ago, Seastan said:
+> 
+> You want a reactive-style deck with Caldara that you can use against any nightmare quest? Well, it still exists: http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0 [http://ringsdb.com/decklist/view/6936/caldara-2-0-1.0]
+
+I have never played a Caldara deck (as I only play the game with heroes that appear in Tolkien's lore) or in a group containing a Caldara deck. Say that, from your very nice writing in ringsdb, I understand that this new Caldara deck can beat in solo play style any nightmare quest with little change (i.e. without changing the core deck engine).
+
+In my opinion this stresses the question of "Why the errata is necessary?" Why Caldara but not Gandalf/Elrond vilya?
+
+Why you make an errata on Wingfoot to avoid the Eleanor/Wingfoot combo (which eliminates 1/3 of the encounter deck)? but you make an errata on Hama to avoid the Hama/thicket of spears combo (that also eliminates 1/3 of the encounter deck)? Why did they not make an errata on Eleanor (three times per game)? or why they did not an errata on thicket of spears like they did with wingfoot?
+
+Why erratas are always to nerf but never to make more playable/enjoyable some cards like Radagast, Brook Ironfist, Horn of Gondor, Power in the Earth, Beorn's hospitallity, Radagast's cunning, Beorning beekeeper and a long list?
+
+I believe that as designers of a cooperative game, one has a big responsibility towards the fan/players who are spending the money and enjoying the game. In a game where there are no tournaments pitting players against each other, erratas have to be taken very carefully and only if the new errata is going to contribute positively towards the players' enjoyment of the game. I feel that this time, the designers failed to accomplished  this goal with some of the errated cards, like in the case of Hama, harming the game more instead of making it more fun.
+
+## 120 [Rouxxor on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088517)
+
+@13nrv [https://community.fantasyflightgames.com/profile/232435-13nrv/]Or you can keep playing Caldara the same way you did until now. So you will still enjoy his gameplay and don't mind about the errata.
+
+Since I share your view about specific deckbuilding I will try to look for a generic version of this Caldara 2.0 and I will report how strong this new deck is. So you will be able to know if you want to give it a try.
+
+Fun fact: This deck is better than the old Caldara on Journey in the dark nightmare (because we can't bring back a hero from discard pile ^^).
+
+## 121 [13nrv on November 20, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088534)
+
+As explain on the other forum, i already know this kind of Gameplay. It works fine but not my cup of tea ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+I have to like Yepesnopes, i agree with you.
+
+It's complicated for me to not play with errata, but i think i will do that because these errata hurts to much. It's the second errata which killed some of my deck, i love to play. So no new challenges for me, just new cards which stay in binder.
+
+## 122 [PsychoRocka on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3088934)
+
+Strongly agree with everything yepesnopes has to say on the matter.
+
+## 123 [Seastan on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089058)
+
+> 8 hours ago, 13nrv said:
+> 
+> Modify a deck for a particular quest wasn't an exercice i like. For me (no judgement for the others, i just explain what i like in the game), it's like puzzling. My old version don't need lot of side. It was just (much more) harder against some quests.
+> 
+> This new deck is good but for me, it's far from the gameplay, i like to play with Caldara.
+
+The Caldara deck I posted does not need a lot of sideboard cards. It listed some to make certain quests easier, but it is entirely possible to just sit down and play the deck without modification against any scenario. Tonight I took it through Nighmare Cair Andros and Nightmare Wastes of Eriador and it beat both on the first attempt without any sideboard cards.
+
+ 
+
+## 124 [13nrv on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089476)
+
+> 7 hours ago, Seastan said:
+> 
+> The Caldara deck I posted does not need a lot of sideboard cards. It listed some to make certain quests easier, but it is entirely possible to just sit down and play the deck without modification against any scenario. Tonight I took it through Nighmare Cair Andros and Nightmare Wastes of Eriador and it beat both on the first attempt without any sideboard cards.
+> 
+>  
+
+Well Seastan, yesterday i have read all your description of your deck. In this description, you write change to do depending on quest like Ethir swordsman and quest with Direct damage's treachery.
+
+Ok, your deck works without that. So ok, i am wrong and Caldara continue to be strong ... But this feedback make me more disappointed and angry against these errata.
+
+So developers want to nerf Caldara power but you show that it change nothing. More you beat some quest easiler than my old one. Is it really a nerf ?This errata have just killed two gameplay but change nothing on what is powerfull or not. So they killed the fun of player who love to play these gameplay. Sorry but i can't be enjoyed with that, i have all the collection. I spend a lot of money for this game and developer produce errata that killed my favourites gameplays.
+
+So the errata show you, How can we use Caldara differently ? I would like to say that i respect you deckbuilding skills (i have watched all your videos). But the gameplay of Caldara 2.0 wasn't new for me. I have already make decks which bring quickly some heavy allies and then use Narya on it. These deck rely in heavy willpower hero too and can turtle. The idea i like in your deck is the tribes man. But for me, it's an improvement of a gameplay which already exist and Caldara isn't needed for that. I have seen other player use differently Caldara with only one other spirit hero and one from another sphere. These decks rely on only one use of Caldara on Combo Prince Imrahil. These player didn't need an errata to build differently around a hero.
+
+So these errata bring no new gameplay, but killed an existing one ... I didn't like the gameplay of Caldara 2.0 and i like the old one. The first has been untouched by the errata and the second one have just disappear. Conclusion, my fun was killed.
+
+I eagerly wait new release for many reason. First one, new mechanic, new idea for new deck and second one, new cards for tuning my deck i love to play.I eagerly wait for new spirit cards, for new tactic event, for new Noldor, for New dwarves etc ... And then tune my deck and play again and again Nightmares. Now i will be disappointed when a card will be released that will fit with my favourite killed decks. It kills my fun again.
+
+ 
+
+I hate to disappoint someone. I play many event in France and Belgium and it is so bad to tell a player that his deck didn't work due to an errata. The player is frustrated and some of them didn't understand why developers do errata on a coop game.
+
+And last point, where is the upgrade POD pack ? Because, play with non errated cards could be frustating when explaining  game to new player.
+
+I want just to say another time that i agree with Yepesnopes.
+
+Now, i think, it is my last post in this thread. Maybe, i represent a minority or not. And i think that developer didn't read this thread. My personnel feeling is : "Some of these errata were wrong. They don't bring fun to me but instead killed it. I can't understand that for a coop game."
+
+After
+
+- Horn of Gondor and many other errata that killed some fun deck (really not abused)
+
+- Some nerfed cards definitively put into binder
+
+- missing errata on powerless card which could bring a lot of fun
+
+It's time to me to not follow errata like other member said.
+
+And just to finish by : Zigil Miner + Lord of Eldar when deck is empty is quite fun :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 125 [dalestephenson on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089582)
+
+It's fantastic that Seastan constructed a powerful deck with Caldara.  But it's really more of a Cirdan deck, Caldara's just the LeDenethor of spirit, giving an early boost once the real third hero, Imrahil, shows up.  The *possibility* of recurring Caldara is what defines (well, used to define) the archtype, I think.  There's 125 Caldara decks at ringsdb, and 109 of them have Fortune and Fate -- of the 16 that don't, 2 of them are the only serious Caldara decks published post-errata.  Calling the new one a Caldara deck is kind of like constructing a Gandalf/Elrond/Boffin deck where Boffin gets ditched as soon as Strider shows up, if not before, and calling it a Boffin deck.
+
+The problem of the way errata was done to Eomer and Caldara isn't just the effect it has on existing decks, it's also that it drives behavior towards the very things that apparently prompted the errata in the first place. The limit on Caldara's ability means that she won't be used without Imrahil and/or Sword-Thain.  The limit on Hama's ability means he will only be used for really powerful events -- like Thicket of Spears.  The flexible Hama is out of existence, but the Hama who enables Thicket of Spears to be played turn after turn will still live on, since he can guarantee *at least* four plays of it with one copy, and his mono-tactics deck will have three Book of Eldacar and 2-3 Thicket of Spears.
+
+So here we are post-errata -- Caldara used with Imrahil?  Still viable.  Caldara recurred without Imrahil/Sword-Thain?  Not viable.  Hama used with Thicket of Spears?  Still viable.  Hama used with a variety of cheap tactics events?  Not viable.
+
+The funny thing is that I've never played with the old Hama (though I was constructing a deck with Hama in it when the errata hit).  And although I've published a Caldara fellowship that I've taken through Black Riders + Old Forest/Fog on Barrowdowns, I never actually used Caldara's ability twice.  Because I only have two copies of Fortune and Fate, and because I didn't want to add Caldara to the fallen hero list, I never used her ability at all on two quests and stalled two others until a copy showed up to revive her.  I think I'll keep her ability pre-errata for the campaign, since it was that way when I started it.  Or maybe I'll ditch her at the Council of Elrond or feed her to the Balrog.
+
+It's sad that I can't have a spirit/tactics deck that repeatedly tosses Elven-Light to recur 0-cost tactics events.
+
+## 126 [Aorakis on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089684)
+
+Can't agree more with Dalestephenson, 13nrv and Yepesnopes.
+
+To be honest, i don't have much of a problem with "we are not idle" that is still, i.m.h.o, very strong.
+
+Then Caldara is still playable, well, not a big news you know :   but the fun around her ability, and what makes the all archetype is just dead. Period ! Serioulsy :  They could have start gently, and kill that 4 allies revive, and bring it back to three or even 2 allies (as we get more and more strong allies to revive as the game goes on it's still good, and it would have kept the fun around multiple revive active...) ! And see how it goes first... But No... Too much brainstorming i guess...
+
+Boromir :  from the 3 it's the one i'm the least surprised and the less annoyed. I played him when i started, then i quickly change to try some other stuff more funny. I think that a native untap is still very good, but all in all... Was he that much of a problem ? just think about it for a sec.
+Will we see him a lot more now ? I'm not really that sure to be honest, and was that one of that errata's goal ? To see him more played ? Probably a bit yes... If not, it's even more useless.
+
+Hama :  From the 3, it's the one that still turn me to the Dark Side... I really don't get that hard and harsh rework... 13nrv speak about killing the fun out of a character with Caldara, well FFCalebG has just done that with Hama... They killed the only interresting aspect of him. And as DaleStephenson, i liked to toss Elven light to grab a feint, a foe, a wait no longer and stuff the like depending on my needs, wich makes Hama interresting, and not even O.P at all... The only card why caleb nerfed him for is just that Ticket... Wich is not in my opinion the strongest one in a recursive way of playing hama.
+
+And let's be realistic :  How many hama ticket have you seen in a random event ? And then, was it really a problem of fun for the one table you played with that guy playing it ? My last Hama Spears 4 players game proves me how not "THAT GOOD" nor "OP AS ****" that combo was... There are still plenty random and "out of combat phase" attacks that occurs on many quests. And Beregond saved the table and the game much more than Hama + Spears...
+
+So... Shall we nerf Beregond + Burning Brand aswell ?
+
+Shall we nerf everything that works fine in this game so Sir Caleb is happy that some of his quest stays that hard and challenging ? (btw, for a player like me, i got plenty of challenging quest to lose against... specially in 2, 3 players games, and i lost many games even with a caldara and hama on the board... so once again... Where exactly was that "primal need" for changing those ?)
+
+FFG should also understand that players like Seastan, 13nrv and Rouxxor, are not the majority of players in the game... So when ffg Caleb saw videos or topics mentionning how those players beat those quests hard with their decks, this could not just be threaten as a declaration of war or a problem of this game going badly...
+
+As a "normal" player, i got plenty of quest that just rekt me hard without cream and killing the fun i got with some characters is not, to me, a good way to start making the game a better one...
+
+This game is like the anti-christ of a versus game... So really... i defenatly don't get some of those very harsh reworks... I guess that Director Grace took the word "META" a bit too seriously for a co-op game... ?
+
+And why this late... ? Ok the game is probably going on for a 8th cycle, but he will probably not last for 7 more...
+
+And why they never did the opposite as mentionned by some players... why never "boosting up" a bad cards that sleep in the binder ? This could be so good and could open new windows...
+
+Too much binder cards to up probably ? But you know FFG, just try to make even just 5-10 cards ! You could be surprised how positive that could be !
+
+AND LAST BUT NOT LEAST :  PLEASE ! And believe me, a lot of player would be MORE THAN HAPPY TO PAY for a POD with all the errated cards in max copy !
+
+Coz erratas are (not) fine, but as a "client" i think i deserve the right to have access to the game i paid for, even when you change what has been wrote on my cards, so you could offer me the chance to have THE RIGHT CARDS that i can play with in real life, instead of some homemade prints .pdf files you gave us...
+
+Anyway, as others said, it's defenatly not like FFG was reading what we were saying here. (Nor that they care even just a bit)...
+
+I just know that they just read what they want, the "between the lines" ways, and do what they want without looking further or looking closely or twice at what could be done Or done differntly before it's done the poor way (wich is unfortunaly what they do most of the time)
+
+Take care.
+ 
+
+
+ 
+
+Edited November 21, 2017 by Aorakis
+
+## 127 [Network57 on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089792)
+
+> 59 minutes ago, Aorakis said:
+> 
+> -Redacted  because nobody has time to read this garbage-
+>  
+> 
+> 
+>  
+
+Thought you said you were done?
+
+## 128 [Aorakis on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089793)
+
+> 2 minutes ago, Network57 said:
+> 
+> Thought you said you were done?
+
+Thought you could read right my little gollum !
+
+> On 18/11/2017 at 4:20 PM, Aorakis said:
+> 
+> Not with this topic no,
+
+ 
+
+Edited November 21, 2017 by Aorakis
+
+## 129 [Network57 on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089797)
+
+> 3 minutes ago, Aorakis said:
+> 
+> Thought you could read right my little gollum !
+> 
+>  
+
+My literacy is not in question. Just my interest in paying attention to what you say. Which, probably like literally everyone else on this forum, is zero.
+
+## 130 [Aorakis on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089804)
+
+> 6 minutes ago, Network57 said:
+> 
+> My literacy is not in question. Just my interest in paying attention to what you say. Which, probably like literally everyone else on this forum, is zero.
+
+Well the literally right question you bring to me is more like  :  if you are still losing time with me, and got only that to say to me, wich is **** interresting don't get me wrong... why won't you just go and do a way better and constructive stuff like :  sorting your socks ?
+
+http://i.imgur.com/4lSrfMG.gif [http://i.imgur.com/4lSrfMG.gif]
+
+Edited November 21, 2017 by Aorakis
+
+## 131 [Seastan on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089853)
+
+> 2 hours ago, 13nrv said:
+> 
+> Well Seastan, yesterday i have read all your description of your deck. In this description, you write change to do depending on quest like Ethir swordsman and quest with Direct damage's treachery.
+> 
+> Ok, your deck works without that. So ok, i am wrong and Caldara continue to be strong ... But this feedback make me more disappointed and angry against these errata.
+> 
+> So developers want to nerf Caldara power but you show that it change nothing. More you beat some quest easiler than my old one. Is it really a nerf ?This errata have just killed two gameplay but change nothing on what is powerfull or not. So they killed the fun of player who love to play these gameplay. Sorry but i can't be enjoyed with that, i have all the collection. I spend a lot of money for this game and developer produce errata that killed my favourites gameplays.
+> 
+> So the errata show you, How can we use Caldara differently ? I would like to say that i respect you deckbuilding skills (i have watched all your videos). But the gameplay of Caldara 2.0 wasn't new for me. I have already make decks which bring quickly some heavy allies and then use Narya on it. These deck rely in heavy willpower hero too and can turtle. The idea i like in your deck is the tribes man. But for me, it's an improvement of a gameplay which already exist and Caldara isn't needed for that. I have seen other player use differently Caldara with only one other spirit hero and one from another sphere. These decks rely on only one use of Caldara on Combo Prince Imrahil. These player didn't need an errata to build differently around a hero.
+> 
+> So these errata bring no new gameplay, but killed an existing one ... I didn't like the gameplay of Caldara 2.0 and i like the old one. The first has been untouched by the errata and the second one have just disappear. Conclusion, my fun was killed.
+> 
+> I eagerly wait new release for many reason. First one, new mechanic, new idea for new deck and second one, new cards for tuning my deck i love to play.I eagerly wait for new spirit cards, for new tactic event, for new Noldor, for New dwarves etc ... And then tune my deck and play again and again Nightmares. Now i will be disappointed when a card will be released that will fit with my favourite killed decks. It kills my fun again.
+> 
+>  
+> 
+> I hate to disappoint someone. I play many event in France and Belgium and it is so bad to tell a player that his deck didn't work due to an errata. The player is frustrated and some of them didn't understand why developers do errata on a coop game.
+> 
+> And last point, where is the upgrade POD pack ? Because, play with non errated cards could be frustating when explaining  game to new player.
+> 
+> I want just to say another time that i agree with Yepesnopes.
+> 
+> Now, i think, it is my last post in this thread. Maybe, i represent a minority or not. And i think that developer didn't read this thread. My personnel feeling is : "Some of these errata were wrong. They don't bring fun to me but instead killed it. I can't understand that for a coop game."
+> 
+> After
+> 
+> - Horn of Gondor and many other errata that killed some fun deck (really not abused)
+> 
+> - Some nerfed cards definitively put into binder
+> 
+> - missing errata on powerless card which could bring a lot of fun
+> 
+> It's time to me to not follow errata like other member said.
+> 
+> And just to finish by : Zigil Miner + Lord of Eldar when deck is empty is quite fun :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+I don't disagree with many of the things you said here. Just like you I am saddened by the removal of deck archetypes. I am just trying to see the positive side of things, because there are some. Maybe it means it opens up more interesting cards in the future, kind of like how the Horn of Gondor errata may have opened up the possibility of Tactics Imtrahil.
+
+The article says the errata was done to limit their power, but I don't fully believe this. I think errata is better understood as limiting the cards that have gone far beyond the designer's intent. 
+
+Boromir: The intent was never to let you defend and attack all enemies in play and totally dominate the combat phase.
+
+Caldara: The intent was for a powerful 1-time effect. At the time of release the effort of reviving her for another use was not worth it, so maybe they were shortsighted and didn't bother with limiting it to once per game. 
+
+While look at other powerful decks:
+
+Elrond+Vilya: The way Vilya is designed it is pretty obvious that players will be using this to play a high cost card every turn. Super strong, but working as intended.
+
+Outlands: Again, their design makes it obvious that people will be rushing to get a bunch of these allies on the table fast. The intent was to make them into a strong simple deck that players who dislike deckbuilding could put together easily.
+
+So it's not that they really care about powerful decks. They just care about cards that have started being used in "cheesy" ways. Imagine someone new to the game sitting down and playing a multiplayer game where someone quickly gets 15 allies on the board by turn 4 and dominates the game by killing off Caldara and resurrecting her every turn. That person might think "really, this game is about being a necromancer for some character I've never heard of?".
+
+ 
+
+The Hama errata seems a bit different because it doesn't just limit his broken use but also what seems to be his intent of being able to grab and event every turn. So I'm curious if anyone can provide a constructive alternative to his errata that would limit abuse. So far I haven't heard any. Adding Thicket to the victory display doesn't solve abuse with Hour of Wrath, Feint, Oath or Eorl or any event that may come in the future. Making the event go in the victory display the second time you play it raises a bunch of rule problems. Other suggestions I've seen would add an incredible amount of book-keeping to the game.
+
+Hama is a good example of a card that should never have existed, despite how much I like him. Events are able to be powerful because they are hard to recur. Introducing reliable event recursion totally breaks their identity. At some point this had to happen, although I do wish something more clever had been done.
+
+ 
+
+## 132 [donkler on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089920)
+
+They should have just restricted Hama to only being able to pull 0 cost events. There are no shortage of those for tactics and would seem to prevent the more troublesome interactions.
+
+## 133 [Aorakis on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089940)
+
+Just gonna take that hama for the following exemple (as he's the one that sturck me th most and especially for a multiplayer exemple) : 
+
+I played tons of game irl and even more on octgn, and i never felt that those decks where that much of a "fun" problem to play with. And if someone did'nt like to play with those on the table, well, we changed the composition (or just removed the thickets or don't played them during that game so the big defenders on the table could have some more fun) and everything was just fine...
+
+I never, long term speaking, felt that hama + thicket (nor wrath, OofE, feint, any event you want) was making the ALL game, on those i played with this deck on a table... So basically, if the "op combo, is possible" is it actually really making the game "That Bad" for the majority of the players in the entire world... ? I'm not really that sure...
+
+Maybe on a solo player sight it's different, coz you manage to make hama thicker able to beat this or that quest "absusing" the ability of, (mainly thicket let's just say it right ?) (coz as far i've looked and experienced game with hama... I never saw him looping anything else in big multiplayer quests)
+
+I'm wondering, actually, how many players in the world, has been annoyed in Real life, on some events, by that combo... ? To be that much of a necessity to "deal" with it ?
+
+And for the people who did, what did you do ? Have you throw out the table ? Have you thrown your deck into the face of that hama player ? Have you speak to the event's organisator to cry about the player who were playing that "not funny combo deck" ?
+
+I'm just trying, to get back to the very basic root and fact of the question about those erratas in this specific co-op game here... nothing more.
+
+To be honest, if i'm taking a plane to fly above all of this :  i'm defenalty not that sure of those absolute necessity...
+
+And the last questions wich are probably the most important ones i guess :  
+
+Are those heroes now more attractive for the entire players in the world ? Probably for one week as they got the spotlight on them, but on long term ? Are we going to see much more hamas, caldara or boromir played coz they're not "broken" anymore ?
+
+And on the opposite side, with those changes... Are we gonna see much more Bilbos, Spirit Pippin nor Tactic Dori to be played (especially on big challenging nor nightmare quests ?) ? Once and for all... I'm not sure...
+
+So the basic question is still :  were those changes, that much of a necessity... ?
+
+You already know my answer for that, and let's say it, i'm not a big caldara, boromir nor hama players...
+
+The problem for me isn't even the characters/archetype that has been sentenced to death, but is more about the very absolute necessity of all of this... For let's say what... ? not even 10 decks/combos in the entire game that are "broken" ? (wich they're not even if you look at those closely on different angles than the "pro" ones wich are making the most use or "abusing" uses of those...)
+
+One thing is for sure, half of those reworks could have been avoided, or at least done the right and better thinking way...
+
+Edited November 21, 2017 by Aorakis
+
+## 134 [PocketWraith on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089944)
+
+> 42 minutes ago, Seastan said:
+> 
+> Caldara: The intent was for a powerful 1-time effect. At the time of release the effort of reviving her for another use was not worth it,
+
+If they thought that they just weren't playing it right. I find it harder to believe it would have been worth it on release to do it as a 1-time effect.
+
+## 135 [Aorakis on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089961)
+
+And about Hama's ability :  I'm struck that no one ever mentionned that one of "his problem" could also be the basic fact that he just have to attack, and not kill an ennemy to trigger his ability :  that could have been a small but smart change to start with.
+
+But i thought about somthing like this :
+
+
+After Hama kills an ennemy add a token on him (max 2 tokens)
+
+Combat action (once/turn) :  Remove X tokens from hama to play a (tactic) event that cost X from your discard pile has if it were in your hand.
+
+That way, you stop making him able to loop those big cards, but you still make his ability fun to play around (with foes, feint) (or this is way tooooo good against every quest in the entire game aswell ?) and it would take two kills for him to loop a 2 cost card...
+
+Something the like. The hero would be still good and fun to play around, but not "broken"
+
+
+But sure, i'm not a game designer so it might still be too good and beat all the quests in the game of course...
+
+Edited November 21, 2017 by Aorakis
+
+## 136 [dalestephenson on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089975)
+
+I'm not sure the intent for Caldara was for a "powerful one-time effect" at time of release.  Through Heir of Numenor, Caldara in mono-spirit got you exactly two heroes, which had to hit your discard first (only Eowyn could discard among heroes, though Emery/Zigil Miner could churn cards).  So what were the powerful spirit allies at the time of release?
+
+4-cost -- Northern Tracker, Elfhelm, Damrod
+
+3-cost -- Lorien Guide, Eomund, Bofur, Rider of the Mark, Pelargir Shipwright, Emery, Kili, Dwalin
+
+Throw in a couple great 2-cost spirit allies in Arwen and Ethir Swordsman and you can see that the board state might improve a bit (if you can get good allies discarded) , except that you're now down a hero and only get 2-resources per turn going forward.  I don't think that's really a "powerful one-time effect" as much as a mildly beneficial effect.  But if you have Fortune and Fate and Caldara, you can get any two spirit allies for 5-cost, less if one of your spirit heroes is a Hobbit and you have Good Meal.  I'd say at the time of release, Caldara was *only* useful as a potentially recurring ability.  That's no longer true with Imrahil around, and *now* it's a powerful enough effect that a once-per-game effect can still be a big boost -- but I don't think that was the case when designed.
+
+It's true that a new player who is doing uncoordinated multiplayer may be put off by Caldara in all her new glory, or by the old Super Boromir.  But they could also be put off by Caldara 2.0 or Boromir 2.0 or Outlands or Elrond/Vilya or Dwarven Swarm (even with We Are Not Idle errata) or *any* power deck whatsoever!  This isn't a problem that can be fixed by the designers, because the power level of decks constructed using the whole pool and with an eye for efficiency is going to be much, much higher than a new player is going to bring to the table.  Nightmare packs exist for a reason.  I would think rather than trying to stomp out (a few) power decks, the logical target would be going after decks that can effectively monopolize combat in a multi-player environment, which Caldara old or new cannot.  Questing is straightforward, and no matter how massive the questing a single deck provides, a new players can contribute.  But if the new player can't participate in combat because Super Boromir-now-with-ranged-and-sentinel is doing it all himself, or because Tactigorn/Merry are stealing and killing all the enemies every turn, or because Hama/Thicket is collecting all the enemies (perhaps with TaAragorn's help), then *that's* a problem because he's going to be bored.
+
+It's interesting that you list "Feint" on the abuse list with Hama, since Hama was released in the same cycle as Shadow and Flame and *Feint* was specifically errataed so that Hama's "abuse" of it was confined to himself, not other players.  Clearly, Hama recycling Feint was *not* an issue then, it shouldn't be a problem now.
+
+Thicket I can see as problematic, because it covers all attack.  Hour of Wrath is very powerful, but it costs four so is difficult to play every turn.  Oath of Eorl is *very* powerful, but the enemy at least gets to hit back, so it's not as strong as Thicket.  I don't think it would let the Hama player monopolize combat without Tactigorn's help.
+
+Event recurrence is possible, but Hama's limit drives him *directly* to recur powerful events.  It seems improbable to me that there are or will be tactic events that are too powerful to play every turn, yet are *not* overpowered when played *at least* four times, in consecutive turns if necessary.  Hama has easy recurrence, but between records and search effects recurrence is totally possible for all events -- if that breaks anything, the events *must* be self-removing, like Will of the West and Out of the Wild.  Every truly broken combo in this game seems to feature event recurrence and/or attachments that don't exhaust.
+
+Attaching events to Hama and then removing (or at least sending to the bottom of the deck) after used doesn't seem too difficult to me, but I think the number of events that truly are a problem if recurred every turn are few in number, and could be dealt with by errata to those cards.  Another possibility would've been a Combat Action/Response (limit once per phase) that lets him discard a card to play a tactics event from his discard as if it were in hand, then put that event on the bottom of his deck.  That'd drop the attack requirement, but given his stats that's what he'd do anyways.  That would actually *reduce* the number of times he could play cards like Thicket, while preserving his main functionality. 
+
+BTW, I think making Horn of Gondor exhaust instead of unlimited-but-require-destruction would not have been broken with TaImrahil.  And errata-ing to exhaust when a character is *discarded or destroyed* would've retained its original functionality without powering up TaImrahil or Silvans at all.
+
+## 137 [Rajam on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3089990)
+
+> 2 hours ago, Aorakis said:
+> 
+> AND LAST BUT NOT LEAST :  PLEASE ! And believe me, a lot of player would be MORE THAN HAPPY TO PAY for a POD with all the errated cards in max copy !
+> 
+> Coz erratas are (not) fine, but as a "client" i think i deserve the right to have access to the game i paid for, even when you change what has been wrote on my cards, so you could offer me the chance to have THE RIGHT CARDS that i can play with in real life, instead of some homemade prints .pdf files you gave us...
+
++1 to this: not having the intended text on errata'd cards is really bothersome. This is one of the things that bothers me the most about erratas.
+
+FFG should leave cards untouched as much as possible, specially considering this is not a competitive game. Instead, they should apply errata only on stuff that REALLY needs the errata (aka cards/combos that TRULY break the game), AND launch them again with the adequate/new text. 
+
+Honestly, instead of errating cards, they should leave these nerfs just as suggestions for players who seek a major challenge, instead of making these changes official. Plenty of players (me included) enjoy most of the errata'd cards in their original state and hate when the text on the card isn't correct because of the errata
+
+## 138 [Seastan on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090115)
+
+> 1 hour ago, PocketWraith said:
+> 
+> If they thought that they just weren't playing it right. I find it harder to believe it would have been worth it on release to do it as a 1-time effect.
+
+Well, I don't have inside information of Caldara's design or anything, it just seems really strange to release a card for which the design intention is at such odds with the thematic intention. It seems like the thematic intention (again, just guessing) is for her be rallying allies to her upon her death. Why imply such a theme if the playstyle intention from day 1 was to repeatedly bring her back from the dead (FoF's thematic reference to Gandalf)?
+
+I'm aware that there are ways to interpret the theme of these cards differently, but nevertheless I think this is strange. I think it's more likely the design intent was to wait until an opportune moment to trigger Caldara and through her sacrifice get out some allies to help turn around a bad situation, perhaps near the end of the game when the loss of a hero is less significant.
+
+> 1 hour ago, Aorakis said:
+> 
+> And about Hama's ability :  I'm struck that no one ever mentionned that one of "his problem" could also be the basic fact that he just have to attack, and not kill an ennemy to trigger his ability :  that could have been a small but smart change to start with.
+> 
+> But i thought about somthing like this :
+> 
+> 
+> After Hama kills an ennemy add a token on him (max 2 tokens)
+> 
+> Combat action :  Remove X tokens from hama to play an event that cost X from your discard pile has if it were in your hand.
+> 
+> That way, you stop making him able to loop those big cards, but you still make his ability fun to play around (with foes, feint) (or this is way tooooo good against every quest in the entire game aswell ?) and it would take two kills for him to loop a 2 cost card...
+> 
+> Something the like. The hero would be still good and fun to play around, but not "broken"
+> 
+> 
+> But sure, i'm not a game designer so it might still be too good of course...
+
+Requiring Hama to make a kill would not limit his abuse though. Giving him enough attack to be able to kill enemies is not that hard to do. Your other suggestion is pretty good but limits him in a lot of ways that people might actually prefer the errata'd version. Also, it seems a little OP for 0-cost events :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png] 
+
+> 1 hour ago, dalestephenson said:
+> 
+>  It's interesting that you list "Feint" on the abuse list with Hama, since Hama was released in the same cycle as Shadow and Flame and *Feint* was specifically errataed so that Hama's "abuse" of it was confined to himself, not other players.  Clearly, Hama recycling Feint was *not* an issue then, it shouldn't be a problem now.
+> 
+> Hama+Feint can shut down 1 enemy per round, more with readying. This is often enough by itself to shut down most combat in a 1 or 2 layer game, especially when you consider that it's always targeting the strongest enemy on the table.
+> 
+> Thicket I can see as problematic, because it covers all attack.  Hour of Wrath is very powerful, but it costs four so is difficult to play every turn.  Oath of Eorl is *very* powerful, but the enemy at least gets to hit back, so it's not as strong as Thicket.  I don't think it would let the Hama player monopolize combat without Tactigorn's help.
+> 
+> Hour of Wrath + Beregond will trivialize combat, more so when someone gets a Brand on him. This becomes even stronger than Thicket because it can trivialize all attacks against all players, not just one.
+> 
+> Event recurrence is possible, but Hama's limit drives him *directly* to recur powerful events.  It seems improbable to me that there are or will be tactic events that are too powerful to play every turn, yet are *not* overpowered when played *at least* four times, in consecutive turns if necessary.  Hama has easy recurrence, but between records and search effects recurrence is totally possible for all events -- if that breaks anything, the events *must* be self-removing, like Will of the West and Out of the Wild.  Every truly broken combo in this game seems to feature event recurrence and/or attachments that don't exhaust.
+> 
+> I don't disagree. 
+> 
+> Attaching events to Hama and then removing (or at least sending to the bottom of the deck) after used doesn't seem too difficult to me, but I think the number of events that truly are a problem if recurred every turn are few in number, and could be dealt with by errata to those cards.  Another possibility would've been a Combat Action/Response (limit once per phase) that lets him discard a card to play a tactics event from his discard as if it were in hand, then put that event on the bottom of his deck.  That'd drop the attack requirement, but given his stats that's what he'd do anyways.  That would actually *reduce* the number of times he could play cards like Thicket, while preserving his main functionality. 
+> 
+> Moving events to the bottom of the deck doesn't solve anything, because you can easily empty your deck and you are back at every-turn recursion.
+> 
+> BTW, I think making Horn of Gondor exhaust instead of unlimited-but-require-destruction would not have been broken with TaImrahil.  And errata-ing to exhaust when a character is *discarded or destroyed* would've retained its original functionality without powering up TaImrahil or Silvans at all.
+> 
+> Again this seems more like an errata to bring it in line with designer intent. Having it exhaust would have successfully limited its power, but I argue that that's not what errata is trying to do. Blowing the Horn when a elf goes to hide in the woods was not how the card was intended to work. But sure, "destroyed or discarded from play" would have been nicer for Rohan.
+
+ 
+
+Edited November 21, 2017 by Seastan
+
+## 139 [dalestephenson on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090228)
+
+Thanks for the response Seastan.  I value your opinions.
+
+I fully agree that recurring Feint can shut down one non-immune enemy per round.  Recurring two Feints is more difficult, since it requires two Feints in play, two cards to discard, and two enemies for Hama to attack.  But even shutting down the top enemy consistently can often "shut down" combat in one-player and is a huge help in two-player.
+
+But there's no such thing as "abuse" of one-player in a cooperative game.  A solo player who doesn't want to use Feint-Hama-lock on Shadow and Flame doesn't have to -- and a player who *does* want to is using Hama for exactly what he was designed to do!  That's what he was doing right out of the gate, and the Feint errata shows that the designers were *fine* with Hama shutting down an enemy per turn as long as it protected only one player.  Nerfing one attack in exchange for the lone card drawn and the lone resource Hama got isn't beyond the pale.  And it certainly doesn't provide complete defensive protection in 2-player, let alone shut down combat altogether.
+
+I'll agree that recurring Hour of Wrath is potentially more powerful than recurring Thicket of Spears, if you have a shadow-proof brick wall of a sentinel defender.  However, in the context of a multi-player "monopolize combat" scenario, I think Hour of Wrath is friendlier.  Recurring Thicket makes you want to concentrate all enemies at the Thicket player.  Recurring Hour of Wrath means other players can kill things engaged with them instead of the Thicket player having all the fun.  I don't see one player providing rock-solid defense for everyone is a problem, any more than one player providing lots of questing power is a problem.  One player monopolizing combat completely I *do* see as a problem, and Thicket enables that approach.
+
+Moving events to the bottom of the deck with Hama's power means that the *common* case is of him regenerating a tactics event -- any tactics event -- only once.  Now it's true that there are power decks (especially with Erestor) that can get to the bottom of the deck and letting him recur consistently, something ordinarily only done with Lords of Eldar (though you'd also need Elven-light or Lords of the Eldar to give Hama a card to discard).  But any deck that gets to the bottom can already play a power event *nine times* already without Hama's help, without even considering use of Will of the West.  Any event that's so powerful that Hama recurring it every turn is unacceptable, is also probably too powerful for Hama to play four times in a row, or to play nine times in the course of a game for a draw-your-whole-deck approach.  Though I'm guessing the number of mono-tactics Thicket decks that easily can draw their whole deck is pretty darn small.  In *practical* terms, bottom-decking would not only prevent Hama/Thicket every turn, it wouldn't really have more plays than using Book of Eldacar instead of Hama.  It would be a *stronger* fix to the alleged problem, while saving Hama's ability to recycle cheap tactics events.
+
+Finally, I don't buy for a second that the Horn of Gondor nerf was designed to "bring it in line with designer intent".  There were player cards in the core that left play without being destroyed, and there were other cards (e.g. Valiant Sacrifice) that keyed off leaving play instead of being destroyed.  Further, the entire first cycle was devoted to developing Rohan and Eagles, both notable for leave-play abilities.  Logically, the designer intent was for those expensive Eagles leaving play to power up Tactics' only resource generator -- something they no longer do.  I even found a Second Breakfast by one of the designers that included Horn of Gondor and a few leave-play allies -- they were well aware of exactly what Horn of Gondor did and how it worked.  It simply wasn't an issue until recurred events and the lack of exhaustion made Horn part of broken combos, and even then the first time around they nerfed the poor Master of Lore instead of fixing the Horn.  I don't think there's any evidence at all that the original designers "intended" for Horn of Gondor to only generate resources from chump-blocking, and a new designer appealing to "designer intent" to make one of the rare core cards work so much worse in the first cycle rubs me wrong.
+
+I will agree that the new text is more thematic, but theme alone is a poor reason IMO to turn a useful card into a coaster.
+
+## 140 [cfmcdonald on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090240)
+
+> 1 hour ago, Seastan said:
+> 
+> Moving events to the bottom of the deck doesn't solve anything, because you can easily empty your deck and you are back at every-turn recursion.
+
+You can? I don't think I've ever come anywhere close to emptying my deck. Maybe in "Riddles in the Dark." This goes back to the point that it makes little sense to design errata around the needs of a handful of hardcore power gamers in a co-op game that is mostly played solo and has zero organized-play/competitive play element.
+
+I'd like to see errata that "fixes" some of the most frustrating quests that seem nigh impossible to beat for my single-handed solo decks. 
+
+ 
+
+ 
+
+Edited November 21, 2017 by cfmcdonald
+
+## 141 [Seastan on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090264)
+
+> 13 minutes ago, cfmcdonald said:
+> 
+> You can? I don't think I've ever come anywhere close to emptying my deck. Maybe in "Riddles in the Dark." This goes back to the point that it makes little sense to design errata around the needs of a handful of hardcore power gamers in a co-op game that is mostly played solo and has zero organized-play/competitive play element.
+> 
+> I'd like to see errata that "fixes" some of the most frustrating quests that seem nigh impossible to beat for my single-handed solo decks. 
+> 
+>  
+> 
+>  
+
+You can, but you likely won't if you don't build for it. But if I wanted to I could play down a Longbeard Sentry and empty my deck in a couple turns. And of course Erestor decks are quite good at running through the whole deck.
+
+And in a way, there was an "errata" introduced to the rules that makes the quests more beatable. Easy mode.
+
+## 142 [cfmcdonald on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090284)
+
+> 10 minutes ago, Seastan said:
+> 
+> You can, but you likely won't if you don't build for it. But if I wanted to I could play down a Longbeard Sentry and empty my deck in a couple turns. And of course Erestor decks are quite good at running through the whole deck.
+> 
+> And in a way, there was an "errata" introduced to the rules that makes the quests more beatable. Easy mode.
+
+I've never seen/played with those cards. Again, since this is a non-competitive game that many people play in progression mode, many (most?) players of Hama decks will not have these cards either.
+
+## 143 [Seastan on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090330)
+
+> 25 minutes ago, cfmcdonald said:
+> 
+> I've never seen/played with those cards. Again, since this is a non-competitive game that many people play in progression mode, many (most?) players of Hama decks will not have these cards either.
+
+If the goal of progression mode is to experience the game as if you were playing along as the packs were released, then what you'd really have to do is ignore Hama's errata up until The Black Serpent was released. 
+
+## 144 [perseflamme on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090399)
+
+The less FFG should have done is to offer in the new deluxe cycle box the new FAQ and all the errated cards from the last FAQ they realised.
+
+Perhaps they would have think twice before errating in butcher's mode.
+
+I'm sick to cover my beautiful cards by home printed proxies. Even more heroes !!!
+
+Indeed, why buy the cards if i must print them ?
+
+## 145 [13nrv on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090401)
+
+> Quote
+> 
+> The article says the errata was done to limit their power, but I don't fully believe this. I think errata is better understood as limiting the cards that have gone far beyond the designer's intent. 
+> 
+> Boromir: The intent was never to let you defend and attack all enemies in play and totally dominate the combat phase.
+> 
+> Caldara: The intent was for a powerful 1-time effect. At the time of release the effort of reviving her for another use was not worth it, so maybe they were shortsighted and didn't bother with limiting it to once per game. 
+
+Sorry but they wrote an entire news for that. They explain for each card why they errated them.
+
+For Boromir, this hero exist since beginning of the game. I think that the initial intent is let Boromir defend and attack until you die (Threat or Destroy). This fit with the book and the last fight of Boromir. Now the news explain to us that Boromir design was good initialy due to the lack of threat reduction ... Hum the majority of Boromir deck use : Galadrim's Greeting, Elrond Counsel, Dwarven Tomb, Arargorn Lore and Gandalf ... Wait all this card are nearly as older as Boromir. I don't think that Galadriel change anything about that. My Boromir decks don't use Galadriel, don't use Aragorn Lore and don't use Gandalf, just the other and my final threat is always fewer than the beginning. So this issue exist since the beginning, it isn't new. The only thing that transform Boromir into an insane character is Blood of Numenor/Gondorian Fire/Stewart of Gondor. I don't think that it's an intent from the designer to let a character attack/defend or quest (with Grappling Hook) at 50+. But ok, let's nerf Boromir and don't change a combo which hurts a lot the game.
+
+For Caldara, see Dalestephenson and pocketwraith.
+
+> Quote
+> 
+> While look at other powerful decks:
+> 
+> Elrond+Vilya: The way Vilya is designed it is pretty obvious that players will be using this to play a high cost card every turn. Super strong, but working as intended.
+> 
+> Outlands: Again, their design makes it obvious that people will be rushing to get a bunch of these allies on the table fast. The intent was to make them into a strong simple deck that players who dislike deckbuilding could put together easily.
+> 
+> So it's not that they really care about powerful decks. They just care about cards that have started being used in "cheesy" ways. Imagine someone new to the game sitting down and playing a multiplayer game where someone quickly gets 15 allies on the board by turn 4 and dominates the game by killing off Caldara and resurrecting her every turn. That person might think "really, this game is about being a necromancer for some character I've never heard of?".
+
+Outlands and Vylia decks damage the coop game. I know player that were totally disguted by these deck because they can hold the table.
+
+Caldara is discarded not destroyed by this effect. This difference is important for me. I don't think that Rohan discard mechanic with Gamling is about being a necromancer ... But we can chump blocked with Eomund which is an unique characted, gain a resource with Horn of Gondor, untap all Rohan character, bring back in hand with Guthwine and then play it for one less ressource with Theoden ... Well ... Ok, let's say that Caldara power is insane due to an insane and unthematic ressurection mechanic.
+
+They have increase the power Caldara deck by their own willpower. They have created Sword thain and then make a ruling on Prince Imrahil. Sword thain is often played with Emery. So they have created a powerfull archetype and they can't say : "We don't konw". And then after the archetype become emblematic and appreciate by the community, they kill it. No i don't understand.
+
+15 allies on turn 4 with Caldara deck ... Well we don't play the same deck :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+Caldara is not an easy deck to play and each party is different. The deck can put 15 allies on turn 4 but it is quite rare. Caldara can't hold the table on his own. My experience show that the deck decrease on power with the number of player. Outlands deck is always powerfull and can play for two or more player. I don't play outland on multi because my mate hate this kind of deck but the like Caldara because she is versatile and let space for the other.
+
+I am not in mind of developer but i can give you a lot of counter example. For Horn of Gondor, it's unthematic to use it for silvan. Well ok, and with Stewart, it is more thematic ? 
+
+My feeling is each time i play Caldara with new players, they smile and want to learn how to play this deck and each time i play my outland deck, they say it's a way too much powerfull ... It's kill the game and is uncooperative.
+
+I like the idea of challenge instead of errata. It's a good way to increase creativity without restrictions.
+
+Once again, the developer do a good job on scenario and new mechanic for player but for errata ...
+
+## 146 [Yepesnopes on November 21, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090437)
+
+> 7 hours ago, dalestephenson said:
+> 
+> The problem of the way errata was done to Eomer and Caldara isn't just the effect it has on existing decks, it's also that it drives behavior towards the very things that apparently prompted the errata in the first place. The limit on Caldara's ability means that she won't be used without Imrahil and/or Sword-Thain.  The limit on Hama's ability means he will only be used for really powerful events -- like Thicket of Spears.  The flexible Hama is out of existence, but the Hama who enables Thicket of Spears to be played turn after turn will still live on, since he can guarantee *at least* four plays of it with one copy, and his mono-tactics deck will have three Book of Eldacar and 2-3 Thicket of Spears.
+> 
+> So here we are post-errata -- Caldara used with Imrahil?  Still viable.  Caldara recurred without Imrahil/Sword-Thain?  Not viable.  Hama used with Thicket of Spears?  Still viable.  Hama used with a variety of cheap tactics events?  Not viable.
+
+This!
+
+## 147 [PocketWraith on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090603)
+
+> 3 hours ago, dalestephenson said:
+> 
+> I will agree that the new text is more thematic, but theme alone is a poor reason IMO to turn a useful card into a coaster.
+
+Post-errata Horn of Gondor is not a coaster. This isn't particularly relevant to the subject at hand but it always bugs me when people say it.
+
+## 148 [Aorakis on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090612)
+
+why would zero cost event be a problem with my exemple of hama ?
+
+he would still need to kill, wich is not guaranteed early game, and especially against big ennemies and occasions... And to be honest what are those event except that "foe hammer" or "Get +3 ATT if an enemy got a higher threat..." "+3Doom wizards" (wich you'll not "loop" that much i reckon)  well... There's almost no other zero cost cards played with him.
+Is Foe hammer making Hama the best O.P Drawing character in the game ? Probably not...
+
+I'm not saying my exemple is better than any other i saw so far, but it would be much pleasant to play than this new actual version and would fix the major problem that makes ffg to decapitate him.
+
+
+And as Perseflamme said :  the least they can do, would be to give players a pod with those cards they paid for but are not "right" anymore...
+
+And please people, stop talking about other cards that are o.p, i don't want to have any others erratas in this game anymore.
+
+First coz it's useless in this type of co op game, and second, coz they make them so badly that it's even worst than annoying.
+
+Cheers, take it easy, see ya
+
+Edited November 22, 2017 by Aorakis
+
+## 149 [dalestephenson on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090694)
+
+> 1 hour ago, PocketWraith said:
+> 
+> Post-errata Horn of Gondor is not a coaster. This isn't particularly relevant to the subject at hand but it always bugs me when people say it.
+
+Fair enough.  It is, however, dramatically less useful to me in the decks I previously ran it in, which were used for one-handed or two-handed solo play.  I haven't relied on chump blocking for tactics since I got Defender of Rammas, and with Honour Guard as my favorite tactics card I hate to lose any allies to damage.
+
+It bugs me that Horn of Gondor's reward for my allies getting "destroyed" doesn't apply to discarded characters.  Dark Sorcery took out seven allies in one blow, but as far as Horn of Gondor is concerned they just went on vacation or something.
+
+But I'll concede that Horn of Gondor can be useful where the allies are actually getting destroyed, especially as the player count increases.  From a design standpoint, there's something praiseworthy about a card rewarding you for things that go wrong instead of things that go right.
+
+On the other hand, the thematic connection between having characters destroyed and getting rewarded can also be argued.  "Loud and clear it sounds in the valleys of the hills, and then let all the foes of Gondor flee!"
+
+## 150 [zeromage on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3090701)
+
+> 8 hours ago, Seastan said:
+> 
+> I don't disagree with many of the things you said here. Just like you I am saddened by the removal of deck archetypes. I am just trying to see the positive side of things, because there are some. Maybe it means it opens up more interesting cards in the future, kind of like how the Horn of Gondor errata may have opened up the possibility of Tactics Imtrahil.
+> 
+> The article says the errata was done to limit their power, but I don't fully believe this. I think errata is better understood as limiting the cards that have gone far beyond the designer's intent. 
+> 
+> Boromir: The intent was never to let you defend and attack all enemies in play and totally dominate the combat phase.
+> 
+> Caldara: The intent was for a powerful 1-time effect. At the time of release the effort of reviving her for another use was not worth it, so maybe they were shortsighted and didn't bother with limiting it to once per game. 
+> 
+> While look at other powerful decks:
+> 
+> Elrond+Vilya: The way Vilya is designed it is pretty obvious that players will be using this to play a high cost card every turn. Super strong, but working as intended.
+> 
+> Outlands: Again, their design makes it obvious that people will be rushing to get a bunch of these allies on the table fast. The intent was to make them into a strong simple deck that players who dislike deckbuilding could put together easily.
+> 
+> So it's not that they really care about powerful decks. They just care about cards that have started being used in "cheesy" ways. Imagine someone new to the game sitting down and playing a multiplayer game where someone quickly gets 15 allies on the board by turn 4 and dominates the game by killing off Caldara and resurrecting her every turn. That person might think "really, this game is about being a necromancer for some character I've never heard of?".
+> 
+>  
+> 
+> The Hama errata seems a bit different because it doesn't just limit his broken use but also what seems to be his intent of being able to grab and event every turn. So I'm curious if anyone can provide a constructive alternative to his errata that would limit abuse. So far I haven't heard any. Adding Thicket to the victory display doesn't solve abuse with Hour of Wrath, Feint, Oath or Eorl or any event that may come in the future. Making the event go in the victory display the second time you play it raises a bunch of rule problems. Other suggestions I've seen would add an incredible amount of book-keeping to the game.
+> 
+> Hama is a good example of a card that should never have existed, despite how much I like him. Events are able to be powerful because they are hard to recur. Introducing reliable event recursion totally breaks their identity. At some point this had to happen, although I do wish something more clever had been done.
+> 
+>  
+
+Perfect way of saying it.
+
+ 
+
+Also An errata against vilya would be horrible imo. We need something to help against nightmare quests. 
+
+ 
+
+Unrelates to this comment though I agree with someone earlier who said eadagast needs an errata. When are we finally going to get to play with a good radagast? We have pirates and harad but no radagast!
+
+## 151 [player2453642 on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3091367)
+
+...
+
+Edited November 22, 2017 by player2453642
+Too long
+
+## 152 [Bullroarer Took on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3092019)
+
+I had a thought about a better way to handle Caldara...
+
+Errata Fortune or Fate to:  "Limit one per deck.  Action:  Choose a hero in your discard pile.  Put that card into play under your control.  Remove Fortune or Fate from the Game."
+
+That way she can be used twice.  In spite of Seastan's deck, I just feel like we lost too much of an archetype with the current errata.
+
+## 153 [PocketWraith on November 22, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3092398)
+
+That would still kill her original archetype to my mind.
+
+## 154 [Yepesnopes on November 23, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3092617)
+
+> On 22/11/2017 at 0:28 PM, dalestephenson said:
+> 
+> On the other hand, the thematic connection between having characters destroyed and getting rewarded can also be argued.  "Loud and clear it sounds in the valleys of the hills, and then let all the foes of Gondor flee!"
+
+Exactly!
+
+I cannot agree that the errated (this is not correct English right?) Horn of Gondor is more thematic. The problem is that the original Horn of Gondor was not thematic already. According to the lore, a thematic Horn of Gondor would give you resources when an enemy is revealed /added to the staging area. Limit it once per phase /round and there you are! A thematic Horn of Gondor you cannot abuse.
+
+Edited November 23, 2017 by Yepesnopes
+
+## 155 [Yepesnopes on November 23, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3092623)
+
+Besides Hama+thicket, which other combos of Hama do you think that break the game?
+
+Because I don't buy the Hama+Feint one. Sentinel + Burning Brand or Gloin + Elrond trivialize combat much better than Hama + Feint
+
+## 156 [Rouxxor on November 23, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3092635)
+
+I think that Hama + ticket is a combo who are really powerful only on a small number of scenario when you have 4+ enemies, or in suboptimal build who can't handle enemies of the previous turn.
+
+Since a many months my Hama work by cycling wait no longer and (with a ready) alternatively proud hunter and foe-hammer. It prove to be most efficient since you help the group avoiding a lot of harsh treachery, and the renfort/when revealed of the enemy. And (most important) you still can develop your board because you have enough resources left.
+
+I still play not only 3 thicket but also 1 oath of Eorl (basically the same but can be payed differently when we don't play mono tactics, or need to handle resource differently because of Amarthuil or Mablung but you need to kill the enemies in the turn), so 4 thicket because it is a card who help. But having a deck who only play each turn a thicket, discarding his newly-drawed card and spend all his resources into not even care about 1/3 or the cards since he don't put willpower in quest egal to this enemies, and can't engage them all if there is too many.
+
+## 157 [DarkPhoenix on November 28, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3099251)
+
+Cold day in **** will be when i disgrace my game with those horrible erratas.
+
+I guess it was good choice to stop applying them after Will of the West atrocity.
+
+What card says is what i do, no more, no less.
+
+## 158 [Courchevel on December 6, 2017](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3111843)
+
+Not knowing if this aspect has been raised through this topic (having not read all messages as some here are just re-writing what they already wrote thinking it might be more convincing if they write it numerous times), I wanted to add one point :
+
+One thing that I would not mind having errata for, is having the power of the cards related to the importance of the characters in the books. I do not mind having Gandalf, Elrond or Galadriel powerful in the game. Some cards that are secondary characters for me like Erestor, Hama or Hirgon should not be a complete design archetype material. I like the game but I'd rather have most powerful line-up of heroes with either main characters of the books (Frodo, Aragorn, Boromir, ...) either most iconic/powerful being of the Tolkien's world (Galadriel, Elrond, Beorn, Treebeard, Gandalf, ...). I have fun playing Caldara archetype, however I would have more fun if Caldara card was named Pippin for instance. May be it is just personal, but I guessed that this might be taken into account when decisions about nerfing is made.
+
+In addition, I think that the main issue is to not errating the cards that are never used as mentionned by some other fellow players.
+
+## 159 [AlBigGuns on January 10, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3163991)
+
+Erratas really disappoint me.  The thing is it isn't always a choice whether you play them or not.  If I buy into the game now I may pick up packs with the errata included.  If I buy at the start there won't be any cards with the errata included.  It makes me feel like my collection is incomplete somehow.
+
+I really think that if FFG are going to errata so many cards in a game like this then they should be offering a means to upgrade or replace those cards.  They should be offering a print pack or something for purchase that will replace each altered card.  It's hard enough remembering keywords, text, mechanisms, phases etc. without having to remember errata in a FAQ.
+
+ 
+
+ 
+
+## 160 [Bullroarer Took on January 11, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3164416)
+
+> 5 hours ago, AlBigGuns said:
+> 
+> Erratas really disappoint me.  The thing is it isn't always a choice whether you play them or not.  If I buy into the game now I may pick up packs with the errata included.  If I buy at the start there won't be any cards with the errata included.  It makes me feel like my collection is incomplete somehow.
+> 
+> I really think that if FFG are going to errata so many cards in a game like this then they should be offering a means to upgrade or replace those cards.  They should be offering a print pack or something for purchase that will replace each altered card.  It's hard enough remembering keywords, text, mechanisms, phases etc. without having to remember errata in a FAQ.
+> 
+>  
+> 
+>  
+
+Well said, but I'm not holding my breathe.  The schism between the creative arm of FFG and the business arm of ANA tells me that we will never see it.
+
+## 161 [Authraw on January 11, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3164436)
+
+Has anyone tried making a components request for errata'd cards? Might be worth a shot. I got some misprints replaced this way once. 
+
+http://parts.asmodeena.com [http://parts.asmodeena.com]
+
+## 162 [donkler on January 11, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3165814)
+
+To me the only irksome thing about the errata is how Asmodee/FFG seems to have slapped the hands of a lot of online print services that used to print custom cards, and now they won't do it. I would have gladly paid them for some custom card reprints with the new text and some alt art. It makes me just want to play on OCTGN and not have to buy physical cards at all which seems like the opposite of what they would want.
+
+## 163 [Emilius on January 12, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3166314)
+
+I use Strange Eons to write the new text, print the card (only the text box) and insert it in the sleeve
+
+## 164 [dalestephenson on January 12, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3166604)
+
+I play without any reminder of the errata text, and if I happen to forget the errata, I blame that on FFG making the errata in the first place.
+
+(Most of the time that works in my favor.  However, the first time I played On The Doorstep I burgled a blank Arkenstone and didn't know it was supposed to be useful.)
+
+## 165 [Ywingscum on January 12, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3166640)
+
+Yeah playing solo how are you to know a card was errata'd
+
+## 166 [Kakita Shiro on January 12, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3166850)
+
+> 1 hour ago, Ywingscum said:
+> 
+> Yeah playing solo how are you to know a card was errata'd
+
+Reading the FAQ.
+
+## 167 [Wandalf the Gizzard on January 13, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3167973)
+
+Honestly, I agree with most of the new stuff in the FAQ. Caldara and Hama could have been done better, but they still work.
+
+And I don't mind at all having pre-errata "outdated" cards.
+
+## 168 [tripecac on August 10, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3436651)
+
+Perhaps we should treat errata as an optional variant, similar to another difficulty level?
+
+I for one prefer to ignore errata, because the game is still hard for me, and there is enough to keep track of as it is.  Until I get annoyed or bored by a game-breaking combo I think I'll just stick to playing what's written on the cards.   It's easier (and more fun) that way!  (for me at least)
+
+Edited August 10, 2018 by tripecac
+
+## 169 [Wandalf the Gizzard on August 10, 2018](https://community.fantasyflightgames.com/topic/263282-faq-19-released/?do=findComment&comment=3436743)
+
+Sometimes I make up my own errata in lieu of the official errata. For example: There was an infinite combo with Master of Lore, Horn of Gondor, Erebor Hammersmith, and Borne Aloft. The FAQ team errata'd the Master, making him a sub-optimal card, and they changed Horn of Gondor. It was still on the same power level, but it didn't work as originally intended with the theme. So in my alternate history, Master of Lore was never errata'd, and Horn of Gondor still gives resources when characters leave play, but it now reads once per round. The combo is broken, and the cards work as intended without being OP.
+
+Of course this would not be legal in organized play or at Gen Con, fellowship events, etc.
+

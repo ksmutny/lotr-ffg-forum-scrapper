@@ -1,0 +1,58 @@
+# [Solo Questing Poll!](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/)
+
+## 1 [la1cajun on January 21, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=960333)
+
+So i am new to Lord of the rings card game. I have my core set and am probably gonna start some solo questing today after much ado of reading rules and watching tutorials. I've read quite a bit on the forums and see a whole wealth of info and cool decks ect. I want to know in solo questing, how far have each of you been with one hand vs 2 hand ect., as far as going through the core set then on down the line through adventure packs ect. Is there any point where you just say, ok, this cant be solo'd and need 2-3-4 people? Anyway, looking foward to your answers. Thanks alot!
+
+## 2 [Bullroarer Took on January 21, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=960356)
+
+My current elves deck can beat every Quest in the game reliably except four (not counting Nightmare):
+
+Dol Guldur (not bad if I choose the prisoner)
+
+A Journey to Rhosghobel (after side boarding it becomes easy)
+
+Shadow and Flame (needs heavy side boarding and is still difficult)
+
+Siege of Cair Andros (needs a good draw and a bit of luck at the start)
+
+That said, I have been with the game from before the beginning and have every pack.
+
+## 3 [Khamul The Easterling on January 21, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=960407)
+
+Quests number 1 and 2 in the core set are both very beatable solo.  They also work good for 1-4 players.  The third quest (Dol-Guldur) is very hard with 1 player and just the core set cards.  Almost unbeatable.(But it is possible.  I have a friend who did it with just the core set with a great deck build and lots of luck) 
+
+ 
+
+Unless you build a deck specifically for one of these quests, these are extremely tough solo: Dol-Guldur, Return to Mirkwood, Shadow and Flame, Siege of Cair Andros, Battle of Lake Town.  The rest of the quests are all beatable solo as long as you have a fair amount of player cards to build from.  
+
+ 
+
+Now the quests I just mentioned are all beatable with a deck built specifically for that scenario.  So as long as you have a considerable card pool to build from, you can beat every quest in the game solo.  I'm not saying that you can't hardly do anything with a small card pool, I'm just saying you need quite a bit of cards to beat the super hard quests.   
+
+ 
+
+Feel free to ask more questions.
+
+## 4 [la1cajun on January 21, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=960421)
+
+yeah, i have just the core set now. After separating cards each deck is 33 cards including 3 heroes and 1 gandalf. Figured Id do my best to beat the 3 scenarios in the core set with those decks then get the next adventure pack, finding golum I think and hopefully that one comes with more cards for each sphere. I hope thats a decent plan. I do have a couple of friends that would like to play as well but for my own time I want to be able to throw it together at anytime and continue on my solo quests.
+
+## 5 [servant of the secret fire on January 21, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=960449)
+
+> yeah, i have just the core set now. After separating cards each deck is 33 cards including 3 heroes and 1 gandalf. Figured Id do my best to beat the 3 scenarios in the core set with those decks then get the next adventure pack, finding golum I think and hopefully that one comes with more cards for each sphere. I hope thats a decent plan. I do have a couple of friends that would like to play as well but for my own time I want to be able to throw it together at anytime and continue on my solo quests.
+
+With only the core set only with luck you can solo Dol-Guldur.Second quest of core set is the best for solo play and testing decks.First one is very easy wen you get some experience and learn to create dual sphere decks.
+
+## 6 [la1cajun on January 22, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=961113)
+
+This is cool. I'm glad to hear the game has that much solo,play value. I hear a lot of peeps play solo. I can imagine it gets better with a bigger card base to chose from though.
+
+## 7 [vjg13 on January 22, 2014](https://community.fantasyflightgames.com/topic/97500-solo-questing-poll/?do=findComment&comment=961138)
+
+I don't get to play as much have I have had the game since may 2011 and even though I've bought return to mirkwood and over hill under hill I still play passage through mirkwood over and over just to see which deck can get the better score.  With the extra cards from the AP and deluxe pack  every mono sphere deck is exactly 50 cards.  Im not really a big deck builder I'd rather play a pre made deck to get straight into a quest but I gave in and built one of my own which worked pretty good and was able to beat journey down the anduin a few times which was satisfying.  Even after trying one deck I like to try different combinations of heros with that same deck.  Ive been pretty content just doing this with passage through mirkwood. 
+
+ 
+
+I also would not like to play 2 handed if I don't have to.  I was able to play with a group and beat dol guldur and return to mirkwood but this only happened those 2 times the oppurtunity doesn't come up too often.  I specifically chose those quest because of everyone saying those are almost impossible solo.  And we beat those on the first try with my limited pool which goes to show how much easier adding players makes some quests.  When I play solo I lose a lot more often but still fun.
+

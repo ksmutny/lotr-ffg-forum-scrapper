@@ -287,3 +287,37 @@ Edited March 28, 2017 by cmabr002
 
 I agree with the two interpretations that Richardplunkett suggested earlier, leaning more on the side that it does trigger after this interesting dicussion. I've sent a message through the rules questions form if that's the correct way to get an official answer I'm not sure. I'll post here again when I get a reply.
 
+## 26 [Davachido on April 4, 2017](https://community.fantasyflightgames.com/topic/245870-cirdan-and-local-troubles-tsf/?do=findComment&comment=2716008)
+
+Right so update from Caleb:
+
+The card anatomy on page 8 of the core rules describes Game Text as: “The special abilities unique to this particular card.” There is no distinction made between ‘benefits’ and ‘drawbacks’ - all of a character’s game text constitutes its ability, both good and bad. Any bold trigger (such as Action, Response, Forced) is a triggered action, so if Local Trouble is attached to Cirdan when his Forced effect triggers, you must raise your threat by 1. 
+Cheers,
+Caleb
+ 
+Which makes it quite hard on Cirdan but hopefully I have enough test of wills around for when I next play it!
+This also infers that if you trigger off Glorfindel's effect it also raises threat by one.
+
+## 27 [Seastan on April 4, 2017](https://community.fantasyflightgames.com/topic/245870-cirdan-and-local-troubles-tsf/?do=findComment&comment=2717014)
+
+Still much worse on tactics Boromir... when you raise your threat by 1 to ready him, you must raise it 2 more - 1 for readying and 1 for triggering an ability!
+
+## 28 [Kakita Shiro on April 4, 2017](https://community.fantasyflightgames.com/topic/245870-cirdan-and-local-troubles-tsf/?do=findComment&comment=2717112)
+
+> 1 hour ago, Seastan said:
+> 
+> Still much worse on tactics Boromir... when you raise your threat by 1 to ready him, you must raise it 2 more - 1 for readying and 1 for triggering an ability!
+
+But at least that's your choice to do so. You literally can't stop Cirdan's trigger.
+
+## 29 [RichardPlunkett on April 5, 2017](https://community.fantasyflightgames.com/topic/245870-cirdan-and-local-troubles-tsf/?do=findComment&comment=2717761)
+
+Cirdan and Glorfindel are the only heroes with a Forced, and Glorfindel's Forced is essentially optional, putting aside that he will likely never be selected by "Attach this card to the hero with the highest threat cost without a copy".
+
+So yep, sucks to be Cirdan.
+
+Meanwhile, I was disappointed that Caleb focused on the ability/drawback aspect in answering, rather than the question of who/what is triggering the triggered ability - which seemed to me to be the only real source of ambiguity. Still, at least he picked the right answer. :)
+
+
+ 
+

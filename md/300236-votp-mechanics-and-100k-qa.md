@@ -1,0 +1,17 @@
+# [VotP Mechanics and 100k Q&amp;A](https://community.fantasyflightgames.com/topic/300236-votp-mechanics-and-100k-qa/)
+
+## 1 [Durins_Father on September 19, 2019](https://community.fantasyflightgames.com/topic/300236-votp-mechanics-and-100k-qa/?do=findComment&comment=3788920)
+
+Hi all,
+
+It's been a while since I've been on these forums, but we at Vision of the Palantir haven't been idle these past few days. I myself have been working hard on completing the archetype list with some of the non-trait mechanics that you can build your deck around.
+
+You can find my new Guarded article here: https://visionofthepalantir.com/2019/09/16/guarded-cards/ [https://visionofthepalantir.com/2019/09/16/guarded-cards/]
+and the Doomed mechanic article here: https://visionofthepalantir.com/2019/09/19/doomed/ [https://visionofthepalantir.com/2019/09/19/doomed/]
+
+Since the blog will reach the 100k views this year very soon, as well as the 150k overall views, I will be making another Q&A article where you can ask any questions you may have for the blog or for me. Feel free to ask any questions you have and I will be posting the answers somewhere in 2 weeks time. There have already been a couple of great questions, but I could use some more for a full article: https://forms.gle/pMmAhNP4nuxWQWRm8 [https://forms.gle/pMmAhNP4nuxWQWRm8]
+
+Other than that, I hope to speak to you all soon when we have completed the Dream-chaser cycle in full. Looking forward to seeing some people for Con of the Rings in 2 weeks. Come look me up, I'll have some swag for you!
+
+Durins_Father
+

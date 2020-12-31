@@ -1,0 +1,28 @@
+# [Have you tried duplicate games?](https://community.fantasyflightgames.com/topic/57307-have-you-tried-duplicate-games/)
+
+## 1 [zeb on December 8, 2011](https://community.fantasyflightgames.com/topic/57307-have-you-tried-duplicate-games/?do=findComment&comment=565318)
+
+There are a lot of interesting threads regarding the lowest score possible and/or player tournaments and was wondering if it could be interesting to do duplicate games. This is very popular in Bridge or (as you call it in English) "French Tarot [http://en.wikipedia.org/wiki/French_Tarot]". The idea is that every player starts exactly with the same conditions: same player deck but also the same encounter deck. There is no shuffling at the beginning and this allows to really evaluate the best strategies for a given set. The problems I see is that it might be a bit cumbersome, since we would need a deck builder for Encounter cards to share the deck contents.
+
+Have some of you tried to replay a game in duplicate?
+
+## 2 [Xealous on December 8, 2011](https://community.fantasyflightgames.com/topic/57307-have-you-tried-duplicate-games/?do=findComment&comment=565419)
+
+Not tried this but it would certainly fasinate me. The difficulty is actually keeping track of the correct order of cards in each deck as these will appear in any discard pile in an irregular order depending on gameplay.
+
+A possibility perhaps would be to have a preset order of cards, this could be a excercise in making better decision and better a better score each time.
+
+A preset order of cards in the encounter set could potentially be a scary proposition, the deck order could be a challenge in itself peeps could list.
+
+## 3 [Mighty Jim 83 on December 8, 2011](https://community.fantasyflightgames.com/topic/57307-have-you-tried-duplicate-games/?do=findComment&comment=565491)
+
+ trouble is a lot of the decision making revolves around trying to second-guess the encounter deck. If you know what's coming out, then you know who to save (or not) for fighting, how much to commit, whether to defend or undefend.
+
+As soon as you do a reply with the encounter deck in the same order, people will start card-counting. Even if you allow a long time, so that people forget, at least one person has to remember the order to set the cards up.
+
+Then as soon as the first set of eastern crows are killed / gollum escapes, depending on the quest, the deck gets shuffled anyway.
+
+## 4 [Bohemond2 on December 8, 2011](https://community.fantasyflightgames.com/topic/57307-have-you-tried-duplicate-games/?do=findComment&comment=565515)
+
+Given the way in which shadow cards function in the game, I don't think setting up two decks in the same order would fulfill the function you desire.  Cards have radically different effects when they come out as encounter cards or as shadow cards, which would undermine the idea of facing an equivalent challenge. Maye if you had a fixed encounter deck AND a seperate fixed shadow card deck... but that creates its own set of probblems.
+

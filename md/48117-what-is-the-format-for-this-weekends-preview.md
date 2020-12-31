@@ -1,0 +1,35 @@
+# [What is the format for this weekend&#039;s preview?](https://community.fantasyflightgames.com/topic/48117-what-is-the-format-for-this-weekends-preview/)
+
+## 1 [Rev.Joehr on June 9, 2011](https://community.fantasyflightgames.com/topic/48117-what-is-the-format-for-this-weekends-preview/?do=findComment&comment=482624)
+
+ Does anyone that has already received their kit have any information on how to run the event?
+
+I only ask because my gaming group is considering traveling several hours to attend an event and don't won't to waste the effort if it is only a "show and tell" session. Is it all up to the discretion of the person running it? Is there a competitive aspect? Is there any prize support? Am I asking the wrong questions? Is there a standard tournament format for this game that I am unaware of? Who, if anyone gets to keep the Adventure pack?
+
+These are just some of the things that I would like to find out before committing to 8 hours in a car.
+
+-Rev. Joe
+
+PS, I am trying to attend the event in Clearwater FL if that helps answer any questions.
+
+## 2 [Narsil0420 on June 9, 2011](https://community.fantasyflightgames.com/topic/48117-what-is-the-format-for-this-weekends-preview/?do=findComment&comment=482633)
+
+It seems like it's up to the retailer. One thing for sure is that you can play the scenario, that's consistent. One retailer I've heard is even giving one of the packs to the team with the lowest score in their tournament. The store I'm going to here in CA is not giving the packs away, we just get to play with them for the day. There don't seem to be any set rules, I think we're all on a journey of figuring out how to organize the play for this new type of card game experience.
+
+## 3 [Titan on June 9, 2011](https://community.fantasyflightgames.com/topic/48117-what-is-the-format-for-this-weekends-preview/?do=findComment&comment=482817)
+
+I would definitely call or e-mail the store before I commit to an 8 hour ride. Make sure that particular place will have rules that make it worthwhile for you. I haven't heard anything about FFG requiring any specific formats or prize support, so it is likely as the person above said, up to the organizer.
+
+## 4 [Kitsune Rei on June 9, 2011](https://community.fantasyflightgames.com/topic/48117-what-is-the-format-for-this-weekends-preview/?do=findComment&comment=482899)
+
+This is kind of funny, but I'm at the store you're inquiring about :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png] Did you already call earlier? I know we had someone call who was a long distance away (I think from Jacksonville) but I wasn't the one who talked to them.
+
+To answer your questions! FFG did not provide any instructions on how the event is to be run specifically, nor did they provide any prize support or anything special. In the kit was just 3 packs of Gollum, a poster, a sign-up sheet to preorder the packs when they come out later in June, and a general "thanks for participating and don't spoil anything early, and we recommend not letting players look at the encounter cards before they play the scenario" kind of letter. There honestly aren't really tournament rules- I was actually asking in another thread how other stores planned on running it just to check out other ideas. We don't really care for the current point system, so it wasn't going to be competitive- just casual play. Folks are welcome to run the new scenario as often as they like during the night, I doubt there should be a lot of waiting. We will have 3 copies of the scenario available (we have to mix in core set encounter cards.)
+
+The event is free. We plan on having 3-4 tables set up for both playing the new scenario and for new players who'd like to learn the game (since it'd probably be easier for them to first play against the first core set scenario.) The new player cards will be available to look at but we weren't going to allow people to use them (just to prevent disagreement over who could use them, and having to separate them out of the person's deck after.) It is recommended you bring your own deck(s), but we will have the core set decks available to use. I know personally I keep a couple deck lists and just throw together what I feel like playing that goes with what other people have- its good to have alternates if someone really wants the hero you planned to use.
+I'd say we're expecting like 10 people but I'm really not sure. There was a lot of interest expressed, but we'll see how many people actually walk in on that day.
+At the end we were going to raffle off the chance to purchase the packs at regular retail for anyone interested, since that's about what it cost to get the kit. We're running the event largely because we're really into the game and have several friends who are getting into it too, so we have to pay the store back for getting it.
+
+I just don't want you to drive all this way and be disappointed. 8 hours is a long way, I know because I sometimes drive to Atlanta for conventions O.o
+If you have any other questions let me know!
+

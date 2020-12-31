@@ -282,3 +282,329 @@ Caleb's Response:
 
 Final thought: I like it much better this way as it is simple and consistent.  
 
+## 26 [gandalfDK on October 3, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1286953)
+
+Now the Light of Valinor has shone through finally. This is cool and understandeble, for a moment I was afraid Thalin was thrown into Mount Doom... But he climbed back out himself.
+
+## 27 [Julia on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1286981)
+
+> If you have only 1 card in the encounter deck, once you reveal it you'll have to shuffle the discard pile immediately.  According to the core set manual, you're supposed to shuffle the encounter deck discard pile back into the encounter deck immediately whenever it is empty during the questing phase.  
+> 
+>  
+> 
+> Even if you decide to place a damage token on the crows before you shuffle the discard pile back in, I would still shuffle the discard pile back in before taking the crows out of play.  A card that gets destroyed is discarded "immediately" upon getting the right number of damage tokens -- but now you've got two immediate effects to resolve (get rid of the crows, and shuffle the discard pile), so I'd do the discard pile first, as its condition (empty encounter deck) happened first.
+
+ 
+
+Ok, it has sense. We always played the other way round: the revealed card was resolved (hence: "when revealed" effects applied; damage due to Thalin being committed applied; "doomed" or other keywords having an immediate effect applying, and so on) and then, if there were no cards in the deck, we shuffled it again to draw the remaining cards.
+
+ 
+
+Good to know the correct sequence, thanks a lot :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 28 [GrandSpleen on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287137)
+
+>  
+> 
+> 
+> 
+>  
+> 
+> Caleb's Response:
+> 
+> > Essentially, the phrases “by the encounter deck” and “from the encounter deck” should be taken to mean any card that originated from the encounter deck or discard pile.
+> > 
+> >  
+> 
+>  
+> 
+>  
+
+ 
+
+ 
+
+Ok, so revealing a card from the encounter deck discard pile counts as revealing it from the encounter deck?
+
+ 
+
+ 
+
+Also, Eleanor and Thalin can sleep soundly knowing that they can indeed be used in Black Riders etc. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 29 [TwiceBorn on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287157)
+
+With regards to eastern crows vs. Thalin's ability when the crows are the last card(s) in the encounter deck, wouldn't FAQ section 1.02 take precedence over 1.37? It seems to me that "passive effects" are attributed to card effects, rather than to game rules, so FAQ 1.37 should not apply… but maybe I'm wrong about that? I have always played the Thalin/crows scenario the way Julia has, but "Julia's approach" and "alogos/CJMatos/Grand Spleen's approach" both seem to be equally supported by FAQ 1.02 (i.e., first player decides how to resolve the timing of simultaneous effects… that is, if I am interpreting the FAQ correctly):
+
+ 
+
+ 
+
+(1.02) Simultaneous Effect Timing If two or more conflicting effects would occur simultaneously, the first player decides the order in which the effects resolve.
+
+ 
+
+(1.37) Timing of effect resolution When resolving multiple effects with a shared condition, players should use this order of resolution: passive abilities first, Forced effects second, Response actions third. When determining the order of effect resolution among abilities within those categories, players should first resolve abilities that use the word “when” and then resolve abilities with the word “after”.
+
+ 
+
+Ultimately, it seems to come down to the first player's judgement… and I am not opposed to using an occasional "eastern crow" loop to my advantage, given how often the encounter deck screws me with purely random and really crappy luck/timing! :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+ 
+
+But, if my interpretation of the FAQ is incorrect, then I would welcome further clarification/explanation... 
+
+Edited October 4, 2014 by TwiceBornh
+
+## 30 [GrandSpleen on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287224)
+
+Well, if I'm understand you right, you're saying the player can choose the order of resolution because the effects are simultaneous.  But they're not simultaneous effects, are they? The encounter deck becomes empty, the card is revealed, and then you place a damage token and destroy the Crows.
+
+## 31 [TwiceBorn on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287240)
+
+> Well, if I'm understand you right, you're saying the player can choose the order of resolution because the effects are simultaneous.  But they're not simultaneous effects, are they? The encounter deck becomes empty, the card is revealed, and then you place a damage token and destroy the Crows.
+
+ 
+
+Yes, you understood me correctly.
+
+ 
+
+And I can see your perspective. 
+
+ 
+
+I guess I have always viewed the card being revealed and the encounter deck becoming empty as simultaneous. That having been said, upon closer reading, I guess that the wording of the forced effect on Eastern Crows does state that "After Eastern Crows is defeated, shuffle it back into the encounter deck." So regardless of whether the emptying of the encounter deck occurs first or simultaneously with the last card (Eastern Crows) in the deck being revealed, the destruction still occurs subsequent to the encounter deck having emptied… which ultimately supports the end result of your interpretation.
+
+ 
+
+I think that what I might have originally had in mind (but did not properly explain) was a scenario where you reach stage 3 of Journey Along the Anduin in solo mode and have only 2 Eastern Crows in the deck while Thalin is questing (and the conclusion of stage 2/start of stage 3 occurs during the quest resolution phase, and not as a result of a card effect like that of Legolas/Blade of Gondolin)… the last 2 cards to be revealed at the onset of stage 3 would be 1 Eastern Crow (destroyed by Thalin), shuffled back into the deck with the other Eastern Crow, only to have the "second" crow be destroyed by Thalin again (and being sent back into the encounter deck with the other crow)… ultimately resulting in no new enemies in the staging area.
+
+ 
+
+Does this make more sense?
+
+Edited October 4, 2014 by TwiceBornh
+
+## 32 [alogos on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287280)
+
+You are missing that there is a "draw a card from the encounter deck" step before actually revealing it. This trigger the shuffling of the discard pile before Easter Crow are killed, without any possibility for a simultaneous effect.
+
+It's what we had in Caleb's response very long ago about the Collateral Damage ruling questions.
+
+## 33 [TwiceBorn on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287299)
+
+> You are missing that there is a "draw a card from the encounter deck" step before actually revealing it. This trigger the shuffling of the discard pile before Easter Crow are killed, without any possibility for a simultaneous effect.
+> 
+> It's what we had in Caleb's response very long ago about the Collateral Damage ruling questions.
+
+ 
+
+To my knowledge, that's not explicit in the rules or FAQ, but I'll take your word for it (you, Grand Spleen and the other veterans have evidently been playing a lot longer than I have, have more expansions/APs and in-depth knowledge of game mechanics and card interactions than I have, and have engaged in more questions/discussions with the designers than I have). Until now, I thought that drawing/revealing were done simultaneously… but I can see why they wouldn't be considered simultaneous "actions" (for lack of a better word).
+
+ 
+
+I really wish that FFG would take the time to compile all the responses (and not just a select few) to our various questions in their official FAQs… it gets annoying when we need to dig up old posts across various message boards to get quasi-official rulings (some of which may change over time)… especially when newbies aren't aware that particular rulings have been made and not added to the FAQ (if only because they don't yet know of the existence of particular cards and problems associated with them)!!!
+
+Edited October 4, 2014 by TwiceBornh
+
+## 34 [Julia on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287314)
+
+> I really wish that FFG would take the time to compile all the responses (and not just a select few) to our various questions in their official FAQs…
+
+ 
+
+This could easily be fixed. Start a thread collecting all Caleb's answers (call it something "Official Answers from Caleb" or something like that), post there all the answers you have at hand, ask FFG to pin the thread.
+
+ 
+
+I'd do this myself, but I can't for two reasons:
+
+ 
+
+a) playing since too few time to actually know where to dig out the answers
+
+b) playing since too few time to actually know how to make the answers comprehensible and correct (in stead of copy-pasting mails written to Caleb, it'd be nice to have this stuff reorganized in a sort of "Q: what happens if? / A: you do that)
+
+ 
+
+but if someone is willing to start this, hey, this would be super-awesome!
+
+## 35 [chadgar24 on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287443)
+
+PHEW!!   that is the answer I had hoped to get when I asked it!  It seems to be the most logical way to handle this and not game breaking.  I am REALLY happy with this ruling!  thank you for sending the follow-up.  I kinda wanted to, but I didn't want to bother him anymore.  I was talking it over with Brian from COTR podcast who is freinds with Caleb, I wonder if he also talked to him?  thanks all. 
+
+> Received answer from Caleb.
+> 
+>  
+> 
+> TL; DR: He reversed his earlier ruling.  Excerpt: 
+> 
+> > I am changing my answer to the question that sparked the debate to say that Thalin’s ability will trigger against each enemy revealed “by” or “from” the encounter deck while he is committed to the quest. This includes enemies that are revealed by a surge effect or through card effects that instruct you to search “the encounter deck and discard pile” for that enemy.
+> 
+>  
+> 
+> For completeness sake I will include my full question and his reply.  After the reply I've got some final thoughts.
+> 
+>  
+> 
+> What I sent to Caleb:
+> 
+>  
+> 
+> >  In a thread discussing Thalin's ability and whether it applies when we are told to search for an enemy and end up revealing one from the discard pile (see http://community.fantasyflightgames.com/index.php?/topic/122991-thalin-and-revealed-from-discard-pile/ [https://community.fantasyflightgames.com/index.php?/topic/122991-thalin-and-revealed-from-discard-pile/]) the OP posted the reply he received to his submitted question:
+> > 
+> > Hi Chad,
+> > 
+> >   Thalin's ability only deals damage to enemies "revealed by the encounter deck"  - that is referring to the rules for the staging step where it says: "After each player has had the opportunity to commit characters to the quest, the encounter deck reveals one card per player" Any other card effect that causes you to reveal an enemy is not the encounter deck revealing an enemy but that card's effect. So, an effect that instructs you to search for an enemy, reveal it, and add it to the staging area will not trigger Thalin's ability.
+> >   Cheers, Caleb"
+> > 
+> > This response led to a lot of discussion and I thought I would ask some follow up questions to try to better under the scope, particularly for cases where the player has no control over the selection of the card being revealed.
+> > 
+> > For all of these questions, suppose that Thalin has been committed to a quest and no effect has removed him the quest.
+> > 
+> > Question 1) If an encounter card is revealed with the surge keyword, then by the core rules we are told to "reveal 1 additional card from the encounter deck". If this additional card is an enemy, does Thalin's ability apply?
+> > 
+> > Question 2) What if an encounter card has an effect that states "Reveal a card from the encounter deck" (for instance, Massing at Night from the Core set). Would Thalin's ability apply to any enemies that were revealed in this manner?
+> >  
+> > 
+> > Question 3) What if a quest stage is completed (during the quest phase, so heroes are still committed to the quest) and the next stage states to reveal one or more card from the encounter deck (for example, Journey Down the Anduin 3B: Ambush on the Shore). Would Thalin's ability apply to any enemies that were revealed?
+> > 
+> > Thanks in advance.
+> > 
+> >  
+> 
+>  
+> 
+> Caleb's Response:
+> 
+> > Hi Richard,
+> > 
+> > Thanks for following up with me.
+> > My ruling with regard to Thalin was based on the use of the language “by the encounter deck” as opposed to the more prevalent phrase “from the encounter deck.” A strict reading of the core rules makes it seem encounter deck only reveals 1 card per player during the staging step. However, after reviewing other player card effects that use the language “by” and “from” the encounter deck, it seems clear to me that both words were used to mean the same thing from the beginning of the game.
+> > Therefore, I am changing my answer to the question that sparked the debate to say that Thalin’s ability will trigger against each enemy revealed “by” or “from” the encounter deck while he is committed to the quest. This includes enemies that are revealed by a surge effect or through card effects that instruct you to search “the encounter deck and discard pile” for that enemy. Essentially, the phrases “by the encounter deck” and “from the encounter deck” should be taken to mean any card that originated from the encounter deck or discard pile.
+> > Some exceptions to this rule would be:
+> > - Enemies that were previously set aside and revealed during the quest phase
+> > - Enemies that are revealed from some other deck (i.e. the Underworld deck in The Steward’s Fear)
+> > I will make a note to add this rules clarification to the next FAQ.
+> > Cheers,
+> > Caleb
+> > 
+> >  
+> 
+>  
+> 
+> Final thought: I like it much better this way as it is simple and consistent.  
+
+## 36 [GrandSpleen on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287486)
+
+> You are missing that there is a "draw a card from the encounter deck" step before actually revealing it.
+
+ 
+
+I've seen people say this before, but I'll agree with TwiceBornh, I've never read anything distinguishing "draw" and "reveal" from the encounter deck-- I think they purposefully avoid use of the word "draw" when not talking about a player deck.  As a result "draw" in this game has taken the meaning "take into your hand from the deck."  
+
+ 
+
+I suppose you could argue that "drawing" from the encounter deck is common sense, but common sense is usually your fierce enemy when interpreting rules (Ungoliant's Spawn anyone?).
+
+ 
+
+Also, TwiceBornh, alogos maintains a compilation like you are asking: an unofficial FAQ that contains nothing but official replies to questions such as this one.  https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing [https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing]
+
+ 
+
+And even if we've been playing longer, we still make lots of mistakes and wrong guesses when it comes to rules... so don't ever take our word for something :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Edited October 4, 2014 by GrandSpleen
+
+## 37 [Julia on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287870)
+
+> Also, TwiceBornh, alogos maintains a compilation like you are asking: an unofficial FAQ that contains nothing but official replies to questions such as this one.  https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing [https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing]
+> 
+>  
+
+ 
+
+Thanks a million for the link!
+
+## 38 [TwiceBorn on October 4, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1287882)
+
+I appreciate the compilation that alogos has put together, it is very helpful… but I still think FFG should incorporate those responses to player questions (and others not necessarily posted in the forums) into their official FAQ!
+
+## 39 [alogos on October 6, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1289398)
+
+>  
+> 
+> > Also, TwiceBornh, alogos maintains a compilation like you are asking: an unofficial FAQ that contains nothing but official replies to questions such as this one.  https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing [https://drive.google.com/file/d/0Bx7NeM1v9YOnejFEMmxRb1V4c0E/edit?usp=sharing]
+> > 
+> >  
+> 
+>  
+> 
+> Thanks a million for the link!
+> 
+>  
+
+ 
+
+I was soooooo lazy to search for it that I just waited someone to post the link....
+
+It was not on Collateral Damage question, but on the surge one, here it is :
+
+>  
+> 
+>  
+> 
+> Q: When exactly do we shuffle back the encounter deck if it is empty? If the encounter deck has only 2 cards left (2x Collateral Damage). I reveal the first. I have to discard 2 cards, but there is only one left. When do I shuffle back the encounter deck? When do I discard the Collateral Damage I'm resolving? Directly after the last effect is resolved? First thing after I read the card and before I resolve the first effect?
+> 
+> A: The rules for the Quest phase under step 2: Staging say: "If the encounter deck is ever empty during the quest phase, the encounter discard pile is shuffled and reset back into the encounter deck". So, you would discard the top card, shuffle the encounter deck discard pile back into the deck, and continue discarding. The Collateral Damage (or any treachery card) is not discarded until after its effects have been resolved.
+
+I had to get my other link : https://docs.google.com/document/d/18_pYjnXi27r1P886cMHGmb7ZX-tuWeTLe7bGIVP-vs4/ [https://docs.google.com/document/d/18_pYjnXi27r1P886cMHGmb7ZX-tuWeTLe7bGIVP-vs4/] to copy paste.
+
+## 40 [Julia on October 6, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1289412)
+
+Thanks for that!
+
+## 41 [JanB on November 30, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1351946)
+
+Mmm .. what about Hidden Cards in the "Blood of Gondor"-Szenario? If Thalin is commited to the quest, does he deal damage to Enemies, which are revealed from hidden cards? e.g. by 'Lying in Wait'
+
+## 42 [Nerdmeister on December 1, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1352419)
+
+Not unless the enemies are revealed by and from the encounter deck
+
+## 43 [alogos on December 1, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1352475)
+
+Seeing Caleb answer :
+
+> Therefore, I am changing my answer to the question that sparked the debate to say that Thalin’s ability will trigger against each enemy revealed “by” or “from” the encounter deck while he is committed to the quest. This includes enemies that are revealed by a surge effect or through card effects that instruct you to search “the encounter deck and discard pile” for that enemy. Essentially, the phrases “by the encounter deck” and “from the encounter deck” should be taken to mean any card that originated from the encounter deck or discard pile.
+> Some exceptions to this rule would be:
+> - Enemies that were previously set aside and revealed during the quest phase
+> - Enemies that are revealed from some other deck (i.e. the Underworld deck in The Steward’s Fear)
+> I will make a note to add this rules clarification to the next FAQ.
+> 
+>  
+
+Hidden cards should be part of the exception.
+
+## 44 [JanB on December 1, 2014](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1352502)
+
+Mmm, you mean "Enemies that were previously set aside and revealed during the quest phase" ?
+
+ 
+
+Ok, i can live with that. Thalin ist superb how he is :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 45 [JanB on January 5, 2015](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1393289)
+
+By Thalin we search for cards which "reveal and add" new enemies to the staging area .. what about cards which only "add" enemies out of the encounter deck or discard pile. Does Thalin works here?
+
+## 46 [Nerdmeister on January 5, 2015](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1393328)
+
+Should only work if the card is termed as being "revealed"; either from build-in mechanic (questing) or from card text.
+
+## 47 [alogos on January 5, 2015](https://community.fantasyflightgames.com/topic/122991-thalin-and-revealed-from-discard-pile/?do=findComment&comment=1393331)
+
+Everything that is from "out of the encounter deck or discard pile" I would read it as part of "some other deck".
+

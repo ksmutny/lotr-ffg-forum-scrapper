@@ -1,0 +1,244 @@
+# [Solo Play](https://community.fantasyflightgames.com/topic/46101-solo-play/)
+
+## 1 [tempestfury on May 1, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=461922)
+
+Not sure if i missed it somewhere but is there official solo rules or just the standerd play like two players and strategize between them.
+
+thnx in advance.
+
+## 2 [Toqtamish on May 1, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=461924)
+
+There sure is. It's the rulebook. The game is designed for 1-2 players. If playing solo, build your deck and give it a go. I would recommend not using the tactics beginner deck for solo play unless you are going to add a different hero and some cards from a different sphere as well.
+
+## 3 [richsabre on May 1, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=461929)
+
+yes i bought the game just for the solo play, and dont particularly give any extra thought to changing the rulebook, its made for both, you just ignore the parts that say 'the second player' gui%C3%B1o.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gui%C3%B1o.gif]
+
+## 4 [jhaelen on May 2, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=462198)
+
+Toqtamish said:
+
+The game is designed for 1-2 players.
+
+
+
+Right now I'm fairly sure it's not been designed for 1 player. It's playable solo but only very barely so. The second and third scenarios are so incredibly hard for a solo player it's not fun.
+
+Originally, I thought solo play would be a good way to test your decks for play with multiple players. But that doesn't isn't the case at all. Solo play requires an ultra-specialized deck that wouldn't be something you'd want to play in multiplayer.
+
+Currently I consider the solo play option a failure. I couldn't honestly recommend the game if that's what someone is mainly looking for.
+
+## 5 [DerBarchen on May 2, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=462203)
+
+I dont know, I think thats a little premature (considering that there have been No updates)
+Its really a matter of taste. You think that the 2nd and 3rd scenarios being really hard is a bad thing where as I think that its nice for a single player game to have challange. Maybe the difficulty curve isnt perfect but what is these days? You think that decks cant be tested in solo play where as I think that the first scenario is perfect for general deck testing. You just have to know what youre testing for. Obviously if youre trying to run a support deck for multiplayer then playing it in single player wont work very well.
+
+Its also a matter of taste when you say that the single player decks have to be specially constructed is a Bad thing. The solo paly component of the game isnt a deck tester for multiplayer. Its a Seperate Game. Which I think is great. I mean sure its fiddly to have different decks for both solo and single play but honestly the same can be said of any variable game mode in Any game. Personally I think its impressive that FFG managed to create a system robust enough to suppourt any number of players, including 1.
+
+On top of all of that the game is robust enough to suppourt modded gameplay so if youre really dying for different/easier/harder/more interesting quest types you can always change the quests to suit you like NinjaDorg did here: http://ratdorg.blogspot.com/2011/04/lord-of-rings-card-game-scenario-lost.html [http://ratdorg.blogspot.com/2011/04/lord-of-rings-card-game-scenario-lost.html]
+Im not saying your argument is invalid, its just based almost entirely on personal taste >.>
+
+## 6 [Toqtamish on May 2, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=462229)
+
+jhaelen said:
+
+ 
+
+Toqtamish said:
+
+ 
+
+The game is designed for 1-2 players.
+
+ 
+
+Right now I'm fairly sure it's not been designed for 1 player. It's playable solo but only very barely so. The second and third scenarios are so incredibly hard for a solo player it's not fun.
+
+ 
+
+Originally, I thought solo play would be a good way to test your decks for play with multiple players. But that doesn't isn't the case at all. Solo play requires an ultra-specialized deck that wouldn't be something you'd want to play in multiplayer.
+
+Currently I consider the solo play option a failure. I couldn't honestly recommend the game if that's what someone is mainly looking for.
+
+ 
+
+ 
+
+ 
+
+That is your opinion, which I have seen in a few threads already. And you are more than welcome to your opinion. But I think it plays great solo. I played it twice last night solo, once with the basic leadership deck and then I built a 50 card deck and beat the 1st scenario. Going to try scenario 2 and 3 today solo using the same deck and see how it goes.
+
+ 
+
+I agree DeBarchen, the decks you use solo will need to be different than decks you use multiplayer.
+
+## 7 [jhaelen on May 2, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=462456)
+
+Toqtamish said:
+
+That is your opinion, which I have seen in a few threads already. And you are more than welcome to your opinion. But I think it plays great solo. I played it twice last night solo, once with the basic leadership deck and then I built a 50 card deck and beat the 1st scenario. Going to try scenario 2 and 3 today solo using the same deck and see how it goes.
+
+
+
+Good luck, then. After my first eight games - all against the first scenario I thought it played well solo, too. In the beginning I even thought it was easier solo than with several players - boy, was I wrong! cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+
+Since I've now played a total of 64 games, I've changed my mind.
+
+See, I enjoy being challenged. But there's a limit to what is a reasonable challenge and what isn't. If I lost about one in five games I would consider it reasonable. I remember someone musing that the number given for the difficulty of the scenarios indicates the number of times you should expect to have to play the scenario to win it. That would be great. It would mean I wouldn't have had to play scenario 2 25 times to win but only four times. And I cannot tell how many more times I would have to play it to repeat the success.
+
+The incredibly high luck factor is the problem here: If someone creates a deck and wins scenario 2 or 3, and then posts the 'winning deck', it's likely that noone will be able to reproduce the result. For that to work, deckbuilding would have to make a greater difference. The results would have to be more consistent. You'd have to have a much higher rate of success.
+
+Currently, the best indication if a deck is good or not is reflected by the time it takes to lose the game: E.g. I've tried the third scenario with a Spirit/Leadership deck rather than the Leadership/Spirit deck I've used for most attempts. Only one of these five games took longer than five minutes and I never even reached the second stage, suggesting that it's not a combination that works well. But are a mere five games really enough to tell?
+
+A success rate of less than four percent using the best deck you can build for a scenario is imho not acceptable. But we'll see, maybe eventually some miracle deck will turn up for scenario three.
+
+## 8 [TrooperShark99 on May 2, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=462484)
+
+To each is own, from my perspecitve, I am now re-assured that I am going to want to keep investing in this game.  Lets put things in perspective:
+
+ 
+
+- Core set offers (even with 3 core sets) limited options for each sphere to solve the puzzle in Solo play, and themes are not shared.
+
+- Limited options available imply you cannot even build a single sphere legal deck for.  The third scenario, with only 2 (potentially one hero) available up front, in a dual sphere deck, requires extreme luck to solve, the pressure on resources is just too high.
+
+- Putting aside the introduction scenario, which is meant to teach the game, each scenario presents very different challenges.  The Troll scenario, to win a reasonably high percentage, just simply requires threat reduction, and right now, if you want to be consistent with that, you need to play Spirit, any other combination can luck into a few wins, but Spirit / something is the answer to the Troll quest.  The third scenario is completely different, you need a low cost curve because of resource issues, you need a low starting threat (or threat reduction) because of how long it will take you to get there, but it is not as critical for this scenario to get it early then it is for the second scenario.
+
+ 
+
+With expension packs, deck building / synergy / card efficiency options will increase dramatically. Right now, you can build a solid 30-40 card deck around a theme, and typically will have many filler cards that don't really fit, but you need to get to 50... Replace those 10 cards with 10 more solid options that fit what you are trying to achieve, and your win % should increase dramatically.
+
+What is also will do is allow you to build a deck to solve a specific quest, which is very thematic, because if you are sending heroes into a specific area, you should at least have a general idea of what they will be facing in there path, and make sure you use the best heroe for the job and equip them accordingly.  This is also a good thing, because if there was a 50 card deck that was more efficient at solving those 2 puzzles then any other deck, that would make the other 100 cards or so I paid for binder material.  I want to pull out a "common" from the core set I have not played with for 12 months into a deck 2 years from now because it looks like a good tool to solve a new riddle we received in an expension pack, I do not want to tweak my same 50 cards by 1 or 2 cards every expension pack and take that golden deck to solve all new puzzles.
+
+Understanding the differences between the challenges each scenario puts in front of us, and how limited the resources we have to beat them are, it should be very difficult to do so.  We have hundred's of cards coming our way to help the cause.  If I had a deck that could beat scenario 2 and 3 (same deck) right now, with some consistancy, I would be very worried about this game long term
+
+ 
+
+## 9 [snibe_8 on May 9, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=465948)
+
+I haven't bought it yet, but I think I'll be getting it as a gift next month.  But one of the big reasons I want this game is because of the solo play.  If it was easy, I wouldn't want to play it.  Plus, with any game where cards are present, the order the card come out can really make or break you most of the time.
+
+## 10 [Entropy42 on May 10, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=466184)
+
+jhaelen said:
+
+ 
+
+Good luck, then. After my first eight games - all against the first scenario I thought it played well solo, too. In the beginning I even thought it was easier solo than with several players - boy, was I wrong! cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+
+ 
+
+Since I've now played a total of 64 games, I've changed my mind.
+
+See, I enjoy being challenged. But there's a limit to what is a reasonable challenge and what isn't. If I lost about one in five games I would consider it reasonable. I remember someone musing that the number given for the difficulty of the scenarios indicates the number of times you should expect to have to play the scenario to win it. That would be great. It would mean I wouldn't have had to play scenario 2 25 times to win but only four times. And I cannot tell how many more times I would have to play it to repeat the success.
+
+The incredibly high luck factor is the problem here: If someone creates a deck and wins scenario 2 or 3, and then posts the 'winning deck', it's likely that noone will be able to reproduce the result. For that to work, deckbuilding would have to make a greater difference. The results would have to be more consistent. You'd have to have a much higher rate of success.
+
+Currently, the best indication if a deck is good or not is reflected by the time it takes to lose the game: E.g. I've tried the third scenario with a Spirit/Leadership deck rather than the Leadership/Spirit deck I've used for most attempts. Only one of these five games took longer than five minutes and I never even reached the second stage, suggesting that it's not a combination that works well. But are a mere five games really enough to tell?
+
+A success rate of less than four percent using the best deck you can build for a scenario is imho not acceptable. But we'll see, maybe eventually some miracle deck will turn up for scenario three.
+
+ 
+
+ 
+
+I agree with this 100%.  If you are playing only the first scenario, and telling people the game is balanced solo, that's not really a representative sample.  I also had the same hope for the single player game, that I could use it to test deck ideas for multiplayer.  This is not really going to happen. 
+
+Don't misunderstand this as people clamoring for the game to be easy so that we just win every time.  That wouldn't be fun.  But the solo game in the core set is not fun (IMO) as it requires a TON of luck to complete.  Yes, all card games have luck in terms of the order the cards come up in, but in this game the luck of the draw can make or break your game from the first 2 turns.  The fact that Shadow effects are discarded also makes a huge difference in luck.  Drawing Cheiftain Uthak as a shadow effect does absolutely nothing, yet he is an extremely potent fighter if he gets out in the staging area.
+
+## 11 [ricedwlit on May 10, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=466215)
+
+Given that the game is coop, why not play two decks as a single person? Yes, this technically breaks the table talk rules on p. 25 since you will see both decks, but the table talk restrictions are fairly light, e.g. it seems like it would be legal for someone to say "the Grey Pilgrim is going to make an appearance this turn" to indicate they have Gandalf and are going to put him into play. 
+
+Playing two decks get's past the luck factor that people have been noting. I've not tried it myself (I just got the game a few days ago) but I'm certainly considering it. I've no problem running multiple investigators when I play Arkham Horror solo (another solo/coop game where things are difficulty for a solo person if they do just one investigator) so I figure I'm game to go with at least two decks.
+
+## 12 [Oshio on May 10, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=466219)
+
+There are a few things to note here:
+
+First, this is a base set. There's no way around that. That alone is going to be an issue because right now, it's very hard to tell what a 'good deck' is because there really aren't many good decks due to the size of the card pool. I think, in my experience, there are 2 'decent' legal 50 card decks out there and 1 very good one, that's about it. So everyone complaining about how hard solo is now is a bit biased, because chances are they are playing a deck that just needs better cards for it to work. Play a similar deck against scenario 2 after a few sets have hit the streets and I think you'll be singing a different tune.
+
+In the same vein, right now it is impossible to construct a legal single-sphere deck, which is a major problem. Dual-sphere decks that don't use leadership have serious resource problems, and a dual sphere deck that does use leadership has a 1/3 chance of being auto-screwed in the third scenario. Even with a couple of packs under our belt solo sphere decks will continue to suck because you won't be able to trim out bad cards. This is probably going to take at least 5 or 6 months to remedy, but once that happens solo-play is going to get much more interesting because you'll be able to build a deck that can withstand some of the wackiness scenarios similar to 2 and 3 throw at you. Right now even the best solo deck buckles when you start to mess with the hero lineup.
+
+The last thing to note is that, yes, the scenarios vary widely in difficulty level based on the number of people playing. Scenario 1 is a breeze for almost everyone, though it can occasionally present a challenge against a solo deck if you draw several spiders in the first couple of turns. Scenario 2 is fairly difficult for 1, or occasionally 2 players, but is easy for 3 or more. This may be a bit of a design problem, and in hindsight I would have probably included a 'solo only' scenario to balance this out, but there you have it. Hopefully in the future they will be a bit more balanced. 
+
+Anyways, as someone who plays this game solo about half the time, I think it's got some kinks to work out but a very solid foundation to build on.
+
+## 13 [ChinaBlade2 on May 10, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=466327)
+
+Hi,
+
+I think CAlexander presents a fair appraisal of the current situation. I am looking forward to the new cards and accept the Core Set as an enticing introduction to a great future gaming experience.
+
+Best Regards.
+
+ 
+
+ 
+
+## 14 [jhaelen on May 11, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=467010)
+
+ricedwlit said:
+
+Given that the game is coop, why not play two decks as a single person?
+
+Yup, that's what I did since I beat each of the scenarios once with a single deck. After a couple of games getting used to the increased complexity it worked really well - actually, almost too well.
+
+I used the unmodified starter decks for a test run of 36 games: two games with every sphere combination against each of the three scenarios.
+
+A total of 27 games ended in victory; 12 of 12 games vs. the first scenario, 7 of 12 vs. the 2nd, and an amazing 8 of 12 vs. the third scenario.
+
+Apart from the well-documented Leadership/Spirit combination, Lore/Spirit also worked flawlessly. The only combination that didn't really seem to work well was Lore/Tactics.
+
+The difference in difficulty compared to single-deck play is vast. The 'sweet spot' seems to be somewhere between one and two decks, but closer to the latter. I wished the scenarios scaled better, but I cannot really complain I didn't get my money's worth after over 100 games... cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+
+## 15 [ricedwlit on May 12, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=467077)
+
+jhaelen said:
+
+The difference in difficulty compared to single-deck play is vast. The 'sweet spot' seems to be somewhere between one and two decks, but closer to the latter. 
+
+
+
+I have to agree, though my experience with two decks is with far fewer games than yours.  I'm at two games now (1 win / 1 loss each against scenario two).  After the loss I found myself thinking of lots of things I should have done, unlike when I lost with just one deck where it seemed there was nothing that could be done to overcome the bad encounters drawn.
+
+## 16 [Deleriad on May 12, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=467164)
+
+jhaelen said:
+
+ricedwlit said:
+
+ 
+
+Given that the game is coop, why not play two decks as a single person?
+
+Yup, that's what I did since I beat each of the scenarios once with a single deck. After a couple of games getting used to the increased complexity it worked really well - actually, almost too well.
+
+ 
+
+I used the unmodified starter decks for a test run of 36 games: two games with every sphere combination against each of the three scenarios.
+
+A total of 27 games ended in victory; 12 of 12 games vs. the first scenario, 7 of 12 vs. the 2nd, and an amazing 8 of 12 vs. the third scenario.
+
+Apart from the well-documented Leadership/Spirit combination, Lore/Spirit also worked flawlessly. The only combination that didn't really seem to work well was Lore/Tactics.
+
+The difference in difficulty compared to single-deck play is vast. The 'sweet spot' seems to be somewhere between one and two decks, but closer to the latter. I wished the scenarios scaled better, but I cannot really complain I didn't get my money's worth after over 100 games... cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+
+
+
+Actually a slightly more accurate comparison would be to compare solo play (1 50 card deck) with team play (2 50 card decks). I think you might find that with the current card pool that two 50 card decks will be a little weaker than two 30 card starter decks. 
+
+## 17 [jhaelen on May 12, 2011](https://community.fantasyflightgames.com/topic/46101-solo-play/?do=findComment&comment=467445)
+
+Deleriad said:
+
+Actually a slightly more accurate comparison would be to compare solo play (1 50 card deck) with team play (2 50 card decks). I think you might find that with the current card pool that two 50 card decks will be a little weaker than two 30 card starter decks. 
+
+
+
+Agreed.
+
+As someone else mentioned, in a true two-player game cooperation will also be not as perfect as when one player controls both decks, so that might also contribute to make it a bit more challenging.
+
+E.g. I know from playing Arkham Horror that many players are reluctant to sacrifice their characters even if it would be the most beneficial thing for the players as a whole. Player psychology shouldn't be neglected - not all decisions are rooted in pure reason cool.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/cool.gif]
+

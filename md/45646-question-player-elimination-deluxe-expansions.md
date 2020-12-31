@@ -1,0 +1,52 @@
+# [Question: Player Elimination &amp; Deluxe Expansions](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/)
+
+## 1 [TheLightdarker on April 22, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457838)
+
+I wish there was some kind of megathread for rules questions, but since there doesn't seem to be, my question is the following.  In a multiplayer game, if a player is eliminated, what happens to Enemy cards that are engaged with him or her?  Are they discarded, or do they return to the staging area?
+
+Edit: Also, I have a bonus question.  Do we have any idea if the Deluxe Expansions to (presumably) kick off new 6-month cycles are going to come with 3 copies of each player card, or are they likely to be another Core set "buy up to 3 copies" fiasco?  Like so many others, I'm trying to gauge just how much of an investment getting 3 copies of every card may be.
+
+## 2 [DrNate on April 22, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457856)
+
+ Enemies engaged to an eliminated player return to the staging area with all wounds still attached. Per page 22 of the rulebook. 
+
+Not sure about the next deluxe expansion, it seems so far away. But someone who has experience with other LCGs can at least tell you what happens in those games, maybe we can spot a trend. 
+
+## 3 [TheLightdarker on April 22, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457861)
+
+ Oh good lord, I can't believe I missed that -_- [//content.invisioncic.com/Mfantflight/emoticons/default_sleep.png];
+
+Thanks for responding though!  Checking the rulebook, that ruling is extraordinarily clear.
+
+## 4 [qwertyuiop on April 22, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457874)
+
+ Deluxe expansions for aGoT and W:I went to full playsets of product last year. All the monthly expansions went to full playsets as well.  The adventure packs will have playsets of the new player cards, but the encounter decks will be much like what we've received in the core set.  I purchased two copies of the core set and I'm fairly pleased.  I'm not planning to follow the 50 card minimum tournament deck build until tournaments for this game are more than just a buzzword or the off chance that the game suddenly gets easy and requires deck dilution to maintain a challenge. I'll probably bump up to 35 cards in a couple of weeks, though. gran_risa.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/gran_risa.gif]
+
+## 5 [TheLightdarker on April 23, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457896)
+
+Hahah, that's just what I wanted to hear!  If the deluxe expansions do end up throwing 3 copies of each player card our way (just like the Adventure Packs are planned to, and if the other LCG expansions do now then it's probably very likely), that would be perfect, and the LCG format would live up to my every expectation.  :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Now I just need to get a few more games in, and experiment with some deck customization to decide whether I should bother buying another core set or two... and then I'll need to find some people to lure to the game with the promise of free cards :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 6 [Widowmaker93 on April 23, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457899)
+
+My guess is that from here on out any deluxe expanion should follow the 3x system that AGOT and the rest of the lcg's are going with. that makes the most sense.
+
+ 
+
+@qwertyuiop: this game actually scales really well to 50 cards for tournament decks
+
+ 
+
+@Lightdarker: 3 cores sets for the 12 Gandalf's is just a must have. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+## 7 [ffgfan on April 23, 2011](https://community.fantasyflightgames.com/topic/45646-question-player-elimination-deluxe-expansions/?do=findComment&comment=457919)
+
+I think that the Adventure Packs will have 3 copies of each for players. And the future Deluxe will also have a complete set.
+
+In the article when FFG announced Hunt For Gollum it is said:
+
+"Adventure Packs for The Lord of the Rings: The Card Game provide many new options for players. Not only do they expand your available card pool, but they also introduce new quests to challenge your fellowship. These fixed 60 card decks include a new Hero, three copies of nine unique player cards, and the Encounter and Quest cards devoted to the included scenario.
+
+While Encounter and Quest cards build the scenario, the nine unique player cards come from each of the four spheres of influence. Consisting of new allies, events, and attachments, these cards are used to customize and expand your player deck. "
+

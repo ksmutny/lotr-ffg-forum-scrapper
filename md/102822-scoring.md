@@ -156,3 +156,19 @@ ffg_search-for-an-exit-escape-from-darkn [http://www.cardgamedb.com/forums/uploa
 
 Abandoned tools gains: "REFRESH action: Exhaust attached hero to do stuff"
 
+## 26 [GrandSpleen on April 2, 2014](https://community.fantasyflightgames.com/topic/102822-scoring/?do=findComment&comment=1036169)
+
+ah, you're right, sorry about that.  I was looking at the action to claim the item on the tool card itself.  
+
+ 
+
+This game was more than a year ago, I opened up my quest log for the little narrative above.  We must have finished in the refresh phase.  
+
+ 
+
+And just to relate this back to the thread topic, that wouldn't count 10 points onto the score since the 10 points are added "at the end of the refresh phase" per the FAQ.
+
+## 27 [Dwarf king Bronze beard on April 3, 2014](https://community.fantasyflightgames.com/topic/102822-scoring/?do=findComment&comment=1036953)
+
+So refresh action must be triggered during refresh phase, i didnt never thinked that XD
+

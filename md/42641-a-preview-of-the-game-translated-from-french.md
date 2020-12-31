@@ -1,0 +1,320 @@
+# [A Preview of the Game (translated from French)](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/)
+
+## 1 [YGrams on February 19, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=426547)
+
+Since many English-speaking fans of the game seem a bit disgruntled that they don’t have access to the rules for the game, and since I am also very impatient to see the game in my hot little hands, I’ve decided to make an attempt to translate a series of three posts made by a moderator (Dadajef) on the French FFG fora (which go by the name of ‘Edge’). I have obtained the permission of the original poster to make this translation, and I wish to stress that this is not my own work; I have simply translated the text from French into English as best I can.
+
+ 
+
+Please do not ask me questions about the gameplay, as I have never playtested it nor even seen an actual card, and all knowledge I have of the game has come from these French posts. If, however, something does not make sense, due to ambiguity from translation, or if you wish me to rephrase or clarify a particular section, please do not hesitate to ask and I would be happy to help as best I can. Do please note that my translation may not match the original terms used in the English game, although I have tried my best to do so by reading the FFG news posts. Should you need clarification for any such terms, again, please just ask.
+
+I have tried to find English versions of each card in the posts, but this has at points proved difficult; if you have a link to an image for any cards for which I have been unable to find an English version, I would be grateful for your assistance.
+
+Enough of my ramblings, so I present you:
+
+The Lord of the Rings: The Card Game, by Dadajef
+
+Part 1: The Cards
+
+While we wait for the rules to be put online, I’ll write a small overview of the mechanics and workings of the game. We’ll start with a presentation of the different cards.
+The game is made up of three kinds of decks: each player’s personal deck, the quest deck, and the encounter deck.
+
+Player’s Deck
+
+This deck is made up of Ally cards, Event cards, and Attachment cards. Allies are characters who will serve as reinforcements for your core starting group (made up of three heroes); you can play them from your hand by spending the resources your heroes have generated. Attachments are cards which you can attach to your characters, or even to those of other players, in order to provide them with bonuses; there are even some you can attach to enemies or locations (which are cards from the encounter deck) to hinder them. Event cards are played from your hand to have an effect on the present state of play. All of this will be common ground for players of existing LCGs.
+
+ 
+
+gimliu.jpg [http://img824.imageshack.us/img824/2870/gimliu.jpg]
+
+Heroes are chosen at the beginning of the game by the players after some discussions (it can end up being a free-for-all if everyone wants to play the same characters!), and they are cards which will never be a part of one’s deck or hand. However, a hero can be killed and can end up in the discard pile (don’t worry; there are ways to bring them back into play from the discard pile). A hero is a unique character (indicated by the circle before their name), so you can only have one of any given hero in a game. The icon on the bottom left indicates the sphere to which the hero belongs (Tactics, in Gimli’s case), and hence shows the kind of resources that hero will produce.
+
+Character Cards (Heroes and Allies)
+
+ 
+
+daughterofthenimrodel.jpg [http://img38.imageshack.us/img38/1739/daughterofthenimrodel.jpg]
+
+The white number to the top-left is the cost for playing the card from one’s hand; that is to say, the number of resources you need to spend from the resource pool of one or several of your heroes which are from the same sphere of influence as the card to be played (for allies, the sphere symbol is on the middle-right of the card, and you’ll note that the cards’ outlines differ depending on their respective spheres). A hero does not have a ‘cost’, per se, but they do have a ‘threat cost’ (the number in blue), which alters the number on your threat meter when you start the game (Gimli has a threat cost of 11). If I were to play three heroes, each with a threat cost of 11, I would start the game with a threat level of 11 + 11 + 11 = 33 … and, I lose if my threat meter hits 50! So, having too many powerful heroes isn’t always the best idea, as the threat level can further fluctuate depending on the cards played and any unforeseen circumstances; also, the threat meter will go up by 1 point automatically at the end of each turn. Your allotted time is therefore short, and you have to be prudent in order to succeed in your quest, but certain card effects can lower your threat level.
+
+The three numbers underneath, from top to bottom, indicate the willpower, attack and defence of the character respectively (these statistics will come into play when involved in a quest, when exploring a location, or when in combat with an enemy). Finally, the red number at the bottom is the number of hit points (HP) the character has (and once they reach 0 HP, the character dies; original, isn’t it?). Characters can sometimes have a short text which allows them to access special powers and effects. Card sub-categories (called Traits in the game) are shown in italics under the card’s name, and indicate that the card can be targeted by another card which is aimed at such a trait.
+
+Attachment and Event Cards
+
+sstone.jpg [http://img715.imageshack.us/img715/1096/sstone.jpg]
+
+sgreeting.png [http://img832.imageshack.us/img832/1677/sgreeting.png]
+
+To understand these cards, you just have to read the above paragraphs about characters, save that they don’t have willpower, attack, defence or HP. An event is discarded after having been played. An attachment can be destroyed by other card effects or when the character to whom it is attached is eliminated from the game.
+
+Quest Deck
+
+lecheminchoisi.jpg [http://img524.imageshack.us/img524/7345/lecheminchoisi.jpg]
+
+[sorry, couldn’t find this card in English!]
+
+This deck is made up of three cards which represent the different stages of the quest which players must pass to resolve the scenario and therefore win the game. These Quest cards are printed double-sided. The deck is built by placing the Quest cards from a given scenario one on top of the other. Card 1A is placed on top, followed by 2A and then 3A. Side A of a Quest card contains a small text to set the mood of the scene, and sometimes certain instructions for that stage of the quest. Side B specifies whether there is a victory condition to pass that stage; otherwise, it is enough to place the number of progress markers on the card as there are indicated by the orange number to the left.
+
+ 
+
+spath.jpg [http://img810.imageshack.us/img810/8789/spath.jpg]
+
+The small icons (side A, on the right) and the large icon (a tree, in this case) indicate the kinds of Enemy, Treachery and Location cards which will make up the encounter deck of the adventure.
+
+Encounter Deck
+
+This deck is made up of three kinds of cards: Enemy, Treachery and Location. Each turn, one card per player will be drawn from this deck and placed, one next to the other, in the staging area, to the left of the quest deck.
+
+ 
+
+chieftainufthak.jpg [http://img844.imageshack.us/img844/5462/chieftainufthak.jpg]
+
+The characteristics of an Enemy card are fairly similar to those of the players’ characters, save the ‘engagement cost’, the orange number to the top-left which indicates when the enemy will be able to leave the staging area of its own accord to engage in combat with a player (when your threat meter is higher than or equal to this engagement cost, he’ll come to you looking for trouble). Instead of a willpower statistic, an enemy has a threat rating (the symbol that looks like black horns) which will oppose the willpower of any characters committed to a quest in the quest phase (the phase in which players will attempt to place progress markers on the Quest card at the top of the quest deck), while the enemy is in the staging area. The icon on the right side of the card is used when the game is being set up, and indicates whether the card will go into the encounter deck (you take all of the cards which share an icon with side A of the Quest cards of the chosen adventure). Enemies sometimes will have a ‘when revealed’ effect which will take effect as soon as the card is drawn and placed into the staging area.
+
+ 
+
+enchantedstream.jpg [http://img191.imageshack.us/img191/5076/enchantedstream.jpg]
+
+Locations also have a threat rating which is taken into account (while the card is in the staging area) with those of enemies during the quest phase to impede the players’ progress on a quest, and to prevent them from placing progress markers. One way to remove a location from the staging area is to travel to the location. To do this, you attach it to the topmost Quest card in the quest deck and this location becomes the ‘active location’. Until it has been explored, you cannot place progress markers on the Quest card. The orange number to the left indicates the number of progress markers which need to be placed on the location to completely explore it, and hence to discard it.
+
+ 
+
+sreach.jpg [http://img6.imageshack.us/img6/513/sreach.jpg]
+
+Treachery cards are events which affect your characters when they are drawn from the encounter deck, revealed and placed in the staging area (once the effect has been resolved, the card is discarded). In the next post, I will outline the way the game is set up and played to show how these cards interact with one another.
+
+ADDITIONAL NOTES FROM LATER POSTS
+
+The back of Hero, Ally, Event and Attachment cards:
+ 
+
+playerdeckback.jpg [http://img37.imageshack.us/img37/38/playerdeckback.jpg]
+
+The back of cards from the encounter deck (enemies, locations and treacheries):
+ 
+
+encounterdeckback.jpg [http://img218.imageshack.us/img218/9526/encounterdeckback.jpg]
+
+Only when an Enemy or Location card is in the staging area will its threat rating be taken into account to combat the willpower of your characters during the quest phase. Engaging an enemy in combat (or being engaged in combat by him!) and travelling to a location are two ways to remove cards from the staging area (and hence to stop them from counting against your characters’ willpower in the quest phase). It isn’t a good idea to have too many enemies or locations in your staging area if you want to be able to continue your quest.
+
+Part 2: Set Up
+
+How does a game of The Lord of the Rings: The Card Game work? First of all, you need to select one of the three adventures included in the core set. Each adventure pack will offer a new quest with new cards to play. The available scenarios you will have are therefore determined by the adventure packs that you have.
+
+The three base scenarios present you with different game situations: the first is an introductory adventure in which the players must pass through Mirkwood while avoiding huge hairy beasts with eight legs. The second adventure simulates the flight of the players down the long river Anduin. In the third quest, the players must free a hero who has been imprisoned in the dungeons of Dol Guldur and then escape, in spite of the Nazgul who roams the dark corridors of the fortress. This third scenario introduces a new game mechanic: Objective cards. When an objective is placed in the staging area, it is attached to the first card from the encounter deck. You need to conquer this card (kill the enemy, explore the location or survive the effects of the treachery) before you can recover this objective (depending on the conditions marked on the card). You will need to have recovered a certain number of objectives before you can pass to the next stage of the quest,
+
+shadowkey.jpg [http://img140.imageshack.us/img140/9660/shadowkey.jpg]
+
+[sorry, couldn’t find this card in English!]
+
+Once the adventure has been chosen, the players take the three or four Quest cards which make up the scenario, and build the quest deck by placing them one on top of the other (1A, 2A, 3A). The quest deck is placed in the middle on the table (number 2 on the below image). They also build the encounter deck by taking all of the encounter cards which share an icon with card 1A of the adventure. An encounter deck will always be made up of the same cards for a given scenario. The encounter deck is placed near the quest deck (number 3). The encounter deck’s discard pile is found just next to it (number 4).
+
+ 
+
+setupkx.jpg [http://img844.imageshack.us/img844/847/setupkx.jpg]
+
+Each player chooses three heroes (whose spheres of influence should match those of the cards in the players’ decks, as otherwise you will be unable to play the cards you draw), and places them in from of him/herself (number 7; note that in the image, the game is well and truly underway, and so there are only two heroes left for the player, as well as one ally who has been played from the player’s hand during the organisation phase). The player also places his/her threat meter in position (number 6) and sets the starting threat level by adding up the total ‘threat cost’ of his/her heroes. In the image, the player’s deck and discard pile are placed next to the threat meter.
+
+The markers will be used to give resources to the heroes, to add wounds to characters and enemies and to place progress on the current Quest card or location to explore them. These markers are shared between all players; everyone takes them as they need them.
+
+Next, you need to determine the player who will take initiative for the first turn (it is up to the players to decide who will start with initiative). This player takes the ‘First player’ token and will make his/her decisions first in each phase that turn. At the end of each turn, initiative (and the ‘First player’ token) will pass to the player to the left. It is good to have initiative, but it can also be bad … card effects from the encounter deck will only target the ‘first player’, and it is this player who will be engaged by an enemy in the event that they have a tie with another player on their threat meter. So, it’s good that initiative moves each turn …
+
+Each player draws six cards from his/her deck for use as a starting hand. You can, if you wish, shuffle your starting hand back into your deck and draw a new starting hand, but note that this can only be done once!
+
+You next need to read side A of the first Quest card in the quest deck and follow the instructions it gives (for example, add a certain enemy to the staging area, or a particular objective, &c.). Next, you turn the Quest card over so that side B is facing up.
+
+The staging area is indicated by number 1 on the image. It is here that revealed encounter cards will be placed once they are removed from the encounter deck. Encounter cards in the staging area (and only these) will hinder the players by preventing them from placing progress markers during the quest phase. In the above example, there are two cards in the staging area, one location and one enemy. The two enemies (number 5) are engaged in combat with the player, as they have moved from the staging area to enter the player’s zone and to attack him/her during the combat phase. They are no longer considered as being in the staging area. A location can be removed from the staging area during the travel phase.
+
+Each turn of the game is made up of phases, which I will further explain in the third part of this presentation. For a rough idea of the workings, there are seven phases which go in this order:
+
+1. Resources
+2. Organisation
+3. Quest
+4. Travel
+5. Encounter
+6. Combat
+7. Recuperation
+
+Goal of the Game
+
+At least one player needs to clear the final stage of the adventure (the third card in the quest deck), in accordance with the victory conditions marked on the Quest card (usually, it is enough to place enough progress markers on the card as indicated by the orange number on the right, but sometimes there can be other conditions to fulfil: the players cannot win if the Nazgul is in play in the third adventure, for example).
+
+A player is eliminated is he/she loses all of his/her three heroes, or if his/her threat meter reaches 50.
+
+ 
+
+marshadder.png [http://img266.imageshack.us/img266/35/marshadder.png]
+
+At the end of the game, a simple bit of calculation can give you an idea of how well you went in the adventure. Each player adds up their final threat level, the threat cost of each of their dead heroes, and the number of wound markers on each of their heroes. Certain cards from the encounter deck have a keyword of Victory X (such as the Marsh Adder, with Victory 3) at the bottom-right of the card. This number will then be subtracted from the score of the players if they defeat this card during the game. The lower the score, the better and more decisive the victory. Keeping one’s heroes alive and well is a good way to keep your score low.
+
+ADDITIONAL NOTES FROM LATER POSTS
+
+There are four kinds of markers/tokens: wound markers, to place on wounded characters and enemies; progress markers, to place on quests and locations; resource markers, which are generated by heroes; and the First Player token, which is passed to the left after each turn.
+
+Part Three: A Turn in the Game
+
+Each turn in the game is made up of seven phases, in this order:
+
+1. Resources
+2. Organisation
+3. Quest
+4. Travel
+5. Encounter
+6. Combat
+7. Recuperation
+
+Resources
+
+Every player begins by placing one resource marker on each of their heroes. The total number of resources on a hero makes up their resource pool, which will be used to play cards from your hand that are a part of the same sphere of influence as the hero. To play a card, you need to spend the number of resources indicated by its cost. You can combine the resources of two or three of your heroes of the same sphere to play a card of that sphere. For example, you can spend two of Gimli’s resources and one of Legolas’ (both are in the Tactics sphere) to play a card with a cost of three in the Tactics sphere.
+
+Then, everyone draws one card from their deck.
+
+Organisation
+
+As in other LCGs, this is the only phase in which you can play from your hand either allies (to add to the characters that follow your heroes) or attachments (which are attached to either your characters, another player’s characters, or even an Enemy card or Location card). When you attach a card to another player’s character, they become the controller of that attachment. I remind you that it is a cooperative game and that some of your attachments might be more useful on the characters of another player than on your own (you shouldn’t be a Gollum and try to keep everything to yourself!).
+
+Your allies and your attachments can enter play in other phases only if you play an event card which allows you to do so. For example, a Sneak Attack during the combat phase (phase 6) will let you add one of your allies to the field who will be able to serve either as a defender or attacker.
+
+ 
+
+sneakattack.jpg [http://img88.imageshack.us/img88/1673/sneakattack.jpg]
+
+Quest
+
+This is the phase during which all of the players can commit their characters to the current quest (which is the Quest card on top of the quest deck). To commit a character (a hero or an ally) to a quest, you need to exhaust it (turn it 90 degrees to indicate it has been exhausted). The first player commits his characters, then the next player, and so on …
+
+Once characters have been committed, you need to draw one card per player from the encounter deck. Place these revealed cards in the staging area, and resolve any ‘when revealed’ effects on the cards. If I play by myself, I only draw one card; if I’m playing with three others, we’ll have four new cards to add to the staging area. These cards will join those already in the staging area from previous turns. The more enemies and locations in the staging area, the more difficult it is to progress in the quest.
+
+Next, we need to resolve the quest phase, by comparing the total willpower of all committed characters in the quest with the total threat rating of all enemy and location cards in the staging area. If the willpower total is the higher, the difference between the two totals is the number of progress markers to place on the quest (for example: four characters are committed to a quest, with willpower ratings of 1, 2, 3 and 4. The total willpower is 10. There are two locations and one enemy in the staging area with respective threat ratings of 2, 3 and 2. The total threat is therefore 7. The players win and add 3 (10 - 7) progress markers on the quest). If the total threat rating is the higher, the players fail. The difference between the totals is the number of threat each player must add to his/her threat meter (failing a quest therefore increases your threat meter). When there are as many progress markers on a Quest card as there are indicated by the orange number on the left of the card, that stage of the adventure is complete and you now look at the next card in the quest deck.
+
+Perceptive readers will have noticed that there is always some uncertainty when you commit your characters to a quest. You need to take into account the cards already in the staging area, as well as those which will be revealed after having committed your characters (oh look, another four orcs!) and these cards could derail your questing strategy. Unless you’re a psychic, this is where your event cards will be the very useful and where the effects of certain characters may shine (Eowyn, for example).
+
+These same readers will have understood that you need to avoid accumulating too many enemies and locations in the staging area if you want to progress in a quest. The next phases will allow you to remove these cards from the staging area, if you manage to fulfil certain conditions.
+
+ 
+
+eowyn.jpg [http://img507.imageshack.us/img507/6610/eowyn.jpg]
+
+Travel
+
+During this phase the players can travel (they must all go together after having discussed amongst themselves) to a location. In game terms, you choose a location card from the staging area and you place it on top of the current quest. This location becomes the ‘active location’. It is no longer in the staging area and hence its threat rating does not get taken into account. The trouble is that the active location will prevent you from continuing your quest until it has been explored. A location has an orange number to the left of the card. Until you have placed that number of progress markers on the active location (meaning it has been fully explored), you cannot place progress markers on the quest. Depending on your choices and strategy, it could be a good idea or a bad one to travel. You can only have one active location at any given time. Until you have fully explored a location, you cannot travel to another.
+
+Encounter
+
+This is the phase when enemies and players can engage in combat. Combat itself is only resolved in the following phase. In this phase, all you do is engage. Engagement in combat allows you to remove enemies from the staging area, which means their threat rating will no longer be considered in the next quest phase.
+
+This phase allows each player to intentionally engage in combat one (and only one) enemy from the staging area. To do this, the player chooses whom he/she wishes to engage (from the trembling goblin to the shrieking Nazgul) and removes this enemy and places it in front of him/herself in the combat zone (which is number 5 from the above playing field example image).
+
+Next, you need to pass a number of engagement checks. To do this, you must compare the threat meter of each player (starting with the first player, and then moving clockwise) with the engagement cost of the enemies (the orange number in the top-left of the card) still in the staging area. If this number is less than or equal to the player’s threat meter, the enemy engages the player in combat and will be placed in their combat zone. You continue these checks for each player until there are no enemies able to engage automatically in combat (because their engagement cost is higher than each player’s threat meter). For example, the Marsh Adder has an engagement cost of 40, so until a player has a threat meter of 40 or above, the adder will stay in the staging area.
+
+ 
+
+marshadder.png [http://img266.imageshack.us/img266/35/marshadder.png]
+
+With this system, the most dangerous enemies will only attack the players in the middle or towards the end of the game when their threat meters will have risen greatly. But keeping too many strong enemies in the staging area could pose a problem when committing to quests. Again, it is up to the players to decide the best strategy.
+
+Combat
+
+Players and enemies who are engaged must now resolve their combat. We begin by the attack of the enemies. Each enemy which is engaged is given a Shadow card. To do this, add to each enemy card one card from the encounter deck, face down.
+
+Next, each player (starting with the first player) resolves the attacks of the enemies towards him/her. The player chooses an enemy with whom they are engaged and declares a single defender against the attack (to do this, they must exhaust an ally or hero). Next, the Shadow card of that enemy is revealed and the shadow effect of that card is resolved (Pursued By Shadow has a shadow effect which can send allies back to your hand). Next you determine the damage inflicted by the enemy to the defender, by comparing the attack value with the defence value; the difference is the amount of damage taken by the defender, which reduces that number of the character’s hit points.
+
+ 
+
+pursuedbyshadow.jpg [http://img341.imageshack.us/img341/4826/pursuedbyshadow.jpg]
+
+The funny thing is that you may not be able to declare a defender (for example, all of your characters are exhausted because you committed them all to the quest in the quest phase)! This means that the attack is without opposition, and now you’re in trouble. All of the enemy’s attack value which has not been blocked (4, in the case of the Marsh Adder above) is automatically converted into damage which you must place on a single hero, without consideration of his/her defence value. It is pointless to say that an unopposed attack will easily eliminate a hero and that even a hero with extra protections isn’t sure to survive (only a hero with many hit points can manage to take the brunt of an unopposed attack). But as it is a cooperative card game, certain cards allow other players to come offer you defence if you are in serious trouble, and if they aren’t already too busy with their own enemies …
+
+Once an enemy has attacked, you need to resolve the attack of another enemy engaged with the same player, and so on. Next, we pass to the following player and go through the same process for each enemy engaged with him/her.
+
+At long last, the players can strike back. To attack an enemy, a player must choose a valid target (an enemy with whom he/she is engaged, as you cannot attack an enemy in the staging area unless a card’s effect allows you to do so). The player then exhausts one or more of their characters who are then declared as attackers. Certain characters of other players can join the attack if the text of their card allows it. We then add up the attack value and compare it with the targeted enemy’s defence; the difference between the two is the amount of damage the enemy takes (you need to inflict 7 damage to the Marsh Adder before you can see it dead).
+
+At the end of the phase, if there are still living enemies in the combat zone, they remain engaged with the player (they don’t return to the staging area) and can thus attack again in the next turn.
+
+Recuperation
+
+The players turn all of their characters to the normal orientation so they are no longer exhausted. The ‘first player’ token passes to the player on the left, and each player adds one to his/her threat meter. And the next turn begins …
+
+-----------------------------------------------------------------
+
+Thanks for reading! This translation has been done by the user 'YGrams". You can find the original French posts here: http://www.edgeent.com/v2_fr/edge_foros_temas.asp?efid=181&efcid=11 [http://www.edgeent.com/v2_fr/edge_foros_temas.asp?efid=181&efcid=11]
+ 
+
+## 2 [ffgfan on February 19, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=426579)
+
+Wow, thanks for shareing this one with us! That's a nice preview of the game and gives me a good overview. Now I'm more interested in this game then I was before. happy.gif [/edge_scripts/fckeditor/editor/images/smiley/msn/happy.gif]
+
+## 3 [Wandering Weezard on February 19, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=426834)
+
+ Thanks for the post!  Very excited for this game to come out in the US.
+
+## 4 [TheLightdarker on February 19, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=426841)
+
+ Thank you for taking the time to translate all of that, that was an extremely informative and enticing read!  Really looking forward to this game, it's looking and sounding fantastic.
+
+## 5 [Wallenstein on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427020)
+
+YGrams said:
+
+it can end up being a free-for-all if everyone wants to play the same characters!
+
+Two the same characters? Please NO.
+
+## 6 [sisyphus5 on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427052)
+
+Wallenstein said:
+
+ 
+
+YGrams said:
+
+it can end up being a free-for-all if everyone wants to play the same characters!
+
+ 
+
+Two the same characters? Please NO.
+
+ 
+
+ 
+
+Heroes are unique. If more than one person wishes to play the same character, they have to hash it out somehow, which could very well lead to a "free-for-all" in some groups. :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+Thanks to the OP for the translation, and to the original author for the info! 
+
+## 7 [Wallenstein on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427088)
+
+Ufff. That was the reason I didn't llike AGOT LCG.
+
+## 8 [Toqtamish on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427103)
+
+If a character is declared as a defender can it still be an attacker against the same enemy it defended against ?
+
+## 9 [sisyphus5 on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427108)
+
+Toqtamish said:
+
+If a character is declared as a defender can it still be an attacker against the same enemy it defended against ?
+
+
+
+ 
+
+I'm going to tentatively say no based on the following:
+
+ 
+
+"The player choose an enemy with whom they are engaged and declares a single defender against the attack (to do this, they must exhaust an ally or hero)."
+
+"To attack an enemy, a player must choose a valid target.  The player then exhausts one or more of their characters who are then declared as attackers."
+
+If a character is already exhausted following a defense, I don't think you can exhaust them again to declare them as an attacker (sans the use of cards).
+
+## 10 [Toqtamish on February 20, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427118)
+
+That is what I figured too. Will not be a walk in the park beating the game looks like. A lot of challenging management of characters and resources. Which is good.
+
+## 11 [jhaelen on February 21, 2011](https://community.fantasyflightgames.com/topic/42641-a-preview-of-the-game-translated-from-french/?do=findComment&comment=427317)
+
+Thanks for doing all of this translation work - well done!
+

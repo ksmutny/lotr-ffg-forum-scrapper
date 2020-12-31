@@ -303,3 +303,101 @@ The reason I say we've been told that "just" occurs before "after" is because I'
 
 No - this scenario is just so cooked up that it would likely never happen, and I don't think Caleb bothers responding to such questions. I need to think of a more common situation where it could occur.
 
+## 26 [Chris51261 on January 12, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=1984669)
+
+Ahh, yeah, I suppose you're right.
+
+## 27 [midwestborn86 on January 15, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=1993090)
+
+> > The Quick Ears scenario seems to make the most sense: if you cancel damage then you proceed as if the damage never happened. 
+> > 
+> >  
+> > 
+> > Gloin is dealt damage, gains resources, but then you cancel the damage with a card effect, therefore the resources are cancelled as well and any effects that may have triggered from gaining resources (e.g. Heir of Mardil) etc.
+> 
+>  
+> 
+> The problem with this is it creates a paradox where you have Heavy Curse in play, Gloin with no resources and a Tactics resource icon and a copy of Book of Eldacar attached and a copy of Gondorian Discipline in your discard pile.
+> 
+>  
+> 
+> Gloin takes 1 damage, gains 1 resource due to his effect, you use this resource to play Gondorian Discipline for one resource (the one you just gained) to cancel the damage.  So now you go back, and remove the 1 damage Gloin suffered and you also roll back the resource that he gained meaning you could never have afforded playing Gondorian Discipline in the first place...so you couldn't have played Gondorian Discipline, so Gloin takes 1 damage, and gains a resource, and .... so on and so forth.
+> 
+>  
+> 
+> And this is exactly what Seastan's crusade (okay maybe crusade is too harsh, but I'm quite enjoying watching it :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]) is all about.
+
+You can't use the books to play response events from discard pile because the books say "action:" actions can't trigger only responses can so if a test of will or gondorian discipline is in your discard pile you can't use the respective spheres books to play them as there is no action window when you play those cards responses
+
+## 28 [cmabr002 on January 15, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=1993118)
+
+>  
+> 
+> >  
+> > 
+> > > The Quick Ears scenario seems to make the most sense: if you cancel damage then you proceed as if the damage never happened. 
+> > > 
+> > >  
+> > > 
+> > > Gloin is dealt damage, gains resources, but then you cancel the damage with a card effect, therefore the resources are cancelled as well and any effects that may have triggered from gaining resources (e.g. Heir of Mardil) etc.
+> > 
+> >  
+> > 
+> > The problem with this is it creates a paradox where you have Heavy Curse in play, Gloin with no resources and a Tactics resource icon and a copy of Book of Eldacar attached and a copy of Gondorian Discipline in your discard pile.
+> > 
+> >  
+> > 
+> > Gloin takes 1 damage, gains 1 resource due to his effect, you use this resource to play Gondorian Discipline for one resource (the one you just gained) to cancel the damage.  So now you go back, and remove the 1 damage Gloin suffered and you also roll back the resource that he gained meaning you could never have afforded playing Gondorian Discipline in the first place...so you couldn't have played Gondorian Discipline, so Gloin takes 1 damage, and gains a resource, and .... so on and so forth.
+> > 
+> >  
+> > 
+> > And this is exactly what Seastan's crusade (okay maybe crusade is too harsh, but I'm quite enjoying watching it :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]) is all about.
+> 
+> You can't use the books to play response events from discard pile because the books say "action:" actions can't trigger only responses can so if a test of will or gondorian discipline is in your discard pile you can't use the respective spheres books to play them as there is no action window when you play those cards responses
+> 
+>  
+
+ 
+
+Yeah, you are correct.  You don't need Book of Eldacar for the series of events in Seastan's example to occur, though.
+
+## 29 [Sin21 on January 16, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=1994445)
+
+Isn´t there an unspoken rule that whenever you are not sure what to do (after looking up in the rulebook and faq´s) the worst scenario for the player is the right one? =D
+
+## 30 [Seastan on February 2, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=2028681)
+
+Resolved by latest FAQ
+
+ 
+
+ 
+
+FAQ 1.37
+
+> A player card effect that cancels an encounter card effect interrupts this timing structure. A cancel effect must be triggered immediately after the encounter card effect that it cancels.
+
+ 
+
+Therefore any damage cancelling effects need to be triggered before Gloin's response.
+
+ 
+
+It also fixes the Wingfoot paradox. Quick ears must cancel the enemy card before Wingfoot can trigger.
+
+## 31 [sappidus on February 2, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=2028826)
+
+That was a nicely clean way for the designers to resolve the issue. Easy to explain too: "Welp, cancels are special -- they have to be played IMMEDIATELY" is something pretty much anyone can understand.
+
+ 
+
+Unlike, say, immune to player card effects. :D [//content.invisioncic.com/Mfantflight/emoticons/default_biggrin.png]
+
+## 32 [shosuko on February 3, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=2029920)
+
+Where can we find this new faq / errata?
+
+## 33 [cmabr002 on February 3, 2016](https://community.fantasyflightgames.com/topic/198198-gloin-and/?do=findComment&comment=2030171)
+
+New FAQ [https://images-cdn.fantasyflightgames.com/filer_public/64/ee/64ee44ca-825d-4c14-b77b-b0ad7581ee31/lotr_faq_18.pdf]
+

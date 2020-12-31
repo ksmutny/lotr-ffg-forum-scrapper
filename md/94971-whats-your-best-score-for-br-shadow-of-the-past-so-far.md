@@ -1,0 +1,595 @@
+# [What&#039;s your best score for BR - Shadow of the Past so far?](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/)
+
+## 1 [Figo3434 on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=927791)
+
+Mine has been 66 (campaign mode, two-handed with some hobbit-based decks, no tactics). What score have you reached so far, with what kind of decks?
+
+Edited December 11, 2013 by Figo3434
+
+## 2 [Nerdmeister on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=927990)
+
+> Mine has been 66 (campaign mode, two-handed with some hobbit-based decks, no tactics). What score have you reached so far, with what kind of decks?
+
+I´m curious. How many rounds did you complete this in?
+
+## 3 [Figo3434 on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928012)
+
+If I remember correctly, the number of rounds is tallied during the refresh phase, so you count only "full" rounds. I completed the quest several times in the fourth round during questing phase, so for the score in question I think it's correct to have 30 points (3 rounds) + 22/17 threat - 3 victory points = 66.
+
+I think it's possible to get below 60 if you are lucky enough to draw cards like Galadhrim's greeting or Gandalf (old version).
+
+ 
+
+## 4 [Nickpes on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928034)
+
+erm ... I'm always counting the round I'm in, so I would count four rounds in your example ... can someone clarify on this just for the record (i do not care too much for the scores to be honest, I'm playing for fun, the more the game goes the better :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png] ) 
+
+## 5 [Nerdmeister on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928078)
+
+It is as Figo says: you tally the round score for each fully completed round.
+
+## 6 [Mndela on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928085)
+
+100 points.
+
+I played with Sam · Merry · Pippin Lore (30 threat)
+
+Friend with: Fatty · Glorinfel Spirit · Aragorn Lore (20threat and 3 damage)
+
+5 rounds · 3 victory points
+
+## 7 [Nerdmeister on December 11, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928481)
+
+> Mine has been 66 (campaign mode, two-handed with some hobbit-based decks, no tactics). What score have you reached so far, with what kind of decks?
+
+Care to walk us through your fantastic endeavour step by step.
+
+Just for inspirational purposes.
+
+## 8 [Nickpes on December 12, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=928709)
+
+> It is as Figo says: you tally the round score for each fully completed round.
+
+ 
+
+Then all the scores I have should be 10 points less  :blink: [//content.invisioncic.com/Mfantflight/emoticons/default_blink.png]  . Glad I have not yet played on a tourney, I would be the fun for everyone  :P [//content.invisioncic.com/Mfantflight/emoticons/default_tongue.png]
+
+## 9 [ClydeCloggie on December 12, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=929020)
+
+Best score so far: getting to stage 2B in campaign mode :) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+Solo. 
+
+ 
+
+Sam / Merry / Lore Pippin. I have only played 2 games though. Was well set up in the second game but lost a Hide test to a hideous encounter deck pull, two Black Riders engaged, one attacked twice thanks to a Shadow effect and that was that.
+
+## 10 [leptokurt on December 12, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=929228)
+
+>  
+> 
+> > Mine has been 66 (campaign mode, two-handed with some hobbit-based decks, no tactics). What score have you reached so far, with what kind of decks?
+> 
+> Care to walk us through your fantastic endeavour step by step.
+> 
+> Just for inspirational purposes.
+> 
+>  
+
+Oh yeah, me too. Sounds like Hobbits on Rollerblades.
+
+## 11 [Figo3434 on December 14, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=930867)
+
+My approach:
+
+Player decks: Hobbit-based, low starting threat, usable for later quests too (substitute Eowyn for Dunhere and Mirlonde for Merry/Legolas when playing next scenario)
+
+Quest task: avoid/minimize number of hide tests, reduce occurrence by advancing fast, use ring exclusively for The ring draws them/to prevent hide test from failing
+
+Abusing quest/encounter deck composure: few enemies (high threat, high hp/def) + nasty shadow effects --> avoid fighting at all: don’t beef up heroes, use multiple threat reduction effects to use secrecy, stay under 25 threat
+
+No tactics required --> free card slots to improve card drawing/encounter deck control
+
+Half of encounter cards are treachery, numerous surge effects --> Minas Tirith Lampwright
+
+No need for ally flood, lore events will win game (Scroll of Isildur)
+
+Circumvent condition on Buckleberry Ferry --> Strider’s path, Short cut, Riddermark’s finest, Asfaloth, Snowborn scout
+
+ 
+
+Mulligan for readying/secrecy effects, after first round card draw should be fluent.
+
+Put readying attachments on Spirit/Leadership heroes (First player)
+
+1st round clear stage 1, 2nd round bring progress as close to 14 as possible, 3rd round clear stage 2, if able travel to Bucklebury Ferry same turn (make sure heroes of first player can be readied twice)
+
+ 
+
+Spirit/Leadership (Eowyn, Glorfindel, Sam); events:16, allies:17, attachments: 17
+
+Steed of the mark x3, Light of Valinor x3, Miruvor x3, Unexpected courage x1, Stand and fight x1, Minas Tirith Lampwright x3, The Riddermark’s finest x3, Elrond’s counsel x3, Galadhrim’s greeting x2, Renewed friendship x3, A test of will x2, Dwarven tomb x1
+
+Sneak attack x2, Rear guard x3, Cram x3, Celebrian’s stone x1, Steward of Gondor x2, Errand-rider x3, Faramirx2, Snowborn scout x3
+
+Gandalf (core) x3
+
+ 
+
+Lore monosphere: Mirlonde, Bilbo, Pippin;  events:29, allies:7, attachments: 14
+
+Lorien’s wealth x2, Risk some light x3, Daeron’s runes x3, Short cut x3, Mithrandir’s advice x3, Strider’s path x3, Gildor’s counsel x3, Elfstone x3, Fat hitch x3, Asfaloth x3, Protector of Lorien x2, Isildur’s scroll x3, Master of the forge x3, Henamath Riversong x1
+
+A good meal x3, Gandalf (OHAUH) x3, Resourceful x3 (if you are score ***** like me, Useful knowledge x3 instead)
+
+Frodo’s intuition x3
+
+Edited December 15, 2013 by Figo3434
+
+## 12 [leptokurt on December 15, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=931219)
+
+First: Buckleberry Ferry is immune to player card effects.
+
+ 
+
+Second: You should have added that you were talking about 2 player games. I was assuming you meant solo mode.
+
+ 
+
+ 
+
+If I'd follow that stragegy I'd have three Black Riders in the staging area at the start of stage 3. Plus Buckleberry Ferry. Makes 15 points threat. I don't see how you're able to overcome that with heroes that are not beefed up and without a flood of allies.
+
+ 
+
+Let's not forget that you have to make a Hide 2 test when adding the Black Rider at the start of stage 2 and 3.
+
+## 13 [Figo3434 on December 15, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=931233)
+
+> First: Buckleberry Ferry is immune to player card effects.
+> 
+>  
+> 
+> Second: You should have added that you were talking about 2 player games. I was assuming you meant solo mode.
+> 
+>  
+> 
+>  
+> 
+> If I'd follow that stragegy I'd have three Black Riders in the staging area at the start of stage 3. Plus Buckleberry Ferry. Makes 15 points threat. I don't see how you're able to overcome that with heroes that are not beefed up and without a flood of allies.
+> 
+>  
+> 
+> Let's not forget that you have to make a Hide 2 test when adding the Black Rider at the start of stage 2 and 3.
+
+First: You don't target Buckleberry Ferry, you use the mentioned cards to clear other locations to make sure you can travel to Buckleberry ferry.
+
+Second: see first post again
+
+deck is so full of quest points and card draw, you'll never be short.
+
+ 
+
+Just try out the decks, they play themselves. Games usually end in round 4 or 5, score <80. I managed to do 60 in the last game.
+
+## 14 [Nerdmeister on December 16, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=931696)
+
+Assembled the decks last night but didn´t have time to give them a go yet.
+
+Wondering wether I should play them like you do or if I should follow the rulebook but I´ll figure out soon enough.
+
+## 15 [leptokurt on December 17, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=932616)
+
+I tried the decks with some changes, and got crushed by the encounter deck 5 times in a row. The main problem is that you have to be prepared to do 2 hide tests in one turn. The One Ring helps you to avoid some of these, but in my games I still had to deal with at least one hide test during the quest phase. In my last game I made it to stage 3, but missed the hide 3 testby one point. However, with 12 points in the staging area it would have taken at least 2-3 more turns to finish the quest.
+
+ 
+
+The lore player is extremely weak against hide tests. If you don't get Fast Hitch or Cram soon, he is defeated once he draws a hide test.
+
+Edited December 17, 2013 by leptokurt
+
+## 16 [Figo3434 on December 17, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=932708)
+
+> Assembled the decks last night but didn´t have time to give them a go yet.
+> 
+> Wondering wether I should play them like you do or if I should follow the rulebook but I´ll figure out soon enough.
+
+Where were the rules bent?
+
+## 17 [leptokurt on December 17, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=932736)
+
+>  
+> 
+> Where were the rules bent?
+> 
+> Assembled the decks last night but didn´t have time to give them a go yet.
+> 
+> Wondering wether I should play them like you do or if I should follow the rulebook but I´ll figure out soon enough.
+> 
+>  
+
+I guess the problem is that all the things you describe in yout strategy guide cannot be done in a short amount of time. You lack both the resources and card draw. Keeping Eowyn ready costs you one spirit resource each round. So how do you play card like The Galadhrim's Greeting? If your result was 60, you must have played that card multiple times. Also, why do you suggest to give the readying attachments only to the spirit player? The lore player also needs some, in case he faces a hide test.
+
+ 
+
+All this makes it likely that some rule errors happened.
+
+## 18 [Nerdmeister on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933307)
+
+From the rule book:
+
+"Players can discuss anything they would like, but they cannot name or read out loud directly from cards in their hand, or from cards that they have seen but the rest of the players have not."
+ 
+The simple act of playing two-handed excludes you from being able to observe this rule in any kind of manner that matters.
+---------------------------------------------------------------------------------------------------------
+ 
+Now in regards to the decks themselves:
+Yes congratulations, some very good scores can be accomplished with these decks. As long as you make certain that team Glorfindel is first player and that the quest dependant hide tests are done with this team (having multiple unexhausting effects for hide tests as you mention)
+ 
+My gripe with this has already been hinted at and certainly has not changed after having tried my first ever game playing two-handed: this game is ridiculously easy when you can see both hands at the same time as opposed to playing with a friend. Normally when I play, even if we make up a strategy in advance, I have to try and consider what my co-player may be having in his hand. This is obviously not so without a co-player.
+
+This advantage was apparent from round one where team Bilbo could play an elf-stone to help team Glorfindel put a Gandalf in play. A play that would have made no sense making if not for the fact that I could see both hands.
+
+Round 2: oh I see team Glorfindel has a renewed friendship. Therefore it makes more sense for me to play an attachment on Sam Gamgee and then get my threat lowered to 20, thus making me able to play Risk Some Light.
+
+And it just goes on and on. I could play no cards without considering everything in both players´ hands.
+
+ 
+
+In the end, even if I "won" with a better score than before (which I shall not put in the quest-log; a first for me), it was the most excruciating LotR experience I have ever had. The game simply isn´t fun for me playing two-handed (and that is the only reason the low scores work) when I´m used to a partner as we meet the challenges in a team-environment.
+
+ 
+
+To conclude:
+
+Sure if you like playing two-handed then by all means do it.
+
+If, at the same time, you expect me to credit you for making a low score then you are out of luck.
+
+Having tried two-handed now for the first time, and finding it even more easy (also boring) than I had anticipated, I cannot get myself to acknowledge any kind of recorded score from this kind of play.
+
+But to me, skill in this game comes from how you react to the unexpected and adapt as you play. Eliminating this aspect, simply kills the fun.
+
+Edited December 18, 2013 by Nerdmeister
+
+## 19 [GrandSpleen on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933318)
+
+Quoting the obscenely poorly-worded "table talk" rule is kind of grasping at straws.
+
+ 
+
+If you are interested in playing "by the rules" you will recognize that nothing in the entire game manual prevents you from showing your entire hand to the other players -- so long as you don't read aloud from the cards.  If you are interested in playing in the "spirit of the rules" then you've got a whole different discussion on your hands.
+
+## 20 [Nerdmeister on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933325)
+
+> Quoting the obscenely poorly-worded "table talk" rule is kind of grasping at straws.
+> 
+>  
+> 
+> If you are interested in playing "by the rules" you will recognize that nothing in the entire game manual prevents you from showing your entire hand to the other players -- so long as you don't read aloud from the cards.  If you are interested in playing in the "spirit of the rules" then you've got a whole different discussion on your hands.
+
+I must disagree on this.
+
+The game is a whole other experience in terms of difficulty when choosing to not observe the table talk rules.
+
+Saying that it makes no difference if you play with or without those rules is an illusion at best.
+
+ 
+
+You can certainly choose to ignore the rule and say "well that´s just a minor thing anyway".
+
+Though I´m wondering if the rule would be ignored in a tournament environment?
+
+ 
+
+The point isn´t if you play the game as you prefer. But more that, if you do, can you then compare your game (as the score system is meant to) to that of players´ observing the rules?
+
+My answer is obviously "no you cannot"
+
+ 
+
+You can of course submit a rules question about table talk if you feel like it.
+
+And perhaps you should if you feel it is so poorly worded as you say.
+
+Edited December 18, 2013 by Nerdmeister
+
+## 21 [leptokurt on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933327)
+
+I too think that's a rather hard judgement.
+
+ 
+
+ 
+
+Nerdmeister, did you play with these decks and manage to win in 4 turns?
+
+ 
+
+ 
+
+ETA: Of course games cannot be compared and I get what your saying, Meister.. However, in this case the strategy is very clear from the start. And if I'm not wrong most players do talk to each other during a game. I guess being mute for half an hour - that must be boring. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Edited December 18, 2013 by leptokurt
+
+## 22 [Nerdmeister on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933333)
+
+>  
+> 
+> Nerdmeister, did you play with these decks and manage to win in 4 turns?
+> 
+>  
+> 
+> However, in this case the strategy is very clear from the start. And if I'm not wrong most players do talk to each other during a game. I guess being mute for half an hour - that must be boring. ;) [//content.invisioncic.com/Mfantflight/emoticons/default_wink.png]
+
+Yes I did manage to beat it in 4 rounds.
+
+And observing table talk rules is not the same as being mute.
+
+Even if the strategy is laid out from the start, your plays will still be dependent on the cards in the other player´s hand, if you have direct access to that information.
+
+ 
+
+If I get to peek at the encounter deck then my co-player will sometimes have to trust my judgment (which I´m making without being aware of possible counters to the challenges in his hand) when it comes to questing.
+
+ 
+
+You say it is a harsh judgment I make on playing two-handed?
+
+I say it is a harsh judgment that our games be compared directly to two-handed play.
+
+## 23 [Nerdmeister on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933335)
+
+Then again, I have already said you can play the game any way you prefer yourself.
+
+Just don´t expect me to give you any kind of acknowledgment on the scores you "achieve".
+
+It is, in turn, your prerogative to give a rat´s arse about my opinion in the matter.
+
+## 24 [Figo3434 on December 18, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=933408)
+
+> I tried the decks with some changes, and got crushed by the encounter deck 5 times in a row. The main problem is that you have to be prepared to do 2 hide tests in one turn. The One Ring helps you to avoid some of these, but in my games I still had to deal with at least one hide test during the quest phase. In my last game I made it to stage 3, but missed the hide 3 testby one point. However, with 12 points in the staging area it would have taken at least 2-3 more turns to finish the quest.
+> 
+>  
+> 
+> The lore player is extremely weak against hide tests. If you don't get Fast Hitch or Cram soon, he is defeated once he draws a hide test.
+> 
+>  
+> 
+>  
+> 
+>  
+
+ 
+
+That’s strange, because I playtested these decks against the scenario over and over again and they succeeded. What cards did you change? After having a 17:5 streak, I replaced cost-effective cards like Silvan refugee and Escort from Edoras with Elrond’s counsel and Galadhrim’s greeting to reach better scores (use it in last round only if you have the resources available), but of course the deck is safer with more will power. Depends on what you aim at.
+
+ 
+
+Typically, you are in possession of encounter deck control cards at the beginning of turn 2 the latest, meaning either you know what’s coming at you or you have to reveal only one card. So usually, you only get into trouble if during the quest phase, you face multiple cards of: The ring draws them, Hunting for the ring, Crawling towards them, maybe Black rider. Player 1 is always almost able to pass hide tests, and usually there are only one or two rounds in which player 2 is the starting player and can be hit by Crawling towards him.
+
+ 
+
+Additionally, if you preserve the ring only for cards that could put a hide test on the lore player and for The ring draws them, you should be fine. On the other hand, every possible deck can be defeated by an unlucky number of hide tests, but in my games, the encounter deck was hardly ever able to put an unwanted hide test on player 2, just because there are so many ways to prevent that (e.g. Re-arranging cards, Lampwright, optionally engaging a nazgul because you know Rode like a gale/Hunting for the ring is coming etc).
+
+ 
+
+As I said, accumulating quest points should be no problem if you use readying effects/Eowyn’s ability/attachments like Protector of Lorien to the max. Even in round 3, which is often critical because of a combined hide 2/hide 3 test, it should be possible to reserve enough will power to safely pass it.
+
+In the round with score 60, I remember there was no Galadhrim’s Greeting, but Useful knowledge twice (which reduced threat by 6 after re-arranging encounter cards so that I put a Nazgul on top) plus Elrond’s counsel, Renewed friendship and Gandalf.
+
+ 
+
+If I find the time, I will post the result of the 2 rounds I am going to play later today.
+
+## 25 [Figo3434 on December 19, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=934363)
+
+Those are the two games I played last night with the decks.
+
+Opening draw first player: Galadhrim’s greeting, Errand Rider, Riddermark’s finest, Celebrian’s stone. Mulligan: Elrond’s counsel x2, Cram, Gandalf, Steed of the mark.
+
+ 
+
+Last player: Fast Hitch, Strider’s path, Scroll of Isildur, Useful knowledge, Gildor’s counsel
+
+ 
+
+Round 1: (threat 22/20) First player (res Eow 1/ Glorf 1/ Sam 1/Frodo 1) draws Renewed friendship, Riddermark’s finest. Glorf 1r to put Steed of the mark on Eowyn. Last player draws Scroll of Isildur.
+
+Questing: Last player (res Pipp 1/ Bilbo 1/ Mirl 1) pays 3r for Gildor’s counsel. First player: Eowyn 1r to ready. Quest points = 11 (Eowyn, Sam, Frodo, Pippin)
+
+Staging: 1. Hunting for the ring (exhaust ring + 1r Frodo), new: 1. Pathless country. 11:6, active location clear (1VP), Bag End’s response: First player draws Rear guard, Light of Valinor; Last player draws Master of the forge, Mithrandir’s advice.
+
+Quest advance: Add black rider to staging area, hide 2 test: Eowyn, Glorfindel vs. Stock road, Woody end.
+
+Travel: Pathless country
+
+ 
+
+Round 2: (threat 23/21) First player (1/1/1/1) draws Isildur’s scroll, Gandalf. Pippin 1r to play Mithrandir’s advice (Short cut, Risk some light, Gandalf), Bilbo 1r to put Fast hitch on Sam (Renewed friendship: threat first player = 19), Risk some light (re-arrange: 1. Stock-brook, 2. Have you seen Baggins, Hunting for the ring=put under deck). Last player (1/1/2) draws Sneak attack, Glorfindel 1r to put Light of Valinor on him.
+
+Questing: Sam 1r to sneak Gandalf (card draw Rearguard, Riddermark’s finest, Stewart of Gondor) Quest points = 21 (Everybody, Sam readied)
+
+Staging: 1. Stock-brook (switching with Pathless country), 2. Have you seen Baggins (put on Bilbo), 3. Green Hill country. Discard Rearguard, Gandalf to give Eowyn +2.  23:12, active location clear (1VP), 6 progress on quest card.
+
+Travel: Green Hill country (mistake; should have travelled to Pathless country)
+
+ 
+
+Round 3: (threat 24/20). First player (2/1/2/2) draws Steed of the mark, Dwarven tomb. Second player (1/1/2) draws Daeron’s runes (card draw Frodo’s intuition, Asfaloth, discard Isildur’s scroll). First player: Sam 2r to put Steward on Pippin (+2r), Eowyn 1r/Glorf 1r for Riddermark’s finest. Second player Mirlonde 2r to put Isildur’s scroll on Pippin twice, discard first copy to pull Risk some light from discard pile (re-arrange: 1. Pathless country, 2. Black steed, Black rider=put under deck), Useful knowledge lowers last player’s threat by 1 (=19).
+
+Questing: Discard second copy of Isildur’s scroll to pull Gildor’s counsel (Pippin 3r). Quest points = 17 (all except Riddermark’s finest), Elrond’s counsel twice to reduce threat of first player to 18 and Eowyn+2, discard Steed of the mark and Master of the forge for Eowyn+2)
+
+Staging: 1. Pathless country (fixing mistake now: Bilbo 1r to play Strider’s path and switch locations), exhaust and discard Riddermark’s finest to put 2 progress on active location. 21:12, active location clear.
+
+Quest advance: Add black rider to staging area, hide 2 test: Glorfindel, Sam vs. The Marish, Black steed. Response quest card 3b: clear Green Hill country.
+
+Travel: Pathless country
+
+ 
+
+Round 4: (threat 19/20). First player (3/1/1/3) draws Strider’s path, Fast hitch. Bilbo 1r to put Fast hitch on Pippin, Frodo 2r and Pippin 3r to play Gandalf. Last player (2/1/1) draws Faramir, puts Cram on Mirlonde, Glorf 1r and Eowyn 1r to play Riddermark’s finest.
+
+Questing: quest points = 20 (all except Bilbo and Riddermark’s finest, ready Sam, Pippin and Mirlonde (discard Cram)
+
+Staging: 1. Evil crow, 2. Greenhill country (Mirlonde 1r + exhaust Bilbo to play short cut; new card = another Evil crow). Discard Faramir, Strider’s path to give Eowyn +2. 22:19, active location clear.
+Travel: Bucklebury Ferry (hide 3: Pippin, Mirlonde, Gandalf vs. Crawling towards him, Lure of the ring, Piercing cry)
+
+Optional engagement: first player engages Black rider (Pippin response = card draw: Lorien’s wealth), discards Mr. Underhill (1VP) to prevent attack. Last player engages Evil crow (Sam response = ready, +1), Sam defends, shadow card = Crawling towards him (return to staging area).
+
+ 
+
+End of round: Discard shadow card Black rider (Gildor Inglorian), discard Gandalf
+
+ 
+
+Round 5: (threat 20/21). First player (2/1/2/2) draws Light of Valinor, Celebrian’s stone, Glorf 1r to play Dwarven tomb/pull Elrond’s counsel (first player threat = 17, Eowyn +1), Eowyn 2r + Sam 2r + Frodo 1r to play Gandalf (first player threat reduced by 5=12). Last player (3/1/2) draws A good meal (put on Bilbo, discarded for Wealth of Lorien (card draw: Asfaloth, Risk some light, Useful knowledge), Pippin 3r to play Risk some light (Re-arrange: 1. Green Hill country, 2. Black rider, 3. Hunting for the ring), Mirlonde 2r to play Useful knowledge (last player threat = 20)
+
+Questing: quest points = 23 (all, ready Sam and Pippin, discard Light of Valinor and Asfaloth for Eowyn +2)
+
+Staging: 1. Green Hill country, 2. Black rider (hide 2: Glorfindel, Sam vs. Hunting for the ring, Bamfurlong. Response quest card 3b: clear Green Hill country. 25:16, active location clear.
+
+ 
+
+Score 32+40-3=69.
+
+ 
+
+ 
+
+Opening draw first player: Galadhrim’s greeting, Steed of the mark, Sneak attack, Test of will, Minas Tirith Lampwright
+
+Last player: Elf stone, Asfaloth, A good meal, Strider’s path, Useful knowledge. Mulligan: Scroll of Isildur, Useful knowledge, Gandalf, Risk some light x2
+
+ 
+
+Round 1: (threat 22/20) First player (res Eow 1/ Glorf 1/ Sam 1/Frodo 1) draws Light of Valinor, Renewed Elrond’s counsel. Glorf 1r to put Light of Valinor on him. Eowyn 1r to play Minas Tirith Lampwright. Last player draws Mithrandir’s advice. Pippin 1r to play Mithrandir’s advice: draw Gildor’s counsel, Fast hitch, Risk some light. Play risk some light (Re-arrange: 1. Green Hill country, 2. Black steed, 3. The Marish. Bilbo 1r to put Fast hitch on Sam. Play useful knowledge to reduce last player’s threat to 19.
+
+Questing: Quest points = 10 (Glorfindel, Sam, Pippin, Mirlonde)
+
+Staging: 1. Green Hill country, 2. Black Steed (attached to Black rider), Discard Lampwright to name “location”, 3. The Marish (discarded). 10:6, active location clear (1VP), Bag End’s response: First player draws Snowborn scout, Galadhrim’s greeting; last player draws Mithrandir’s advice, Daeron’s runes.
+
+Quest advance: Add black rider to staging area, hide 2 test: Eowyn, Glorfindel, Sam vs. Piercing cry, The marish.
+
+Travel: Green Hill country
+
+ 
+
+Round 2: (threat 23/20) First player (1/1/2/2) draws A good meal, Useful knowledge. Play Daeron’s runes (draw A good meal, Master of the forge (=discarded). Play Risk some light (re-arrange: 1. Pathless country, 2. Lure of the ring, The ring draws them=put under deck. Put A good meal on Pippin, 2r Mirlonde + 1r Bilbo + 2r Frodo to play Gandalf. Play useful knowledge to reduce first player’s threat to 19. Last player (1/1/2) draws Snowborn scout.
+
+Questing: Discard A good meal to play Gildor’s counsel (1r Pippin). Quest points = 21 (all, Sam readied).
+
+Staging: 1. Pathless country. Discard Sneak attack to give Eowyn +1.  22:10, active location clear, 9 progress on quest card.
+
+Travel: Pathless country
+
+Optional engagement: First player engages Black rider without Black Steed (Pippin response: draw Gandalf). Discard Mr. Underhill (1VP) to prevent attack.
+
+Combat: Shadow card dealt. Play Risk some Light (Re-arrange: 1. Bamfurlong, 2. Greenhill country, 3. Pathless country.
+
+End of round: Discard shadow card (Lure of the ring)
+
+ 
+
+Round 3: (threat 24/22) First player (2/2/3/1) draws Riddermark’s finest, Sneak attack. Glorfindel 2r to play Riddermark’s finest. Sam 2r to play 2 Snowborn scout (2 progress on active location). Last player (1/1/1) draws Mithrandir’s advice. Pippin 1r to play Mithrandir’s advice (draw Daeron’s runes, Henamarth Riversong, Frodo’s intuition). Play Daeron’s runes (draw Gildor’s counsel, Frodo’s intuition (=discarded). Bilbo 1r to put Scroll of Isildur and A good meal on him.
+
+Questing: Discard A good meal and Isildur’s scroll to pull Gildor’s counsel (Mirlonde 1r). Quest points = 12 (Glorfindel, Pippin, Bilbo, Mirlonde, Gandalf).
+
+Staging: 1. Bamfurlong (exhaust and discard Riddermark’s finest to clear (1 VP). 12:4, active location clear, stage 2 clear.
+
+Quest advance: Add black rider to staging area, hide 2 test: Sam , Glorfindel, Sam vs. Lure of the ring, Hunting for the ring. Sam readied.
+
+Travel: Bucklebury Ferry (hide 3: Eowyn, Sam, Frodo vs. Evil crow, Crawling towards him, Stock-brook.
+
+Combat: Black rider vs. Gandalf. Shadow card= Pathless country (Gandalf 1 dmg, engage next player, Black rider vs. Snowborn scout. Shadow card=Evil crow (Snowborn scout is killed)
+
+End of round: Discard Gandalf.
+
+ 
+
+Round 4: (threat 25/23) First player (1/1/1/2) draws Lorien’s wealth, Strider’s path. Last player (3/1/2) draws Stewart of Gondor, plays Galadhrim’s greeting (Eowyn 3r) and Elrond’s counsel to reduce threat to 22/17 (Eowyn +1 quest point). Play Risk some light (Re-arrange: 1. Gildor, 2. Pathless country, 3. Hunting for the ring).
+
+Frodo 2r to play Frodo’s intuition (draw Short cut, Daeron’s runes, Elf stone). Play Daeron’s runes (draw Strider’s path, Lorien’s wealth (discard Gandalf). Pippin 1r + Bilbo 1r + Mirlonde 1r to play Lorien’s wealth: Last player draws Renewed friendship, Rear guard, Steed of the mark.
+
+Sam 2r to put Steward of Gondor on Eowyn (+2r). Eowyn 2r + Glorfindel 1r to play Galadhrim’s greeting to reduce last player’s threat to 16.
+
+Questing: Quest points = 21 (all).
+
+Staging: 1. Gildor Inglorian, 2. Pathless country. 21:10, active location clear.
+
+ 
+
+Score 33+30-3=60.
+
+ 
+
+Please point out any rule mistakes that might have been made (so many things to bear in mind when playing this scenario).
+
+## 26 [leptokurt on December 20, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=935313)
+
+No rule mistakes, just a huge amount of luck regarding the cards you're drawing. Something must be wrong with my encounter deck, as I keep drawing multiple hide tests, cards with the doomed keyword etc. However, I managed to win two games in 4 turns out of 10, with a result of 70  and 77 points. Perhaps if I play a few dozen more games I might also get some lucky draws to pusgh my result down to 60.
+
+## 27 [Mndela on December 21, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=935501)
+
+My higscore in Morgul Vale (2 players): 87
+
+ 
+
+:) [//content.invisioncic.com/Mfantflight/emoticons/default_smile.png]
+
+ 
+
+And one of my hero was Mirlonde.
+
+ 
+
+Only 3 rounds (first round not engage Murzah, second round kill Murzah, and third round kill Alcaron -Legolas + Black arrow + Hands Upon a Bow- and Nazgul -Bow Ranger + Ally Ranger + Infighting + damage by tactics cards: Spearman, Goblin Cleaver and normal attack-)
+
+ 
+
+Sorry, this is not the post, but i'm happy. I have just won.
+
+ 
+
+ 
+
+me (Mirlonde · Elrond · Denethor): 34 threat + 0 damage
+
+friend (Legolas · Bard · Thalin): 34 + 0
+
+20 points by 3 rounds
+
+1 victory (black arrow).
+
+Total score: 87 points :ph34r: [//content.invisioncic.com/Mfantflight/emoticons/default_ph34r.png]
+
+ 
+
+ 
+
+PD: woooohoooo
+
+Edited December 20, 2013 by Mndela
+
+## 28 [Raven1015 on December 21, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=936030)
+
+Not to derail the topic too much, but the problem with dismissing two-handed play is that, from a competitive perspective, one could argue that a solo player has the edge if they can see all cards available and plan accordingly while a multiplayer player cannot (and essentially has a built-in disability from the ill-defined table talk rules). This is especially true because having more players by itself does not give an advantage, especially for some scenarios, where it actually makes it more challenging.
+
+ 
+
+Personally, I enjoy two-handed play not because it makes things easier but because it opens up more creative deck building options and combo possibilities. Then again, I don't really care about score at all, so that's a whole separate issue.
+
+## 29 [Nerdmeister on December 21, 2013](https://community.fantasyflightgames.com/topic/94971-whats-your-best-score-for-br-shadow-of-the-past-so-far/?do=findComment&comment=936107)
+
+> from a competitive perspective, one could argue that a solo player has the edge if they can see all cards available and plan accordingly while a multiplayer player cannot
+
+Which is why that when you play competetively, you opposite a team the same size as your own. Solo only compares to other solo players.
+
+ 
+
+> Then again, I don't really care about score at all, so that's a whole separate issue.
+
+My comments are also more directed towards the point of view that playing two-handed compares directly with a regular 2-player game. Which it does not.
+

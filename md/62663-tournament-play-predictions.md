@@ -1,0 +1,274 @@
+# [Tournament Play Predictions?](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/)
+
+## 1 [RGun on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613226)
+
+The general consensus from comments made by people in various other threads seems to be that there will not be organized play for this LCG and I tend to agree given it has been a year now and nothing formal announced by FFG, as well as complexity in administering tournament play and enforcing rules for a cooperative game where there is no direct competitor to enforce the rules.  That being said, if there ever were tournament play for this I'm curious how it might be organized - this is the first CCG/LCG I've played so I'm not at all familiar with how other tournaments are run.  Below are some questions I have:
+
+1. How would rules be enforced?
+
+I think the only practical way to do this would be to pair up teams and have them compete head-to-head with the winner advancing to the next round.  One team would watch the other team play to enforce the rules and then they would switch.  Each team plays a certain number of games and the team with the lowest score advances.  The down side of this is that 50% of your time would be spent watching other people play, although I guess if you were competing head-to- head against them it would be somewhat interesting to watch them play as they try to beat your score.
+
+2. Would teams play against the same scenario the whole tournament or would there be multiple scenarios? 
+
+If multiple scenarios, assuming it ran as described above would a team play different scenarios against the same opponent in the same round or would the scenarios change from round to round?
+
+3. Would you have to construct your deck at the beginning of the tournament and not alter it during the tournament or would you be allowed to change it during the tournament?
+
+If it ran as I described in point 1 above I think you'd need to at least not alter it during the round otherwise you could see how your opponent constructed their deck(s) and copy their deck construction strategy.
+
+4. Would you be able to know the scenario to play against prior to constructing your deck or would you have to construct your deck blind?
+
+This would be interesting both ways as there is a certain strategy with both approaches, although I think more luck constructing blind unless you had to play against multiple different scenarios.
+
+5. Would you enter as a team or as an individual and then be paired up with random team mates?
+
+I think you would probably enter as a team, with people entering as individuals being able to form a team with other individuals that entered.
+
+6. How would "best" score be determined? 
+
+Single lowest score after x number of attempts? 
+
+Some formula similar to the one juicebox is using for his online living tournaments? 
+
+Best x out of y where teams play head to head a set number of games with the lowest score in each individual round getting the win and first team to 3 wins advances to next round?
+
+Some other method?
+
+7. Any other interesting parameters to consider?
+
+ 
+
+ 
+
+## 2 [Cotillion37 on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613242)
+
+1. How would rules be enforced?
+
+Depending on how many teams there are, I think they would have it either the way you described it (though that gives your opponent an unfair advantage at seeing how you play it), or have it like this: Match 1 is team 1a vs 1b. Have them play simultaneously while the teams from Match 2 (2a and 2b), watched over each team to enforce the rules. This way neither team gets the advantage of seeing how their opponent plays. Then for Match 2, the two teams from the first Match would be the refs.
+
+ 
+
+2. Would teams play against the same scenario the whole tournament or would there be multiple scenarios?
+
+I would like to see multiple scenarios. Maybe make each team play 3 scenarios per round, for example: Passage Through Mirkwood, Journey Down the Anduin and Dol Guldur in round 1, Hunt for Gollum, Conflict at the Carrock and Journey to Rhosgobel round 2, etc etc.
+
+ 
+
+ 
+
+3. Would you have to construct your deck at the beginning of the tournament and not alter it during the tournament or would you have to construct your deck blind?
+
+Having no experience playing in tournaments, I'm not entirely sure what the rules on deck construction are. Depending on the format of the tournament, I could see decks being constructed at the beginning of the tournament with no alterations allowed, or teams have to construct decks blind. Both ways would mean that teams have to construct balanced decks in order to take on quest heavy scenarios as well as engagement heavy scenarios.
+
+ 
+
+4. Would you be able to know the scenario to play against prior to constructing your deck or would you have to construct your deck blind?
+
+Again, it depends on the format of the tournament.
+
+ 
+
+5. Would you enter as a team or an individual and then be paired up with random team mates?
+
+I agree with you here. People can either enter as a team, or join a Free Agents pool or something where they get paired up with another player.
+
+ 
+
+6. How would 'best' score be determined?
+
+The formula that juicebox uses is awesome. The winning team would be the one with the lowest score using that formula.
+
+ 
+
+7. Any other interesting parameters to consider?
+
+Possibly pre-set encounter decks? I'm not entirely for pre-set encounter decks, but it would be interesting to see how each team deals with the exact same order of encounter cards (and I realize something like Eastern Crows would screw something like that up, but that could be factored in to the encounter deck construction by putting that crows near the middle of the encounter deck).
+
+## 3 [RGun on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613249)
+
+Cotillion37 said:
+
+1. How would rules be enforced?
+
+Depending on how many teams there are, I think they would have it either the way you described it (though that gives your opponent an unfair advantage at seeing how you play it), or have it like this: Match 1 is team 1a vs 1b. Have them play simultaneously while the teams from Match 2 (2a and 2b), watched over each team to enforce the rules. This way neither team gets the advantage of seeing how their opponent plays. Then for Match 2, the two teams from the first Match would be the refs.
+
+
+
+I see your point regarding the 2nd team getting advantage from seeing how the first team played the scenario but the advantage of doing it this way is that if the team "enforcing the rules" misses something than it only impacts them as they are the ones competing against the team they are monitoring.  In the other approach judging "misses" don't directly impact the judging team but affect another team unfairly.  Assuming the encounter deck isn't pre-set than the difference in the sequence of cards helps address the "learning from watching" issue somewhat, although not entirely.
+
+ 
+
+Cotillion37 said:
+
+7. Any other interesting parameters to consider?
+
+Possibly pre-set encounter decks? I'm not entirely for pre-set encounter decks, but it would be interesting to see how each team deals with the exact same order of encounter cards (and I realize something like Eastern Crows would screw something like that up, but that could be factored in to the encounter deck construction by putting that crows near the middle of the encounter deck).
+
+
+
+This would be interesting (similar idea to duplicate bridge) but I think challenging and time consuming to administer and to your point would not work as there are so many cards that cause the deck to be shuffled (player card effects as well as encounter card effects).
+
+## 4 [Cotillion37 on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613251)
+
+RGun said:
+
+ 
+
+I see your point regarding the 2nd team getting advantage from seeing how the first team played the scenario but the advantage of doing it this way is that if the team "enforcing the rules" misses something than it only impacts them as they are the ones competing against the team they are monitoring.  In the other approach judging "misses" don't directly impact the judging team but affect another team unfairly.  Assuming the encounter deck isn't pre-set than the difference in the sequence of cards helps address the "learning from watching" issue somewhat, although not entirely.
+
+Good point. It's tough to say how the rules would be enforced considering it is a co-op game, but it does make more sense to have the opponent enforce the rules.
+
+## 5 [Glaurung on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613268)
+
+I really wait for the tournaments system all year long but still.... it didn happen.......
+
+Burt for what them they invent 10 points per round system then??? Maybe they still develop the system???
+
+I thought about torney system  and come to conclusion is quite difficult to make good solid system for this game .
+
+There is many factors and tourny system can be too complicated. They should to avoid all this complications so maybe is delay now cose they try to solve it out.
+
+Will see, will see but i start to lose my hope.......
+
+ 
+
+## 6 [Budgernaut on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613486)
+
+1. How would rules be enforced?
+
+I don't really see a need for head-to-head in this tournament setup. I envision that each team gets 3 or 4 tries at the scenario, but gets a different team as their judges each time.
+
+2. Would teams play against the same scenario the whole tournament or would there be multiple scenarios? 
+
+I think it would have to be the same, single scenario. Adding another scenario would make the tournament way too long.
+
+3. Would you have to construct your deck at the beginning of the tournament and not alter it during the tournament or would you be allowed to change it during the tournament?
+
+I would say that you can alter your deck between games, but you cannot choose different heroes. This makes hero choice very important. It also limits the amount of strategy-theft because not all strategies will work with every hero combination.
+
+4. Would you be able to know the scenario to play against prior to constructing your deck or would you have to construct your deck blind?
+
+I think you would need to have a brand new deck for the tournament, like Massing at Osgiliath. Teams would show up, register, and have 30 minutes look through the encounter deck, choose their heroes, and construct their decks.
+
+5. Would you enter as a team or as an individual and then be paired up with random team mates?
+
+I think you'd enter as a team. Nobody wants to show up to a tournament with their friends and be split up. This game is unique in being completely cooperative and I would want to see that extended to the tournaments by letting you play with your friends.
+
+6. How would "best" score be determined? 
+
+I imagine something akin to what Juicebox is using for his tournaments to consider win ratio and score.
+
+7. Any other interesting parameters to consider?
+
+ One trouble with tournaments is all the permutations that must be considered. As you mentioned, how many games? How many scenarios? How many players? Is it open to 1, 2, 3, and 4 players or just 2?
+
+Another big issue is the scoring problem. If you don't consider win ratio, you promote rabbit decks. If you don't consider time (rounds), you promote stalling decks. But if you combine both, you are promoting a new kind of deck that is neither a staller, nor a rabbit. Should a tournament welcome different scoring systems to see different types of decks entered? I think that's a little too much. But if all tournaments focus on the same scoring system, will we see certain strategies fall to the wayside? When that happens, will the new cards start favoring tournament play?
+
+## 7 [SiCK_Boy on April 4, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613680)
+
+I have quite a bit of experience in tournaments for Magic: the Gathering (was a Level 2 Judge for a few years).
+
+When thinking about a tournament system, we must stray from our current paradygm which I believe is heavily influenced by the numerous "online" tournaments we've seen (which are more of a gentlemanly competition than tournaments in the pure sense of the word).
+
+The main issue about a tournament is always the duration. Figuring out the duration will probably help answer questions like how many quests and such. Most games run in a number of rounds, usualy lasting no longer than 50 to 75 minutes. Depending on the turnout, a medium/large tournament will still last a full 12 hours (including lunch breaks and such), so something like 5 to 9 rounds (including the finals).
+
+For those who did play in Juicebox's living tournaments, you know that playing 3 games against a single scenario can take a while. Closer to 2 hours than 1, really. And it gets longer with more players since you need to factor in multiple decisions and possibilities. I'm not sure we want our rounds to last that long. For that reason, I don't see the RGun formula being used in a tournament, nor do I see teams "watching" each other play for rules enforcement while not playing (you don't want tournament players to sit there not doing anything). I'm not sure we want a severe time constraint added to the game, so you probably want to give any team at least 40 minutes to play a scenario. Also, the fact that we don't have any way of measuring partial success in case of time out (AGoT compares cumulated power versus the needed total to win, but such a formula doesn't work for LotR) means that a time out automaticaly becomes a failure...
+
+As for rules enforcement, I think one solution would be to force 3 player teams. Each team plays with 2 decks and the 3rd player could then act as a "referee", watching the opponent in simultaneous matches. It's not perfect, but if you allow the players to switch decks and roles each round, it could work. The important thing with this is to ensure all teams are playing at all time so as not to delay your tournament.
+
+As for scenarios, a previous poster wrote about different tournament formats. I think that's the solution. You could have pre-determined scenarios, repetition of a given scenario, randomly drawn scenario just at the beginning (so nobody knows in advance and has an unfair advantage), etc.
+
+For deckbuilding, most games use a fixed deck (with decklist to prevent cheating). In a non-fixed scenarios tournament, maybe allowing some type of sideboard (a few cards you can switch in and out of your deck) would be an option: players could pack Lore of Imladris in case they face Journey to Rhosgopel, for example.
+
+The idea of having brand new scenarios for each tournament is farfetched. This could happen for a FFG event (such as a World Championship), but a local Tournament Organizer probably can't come up with something like that. Although I don't see why TO could not use homemade scenarios, the risk is great that those won't have been playtested enough and will give rise to deceptive results and complaints.
+
+The scoring system is the other key component. How do you know who won? Most games, again, use a system where you just play against an opponent and a win gives you a set number of points. It doesn't matter if you win by a mile or an inch. This is the easiest system to do. Two teams compete against each other, playing a single game against the same scenario. The best "score" (as per the current FAQ rules) is the winner and he gets 3 points. A draw (or both team failing the scenario) gives 1 point to each team. The losing team gets nothing. You could always track the best "score" each round for bragging rights and/or additional prizes.
+
+Prizes. Here's the biggest question of them all! What should we be playing for? Cold hard cash? Extra copies of the Core Set? Store credits? What are your thoughts on the potential prizes? Do we want to see a huge FFG-sponsored tournament where the winner gets to create his own card, as with other games?
+
+Anyway, I do hope FFG come up with something soon. The changes they did to the FAQ did change the way I play the game as I do factor in score. If they didn't have a system in mind, why do such a change?
+
+## 8 [booored on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613716)
+
+i really do not think there will be a torny system for this game.. there is just to much going wrong.
+
+Sick's point about event duration is a MAJOR issue.
+
+I have been running a torny event on and off at a local gaming store / club for a while now and it is very problematic. Apart form having to enforce a custom rule sheet to cover the myriad of rule inconstancies and different player opinions... you need some way to enforce this.
+
+Unfortunately unlike a pvp game you can not reply on players to self check each other. We found that the larger the event and larger the price pool the more people would cheat. Just human nature when money is on the line. We tried judges at every table, but this made the event expensive and impractical, we tried 2 and 3 team groups were they all checked each other, though as the price pool went up... people would just let things slide when watching another game to get consessions during there own games. "Oh i forgot to add Theodreds resource, I'll just do that now" "sure go ahead" "Opps I meant to sneak in Gandalf during teh combat phase not the quest phase" "sure just say you did" ... the amount of times we caught people doign that was just insane. Added to this of course was that most people have no idea WHAT the rules are.. so we are slowly devising out own torny rules.. were everything is written out in iron clad wording and unable to be argued agaist... this of course adds a 3rd rule set to learn... with in itself is bad.
+
+The more money the more cheating. We tried a complicated system for swaping of the checking teams about.. and again this become such a chore of organisation that the entire event would grind to a halt. One game going over time would slow the entire event to a stand still.
+
+THE ONLY way for a LoTR event to run is to have a judge at every single table... and I do not think this is practical, unless people are willing to spend a large amount on entry fee and be ready to play in a hugely long event form dawn until dawn.
+
+On a side note.. non-tory events go very well, when there is a casual attitude and no scores recorded people played and had a good time.. we even do an event were everyone plays at once.. as in a game with like 10 players (largest was 20, we allow multi versions of heroes in those games, but you can not have 3 of one unless there is 2 of every other one) this is really fun but again a long event.
+
+I think the torny event is a myth... I just think it will either nvr happen, or it will be some half asses thing ffg do to "fill the need' but any experienced event player will see has being usles.
+
+## 9 [RGun on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613724)
+
+Good feedback from everyone and I do agree 2 major challenges are duration of play and rules enforcement. 
+
+Duration of Play and Rules Enforcement
+
+I like SiCK_Boy's idea of having two 3 player teams compete head-to-head using 2 decks with 1 player on each team enforcing that the rules are followed by the other team.  If you make it bracket syle tournament where the winning team from each head-to-head competition advances to the next round (like the NCAA basketball tournament) then you don't have the issue with judges letting rules slip or being lenient such as the examples boored cited.  Having the teams play the scenario at the same time addresses the duration issue and also the issue Cotillion brought up with respect to a team learning from another team's strategy.
+
+Scoring
+
+With respect to scoring or how to determine a winner in each round I would say either play a single scenario once and the team with the lowest score advances, or play best 2 out of 3 (i.e. don't use any formula to try to determine a weighted score, just have teams play each scenario 3 times and compare scores between first games, between second games and between third games.  So if team A scores 100, 140, and 155 and team B scores 180, 139, and 154 then team B wins as they lost the first game but won the last 2).  If both teams fail a game then perhaps the team who lasted more rounds wins that one, or team with more VPs, or less damage to heros, etc....  You could have the first few rounds be a single game with winner advancing and then later rounds be 2 out of 3 to manage the overall tournament length but eliminate the luck factor a little in later rounds.
+
+Deck Building and Scenarios
+
+I agree custom scenarios won't likely fly except maybe in a FFG sponsored world final so for other tournaments might be interesting to have them based on a cycle and then have players enter the tournament with a fixed deck and a small fixed amount of subs like SiCK_Boy suggested.  You know the cycle ahead of time and can build your deck around it, but then each round a random quest is selected so you don't know what specific quest you will get each round.  You can then make your subs based on the quest.  This would promote building a well balanced deck that can handle a variety of scenarios but still the ability to tweek it a bit for specific scenarios.
+
+ 
+
+ 
+
+## 10 [RGun on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613732)
+
+RGun said:
+
+Duration of Play and Rules Enforcement
+
+I like SiCK_Boy's idea of having two 3 player teams compete head-to-head using 2 decks with 1 player on each team enforcing that the rules are followed by the other team.  If you make it bracket syle tournament where the winning team from each head-to-head competition advances to the next round (like the NCAA basketball tournament) then you don't have the issue with judges letting rules slip or being lenient such as the examples boored cited.  Having the teams play the scenario at the same time addresses the duration issue and also the issue Cotillion brought up with respect to a team learning from another team's strategy.
+
+
+
+Thinking about this a bit more I see the problem with what I proposed above is that for teams that get eliminated early they would not get to play many games (e.g. teams could be out in the first round after 1 game).  So maybe what SiCK_Boy proposed is better (i.e. head-to-head competitions with winning team getting 3 points, 1 point for draws and 0 points for a loss.).  I think the key is that you get points for beating the other teams in head-to-head competition rather than using the actual scores from the games for overall tournament total scores.  This eliminates the issue of some teams getting an advantage if the person judging them misses things or as boored said both teams letting things slide as it benefited both of them to score well.  This way if the judge misses something it only penalizes his own team as they would lose the head-to-head and get no points.  Maybe you could play a certain number of rounds this way and then take the top 4 scoring teams and have a semi-finals and a final where in the semi-final the team 1 plays 2 out of 3 against team 4 and teams 2 and 3 play each other.
+
+## 11 [Budgernaut on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613755)
+
+ Well, since booored opened up the whole "we're-not-gonna-see-a-tournament-because.." topic, I'll throw in what's been on my mind. The recent announcement of Organized Play and the World Tournaments and such shows specific direction FFG is wanting to take. Now they said they were working on a tournament, but we haven't heard anything. If they were serious about a tournament, I think they would have tried to get it ready by the time they launched their Organized Play campaign. I mean, X-wing isn't even out yet and it's gonna be at the World Championships. Why not a game that's already a year old? Because it's probably not going to happen.
+
+Now somebody mentioned how brand new decks are impractical for tournaments and I just want to state that I agree with their assessment. I was envisioning those only for a World Championship setting.
+
+I think cheating is a big issue and it totally turns me off from wanting to participate in tournaments. When I play by myself, I'll do what booored mentioned where I'll say, "Oh, meant to do that earlier." But if I'm playing for one of Juicebox's tournaments, I'm much more strict with myself. It just bugs me that other people can't just play by the rules when we're comparing scores. It's like playing backyard baseball where the field is too small and you don't have enough players, but you play for fun. When it comes to a league, the rules have to be enforced and abided by.
+
+By the way (and I hope this doesn't take us too far off topic) is cheating pretty rampant in PvP tournaments? Is their usually a penalty for cheating?
+
+## 12 [jhaelen on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=613779)
+
+My guess is there won't ever be an official tournament because of Glaurung:
+
+Everybody at FFG realizes, he'll win every tournament, anyway, so why bother?
+
+## 13 [radiskull on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=614018)
+
+I've never encountered cheating at an event for any of FFG's games.  It's just not tolerated.  I have heard of it happening once or twice, and it was dealt with harshly.
+
+Now, Wizards, on the other hand...
+
+## 14 [Dwnhmcntryboy on April 5, 2012](https://community.fantasyflightgames.com/topic/62663-tournament-play-predictions/?do=findComment&comment=614089)
+
+ This subject Keeps coming up and it bugs the HELL out of me.
+
+I love competition. BUT I wind up being too over bearing and a rules lawyer. All around ******* and not very sportsmanly. So I shy away from true competition and am happy to play in a friendly environment. I was elated to find out there was no tourney for this game and honestly believe it is for the better.
+
+The guys I play with are just happy to beat a scenario and that is alright with me.
+
+There are also too many variables to figure in to run an event IMO. If you announce the Adventures ahead of time then everyone has even playing field to meta and then it comes down to just card draw. If you hide the scenario then people will almost certainly build a deck that cannot handle it and then the event has an unfair bias.
+
+Not to say I would not show up at a tourney but It is finally nice to have a game that I have a vested interest in that I don't have to be competitive for. For that reason I would vote "No" on a tourney environment..
+
